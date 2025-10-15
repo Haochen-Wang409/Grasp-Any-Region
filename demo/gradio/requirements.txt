@@ -1,0 +1,15 @@
+sentencepiece
+accelerate>=0.28.0
+pydantic>=2.10.1
+numpy>=1.23.5,<2.0.0
+pillow>=9.4.0
+gradio>=5.5.0
+requests
+httpx
+uvicorn
+fastapi
+protobuf
+opencv-python
+openai>=1.55.0
+spaces==0.30.4
+git+https://github.com/facebookresearch/segment-anything.git

@@ -144,7 +144,7 @@ Next, run the following script to train using 8 GPUS:
 
 **3. Convert to HuggingFace Format**
 
-`python3 projects/grasp_any_region/hf_models/convert_to_hf.py projects/grasp_any_region/configs/gar_1b.py --pth-model PATH_TO_PTH_MODEL --save-path PATH_TO_SAVE_FOLDER`
+```python3 projects/grasp_any_region/hf_models/convert_to_hf.py projects/grasp_any_region/configs/gar_1b.py --pth-model PATH_TO_PTH_MODEL --save-path PATH_TO_SAVE_FOLDER```
 
 Note that this script only convert the checkpoint and some `*.py` files requires manually copy to `${PATH_TO_SAVE_FOLDER}`.
 
@@ -176,4 +176,3 @@ We would like to thank the following projects for their contributions to this wo
 - [SAM](https://github.com/facebookresearch/segment-anything)
 - [DAM](https://github.com/NVlabs/describe-anything)
 - [Sa2VA](https://github.com/bytedance/Sa2VA)
-- [vLLM](https://github.com/vllm-project/vllm)

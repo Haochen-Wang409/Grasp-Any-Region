@@ -271,7 +271,7 @@ export AZURE_OPENAI_ENDPOINT=YOUR_AZURE_OPENAI_ENDPOINT
 export AZURE_OPENAI_KEY=YOUR_AZURE_OPENAI_KEY
 
 cd evaluation/MDVP-Bench
-bash eval.sh ${CACHE_NAME}
+bash eval.sh model_outputs/${CACHE_NAME}.json
 ```
 
 Reference model predictions are stored in ```model_outputs/```. Due to the randomness during LLM-Judge, the final performance may slighly differ even with the same predicitons (even with ```temperature=0```).

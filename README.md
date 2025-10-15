@@ -1,5 +1,22 @@
 # Grasp Any Region: Prompting MLLM to Understand the Dense World
 
+by
+[Haochen Wang](https://haochen-wang409.github.io), 
+Yuhao Wang, 
+[Tao Zhang](https://scholar.google.com/citations?user=3xu4a5oAAAAJ),
+[Yikang Zhou](https://scholar.google.com/citations?user=dZikW2YAAAAJ),
+[Yanwei Li](https://yanwei-li.com/),
+[Jiacong Wang](https://scholar.google.com/citations?user=rzYgLkgAAAAJ),
+[Ye Tian](https://scholar.google.com/citations?user=vUY_PIUAAAAJ),
+[Jiahao Meng](https://scholar.google.com/citations?user=NJfjvfIAAAAJ),
+[Zilong Huang](https://speedinghzl.github.io/),
+[Guangcan Mai](https://scholar.google.com/citations?user=739cUNMAAAAJ),
+[Anran Wang](https://sites.google.com/view/anranwang/home),
+[Yunhai Tong](https://scholar.google.com/citations?user=T4gqdPkAAAAJ),
+Zhuochen Wang,
+[Xiangtai Li](https://lxtgh.github.io/), and
+[Zhaoxiang Zhang](https://scholar.google.com/citations?user=qxWfV6cAAAAJ).
+
 [[Paper](https://arxiv.org/abs/TBD)] | [[HuggingFace Model](https://huggingface.co/ByteDance/GAR-8B)] | [[Datasets](https://huggingface.co/datasets/HaochenWang/Grasp-Any-Region-Dataset)] | [[Citation](#citation)]
 
 **TL; DR**: Our Grasp Any Region (GAR) supports both (1) describing a *single* region of an image or a video in the form of points/boxes/scribbles/masks in detail and (2) understanding *multiple* regions such as modeling interactions and performing complex reasoning. We also release a new benchmark, GARBench, to evaluate models on advanced region-level understanding tasks.

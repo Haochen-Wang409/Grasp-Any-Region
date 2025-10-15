@@ -1,0 +1,276 @@
+[
+    {
+        "image_name": "0301_0091_0037.jpg",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 1,
+        "dataset_name": "ocr_doc_detailed_caption_point",
+        "gt_answers": "<Mark 1>: The image within this region depicts a man walking to the right while dressed in a light-colored hat, a long-sleeve shirt, and dark pants. He appears to be in a thoughtful or solemn mood, based on his posture and the setting. The background reveals a grassy field under a blue sky with puffy white clouds. There are other individuals in the distance, some of whom appear to be gathered around a particular spot, suggesting an event may be taking place. In the foreground, garden tools are scattered on the ground, which could indicate maintenance work or a ceremonial function, considering the context suggested by the rest of the image.\n<Mark 2>: This region shows a caption that provides specific information about the scene depicted in the image. It mentions an individual by the name of Michael Williams and reveals that the casket shown is being carried toward his plot at Woodlawn Cemetery in a place named Westwego. The text specifies a date, May 18, 2020, and informs that the photograph was taken by someone named Kathleen Flynn. This caption serves to identify the solemn nature of the scene displayed - a funeral procession.\n<Mark 3>: This region features a byline, which attributes the photograph to Kathleen Flynn. Bylines are used to credit the photographer or creator of the image, indicating who has taken the photograph and sometimes when or where it was taken.",
+        "points": [
+            [
+                1083,
+                1444
+            ],
+            [
+                335,
+                319
+            ],
+            [
+                330,
+                492
+            ]
+        ]
+    },
+    {
+        "image_name": "0501_0003_0012.jpg",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 2,
+        "dataset_name": "ocr_doc_detailed_caption_point",
+        "gt_answers": "<Mark 1>: This region appears to display a page number, suggesting its location at the top-right corner of a document page, providing a reference point within a larger text, such as a book, report, or academic paper.\n<Mark 2>: This is the header of the document which includes the title \"VITLayout: Fusion of Visual and Text Features for DLA\". It appears at the top of the page, likely summarizing the subject or the main theme of the document, which seems to be about a layout analysis model that integrates visual and text features for Document Layout Analysis (DLA).\n<Mark 3>: Labeled as \"Table 5,\" this caption describes what is presumably a table below it. It indicates that the table contains ablation experimental results for a model called the VITLayout used in document layout analysis.\n<Mark 4>: The content shows a table with experimental results for the VITLayout model. The table includes columns for model variations and their corresponding F1 scores across different categories such as Text, Title, List, Figure, and Table Average. The table is used to show quantitative results to compare the performance of the model variations.\n<Mark 5>: This paragraph discusses the beneficial aspects of perceptual features in document layout analysis and notes improvements of the VITLayout model. It suggests that the VITLayout has been applied to various tasks. It also mentions that the model can accurately locate and classify text and table information from thousands of grant applications, demonstrating practical applications and suggesting an area for future attention.\n<Mark 6>: This paragraph provides an analysis and commentary on the performance of the VITLayout model. The author reflects on the state-of-the-art performance and identifies areas for improvement and future research avenues, such as optimizing multimodal fusion in DLA and creating an end-to-end, lighter DLA model.",
+        "points": [
+            [
+                954,
+                195
+            ],
+            [
+                669,
+                196
+            ],
+            [
+                615,
+                262
+            ],
+            [
+                615,
+                391
+            ],
+            [
+                617,
+                695
+            ],
+            [
+                617,
+                1067
+            ]
+        ]
+    },
+    {
+        "image_name": "8df649b02bb0b5be9ac6845591f756ca9a81457ab1d298178744047b179f7356.png",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 3,
+        "dataset_name": "ocr_doc_detailed_caption_point",
+        "gt_answers": "<Mark 1>: This is a page-header containing the title \"DERIVATIVES AND RISK MANAGEMENT.\" It likely serves as the heading for a section in a financial report that discusses how the company handles financial risks and derivative instruments.\n<Mark 2>: This section-header is labelling a subsection titled \"Hedging activities.\" It probably details specific strategies and financial instruments the company uses to hedge against various types of market risks.\n<Mark 3>: Another page-header reads \"6 SUBSEQUENT EVENTS.\" This indicates a new section focusing on events or transactions that occurred after the reporting period but before the publication of the report.\n<Mark 4>: This text paragraph contains information about hedging activities related to natural gas. It discusses the financial strategy known as \"two-way costless collars\" and \"three-way costless collars,\" including terms such as floor price, index price, cap price, and sold put options. This paragraph generally addresses how the company mitigates risks from fluctuating natural gas prices.\n<Mark 5>: This textual area explains the company's use of basis swaps and call options to manage exposure to gas price movements. It outlines the conditions under which the company would receive or pay amounts based on the specified terms of a contract tied to gas prices and price differentials. It provides insights into the financial derivatives and risk management strategies the company employs.\n<Mark 6>: The page-footer, with the numeric identifier '6', indicates this is the sixth page of the document. Page footers usually contain information such as page numbers to help the reader navigate the document.\n<Mark 7>: This area of the document is a table with various columns and rows, which likely details information about the financial instruments discussed in the text, such as hedging contracts. Specifics like contract dates, notional amounts, and related financial terms would typically be included in such a table to illustrate the company's hedging activities quantitatively.",
+        "points": [
+            [
+                157,
+                17
+            ],
+            [
+                262,
+                114
+            ],
+            [
+                198,
+                41
+            ],
+            [
+                511,
+                77
+            ],
+            [
+                511,
+                168
+            ],
+            [
+                511,
+                719
+            ],
+            [
+                511,
+                458
+            ]
+        ]
+    },
+    {
+        "image_name": "0501_0099_0010.jpg",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 4,
+        "dataset_name": "ocr_doc_detailed_caption_point",
+        "gt_answers": "<Mark 1>: The marked region is a portion of a bibliography or reference list from an academic paper or similar document. This section includes citations of various research papers, articles, or works that are relevant to the subject being discussed in the main text. Citations in this list follow a standardized academic format, providing a concise account of the authors, publication year, title, publication venue, and in some cases, additional information such as volume, issue, page numbers, and digital identifiers like arXiv or DOI numbers. The listed works are related to computer vision, specifically to tasks involving visual question answering and deep learning techniques. They are referred to in the paper to acknowledge previous contributions, build upon existing research, or contrast with new findings. The inclusion of this detailed reference list serves to attribute intellectual property, enable readers to consult the original sources for more information, and demonstrate the research's context within the field.\n<Mark 2>: This section is also part of a bibliography or reference list from an academic document, detailing citations for various articles related to computer vision and pattern recognition. Similar to <Mark 1>, this list contains structured references that include the authors, year of publication, paper title, and where the work was published, among other details. The cited works here also focus on topics pertinent to computer science disciplines such as image recognition, text detection, and deep learning techniques. This reference list functions as an essential academic practice to credit sources, provide readers with resources for further exploration of the topic, and establish the study's position in the broader research landscape. It ensures that the authors\u2019 work is informed by and contributing to a continuous dialogue within the scientific community.",
+        "points": [
+            [
+                349,
+                761
+            ],
+            [
+                879,
+                760
+            ]
+        ]
+    },
+    {
+        "image_name": "82a75b3f20541bc86d47c069975a58ab1b7334d46f68cfa0c4538a5d22e30ada.png",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 5,
+        "dataset_name": "ocr_doc_detailed_caption_point",
+        "gt_answers": "<Mark 1>: This region appears to be the header of a document. It is a blue horizontal bar with the text \"PART III\" on the left side, written in uppercase white letters. The header indicates that this section is the third part of a larger document, suggesting that what follows is a continuation or subdivision of the document's content.\n<Mark 2>: This region displays a table with two columns. The left column is labeled \"NAME OF ENTITY\" and the right column is labeled \"JURISDICTION OF INCORPORATION.\" The table lists several entities along with the respective jurisdictions of incorporation. Examples of entities mentioned include various corporations with names such as \"Chunghwa Precision Test Tech. USA Corporation\" and \"Senao Trading (Fujian) Co., Ltd.\" The jurisdictions listed span several countries, including the United States of America, Vietnam, the People's Republic of China, and Taiwan (referred to as \"Taiwan, R.O.C.\" in the table). This table serves to provide information about the legal incorporation status of different entities under a specific jurisdiction.",
+        "points": [
+            [
+                28,
+                656
+            ],
+            [
+                511,
+                224
+            ]
+        ]
+    },
+    {
+        "image_name": "3547fd5c6bce6d3846cf8bddbb7da8cefd8c31cdab156a1a3b6229265b669f22.png",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 6,
+        "dataset_name": "ocr_doc_detailed_caption_point",
+        "gt_answers": "<Mark 1>: This region includes the header of the page, which typically contains the title or main subject of the document. In this case, it signifies that the document is the 2004 Annual Report for a corporation named Amphenol.\n<Mark 2>: This region is titled \"Signatures\" and serves as a section header, indicating that the following content pertains to the signing of the document by authorized individuals.\n<Mark 3>: Here, the text explains that, in compliance with the Securities Exchange Act of 1934, the report must be signed by authorized persons. It mentions that the signatories are legally designated representatives of the corporation, acting on March 11, 2005.\n<Mark 4>: The text in this region contains the name and titles of an individual - Chairman, Chief Executive Officer, and President - implying that this person is a principal executive of the company.\n<Mark 5>: This region presents the company's logo, which likely serves to authenticate the document officially and visually represents the corporation.\n<Mark 6>: This region continues the text from <Mark 3>, elaborating on the requirement for the signatories to endorse the report as of the date indicated below, further reinforcing the formal nature of the document.\n<Mark 7>: This region shows a table with three columns: Signature, Title, and Date. The table lists the names, titles, and signature dates (all on March 11, 2005) of various key executives and directors, demonstrating their formal acknowledgment and approval of the document's contents.\n<Mark 8>: The page footer typically contains additional information about the document, such as page numbers or legal disclaimers. However, in this image, this section is not clearly visible, so its specific content can't be described.",
+        "points": [
+            [
+                514,
+                54
+            ],
+            [
+                117,
+                92
+            ],
+            [
+                514,
+                137
+            ],
+            [
+                717,
+                264
+            ],
+            [
+                722,
+                185
+            ],
+            [
+                514,
+                333
+            ],
+            [
+                511,
+                583
+            ],
+            [
+                937,
+                969
+            ]
+        ]
+    },
+    {
+        "image_name": "4268de66f307483c8fa9ad3cbc28e9946a2f7bedd601a792b7069bb786e9dddf.png",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 7,
+        "dataset_name": "ocr_doc_detailed_caption_point",
+        "gt_answers": "<Mark 1>: This region contains text discussing the process by which vehicles that do not detect landmarks originally found by other vehicles contribute additional information. Specifically, it describes how these vehicles, if unable to confirm the presence of a detected landmark, provide backend servers with information such as time, perspective, sensors used, and weather conditions to improve the landmark database. The process is said to be conducted under privacy considerations to ensure data anonymization.\n<Mark 2>: The text in this region elaborates on the statistical evaluation of confirmations and denials regarding landmarks. It touches on the false-positive and false-negative scenarios associated with landmark detection and emphasizes the need for aggregation and statistical validation of information by backend servers. Additionally, it mentions the importance of integrating context information, such as geographical adjustments and weather data, in enhancing the system's detection capabilities.\n<Mark 3>: This section outlines how particular sensory-related attributes, or 'environmental features,' are appended to the map as metadata, enabling vehicles to attribute specific characteristics to landmarks. This provision of additional details not only enriches the map's data but also prevents unnecessary communication of delete hypotheses to the backend server\u2014ultimately improving the efficiency of information sharing among vehicles considering the same landmarks in their navigation.\n<Mark 4>: The text describes a scenario where multiple vehicles fail to confirm a previously detected landmark. In such cases, a delete hypothesis is reinforced each time a vehicle fails to detect the landmark, leading to its removal from the map database. The text underscores the collaborative effort of vehicles in maintaining the accuracy and integrity of the map system by reporting changes in landmark presence.\n<Mark 5>: In this region, the text specifies the process following the strengthening of a delete hypothesis. When a landmark's deletion is validated, the map segment is updated, and an updated version is made available to the vehicles. This ensures that the vehicles have access to the most accurate navigation data, reflecting the current environment without the invalidated landmark.",
+        "points": [
+            [
+                511,
+                152
+            ],
+            [
+                505,
+                430
+            ],
+            [
+                508,
+                694
+            ],
+            [
+                495,
+                811
+            ],
+            [
+                493,
+                903
+            ]
+        ]
+    },
+    {
+        "image_name": "82e3e7f6b499e2160faf925d747c5690b543bd7f612ab393a971a0f868f4a34d.png",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 8,
+        "dataset_name": "ocr_doc_detailed_caption_point",
+        "gt_answers": "<Mark 1>: This area is classified as a page-footer. It typically contains information like the page number or document classification. However, the contents of this specific page-footer cannot be determined without further context or visible text.\n<Mark 2>: This region is categorized as a page-header, which is often placed at the top of a page to display titling, navigation, or pertinent information about the document's content. While the exact text is not discernible, page-headers typically include the document name, section title, or date.\n<Mark 3>: Specified as a section-header, this particular section-header seems to be titled \"Ten-year Financial Review\". Section-headers are used to introduce a forthcoming section, its subject matter, and its significance within the larger document.\n<Mark 4>: This marked region is denoted as a table, which is a structured arrangement of data organized in rows and columns. This table appears to relate to financial data, showing a multi-year comparison of various financial metrics such as operating revenue, net income, common share data, balance sheet data, and other data. This arrangement allows for easy comparison of values across different years, indicating trends and changes over time.",
+        "points": [
+            [
+                495,
+                956
+            ],
+            [
+                44,
+                510
+            ],
+            [
+                255,
+                59
+            ],
+            [
+                504,
+                455
+            ]
+        ]
+    },
+    {
+        "image_name": "7c48613c82de00d64b250e44cd668ce0410aa361a802d33c22c9d9ad5b987c47.png",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 9,
+        "dataset_name": "ocr_doc_detailed_caption_point",
+        "gt_answers": "<Mark 1>: This region specifies 'Patent Application Publication,' indicating that the content on the page is part of a document detailing a patent application that has been made publicly available. It helps users understand the nature of the document.\n<Mark 2>: This region lists a date, 'Apr. 8, 2010,' which refers to a publication or filing date associated with the patent application document. Dates are critical for understanding the timeline of patent applications and the status of the technology or invention described therein.\n<Mark 3>: The text contains a numerical and alphabetic code 'US 2010/0086500 A1.' This is a patent identification code, typically used to uniquely identify a particular patent application in the United States Patent and Trademark Office (USPTO) database.\n<Mark 4>: This region features the caption 'FIG. 2,' which indicates that the corresponding image or figure is labeled as Figure 2 in the document. Such captions provide a reference that allows readers to locate and discuss specific parts of the visual content within the patent application.\n<Mark 5>: This region presents a graph with two axes labeled 'Resolution' on the y-axis and 'Conc.(mM)' on the x-axis, which shows a curve with a mathematical equation and an R-squared value. It represents data, likely from experiments or simulations, that demonstrates how resolution varies with concentration in millimolar units. The equation and R-squared value suggest a logarithmic relationship and the goodness of fit of the data to the model, respectively. This type of image is common in patent applications to illustrate technical details or results related to the invention.",
+        "points": [
+            [
+                263,
+                78
+            ],
+            [
+                545,
+                78
+            ],
+            [
+                795,
+                79
+            ],
+            [
+                510,
+                257
+            ],
+            [
+                508,
+                625
+            ]
+        ]
+    },
+    {
+        "image_name": "3fd82f62ff8b481033f097756a45e340c79bcc3ba661ce6e6d1b775188121b69.png",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 10,
+        "dataset_name": "ocr_doc_detailed_caption_point",
+        "gt_answers": "<Mark 1>: This region is labeled as a \"page-header\" and features the title \"CONSOLIDATED BALANCE SHEETS\" in a bolded, uppercase font, which suggests that it heads a financial document summarizing a company's assets, liabilities, and stockholders' equity at a specific point in time. The title's format implies importance and distinguishes it from other sections of the document.\n<Mark 2>: This marked region, categorized as a \"table,\" presents detailed financial information typically found in a balance sheet. It is organized into two columns, displaying figures for two fiscal years denoted as 2003 and 2004. Assets are listed at the top part, showing various types of assets such as current assets and property, with numerical values next to each item indicating their reported values in dollar amounts. This table is essential for providing a clear and itemized account of the company's financial status for the two respective years.\n<Mark 3>: Marked as a \"section-header,\" this region represents the title of a section within the financial document, in this case, \"CONSOLIDATED BALANCE SHEETS.\" The stylized font and the use of dots to draw attention suggest that this header is for an important section of the document, likely introducing the subsequent detailed table of financial data.\n<Mark 4>: This region, identified as \"text,\" contains the concluding line of the financial table, summarizing the total liabilities and stockholders' equity. The text provides the final aggregated figures for both 2003 and 2004 in dollars, directly under the liabilities and equity section. This line is crucial as it ties together the document's purpose by showing the balance sheet's bottom line, ensuring the accounting equation is satisfied (total assets equal total liabilities plus stockholders' equity).",
+        "points": [
+            [
+                861,
+                28
+            ],
+            [
+                498,
+                504
+            ],
+            [
+                498,
+                106
+            ],
+            [
+                236,
+                834
+            ]
+        ]
+    }
+]

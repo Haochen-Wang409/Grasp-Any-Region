@@ -1,0 +1,512 @@
+[
+    {
+        "image_name": "35.png",
+        "question": "Please analyze the relationship between all marked regions in the image.",
+        "question_id": 1,
+        "dataset_name": "multipanel_Inter_Relationship_box",
+        "gt_answers": "<Region 1><Region 2><Region 3><Region 4>: The thematic flow between these regions seems to describe a concept for a child rights media award, signifying the importance of family protection and education in helping a child reach full potential which is encapsulated in <Region 4>. Each image (<Region 2> and <Region 3>) appears to be a supportive pillar for the child's development which is affirmed by the equation depicted across the panels.",
+        "bbox": [
+            [
+                329.153605015674,
+                71.48589341692791,
+                380.87774294670845,
+                152.03761755485894
+            ],
+            [
+                144.20062695924764,
+                314.43260188087777,
+                225.70532915360502,
+                249.21630094043886
+            ],
+            [
+                376.1755485893417,
+                297.19122257053294,
+                230.40752351097177,
+                266.4576802507837
+            ],
+            [
+                606.5830721003134,
+                297.19122257053294,
+                260.1880877742947,
+                283.69905956112854
+            ]
+        ]
+    },
+    {
+        "image_name": "1.png",
+        "question": "Please analyze the relationship between all marked regions in the image.",
+        "question_id": 2,
+        "dataset_name": "multipanel_Inter_Relationship_box",
+        "gt_answers": "<Region 1><Region 2><Region 3><Region 4><Region 5>: These regions represent various social and personal challenges people face, such as financial hardship, educational barriers, conflicts, mental health stressors, and the importance of physical well-being.\n<Region 6><Region 7><Region 8><Region 9><Region 10>: These panels depict issues related to time management, social expectations, work-life balance, the need for support systems, and the problem of domestic violence. Each tackles a different dimension of stressors affecting individuals in society.",
+        "bbox": [
+            [
+                61.644394110985246,
+                23.411098527746322,
+                169.4224235560589,
+                214.39637599094
+            ],
+            [
+                255.71007927519818,
+                22.17893544733862,
+                152.17214043035108,
+                228.56625141562856
+            ],
+            [
+                438.07021517553795,
+                21.56285390713477,
+                144.16308040770102,
+                229.79841449603626
+            ],
+            [
+                621.0464326160816,
+                24.64326160815402,
+                149.09173272933182,
+                231.6466591166478
+            ],
+            [
+                805.2548131370329,
+                24.027180067950173,
+                148.47565118912797,
+                229.1823329558324
+            ],
+            [
+                63.4926387315968,
+                320.3624009060023,
+                170.6545866364666,
+                199.61041902604757
+            ],
+            [
+                253.86183465458663,
+                319.1302378255946,
+                157.10079275198188,
+                200.22650056625142
+            ],
+            [
+                439.9184597961495,
+                317.8980747451869,
+                153.40430351075878,
+                204.53907134767837
+            ],
+            [
+                624.7429218573046,
+                315.4337485843715,
+                147.85956964892412,
+                206.38731596828993
+            ],
+            [
+                810.1834654586637,
+                319.1302378255946,
+                142.93091732729332,
+                203.30690826727067
+            ]
+        ]
+    },
+    {
+        "image_name": "36.png",
+        "question": "Please analyze the relationship between all marked regions in the image.",
+        "question_id": 3,
+        "dataset_name": "multipanel_Inter_Relationship_box",
+        "gt_answers": "<Region 1><Region 2>: Both regions depict themes of unity and collaborative spirit. The first shows a literal grouping of individuals, while the second shows a symbolic unity through the gesture of clasped hands. The combined images represent various aspects of a community or organization, focusing on people and their collective actions.\n<Region 1><Region 3>: Both of these regions highlight aspects of camaraderie and assistance, with <Region 1> showing what appears to be a diverse group of individuals coming together, and <Region 3> depicting the action of one person helping another to rise. These images complement each other by demonstrating the concept of support within a community or group.\n<Region 2><Region 3>: The themes of action and support link these regions. The clasped hands in <Region 2> and the act of assistance in <Region 3> both symbolize the ways in which individuals within an organization or community can actively contribute to the common good and help others.",
+        "bbox": [
+            [
+                35.10971786833856,
+                46.123824451410655,
+                230.72100313479623,
+                259.56112852664575
+            ],
+            [
+                265.8307210031348,
+                42.36206896551724,
+                265.8307210031348,
+                263.3228840125392
+            ],
+            [
+                531.6614420062696,
+                42.36206896551724,
+                225.70532915360502,
+                265.8307210031348
+            ]
+        ]
+    },
+    {
+        "image_name": "u=856418766,3773125614&fm=253&app=138&f=JPEG.png",
+        "question": "Please analyze the relationship between all marked regions in the image.",
+        "question_id": 4,
+        "dataset_name": "multipanel_Inter_Relationship_box",
+        "gt_answers": "<Region 1><Region 2><Region 3><Region 4><Region 5><Region 6><Region 7><Region 8><Region 9><Region 10>: Each marked region represents a key soft skill that is considered valuable for customer service jobs, as indicated by the overarching title \"Top 10 Soft Skills for Customer Service Jobs\". The icons and text are color-coded with distinct background colors to differentiate them. They share the common feature of visually articulating each soft skill with a simple, clear illustration and associated text. The spatial arrangement suggests a reading order from left to right and top to bottom, similar to how English text is read. This sequence may indicate a prioritization or categorization of skills.",
+        "bbox": [
+            [
+                0,
+                72.71736662883087,
+                153.95232690124857,
+                161.7071509648127
+            ],
+            [
+                153.95232690124857,
+                73.7343927355278,
+                120.00908059023836,
+                160.69012485811578
+            ],
+            [
+                273.96140749148697,
+                73.7343927355278,
+                129.16231555051078,
+                152.04540295119182
+            ],
+            [
+                407.19182746878545,
+                72.20885357548241,
+                123.06015891032916,
+                169.3348467650397
+            ],
+            [
+                529.2349602724177,
+                72.20885357548241,
+                140.34960272417706,
+                160.69012485811578
+            ],
+            [
+                5.466515323496027,
+                246.12031782065833,
+                142.8921679909194,
+                158.14755959137344
+            ],
+            [
+                148.35868331441543,
+                241.54370034052212,
+                124.58569807037458,
+                163.74120317820658
+            ],
+            [
+                272.94438138479,
+                241.54370034052212,
+                132.72190692395006,
+                150.5198637911464
+            ],
+            [
+                410.24290578887627,
+                245.1032917139614,
+                118.48354143019296,
+                165.77525539160044
+            ],
+            [
+                528.7264472190692,
+                245.1032917139614,
+                125.09421112372304,
+                158.6560726447219
+            ]
+        ]
+    },
+    {
+        "image_name": "40.png",
+        "question": "Please analyze the relationship between all marked regions in the image.",
+        "question_id": 5,
+        "dataset_name": "multipanel_Inter_Relationship_box",
+        "gt_answers": "<Region 1><Region 2><Region 3><Region 4><Region 5><Region 6>: All regions are part of an informational guide on professionalism in the workplace. <Region 1> focuses on punctuality, <Region 2> on appropriate language, <Region 3> on demeanor, <Region 4> on refraining from gossip, <Region 5> on a positive attitude, and <Region 6> on dressing correctly. They collectively convey different facets of professional behavior.\n<Region 7>: Serves as a title and encapsulates the theme presented in <Region 1>, <Region 2>, <Region 3>, <Region 4>, <Region 5>, and <Region 6>, as it broadly indicates that the image content is about professional conduct at work.",
+        "bbox": [
+            [
+                68.18181818181819,
+                126.17554858934167,
+                686.5203761755486,
+                253.91849529780563
+            ],
+            [
+                938.0877742946708,
+                159.09090909090907,
+                507.83699059561127,
+                272.72727272727275
+            ],
+            [
+                242.1630094043887,
+                431.8181818181818,
+                517.2413793103448,
+                221.0031347962382
+            ],
+            [
+                832.2884012539184,
+                398.9028213166144,
+                434.95297805642633,
+                235.1097178683385
+            ],
+            [
+                884.012539184953,
+                669.2789968652037,
+                550.1567398119122,
+                190.43887147335423
+            ],
+            [
+                94.04388714733543,
+                673.9811912225705,
+                658.307210031348,
+                213.9498432601881
+            ],
+            [
+                298.58934169278996,
+                57.993730407523486,
+                926.3322884012539,
+                72.88401253918495
+            ]
+        ]
+    },
+    {
+        "image_name": "33.png",
+        "question": "Please analyze the relationship between all marked regions in the image.",
+        "question_id": 6,
+        "dataset_name": "multipanel_Inter_Relationship_box",
+        "gt_answers": "<Region 1><Region 2><Region 3><Region 4><Region 5><Region 6>: Your Detailed Analysis",
+        "bbox": [
+            [
+                78.20689655172414,
+                126.06896551724137,
+                236.79310344827587,
+                325.86206896551727
+            ],
+            [
+                315,
+                141.27586206896552,
+                275.89655172413796,
+                310.65517241379314
+            ],
+            [
+                590.8965517241379,
+                141.27586206896552,
+                217.24137931034483,
+                319.3448275862069
+            ],
+            [
+                814.6551724137931,
+                136.9310344827586,
+                254.17241379310346,
+                317.1724137931035
+            ],
+            [
+                1071,
+                139.10344827586206,
+                249.82758620689657,
+                312.82758620689657
+            ],
+            [
+                393.2068965517242,
+                21.793103448275847,
+                599.5862068965517,
+                86.89655172413794
+            ]
+        ]
+    },
+    {
+        "image_name": "14.png",
+        "question": "Please analyze the relationship between all marked regions in the image.",
+        "question_id": 7,
+        "dataset_name": "multipanel_Inter_Relationship_box",
+        "gt_answers": "<Region 1><Region 2><Region 3><Region 4><Region 5><Region 6><Region 7><Region 8>: These illustrations reflect various forms of exploitation and human rights violations. Each image succinctly visualizes a different type of abuse, ranging from sexual exploitation to forced labor, and from the use of child soldiers to forced marriage. They share a common theme in illustrating coercive or non-consensual situations where individuals are compelled to engage in activities against their will, often for others' profit or gain.",
+        "bbox": [
+            [
+                25.554926387316115,
+                16.756511891279807,
+                525.0373725934314,
+                559.9467723669309
+            ],
+            [
+                550.5922989807476,
+                22.342015855039715,
+                480.3533408833522,
+                554.3612684031709
+            ],
+            [
+                1030.9456398640998,
+                22.342015855039715,
+                455.2185730464326,
+                548.7757644394111
+            ],
+            [
+                1488.9569648924123,
+                22.342015855039715,
+                501.2989807474518,
+                547.3793884484711
+            ],
+            [
+                1497.3352208380522,
+                608.8199320498302,
+                491.52434881087197,
+                601.8380520951301
+            ],
+            [
+                1007.2072480181201,
+                656.2967157417894,
+                490.12797281993204,
+                554.3612684031709
+            ],
+            [
+                505.9082672706683,
+                656.2967157417894,
+                501.2989807474518,
+                543.190260475651
+            ],
+            [
+                38.12231030577591,
+                636.7474518686297,
+                469.18233295583235,
+                562.7395243488107
+            ]
+        ]
+    },
+    {
+        "image_name": "u=3591188059,2160065444&fm=253&app=138&f=JPEG.png",
+        "question": "Please analyze the relationship between all marked regions in the image.",
+        "question_id": 8,
+        "dataset_name": "multipanel_Inter_Relationship_box",
+        "gt_answers": "<Region 1><Region 2><Region 3><Region 4><Region 5><Region 6><Region 7><Region 8>: The marked regions depict various concepts such as community, support, value, reinforcement, confidence, success, motivation, and enjoyment. Each illustration is paired with a label that expresses the theme of the image. They seem to be conveying a message about the benefits of collaboration and personal development. The overarching theme indicated in the caption suggests an advocacy for the cooperation between languages and literacy, with an emphasis on not removing children from Spanish lessons for extra English, which implies that each region represents one of the arguments or values supporting this stance.",
+        "bbox": [
+            [
+                13.976730987514161,
+                110.66969353007946,
+                132.23609534619752,
+                143.01929625425652
+            ],
+            [
+                166.64415437003402,
+                93.64358683314416,
+                136.2088535754824,
+                173.09875141884223
+            ],
+            [
+                315.9063564131668,
+                61.29398410896708,
+                119.75028376844494,
+                152.66742338251987
+            ],
+            [
+                519.0845629965947,
+                141.316685584563,
+                134.50624290578887,
+                143.01929625425652
+            ],
+            [
+                17.38195232690122,
+                284.90351872871736,
+                136.77639046538025,
+                163.45062429057887
+            ],
+            [
+                154.7258796821793,
+                287.7412031782066,
+                157.77525539160047,
+                160.61293984108968
+            ],
+            [
+                322.71679909194097,
+                308.74006810442677,
+                168.55845629965947,
+                151.53234960272417
+            ],
+            [
+                499.22077185017025,
+                310.44267877412034,
+                143.58683314415438,
+                151.53234960272417
+            ]
+        ]
+    },
+    {
+        "image_name": "32.png",
+        "question": "Please analyze the relationship between all marked regions in the image.",
+        "question_id": 9,
+        "dataset_name": "multipanel_Inter_Relationship_box",
+        "gt_answers": "<Region 1><Region 2><Region 3><Region 4>: Your Detailed Analysis - The four regions together form a cohesive message about the value of early childhood education. <Region 4> acts as a header, setting the topic, while <Region 1>, <Region 2>, and <Region 3> provide individual reasons that support the overarching theme. They are designed to appeal to viewers who may be interested or passionate about child development, symbolizing affection (<Region 1>), cognitive development (<Region 2>), and the joy of teaching (<Region 3>).",
+        "bbox": [
+            [
+                5.6426332288401255,
+                140.07836990595612,
+                355.4858934169279,
+                455.17241379310354
+            ],
+            [
+                361.12852664576803,
+                121.26959247648902,
+                449.5297805642634,
+                473.9811912225706
+            ],
+            [
+                810.6583072100315,
+                121.26959247648902,
+                366.7711598746082,
+                490.90909090909093
+            ],
+            [
+                173.04075235109718,
+                0,
+                846.3949843260189,
+                98.69905956112852
+            ]
+        ]
+    },
+    {
+        "image_name": "4.png",
+        "question": "Please analyze the relationship between all marked regions in the image.",
+        "question_id": 10,
+        "dataset_name": "multipanel_Inter_Relationship_box",
+        "gt_answers": "<Region 2><Region 3><Region 4><Region 5><Region 6><Region 7><Region 8><Region 9><Region 10>: Each region illustrates a key concept important for managing ADHD in children through emotional and social learning. <Region 2> emphasizes self-esteem, while <Region 3> deals with emotional regulation. <Region 4> focuses on the peer environment, <Region 5> on institutional and familial support, <Region 6> on cognitive aspects like ethical decision-making, <Region 7> on creativity as an outlet or skill, <Region 8> on responsibility, <Region 9> on resilience and coping strategies, and <Region 10> touches on the negative impact of bullying and the importance of communication. Collectively, these regions underscore various factors that can affect a child's experience and management of ADHD, offering a holistic view of social and emotional learning domains.",
+        "bbox": [
+            [
+                188.9580973952435,
+                22.355605889014722,
+                582.3103057757644,
+                102.19705549263873
+            ],
+            [
+                93.14835787089467,
+                144.77916194790487,
+                190.55492638731596,
+                269.33182332955835
+            ],
+            [
+                327.3499433748584,
+                142.65005662514156,
+                281.0419026047565,
+                272.52548131370327
+            ],
+            [
+                617.9728199320498,
+                147.97281993204984,
+                225.68516421291054,
+                252.29898074745188
+            ],
+            [
+                65.46998867497169,
+                425.82106455266137,
+                228.87882219705548,
+                266.13816534541337
+            ],
+            [
+                332.6727066817667,
+                422.62740656851645,
+                240.5889014722537,
+                252.29898074745188
+            ],
+            [
+                635.0056625141563,
+                420.4983012457531,
+                201.2004530011325,
+                265.07361268403173
+            ],
+            [
+                94.21291053227633,
+                707.9275198187995,
+                225.68516421291054,
+                177.78029445073614
+            ],
+            [
+                380.5775764439411,
+                698.3465458663646,
+                182.03850509626275,
+                199.0713476783692
+            ],
+            [
+                635.0056625141563,
+                700.475651189128,
+                187.361268403171,
+                198.00679501698755
+            ]
+        ]
+    }
+]

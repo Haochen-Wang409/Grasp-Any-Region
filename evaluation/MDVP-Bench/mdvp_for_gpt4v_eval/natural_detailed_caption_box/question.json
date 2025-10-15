@@ -1,0 +1,370 @@
+[
+    {
+        "question_id": 1,
+        "image": "4010.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "Please provide a detailed description of each marked region in the image.",
+        "annotation": {
+            "bbox": [
+                [
+                    152,
+                    161,
+                    68,
+                    69
+                ],
+                [
+                    7,
+                    1,
+                    126,
+                    293
+                ],
+                [
+                    583,
+                    160,
+                    19,
+                    138
+                ]
+            ],
+            "segmentation": []
+        }
+    },
+    {
+        "question_id": 2,
+        "image": "2407550.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "Please provide a detailed description of each marked region in the image.",
+        "annotation": {
+            "bbox": [
+                [
+                    321,
+                    132,
+                    47,
+                    40
+                ],
+                [
+                    368,
+                    233,
+                    127,
+                    97
+                ],
+                [
+                    3,
+                    217,
+                    30,
+                    39
+                ],
+                [
+                    293,
+                    177,
+                    26,
+                    29
+                ],
+                [
+                    383,
+                    186,
+                    95,
+                    107
+                ],
+                [
+                    360,
+                    121,
+                    19,
+                    49
+                ],
+                [
+                    275,
+                    306,
+                    105,
+                    25
+                ],
+                [
+                    26,
+                    193,
+                    36,
+                    79
+                ]
+            ],
+            "segmentation": []
+        }
+    },
+    {
+        "question_id": 3,
+        "image": "402.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "Please provide a detailed description of each marked region in the image.",
+        "annotation": {
+            "bbox": [
+                [
+                    110,
+                    483,
+                    141,
+                    115
+                ],
+                [
+                    564,
+                    484,
+                    108,
+                    114
+                ],
+                [
+                    662,
+                    544,
+                    85,
+                    44
+                ],
+                [
+                    199,
+                    259,
+                    27,
+                    40
+                ],
+                [
+                    418,
+                    315,
+                    74,
+                    43
+                ],
+                [
+                    224,
+                    6,
+                    106,
+                    510
+                ],
+                [
+                    143,
+                    358,
+                    74,
+                    64
+                ],
+                [
+                    64,
+                    260,
+                    24,
+                    36
+                ]
+            ],
+            "segmentation": []
+        }
+    },
+    {
+        "question_id": 4,
+        "image": "000000518836.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "Please provide a detailed description of each marked region in the image.",
+        "annotation": {
+            "bbox": [
+                [
+                    166.41,
+                    42.56,
+                    341.16,
+                    436.51
+                ],
+                [
+                    0.0,
+                    287.76,
+                    20.7,
+                    163.06
+                ],
+                [
+                    543.63,
+                    260.83,
+                    96.37,
+                    84.28
+                ]
+            ],
+            "segmentation": []
+        }
+    },
+    {
+        "question_id": 5,
+        "image": "000000205601.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "Please provide a detailed description of each marked region in the image.",
+        "annotation": {
+            "bbox": [
+                [
+                    171.9,
+                    272.26,
+                    468.1,
+                    143.38
+                ],
+                [
+                    1.57,
+                    268.7,
+                    513.82,
+                    156.53
+                ],
+                [
+                    571.84,
+                    326.08,
+                    68.16,
+                    54.29
+                ],
+                [
+                    185.34,
+                    231.32,
+                    23.92,
+                    88.0
+                ]
+            ],
+            "segmentation": []
+        }
+    },
+    {
+        "question_id": 6,
+        "image": "000000299654.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "Please provide a detailed description of each marked region in the image.",
+        "annotation": {
+            "bbox": [
+                [
+                    182.39,
+                    0.57,
+                    331.0,
+                    360.43
+                ]
+            ],
+            "segmentation": []
+        }
+    },
+    {
+        "question_id": 7,
+        "image": "000000107939.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "Please provide a detailed description of each marked region in the image.",
+        "annotation": {
+            "bbox": [
+                [
+                    249.92,
+                    99.78,
+                    131.46,
+                    183.95
+                ],
+                [
+                    257.37,
+                    177.56,
+                    124.0,
+                    106.16
+                ]
+            ],
+            "segmentation": []
+        }
+    },
+    {
+        "question_id": 8,
+        "image": "000000437374.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "Please provide a detailed description of each marked region in the image.",
+        "annotation": {
+            "bbox": [
+                [
+                    1.34,
+                    257.38,
+                    74.46,
+                    141.2
+                ],
+                [
+                    36.97,
+                    292.0,
+                    66.92,
+                    131.17
+                ],
+                [
+                    486.58,
+                    179.23,
+                    2.1,
+                    1.91
+                ],
+                [
+                    246.21,
+                    69.46,
+                    359.56,
+                    357.53
+                ],
+                [
+                    77.9,
+                    37.18,
+                    202.29,
+                    390.82
+                ]
+            ],
+            "segmentation": []
+        }
+    },
+    {
+        "question_id": 9,
+        "image": "2407508.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "Please provide a detailed description of each marked region in the image.",
+        "annotation": {
+            "bbox": [
+                [
+                    103,
+                    135,
+                    72,
+                    75
+                ],
+                [
+                    144,
+                    239,
+                    37,
+                    14
+                ],
+                [
+                    297,
+                    243,
+                    93,
+                    16
+                ],
+                [
+                    131,
+                    48,
+                    205,
+                    52
+                ],
+                [
+                    143,
+                    237,
+                    210,
+                    15
+                ],
+                [
+                    233,
+                    175,
+                    30,
+                    27
+                ],
+                [
+                    217,
+                    152,
+                    68,
+                    67
+                ]
+            ],
+            "segmentation": []
+        }
+    },
+    {
+        "question_id": 10,
+        "image": "2411153.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "Please provide a detailed description of each marked region in the image.",
+        "annotation": {
+            "bbox": [
+                [
+                    148,
+                    124,
+                    58,
+                    47
+                ],
+                [
+                    289,
+                    111,
+                    171,
+                    91
+                ]
+            ],
+            "segmentation": []
+        }
+    }
+]

@@ -1,0 +1,350 @@
+[
+    {
+        "image_name": "4010.jpg",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 1,
+        "dataset_name": "natural_detailed_caption_box",
+        "gt_answers": "<Region 1>: The object appears to be a small brown wooden shed, likely used for storage, situated on a patch of grass. It has a clearly visible slanted roof, possibly for rain runoff, and looks to be a single-door structure typically found in a backyard or garden setting.\n<Region 2>: This object is a tree with thick, lush foliage, representing a mature specimen that provides shade and greenery. It stands behind a smaller, sparser tree and is part of a larger grouping of trees that appear to create a natural boundary or backdrop for the area.\n<Region 3>: A single metal pole is embedded in the ground in a vertical orientation. It seems to be a simple, slender structure, possibly serving as a support or part of a larger construction that isn't fully visible. The lawn surrounding it is well-trimmed and maintains an even appearance.",
+        "bbox": [
+            [
+                152,
+                161,
+                68,
+                69
+            ],
+            [
+                7,
+                1,
+                126,
+                293
+            ],
+            [
+                583,
+                160,
+                19,
+                138
+            ]
+        ]
+    },
+    {
+        "image_name": "2407550.jpg",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 2,
+        "dataset_name": "natural_detailed_caption_box",
+        "gt_answers": "<Region 1>: This bowl, appearing to be dark blue, is situated against a background, likely part of kitchenware.\n<Region 2>: The tabletop is made of dark marble, showcasing a glossy finish and reflecting its surroundings slightly.\n<Region 3>: The light switches are white, contrasting with the dark wall, likely plastic, and appear functional.\n<Region 4>: Positioned in the background, these white light switches are paired on a wall above the countertop.\n<Region 5>: This silver oven, with digital controls and a handle, appears modern and built into the cabinetry.\n<Region 6>: An indistinct blue and green object, possibly decorative, is partially visible against a lighter backdrop.\n<Region 7>: The floor, constructed of hardwood, showcases a natural finish with variations in wood grain.\n<Region 8>: The jar holder, likely metal, is mounted to the wall, containing jars that may hold spices or ingredients.",
+        "bbox": [
+            [
+                321,
+                132,
+                47,
+                40
+            ],
+            [
+                368,
+                233,
+                127,
+                97
+            ],
+            [
+                3,
+                217,
+                30,
+                39
+            ],
+            [
+                293,
+                177,
+                26,
+                29
+            ],
+            [
+                383,
+                186,
+                95,
+                107
+            ],
+            [
+                360,
+                121,
+                19,
+                49
+            ],
+            [
+                275,
+                306,
+                105,
+                25
+            ],
+            [
+                26,
+                193,
+                36,
+                79
+            ]
+        ]
+    },
+    {
+        "image_name": "402.jpg",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 3,
+        "dataset_name": "natural_detailed_caption_box",
+        "gt_answers": "<Region 1>: This is an image of a silver metal table situated outside on a paved ground. The table has a shiny, reflective surface indicative of being metallic.\n<Region 2>: The object is an outdoor chair characterized by its red backrest and tan seat. It appears sturdy and designed for outdoor settings, likely part of a caf\u00e9 or restaurant patio.\n<Region 3>: The item in question is a piece of lavender paper that seems to be placed atop a metal table. The paper's edges are distinctly visible against the table's surface.\n<Region 4>: Visible here is a yellow traffic light, suspended above the street. The light is not illuminated and it stands against a light sky, possibly signaling a traffic-stop scenario.\n<Region 5>: A large red and white striped umbrella stands open, presumably providing shade or shelter in an outdoor setting. Its vibrant colors attract attention.\n<Region 6>: A brown tree trunk is seen beside a sidewalk. The trunk's bark is rugged and it appears to be a mature, healthy tree, offering shade to the vicinity.\n<Region 7>: Displayed is a black chalkboard featuring white text. It seems to be placed on a sidewalk, often used for displaying messages or menus outside establishments.\n<Region 8>: A window is seen on the side of a tan-colored building. It appears to be rectangular, typical of building windows, and reflects the adjacent surroundings.",
+        "bbox": [
+            [
+                110,
+                483,
+                141,
+                115
+            ],
+            [
+                564,
+                484,
+                108,
+                114
+            ],
+            [
+                662,
+                544,
+                85,
+                44
+            ],
+            [
+                199,
+                259,
+                27,
+                40
+            ],
+            [
+                418,
+                315,
+                74,
+                43
+            ],
+            [
+                224,
+                6,
+                106,
+                510
+            ],
+            [
+                143,
+                358,
+                74,
+                64
+            ],
+            [
+                64,
+                260,
+                24,
+                36
+            ]
+        ]
+    },
+    {
+        "image_name": "000000518836.jpg",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 4,
+        "dataset_name": "natural_detailed_caption_box",
+        "gt_answers": "<Region 1>: A close-up view of a horse's head, predominantly brown with a distinctive white patch on its forehead and visible mane.\n<Region 2>: This is the body of a brown horse, most likely the same one as the head seen in the close-up. Its front body is visible.\n<Region 3>: A white horse is seen from a side angle in the distance, grazing or standing in a meadow with trees and a fence.",
+        "bbox": [
+            [
+                166.41,
+                42.56,
+                341.16,
+                436.51
+            ],
+            [
+                0.0,
+                287.76,
+                20.7,
+                163.06
+            ],
+            [
+                543.63,
+                260.83,
+                96.37,
+                84.28
+            ]
+        ]
+    },
+    {
+        "image_name": "000000205601.jpg",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 5,
+        "dataset_name": "natural_detailed_caption_box",
+        "gt_answers": "<Region 1>: A frying pan on a heat source contains saut\u00e9ed meat and vegetables, emitting steam, indicating the food is hot and being cooked.\n<Region 2>: An electric stovetop features a radiant burner that is glowing, suggesting it is turned on and providing heat for cooking.\n<Region 3>: A kitchen knife with a green handle rests on a countertop; its blade appears sharp and suitable for food preparation.\n<Region 4>: A human hand is captured in motion, seasoning or stirring the food in the pan, contributing to the cooking process.",
+        "bbox": [
+            [
+                171.9,
+                272.26,
+                468.1,
+                143.38
+            ],
+            [
+                1.57,
+                268.7,
+                513.82,
+                156.53
+            ],
+            [
+                571.84,
+                326.08,
+                68.16,
+                54.29
+            ],
+            [
+                185.34,
+                231.32,
+                23.92,
+                88.0
+            ]
+        ]
+    },
+    {
+        "image_name": "000000299654.jpg",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 6,
+        "dataset_name": "natural_detailed_caption_box",
+        "gt_answers": "<Region 1>:The image depicts the head of a zebra, with distinctive black and white stripes covering its fur. The animal's ears are pointed upwards, indicating alertness. The eyes are visible, showcasing a gentle gaze, and the nose is close to the ground, suggesting the zebra is grazing or sniffing the terrain. The mane is partially visible as a series of short, erect black hair between the zebra's ears.",
+        "bbox": [
+            [
+                182.39,
+                0.57,
+                331.0,
+                360.43
+            ]
+        ]
+    },
+    {
+        "image_name": "000000107939.jpg",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 7,
+        "dataset_name": "natural_detailed_caption_box",
+        "gt_answers": "<Region 1>:The object is a rectangular street sign with white letters on a green background, indicating the name of a street. It is affixed to a metal pole and is located above and slightly to the left of a stop sign. The sign reads 'NORTH AVE' suggesting it's likely an indication of the street or direction. It appears to be a standard street name sign used in many urban settings.\n<Region 2>:This object is a red hexagonal stop sign with white uppercase letters spelling 'STOP'. It is attached to the same metal pole as another sign, below and to the right of it. The sign is designed to alert drivers to stop and is a widely recognized traffic control device. The edges of the sign appear sharp and undamaged, suggesting it is in good condition.",
+        "bbox": [
+            [
+                249.92,
+                99.78,
+                131.46,
+                183.95
+            ],
+            [
+                257.37,
+                177.56,
+                124.0,
+                106.16
+            ]
+        ]
+    },
+    {
+        "image_name": "000000437374.jpg",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 8,
+        "dataset_name": "natural_detailed_caption_box",
+        "gt_answers": "<Region 1>: A plush, padded object designed for comfort, potentially used on a sofa.\n<Region 2>: Similar to the first object, this is also a stuffed and soft piece intended for supporting or resting.\n<Region 3>: Decorative accessory adorned on the ear, visible as a small, shiny object.\n<Region 4>: This is a child with an open mouth and animated facial expression, possibly speaking or expressing surprise.\n<Region 5>: Appears to be a young boy, casually dressed, gripping an electronic device with attention.",
+        "bbox": [
+            [
+                1.34,
+                257.38,
+                74.46,
+                141.2
+            ],
+            [
+                36.97,
+                292.0,
+                66.92,
+                131.17
+            ],
+            [
+                486.58,
+                179.23,
+                2.1,
+                1.91
+            ],
+            [
+                246.21,
+                69.46,
+                359.56,
+                357.53
+            ],
+            [
+                77.9,
+                37.18,
+                202.29,
+                390.82
+            ]
+        ]
+    },
+    {
+        "image_name": "2407508.jpg",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 9,
+        "dataset_name": "natural_detailed_caption_box",
+        "gt_answers": "<Region 1>: The figure is wearing a red ski suit with a blue helmet and goggles. Their stance is open and welcoming, arms outstretched, and they seem to be an instructor addressing a group of students on a snowy slope.\n<Region 2>: A person is mostly obscured by the instructor but can be identified as a ski student by the helmet. The student is wearing a purple jacket with green sleeves and appears to be in mid-motion, learning to ski.\n<Region 3>: There is a student dressed in green ski gear with visible ski poles, possibly following instructions. They are viewed from the side, indicating movement or a pause during skiing.\n<Region 4>: A clear blue sky with scant clouds, indicative of a bright, sunny day ideal for outdoor activities such as skiing. This backdrop is above a snowy mountain setting.\n<Region 5>: A ski student is captured from behind, suggesting they are moving away from the viewer. They are wearing a red jacket with black pants, indicative of typical ski wear fit for the cold environment.\n<Region 6>: This student, visible from the side, is wearing a green and purple ski outfit with a matching helmet, possibly in the midst of practicing or following a ski maneuver.\n<Region 7>: A detailed examination of the instructor's black glove, which is part of standard skiing attire, suited to protect hands from cold conditions and providing better grip on ski poles.",
+        "bbox": [
+            [
+                103,
+                135,
+                72,
+                75
+            ],
+            [
+                144,
+                239,
+                37,
+                14
+            ],
+            [
+                297,
+                243,
+                93,
+                16
+            ],
+            [
+                131,
+                48,
+                205,
+                52
+            ],
+            [
+                143,
+                237,
+                210,
+                15
+            ],
+            [
+                233,
+                175,
+                30,
+                27
+            ],
+            [
+                217,
+                152,
+                68,
+                67
+            ]
+        ]
+    },
+    {
+        "image_name": "2411153.jpg",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 10,
+        "dataset_name": "natural_detailed_caption_box",
+        "gt_answers": "<Region 1>:Captured in this section is a motorcycle racer, sharply tilting while maneuvering a turn on a race track. The rider, outfitted in a full-body racing suit, is almost in a horizontal position relative to the ground, a technique used in high-speed motorcycle racing to navigate tight turns while maintaining speed. The motorcycle itself is predominantly red with hints of white and black, and it showcases a sleek, aerodynamic design typical of high-performance racing bikes. The rider's focused posture and the bike's dynamic angle suggest this is a moment of intense action during a race.\n<Region 2>:This portion of the image displays the texture of an asphalt road, detailed with small granular elements indicative of a typical racing track surface built to offer traction and durability. A crisp white boundary line marks the edge of the racing track, contrasting with the dark gray tone of the asphalt. The road surface is illuminated by ambient light, highlighting the texture and suggesting a dry weather condition which is ideal for racing. The condition of the road suggests it is well-maintained, a necessity for the safety and performance of high-speed motorsport events.",
+        "bbox": [
+            [
+                148,
+                124,
+                58,
+                47
+            ],
+            [
+                289,
+                111,
+                171,
+                91
+            ]
+        ]
+    }
+]

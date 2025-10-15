@@ -1,0 +1,314 @@
+[
+    {
+        "image_name": "0000288.jpg",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 1,
+        "dataset_name": "ocr_spotting_detailed_caption_box",
+        "gt_answers": "<Region 1>: The Comprehensive Description includes \"Abbondanza\" displayed in a script font that conveys a sense of stylishness or elegance, which may suggest that it is the name of a business, possibly a restaurant or some sort of food-related establishment, given its association with abundance or plenty often related to food.\n<Region 2>: The Comprehensive Description for \"Cafe\" suggests that the text is identifying a type of establishment where coffee and light meals may be served. The font is straightforward and easily legible, which is typically used for clarity and immediate recognition for passersby.\n<Region 3>: The Comprehensive Description for \"USIS\" indicates a text that is likely an acronym or a name presented in a bold and blocky font, common for official or institutional entities. It is placed on the side of a van, suggesting it could be the branding of a company or a service, possibly linked to the van's purpose or ownership.",
+        "bbox": [
+            [
+                83,
+                147,
+                257,
+                83
+            ],
+            [
+                162,
+                201,
+                87,
+                50
+            ],
+            [
+                665,
+                377,
+                60,
+                39
+            ]
+        ]
+    },
+    {
+        "image_name": "img_49.jpg",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 2,
+        "dataset_name": "ocr_spotting_detailed_caption_box",
+        "gt_answers": "<Region 1>: The text \"ESTATE\" is written in capital letters with a bold typeface that has clear and uniform strokes, implying a sense of authority and prominence. It appears against a yellow background, which suggests visibility and is likely meant to catch the eye of passersby. The text is likely part of a business sign for a company dealing with property, real estate sales, or management.\n<Region 2>: The text \"AGENTS\" displayed similarly in capital letters and bold typeface complements the text in <Region 1>. The typeface is consistent, suggesting that both are part of the same sign. The dark text against the yellow background stands out, indicating the nature of the business below, which is likely involved in real estate agency work.\n<Region 3>: The word \"SAXONS\" is written in capital letters with a font style that is bold and prominent, but with a slightly more decorative style than <Region 1> and <Region 2>. This difference could be a stylized choice to make the brand name distinctive. Positioned on a fa\u00e7ade above a window, it is part of the business's branding, likely the name of the company.\n<Region 4>: This contains the same text as <Region 3>, \"SAXONS\", indicating that the text is repeated within the image. This repetition reinforces the importance of the name as part of the branding. The text style and location, again above a window, maintain the brand's visibility from multiple angles.\n<Region 5>: Displaying the word \"ESTATE\" in the same bold, capital letter style as observed in <Region 1>. This repetition at a lower part of the building indicates a consistent branding approach across the business' presence on the building, and its placement closer to eye level increases readability for pedestrians.\n<Region 6>: The word \"AGENTS\" is identified, and like <Region 5>, it mirrors the style and size of the sign in <Region 2>, ensuring that the message of the business being an estate agency is clear. This consistent branding facilitates quick recognition and understanding of the services offered.",
+        "bbox": [
+            [
+                70.0,
+                157.0,
+                207.0,
+                47.0
+            ],
+            [
+                311.0,
+                165.0,
+                225.0,
+                45.0
+            ],
+            [
+                254.0,
+                247.0,
+                186.0,
+                35.0
+            ],
+            [
+                191.0,
+                380.0,
+                92.0,
+                19.0
+            ],
+            [
+                293.0,
+                383.0,
+                89.0,
+                17.0
+            ],
+            [
+                392.0,
+                385.0,
+                92.0,
+                16.0
+            ]
+        ]
+    },
+    {
+        "image_name": "0000808.jpg",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 3,
+        "dataset_name": "ocr_spotting_detailed_caption_box",
+        "gt_answers": "<Region 1>: The text \"Triple\" appears in a retro cursive script, likely chosen to convey a sense of nostalgia or classic style, which is consistent with the overall branding. It is set against a yellow portion of the sign, and the color choice here is a mint green which provides a pleasing contrast that makes the text stand out.\n<Region 2>: \"WHITE\" is written in bold, capital letters, featured on a green ribbon-like background that cuts across the sign. The font is sans-serif, which gives a modern and clean look. The use of capital letters in this context suggests emphasis and importance.\n<Region 3>: The phrase \"SPOT\" is displayed in a sans-serif, uppercase font similar to the text in <Region 2>. It is placed within the same green ribbon background, mirroring the style and maintaining design consistency. This positioning completes the name or title represented on the signage.\n<Region 4>: \"O's\" is written in a script that echoes the retro flair seen in <Region 1>. This script is mint green, presented on a yellow backdrop, and it features an apostrophe, signifying a possessive or a contraction. The stylized \"O\" has a red center dot, adding to the thematic color scheme.\n<Region 5>: The word \"by\" is located on the lower left area of the central graphic and is likely to be a connector or a preposition relating to the larger text elements in the image. It's written in small, lowercase letters, contrasting in size to the other texts, suggesting a subordinate role in the information hierarchy.",
+        "bbox": [
+            [
+                581,
+                352,
+                389,
+                391
+            ],
+            [
+                663,
+                790,
+                229,
+                241
+            ],
+            [
+                905,
+                780,
+                181,
+                233
+            ],
+            [
+                1019,
+                324,
+                156,
+                158
+            ],
+            [
+                689,
+                721,
+                44,
+                54
+            ]
+        ]
+    },
+    {
+        "image_name": "0001122.jpg",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 4,
+        "dataset_name": "ocr_spotting_detailed_caption_box",
+        "gt_answers": "<Region 1>: The text in this area reads \"NEW\". The font is bold and stylized with thick vertical lines and sharp edges, suggesting a strong, impactful presence. The letters are colored in red, which stands out against the white background of the fabric they are printed on. There are black vertical lines that run down the fabric, giving the impression of pinstripes. The text placement and style are reminiscent of classic athletic or team-related apparel, often used to represent a specific city or team name.\n<Region 2>: The text in this area reads \"YORK\". Similar to the previous region, it features a bold and stylized font in red, contrasting with the white pinstriped background. The consistent style between this text and that of <Region 1> suggests they form a single phrase, typically associated with a particular location or team. The font size and its commanding presence imply that the text is intended to be easily read and recognized from a distance, characteristic of team jerseys or sports merchandise.",
+        "bbox": [
+            [
+                51,
+                103,
+                362,
+                264
+            ],
+            [
+                516,
+                120,
+                466,
+                335
+            ]
+        ]
+    },
+    {
+        "image_name": "img_162.jpg",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 5,
+        "dataset_name": "ocr_spotting_detailed_caption_box",
+        "gt_answers": "<Region 1>: The text \"Colchester\" is displayed in a straightforward, sans-serif font with a bold weight, which makes it highly legible and easy to read. The text color is white, which contrasts sharply with the red background, creating a standout effect that captures attention. This type of text presentation is typically used for clear communication and effective signage. \"Colchester\" is likely the name of a place, possibly a destination or location referenced on a signpost or directional marker. The choice of a bold and contrasting color scheme is intentional, aimed at ensuring that the text is discernible from a distance and under various lighting conditions. The text is centrally aligned within the marked area, suggesting the importance of the information it conveys. The presence of the symbol above the text, resembling a stylized pair of railway tracks, indicates that this sign is associated with a railway service or station. The purpose of the text in this context is to inform viewers of a railway station name or a destination reachable via train services.",
+        "bbox": [
+            [
+                386.0,
+                291.0,
+                261.0,
+                43.0
+            ]
+        ]
+    },
+    {
+        "image_name": "img_940.jpg",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 6,
+        "dataset_name": "ocr_spotting_detailed_caption_box",
+        "gt_answers": "<Region 1>: The text \"AYAM\" is presented in large uppercase letters on a signage board. The font appears bold and designed to be eye-catching, serving the purpose of promoting or identifying a business or product associated with chicken, as \"ayam\" means chicken in Malay and Indonesian.\n<Region 2>: The text \"RIA\" appears next to \"AYAM\" in the same font and style, following the design pattern of the sign. It seems to be part of a larger phrase or brand name, although without additional context it is challenging to ascertain its full meaning or association.\n<Region 3>: The word \"SMASHED\" is in uppercase letters and retains the same font consistency and styling as the previous words, indicating it's part of the same signboard. The use of the word \"smashed\" could be describing a method of food preparation, possibly relating to the menu items offered by the establishment.\n<Region 4>: The word \"FRIED\" appears in the same bold, attention-grabbing font as the other text elements in the signage. The usage of the term \"fried\" aligns well with food-oriented establishments and could denote a particular style of cooking advertised by the business.\n<Region 5>: The term \"CHICKEN\" completes what seems to be a descriptive phrase relating to the nature of the food provided at this location. Presented in the same visual style as the other text elements on the sign, it confirms the establishment\u2019s focus on chicken dishes.",
+        "bbox": [
+            [
+                451.0,
+                44.0,
+                121.0,
+                115.0
+            ],
+            [
+                655.0,
+                144.0,
+                54.0,
+                65.0
+            ],
+            [
+                412.0,
+                113.0,
+                111.0,
+                71.0
+            ],
+            [
+                521.0,
+                150.0,
+                50.0,
+                46.0
+            ],
+            [
+                567.0,
+                166.0,
+                57.0,
+                46.0
+            ]
+        ]
+    },
+    {
+        "image_name": "img_70.jpg",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 7,
+        "dataset_name": "ocr_spotting_detailed_caption_box",
+        "gt_answers": "<Region 1>: The text \"Accommodation\" appears on a signboard, suggesting the label for a location where lodging facilities are provided. The text is bold and capitalized, providing clear visibility and significance, thus indicating direction to the accommodation facilities within the vicinity.\n<Region 2>: The text \"Office\" displayed similarly to <Region 1>, is also on the signboard, and its typography suggests it is an instructional marker guiding individuals towards offices located nearby. Its distinct appearance functions as a navigational aid for visitors seeking office spaces.\n<Region 3>: The term \"Nightline\" is prominently featured, possibly indicating a nighttime service or a helpline available after-hours. This text, like the others on the sign, caters to nighttime assistance or inquiries, potentially providing crucial information for individuals seeking support during late hours.",
+        "bbox": [
+            [
+                71.0,
+                191.0,
+                314.0,
+                36.0
+            ],
+            [
+                404.0,
+                189.0,
+                117.0,
+                34.0
+            ],
+            [
+                77.0,
+                262.0,
+                161.0,
+                40.0
+            ]
+        ]
+    },
+    {
+        "image_name": "0001250.jpg",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 8,
+        "dataset_name": "ocr_spotting_detailed_caption_box",
+        "gt_answers": "<Region 1>: The text \"BUBBA\" appears in bold, capital letters with a font that is playful and somewhat informal, possibly evoking a casual or friendly atmosphere. The position is prominently displayed at the top of a circular logo, which suggests its importance as a distinguishing element or a brand name.\n<Region 2>: The word \"GUMP\" is presented in a similar bold and playful font directly below <Region 1>. Both words form a cohesive phrase when read together, implying a connection or partnership, possibly in a business context.\n<Region 3>: The word \"SHRIMP\" is placed below <Region 1> and <Region 2>, completing the phrase that seems to be the focal point of the circular logo. The font style remains consistent with the previous text, reinforcing the brand's identity and likely indicating the type of product or service offered.\n<Region 4>: \"RESTAURANT\" is written in a smaller, yet bold font beneath the word \"SHRIMP\". This text specifies the nature of the business associated with the overarching brand identified by the preceding text.\n<Region 5>: The word \"MARKET\" appears in a smaller font at the bottom of the circle, suggesting a secondary or additional aspect of the business, perhaps indicating a place where goods are sold as part of the company's offerings.\n<Region 6>: \"CO\" could stand for \"Company,\" abbreviated and presented beside the main brand name, which is common practice for businesses to denote a corporate entity.\n<Region 7>: \"TM\" indicates that the entire phrase formed by <Region 1>, <Region 2>, and <Region 3> is a trademark. This protects the brand's unique identity and legally secures its use exclusively for the business's purposes.",
+        "bbox": [
+            [
+                165,
+                290,
+                192,
+                89
+            ],
+            [
+                363,
+                281,
+                159,
+                57
+            ],
+            [
+                225,
+                354,
+                140,
+                46
+            ],
+            [
+                185,
+                376,
+                156,
+                94
+            ],
+            [
+                426,
+                344,
+                83,
+                101
+            ],
+            [
+                419,
+                347,
+                56,
+                23
+            ],
+            [
+                481,
+                420,
+                22,
+                16
+            ]
+        ]
+    },
+    {
+        "image_name": "tr_img_01235.jpg",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 9,
+        "dataset_name": "ocr_spotting_detailed_caption_box",
+        "gt_answers": "<Region 1>: The text \"EVENING\" appears in a sans-serif, bold font that is capitalized for emphasis. It is located on the lower part of a product label, positioned just above another text element that indicates further details about the product. The text serves to indicate either the usage time or a key ingredient, \"Evening Primrose,\" of the product, likely related to wellness or personal care.\n<Region 2>: \"PRIMROSE\" is the second part of a phrase in which the text is styled similarly to the text in <Region 1>. It follows directly below \"EVENING,\" suggesting the complete term \"EVENING PRIMROSE.\" The positioning and styling are consistent with <Region 1>, reinforcing the connection between the two words. The term \"Evening Primrose\" is usually associated with the name of a plant, often used in the context of essential oils or natural product ingredients.\n<Region 3>: The term \"BASE\" is part of the full term \"BASE OIL,\" which is shown in a smaller and possibly lighter weight sans-serif typeface compared to <Region 1> and <Region 2>. Positioned at the bottom of the product label, it likely indicates the type of product, suggesting that the contents of the bottle can be used as a carrier or base oil in aromatherapy or skincare.\n<Region 4>: \"OIL\" completes the term \"BASE OIL,\" as mentioned in <Region 3>. The font and positioning maintain consistency with the description provided in <Region 3>, reinforcing its role as part of a descriptive phrase related to the product's use or contents. Together, \"BASE OIL\" likely designates the product's category within a larger set of similar goods.",
+        "bbox": [
+            [
+                758.0,
+                3763.0,
+                498.0,
+                112.0
+            ],
+            [
+                1291.0,
+                3751.0,
+                572.0,
+                119.0
+            ],
+            [
+                1061.0,
+                3894.0,
+                303.0,
+                105.0
+            ],
+            [
+                1386.0,
+                3882.0,
+                180.0,
+                110.0
+            ]
+        ]
+    },
+    {
+        "image_name": "tr_img_01644.jpg",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 10,
+        "dataset_name": "ocr_spotting_detailed_caption_box",
+        "gt_answers": "<Region 1>: The text \"46\" appears in a serif font with distinct, prominent stylistic flares at the ends of the strokes, which is characteristic of serif fonts. These numerals are white, providing a strong contrast against a dark background plate, which appears to be made of slate or a similar material. The plate is mounted onto a brick wall, and there are two spherical, possibly metallic, fixtures attached to the plate on either side, which seem to be serving as decorative mounting posts. The purpose of this text likely indicates an address or number associated with the location, commonly used to identify specific residential or commercial units.",
+        "bbox": [
+            [
+                134.0,
+                94.0,
+                317.0,
+                225.0
+            ]
+        ]
+    }
+]

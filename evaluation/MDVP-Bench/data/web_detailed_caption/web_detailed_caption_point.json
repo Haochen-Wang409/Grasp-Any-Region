@@ -1,0 +1,252 @@
+[
+    {
+        "image_name": "027df36525ffe2decebea6c85c92c270.png",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 1,
+        "dataset_name": "web_detailed_caption_point",
+        "gt_answers": "<Mark 1>: This is a call-to-action button that prompts users to \"Sign Up\" likely for a newsletter or account registration. It's an interactive element that, once clicked, would either open a form for the user to enter their details (such as name, email, etc.) or redirect them to a registration page.\n<Mark 2>: The text \"Servicing\" appears to be part of a navigation menu, specifically a header or tab that would lead the user to a section or a page related to bike servicing options. Clicking on this would either scroll down to the relevant section on the same page or redirect to a dedicated servicing page.\n<Mark 3>: Appears to be a search bar, offering users an opportunity to type in queries to find specific content on the website. It's an interactive feature that processes typed search terms to display relevant results on either the same page or a new search results page.\n<Mark 4>: This seems to indicate a link or a button that takes users to the Maison du Velo's YouTube channel. It's likely an interactive element, clicking on which would navigate the user to the video platform to view the company's videos.\n<Mark 5>: \"Book a Service\" is likely another navigation item or button, similar to <Mark 2>, designed to take users directly to a booking interface where they can schedule bike services.\n<Mark 6>: It appears to be the Maison du Velo logo, commonly serving as a clickable element that returns the user to the homepage when clicked.\n<Mark 7>: This looks like the main header or title of the webpage, and in this context, it informs the user that the page they are looking for cannot be found. It's typically non-interactive and serves an informative function.\n<Mark 8>: Labelled \"Consultation,\" this might be a section of the navigation menu focused on personalized services or appointments. Engaging this would lead to further information about consultation offerings.\n<Mark 9>: The number zero alongside a shopping cart icon suggests that this is an indicator of the number of items currently in the user's online shopping cart. It's a standard feature on e-commerce sites and clicking on it would typically lead to the shopping cart or checkout page.\n<Mark 10>: The representation of Maison du Velo on Twitter indicates a social media icon meant to direct users to the Maison du Velo's Twitter account. Interacting with it would take the user to their Twitter feed.",
+        "points": [
+            [
+                1488,
+                597
+            ],
+            [
+                1064,
+                491
+            ],
+            [
+                1487,
+                59
+            ],
+            [
+                527,
+                568
+            ],
+            [
+                709,
+                59
+            ],
+            [
+                988,
+                664
+            ],
+            [
+                459,
+                59
+            ],
+            [
+                901,
+                59
+            ],
+            [
+                1525,
+                59
+            ],
+            [
+                392,
+                568
+            ]
+        ]
+    },
+    {
+        "image_name": "web_98d5a92a-e7d5-4fa6-8c36-83dc78c3fce6.png",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 2,
+        "dataset_name": "web_detailed_caption_point",
+        "gt_answers": "<Mark 1>: This area appears to be a checkbox labeled \"Show Password\", typically found on login forms on websites. This functionality, when toggled, allows the user to switch between hiding and displaying the characters they have input into the password field. This is an interactive element that improves user experience by allowing users to confirm their password entries before submitting the form. Given the obfuscated dots in the password field, engaging this checkbox would reveal the actual password characters.",
+        "points": [
+            [
+                365,
+                1006
+            ]
+        ]
+    },
+    {
+        "image_name": "61f88222ea0459157c48e4ac322de434.png",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 3,
+        "dataset_name": "web_detailed_caption_point",
+        "gt_answers": "<Mark 1>: This region appears to be a navigation item labeled \"AGENDA\". It likely leads users to a page or section focusing on scheduled events or calendar-related information for the organization or website in question.\n<Mark 2>: This is another navigation item labeled \"PUBLICATIONS DE QCD\". This item would typically direct users to a repository or list of publications associated with the organization QCD. Users may find research papers, reports, articles, or whitepapers here.\n<Mark 3>: This is titled \"QCD & VOUS\". It is possibly a section dedicated to information about the relationship between QCD and the user or community (\"vous\" translates to \"you\" in French). It might include user engagement initiatives, membership details, or customer service information.\n<Mark 4>: Labeled \"Accueil\", this is the French word for \"Home\" and typically represents a button or link that, when clicked, will take the user back to the main homepage of the website.\n<Mark 5>: \"CONTACTEZ-NOUS\" translates to \"CONTACT US\". This is likely a call-to-action button that, when interacted with, will take the user to a contact form, email address, phone number, or other means of getting in touch with the organization.\n<Mark 6>: This area, labeled \"INSTANCES\", probably refers to different organizational bodies or decision-making entities within the organization. It could lead to information on committees, boards, or corporate governance structures.\n<Mark 7>: The \"LEADER\" region appears to be another navigational element pointing to content related to leadership within the organization, such as profiles of key leaders or organizational leadership strategies.\n<Mark 8>: This icon represents Twitter and is commonly used as a social media link. Clicking it would typically take the user to the organization's Twitter profile to follow and engage with their tweets.\n<Mark 9>: Similar to <Mark 8>, this is a Facebook icon, which when clicked, will likely redirect the user to the organization's Facebook page, where they can follow posts, updates, and social interactions.\n<Mark 10>: \"EXPERTISES & ACTIONS\" suggests a section dedicated to the organization's areas of specialization and their practical endeavors or initiatives. It could house detailed descriptions of services, programs, or campaigns.",
+        "points": [
+            [
+                1180,
+                213
+            ],
+            [
+                499,
+                213
+            ],
+            [
+                1458,
+                155
+            ],
+            [
+                326,
+                241
+            ],
+            [
+                719,
+                49
+            ],
+            [
+                1141,
+                213
+            ],
+            [
+                594,
+                213
+            ],
+            [
+                1324,
+                1058
+            ],
+            [
+                1286,
+                1058
+            ],
+            [
+                979,
+                155
+            ]
+        ]
+    },
+    {
+        "image_name": "web_eab83369-92a1-4819-ae45-eb2c0ab5b131.png",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 4,
+        "dataset_name": "web_detailed_caption_point",
+        "gt_answers": "<Mark 1>: This region displays an option within a navigation menu, labeled \"Milestones\". The text suggests that this is a clickable area which, when interacted with, will likely navigate the user to a section or feature within the GitLab platform that deals with milestones. Milestones in this context are likely used for tracking progress on a collection of issues or merge requests within the scope of a project or a group. The design indicates this is one item in a list, which includes other items such as \"Snippets\" and \"Activity\". It is part of a larger dropdown menu labeled \"Explore,\" which suggests a functionality for users to explore various sections or features within GitLab.",
+        "points": [
+            [
+                350,
+                407
+            ]
+        ]
+    },
+    {
+        "image_name": "web_77e68e05-bbe4-4f54-96fa-79f714c17505.png",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 5,
+        "dataset_name": "web_detailed_caption_point",
+        "gt_answers": "<Mark 1>: This is a language setting interface element within a webpage. It consists of a dropdown box, which likely contains options for selecting different languages for the content of this site. The presence of bracketed symbols suggests that this is a clickable element, which upon interaction, would display a list of available languages and allow the user to change the language preference for the page's content.",
+        "points": [
+            [
+                374,
+                1420
+            ]
+        ]
+    },
+    {
+        "image_name": "73621fa95a3736b26b69b3f2ab5f5df9.png",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 6,
+        "dataset_name": "web_detailed_caption_point",
+        "gt_answers": "<Mark 1>: This area contains an email address, \"info@medcompany.by,\" which serves as an electronic means for visitors to contact the company\u2014presumably for inquiries, support, or other communication purposes. Such an email hyperlink is commonly clickable and would open the user\u2019s default email client preloaded with the recipient's address.\n<Mark 2>: This identifies an Instagram social media icon, which is typically used as a link to redirect users to the company's Instagram profile. Interaction with this element would likely open a new tab or window in the user\u2019s browser, taking them directly to the associated Instagram page.\n<Mark 3>: This text, \"Skip to content,\" is typically a link designed to help users bypass navigation menus or other elements to go directly to the main content of the webpage. It is a feature that can improve accessibility for users who use screen readers or prefer to skip repetitive links.\n<Mark 4>: Similar to <Mark 2>, this marks a Facebook social media icon. Clicking on this icon would typically redirect the user to the company\u2019s Facebook page. It serves as a quick-access link for visitors to connect with the company on Facebook.",
+        "points": [
+            [
+                690,
+                30
+            ],
+            [
+                1516,
+                30
+            ],
+            [
+                0,
+                2
+            ],
+            [
+                1478,
+                30
+            ]
+        ]
+    },
+    {
+        "image_name": "web_0492a7c3-3b0d-4f62-8c0d-939ad51aa616.png",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 7,
+        "dataset_name": "web_detailed_caption_point",
+        "gt_answers": "<Mark 1>: The content within this area is labeled \"Use GitLab\" and \"Get started with GitLab features and functionality.\" This suggests it is an introductory section intended for users who are new to GitLab or those looking to learn how to utilize its features. This area is likely to be interactive, possibly linking to resources or documentation that would guide a user through the basic functionalities of GitLab.",
+        "points": [
+            [
+                415,
+                1293
+            ]
+        ]
+    },
+    {
+        "image_name": "web_921e2d81-b8a5-425a-81e6-476cd16f9bdb.png",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 8,
+        "dataset_name": "web_detailed_caption_point",
+        "gt_answers": "<Mark 1>: This region appears to be part of a navigation menu of a website, specifically an e-commerce platform or a Content Management System (CMS), possibly Magento or a similar service. The area features the word \"CUSTOMERS,\" which implies it is a section dedicated to customer-related information and functionalities. This area is likely interactive and could lead the user to a subsection of the CMS where they can manage customer data, view customer interactions, or track customer orders and behavior. Given the standard conventions of web design, clicking on this area would result in navigating to the customer management area of the website.",
+        "points": [
+            [
+                88,
+                584
+            ]
+        ]
+    },
+    {
+        "image_name": "9e7e2a0e3102aaca2cfba8ffe1182de4.png",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 9,
+        "dataset_name": "web_detailed_caption_point",
+        "gt_answers": "<Mark 1>: This section likely relates to the website's privacy policy or information on how user data is collected, used, and protected. It is commonly an interactive link that, when clicked, would direct a user to a page detailing the privacy practices of the site. The privacy section is integral for building trust with the users by being transparent about their data handling.\n<Mark 2>: This appears to be a category or section devoted to providing financial tips. It may offer educational content, such as articles, blog posts, or resources, aimed at helping individuals manage their finances better. If this is a hyperlink, clicking on it would take the user to a page with listed financial tips articles or resources.\n<Mark 3>: This section is likely dedicated to taxation-related content. It could offer advice, updates, and guidelines regarding taxes which could be of interest to individuals or businesses trying to navigate tax laws. Clicking on it would typically redirect the user to the taxation-related content.\n<Mark 4>: This indicates a downloadable financial services guide provided as a PDF document. Clicking on this link would normally prompt the download of a PDF file, which contains detailed information about the financial services offered by the website's owning entity.\n<Mark 5>: This section probably features information related to real estate, which may include buying, selling, investing, and property management advice. It is likely an interactive link that navigates to a page with real estate information.\n<Mark 6>: The financial updates section is expected to contain the latest news, trends, and changes in the financial world. This might be an interactive area where clicking on it would take the user to recent financial updates and news articles.\n<Mark 7>: This likely represents a resource section for budgeting, where users can find tools, tips, and strategies to create and maintain a budget. It is probably clickable, leading to a dedicated page with budgeting assistance.\n<Mark 8>: Refers to the official Australian Tax Office (ATO). It may provide direct access to tax-related information, forms, and services relevant to Australian citizens. This could be an interactive hyperlink guiding users to the official ATO resources or relevant tax guidance affiliated with the site.\n<Mark 9>: The checklist section is assumed to contain a series of actionable lists aimed at assisting users in organizing various financial processes or tasks. If it is a hyperlink, clicking it would take you to a page where you can view or download these checklists.",
+        "points": [
+            [
+                1343,
+                11
+            ],
+            [
+                1333,
+                357
+            ],
+            [
+                1314,
+                529
+            ],
+            [
+                1477,
+                11
+            ],
+            [
+                1324,
+                491
+            ],
+            [
+                1343,
+                395
+            ],
+            [
+                1314,
+                280
+            ],
+            [
+                451,
+                981
+            ],
+            [
+                816,
+                145
+            ],
+            [
+                1333,
+                337
+            ]
+        ]
+    },
+    {
+        "image_name": "web_7d1b09cc-3602-4670-9fb2-d81afb5ec381.png",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 10,
+        "dataset_name": "web_detailed_caption_point",
+        "gt_answers": "<Mark 1>: This region appears to be a search function within the web interface, typically represented by a magnifying glass icon. It's a common web interface element which allows users to input search queries to find relevant content or information within the website or application. This particular search bar seems to be part of a larger administrative or dashboard interface, possibly for a content management system or an online store backend, given the surrounding context. It is likely interactive: when clicked on, it would allow the user to type in search terms, and upon submission, the system would display relevant results or take the user to the relevant page.",
+        "points": [
+            [
+                2114,
+                187
+            ]
+        ]
+    }
+]

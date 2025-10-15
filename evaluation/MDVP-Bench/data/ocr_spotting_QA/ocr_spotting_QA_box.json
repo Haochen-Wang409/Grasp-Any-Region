@@ -1,0 +1,266 @@
+[
+    {
+        "image_name": "0000119.jpg",
+        "question": "What kind of font is shared by the text in <Region 1>, <Region 2>, and <Region 3>?",
+        "question_id": 1,
+        "dataset_name": "ocr_spotting_QA_box",
+        "gt_answers": "The text in <Region 1>, <Region 2>, and <Region 3> all share a serif typeface, implying a coordinated design and branding strategy for the signage.",
+        "bbox": [
+            [
+                176,
+                96,
+                106,
+                30
+            ],
+            [
+                164,
+                130,
+                127,
+                32
+            ],
+            [
+                173,
+                162,
+                38,
+                24
+            ],
+            [
+                228,
+                167,
+                44,
+                25
+            ]
+        ]
+    },
+    {
+        "image_name": "img_805.jpg",
+        "question": "What kind of establishment can be inferred to be associated with <Region 1>?",
+        "question_id": 2,
+        "dataset_name": "ocr_spotting_QA_box",
+        "gt_answers": "Given the modern and bold font of the text 'FFICINE' and its location, it can be inferred that the establishment is likely a retail store or business within a shopping center or mall.",
+        "bbox": [
+            [
+                356.0,
+                233.0,
+                87.0,
+                20.0
+            ],
+            [
+                443.0,
+                233.0,
+                95.0,
+                16.0
+            ]
+        ]
+    },
+    {
+        "image_name": "img_336.jpg",
+        "question": "Is the text 'HOL' part of a larger word or name, and if so, could it be related to the text in other regions?",
+        "question_id": 3,
+        "dataset_name": "ocr_spotting_QA_box",
+        "gt_answers": "Yes, the text 'HOL' appears to be part of a larger word or name and could be related to the text in <Region 2> and <Region 3>, which when combined may spell out a single coherent word or name.",
+        "bbox": [
+            [
+                529.0,
+                430.0,
+                101.0,
+                44.0
+            ],
+            [
+                521.0,
+                496.0,
+                105.0,
+                40.0
+            ],
+            [
+                521.0,
+                566.0,
+                92.0,
+                35.0
+            ],
+            [
+                823.0,
+                30.0,
+                101.0,
+                105.0
+            ]
+        ]
+    },
+    {
+        "image_name": "img_475.jpg",
+        "question": "What kind of offers might be indicated by the text in <Region 3>?",
+        "question_id": 4,
+        "dataset_name": "ocr_spotting_QA_box",
+        "gt_answers": "The text in <Region 3> suggests that there could be special offers, discounts, or promotional events available to customers.",
+        "bbox": [
+            [
+                236.0,
+                431.0,
+                38.0,
+                26.0
+            ],
+            [
+                270.0,
+                429.0,
+                21.0,
+                17.0
+            ],
+            [
+                262.0,
+                260.0,
+                120.0,
+                39.0
+            ],
+            [
+                186.0,
+                276.0,
+                78.0,
+                29.0
+            ],
+            [
+                311.0,
+                231.0,
+                67.0,
+                34.0
+            ],
+            [
+                210.0,
+                225.0,
+                58.0,
+                31.0
+            ],
+            [
+                222.0,
+                241.0,
+                69.0,
+                36.0
+            ]
+        ]
+    },
+    {
+        "image_name": "0001135.jpg",
+        "question": "What type of business might be identified by the name in <Region 1>?",
+        "question_id": 5,
+        "dataset_name": "ocr_spotting_QA_box",
+        "gt_answers": "Given the context and the accompanying image of an ice cream cone, the business identified by the name in <Region 1> is likely an ice cream shop.",
+        "bbox": [
+            [
+                155,
+                211,
+                186,
+                80
+            ],
+            [
+                189,
+                306,
+                48,
+                26
+            ],
+            [
+                272,
+                315,
+                50,
+                29
+            ]
+        ]
+    },
+    {
+        "image_name": "img_247.jpg",
+        "question": "What type of sign is displayed in <Region 1>, and what is its purpose?",
+        "question_id": 6,
+        "dataset_name": "ocr_spotting_QA_box",
+        "gt_answers": "The sign in <Region 1> is an EXIT sign, which serves the purpose of guiding individuals to the nearest exit, ensuring that people can quickly find their way out in case of emergency.",
+        "bbox": [
+            [
+                27.0,
+                114.0,
+                52.0,
+                26.0
+            ],
+            [
+                518.0,
+                222.0,
+                42.0,
+                27.0
+            ],
+            [
+                520.0,
+                271.0,
+                31.0,
+                34.0
+            ]
+        ]
+    },
+    {
+        "image_name": "img_60.jpg",
+        "question": "What color are the letters in <Region 1>?",
+        "question_id": 7,
+        "dataset_name": "ocr_spotting_QA_box",
+        "gt_answers": "The letters in <Region 1> are a bright teal color.",
+        "bbox": [
+            [
+                89.0,
+                172.0,
+                451.0,
+                145.0
+            ]
+        ]
+    },
+    {
+        "image_name": "img_6.jpg",
+        "question": "What might <Region 1> indicate about a particular area or space within the transportation vehicle?",
+        "question_id": 8,
+        "dataset_name": "ocr_spotting_QA_box",
+        "gt_answers": "<Region 1> indicates that there is a reserved area or seat nearby intended for specific passengers who may need special consideration, such as those with disabilities, senior citizens, or expectant mothers.",
+        "bbox": [
+            [
+                111.0,
+                459.0,
+                97.0,
+                24.0
+            ],
+            [
+                641.0,
+                454.0,
+                53.0,
+                16.0
+            ]
+        ]
+    },
+    {
+        "image_name": "0000696.jpg",
+        "question": "What color scheme is used for the lettering and the background in <Region 1> and <Region 2>?",
+        "question_id": 9,
+        "dataset_name": "ocr_spotting_QA_box",
+        "gt_answers": "The lettering in both <Region 1> and <Region 2> is white, and the background is maroon.",
+        "bbox": [
+            [
+                212,
+                47,
+                239,
+                101
+            ],
+            [
+                186,
+                230,
+                292,
+                127
+            ]
+        ]
+    },
+    {
+        "image_name": "img_218.jpg",
+        "question": "What brand does <Region 1> represent?",
+        "question_id": 10,
+        "dataset_name": "ocr_spotting_QA_box",
+        "gt_answers": "<Region 1> represents the brand 'HITACHI'.",
+        "bbox": [
+            [
+                663.0,
+                278.0,
+                69.0,
+                16.0
+            ]
+        ]
+    }
+]

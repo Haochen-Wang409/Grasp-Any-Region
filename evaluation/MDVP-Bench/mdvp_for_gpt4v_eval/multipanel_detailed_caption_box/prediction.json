@@ -1,0 +1,2186 @@
+[
+    {
+        "question_id": 1,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_251980.png",
+        "category": "android_detailed_caption_box",
+        "text": "Friday, Sep 2, 61°F"
+    },
+    {
+        "question_id": 2,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_251980.png",
+        "category": "android_detailed_caption_box",
+        "text": "A stylized letter \"G\" with a gradient of colors starting from red at the top, transitioning to orange, yellow, green, blue, and ending with purple at the bottom."
+    },
+    {
+        "question_id": 3,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_251980.png",
+        "category": "android_detailed_caption_box",
+        "text": "A white, fluffy cloud with a smooth, rounded shape and a slightly irregular outline. The cloud has a soft, cotton-like texture and appears to be illuminated from the left side, giving it a gentle gradient from white to a light blue hue."
+    },
+    {
+        "question_id": 4,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_251980.png",
+        "category": "android_detailed_caption_box",
+        "text": "A white gear with a blue circular center and six evenly spaced, straight teeth."
+    },
+    {
+        "question_id": 5,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_251980.png",
+        "category": "android_detailed_caption_box",
+        "text": "A white speech bubble icon with a blue outline, featuring three horizontal blue lines of varying lengths inside the bubble."
+    },
+    {
+        "question_id": 6,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_251980.png",
+        "category": "android_detailed_caption_box",
+        "text": "A red, rectangular play button with rounded corners, featuring a white, centered play triangle pointing to the right."
+    },
+    {
+        "question_id": 7,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_251980.png",
+        "category": "android_detailed_caption_box",
+        "text": "A stylized letter \"G\" with a gradient of colors starting from red at the top, transitioning to orange, yellow, green, and ending with blue at the bottom."
+    },
+    {
+        "question_id": 8,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_251980.png",
+        "category": "android_detailed_caption_box",
+        "text": "A blue circle with a red dot above it and a yellow dot below it."
+    },
+    {
+        "question_id": 9,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_251980.png",
+        "category": "android_detailed_caption_box",
+        "text": "A circular button with a white center and a thin black border."
+    },
+    {
+        "question_id": 10,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_251980.png",
+        "category": "android_detailed_caption_box",
+        "text": "A white, right-pointing arrow with a thick border."
+    },
+    {
+        "question_id": 11,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_18183248185514867672_2.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"Excel\" is written in a bold, sans-serif font with a white color. The letters are evenly spaced and have a slight shadow effect, giving them a three-dimensional appearance."
+    },
+    {
+        "question_id": 12,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_18183248185514867672_2.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"Facebook\" is written in a bold, sans-serif font with a light pink color. The letters are evenly spaced and have a slight shadow effect, giving them a three-dimensional appearance."
+    },
+    {
+        "question_id": 13,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_18183248185514867672_2.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"Speedtest\" is written in a bold, sans-serif font with a white color. The letters are evenly spaced and aligned horizontally."
+    },
+    {
+        "question_id": 14,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_18183248185514867672_2.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"Instagram\" is written in a bold, sans-serif font with a light pink color. The letters are evenly spaced and have a slight shadow effect, giving them a three-dimensional appearance."
+    },
+    {
+        "question_id": 15,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_18183248185514867672_2.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"Home\" is written in a bold, sans-serif font with a white color. The letters are evenly spaced and have a slight shadow effect, giving them a three-dimensional appearance."
+    },
+    {
+        "question_id": 16,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_18183248185514867672_2.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"Lite\" is written in a bold, sans-serif font with a white color. The letters are evenly spaced and have a slight shadow effect, giving them a three-dimensional appearance."
+    },
+    {
+        "question_id": 17,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_18183248185514867672_2.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"Messenger\" is written in a bold, sans-serif font with a gradient of pink to white. The letters are evenly spaced and have a slight shadow effect, giving them a three-dimensional appearance."
+    },
+    {
+        "question_id": 18,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_18183248185514867672_2.png",
+        "category": "android_detailed_caption_box",
+        "text": "Home De..."
+    },
+    {
+        "question_id": 19,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_18183248185514867672_2.png",
+        "category": "android_detailed_caption_box",
+        "text": "A pair of cartoonish eyes with large, white, oval-shaped pupils and black, curved eyelashes. The eyes are set against a green background."
+    },
+    {
+        "question_id": 20,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_18183248185514867672_2.png",
+        "category": "android_detailed_caption_box",
+        "text": "A blue square with a white lowercase \"g\" followed by three white horizontal lines of equal length."
+    },
+    {
+        "question_id": 21,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_14797572530627259726_40.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"Search\" is written in a bold, sans-serif font with a dark gray color. The letters are evenly spaced and aligned horizontally."
+    },
+    {
+        "question_id": 22,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_14797572530627259726_40.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"settings\" in lowercase letters, with a modern, sans-serif font. The letters are evenly spaced and have a slight shadow effect, giving them a three-dimensional appearance. The color of the text is a gradient of light to dark gray, with the darker shade at the top and the lighter shade at the bottom."
+    },
+    {
+        "question_id": 23,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_14797572530627259726_40.png",
+        "category": "android_detailed_caption_box",
+        "text": "mobile, data"
+    },
+    {
+        "question_id": 24,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_14797572530627259726_40.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"data\" in lowercase letters, with a modern, sans-serif font. The letters are evenly spaced and have a clean, minimalist design."
+    },
+    {
+        "question_id": 25,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_14797572530627259726_40.png",
+        "category": "android_detailed_caption_box",
+        "text": "The Wi-Fi symbol consists of a lowercase \"i\" with a dot above it, followed by a lowercase \"f\" with a dot above it."
+    },
+    {
+        "question_id": 26,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_14797572530627259726_40.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"and\" in lowercase letters, with a serif font, is written in a dark color against a light background."
+    },
+    {
+        "question_id": 27,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_14797572530627259726_40.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"hotspot\" in lowercase letters, with a modern, sans-serif font. The letters are evenly spaced and have a clean, minimalist design."
+    },
+    {
+        "question_id": 28,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_14797572530627259726_40.png",
+        "category": "android_detailed_caption_box",
+        "text": "usage, and hotspot"
+    },
+    {
+        "question_id": 29,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_14797572530627259726_40.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"Connected\" is written in a bold, sans-serif font with a black color. The letters are evenly spaced and have a slight shadow effect, giving them a three-dimensional appearance."
+    },
+    {
+        "question_id": 30,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_14797572530627259726_40.png",
+        "category": "android_detailed_caption_box",
+        "text": "A white, L-shaped object with a smooth surface and rounded edges."
+    },
+    {
+        "question_id": 31,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_98501.png",
+        "category": "android_detailed_caption_box",
+        "text": "Search or type web address"
+    },
+    {
+        "question_id": 32,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_98501.png",
+        "category": "android_detailed_caption_box",
+        "text": "The text \"ebay shopping cart\" is displayed in lowercase letters. The word \"ebay\" is in a larger font size compared to the word \"shopping cart\". The text is in a sans-serif font and is centered horizontally."
+    },
+    {
+        "question_id": 33,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_98501.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"cart\" in lowercase letters, with a bold, sans-serif font. The letters are black and evenly spaced."
+    },
+    {
+        "question_id": 34,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_98501.png",
+        "category": "android_detailed_caption_box",
+        "text": "https://cart.ebay.com/"
+    },
+    {
+        "question_id": 35,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_98501.png",
+        "category": "android_detailed_caption_box",
+        "text": "Welcome to Costco Wholesale"
+    },
+    {
+        "question_id": 36,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_98501.png",
+        "category": "android_detailed_caption_box",
+        "text": "The text \"costco.com\" is displayed in lowercase letters."
+    },
+    {
+        "question_id": 37,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_98501.png",
+        "category": "android_detailed_caption_box",
+        "text": "Pay Less."
+    },
+    {
+        "question_id": 38,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_98501.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"Target\" in bold, black, sans-serif font."
+    },
+    {
+        "question_id": 39,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_98501.png",
+        "category": "android_detailed_caption_box",
+        "text": "The text \"Expect More.\" is written in a bold, sans-serif font with a black color. The letters are evenly spaced and aligned horizontally."
+    },
+    {
+        "question_id": 40,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_98501.png",
+        "category": "android_detailed_caption_box",
+        "text": "The text \"target.com\" is displayed in a bold, sans-serif font with a blue color. The letters are evenly spaced and aligned horizontally."
+    },
+    {
+        "question_id": 41,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_5797941172247377583_7.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"skype\" is written in lowercase letters with a modern, sans-serif font. The letters are black and evenly spaced, with a slight shadow effect, giving them a three-dimensional appearance."
+    },
+    {
+        "question_id": 42,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_5797941172247377583_7.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"Skype\" is written in lowercase letters with a modern, sans-serif font. The letters are black and evenly spaced, with a slight shadow effect, giving them a three-dimensional appearance."
+    },
+    {
+        "question_id": 43,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_5797941172247377583_7.png",
+        "category": "android_detailed_caption_box",
+        "text": "A blue circular icon with a white lowercase \"s\" in the center."
+    },
+    {
+        "question_id": 44,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_5797941172247377583_7.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"Install\" is written in lowercase white letters on a green background."
+    },
+    {
+        "question_id": 45,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_5797941172247377583_7.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"Skype\" is written in a bold, sans-serif font with a dark gray color. The letters are evenly spaced and have a slight shadow effect, giving them a three-dimensional appearance."
+    },
+    {
+        "question_id": 46,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_5797941172247377583_7.png",
+        "category": "android_detailed_caption_box",
+        "text": "purchases"
+    },
+    {
+        "question_id": 47,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_5797941172247377583_7.png",
+        "category": "android_detailed_caption_box",
+        "text": "In-app purchases"
+    },
+    {
+        "question_id": 48,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_5797941172247377583_7.png",
+        "category": "android_detailed_caption_box",
+        "text": "A black star with a five-pointed shape, featuring a slightly irregular outline and a textured surface that suggests a three-dimensional form."
+    },
+    {
+        "question_id": 49,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_5797941172247377583_7.png",
+        "category": "android_detailed_caption_box",
+        "text": "A black letter \"B\" followed by a black plus sign."
+    },
+    {
+        "question_id": 50,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_5797941172247377583_7.png",
+        "category": "android_detailed_caption_box",
+        "text": "Editors' Choice"
+    },
+    {
+        "question_id": 51,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_8853455778583749835_5.png",
+        "category": "android_detailed_caption_box",
+        "text": "Search settings"
+    },
+    {
+        "question_id": 52,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_8853455778583749835_5.png",
+        "category": "android_detailed_caption_box",
+        "text": "A white envelope icon with a triangular flap on the right side, set against a dark background."
+    },
+    {
+        "question_id": 53,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_8853455778583749835_5.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"Add\" in lowercase letters, with a bold font and a slight shadow effect, giving it a three-dimensional appearance."
+    },
+    {
+        "question_id": 54,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_8853455778583749835_5.png",
+        "category": "android_detailed_caption_box",
+        "text": "another email"
+    },
+    {
+        "question_id": 55,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_8853455778583749835_5.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"account\" in lowercase letters, with a bold font and a slight italicization, set against a plain background."
+    },
+    {
+        "question_id": 56,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_8853455778583749835_5.png",
+        "category": "android_detailed_caption_box",
+        "text": "Set up your personal or work email"
+    },
+    {
+        "question_id": 57,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_8853455778583749835_5.png",
+        "category": "android_detailed_caption_box",
+        "text": "or work email"
+    },
+    {
+        "question_id": 58,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_8853455778583749835_5.png",
+        "category": "android_detailed_caption_box",
+        "text": "Network & internet"
+    },
+    {
+        "question_id": 59,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_8853455778583749835_5.png",
+        "category": "android_detailed_caption_box",
+        "text": "Wi-Fi, mobile, data"
+    },
+    {
+        "question_id": 60,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_8853455778583749835_5.png",
+        "category": "android_detailed_caption_box",
+        "text": "usage, and"
+    },
+    {
+        "question_id": 61,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_9088043504221051292_1.png",
+        "category": "android_detailed_caption_box",
+        "text": "Wednesday, May 18"
+    },
+    {
+        "question_id": 62,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_9088043504221051292_1.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"Maps\" in a bold, sans-serif font, with a gradient of pink to white, giving it a three-dimensional appearance."
+    },
+    {
+        "question_id": 63,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_9088043504221051292_1.png",
+        "category": "android_detailed_caption_box",
+        "text": "A stylized letter \"G\" with a gradient of colors starting from red at the top, transitioning to orange, yellow, green, blue, and ending with purple at the bottom."
+    },
+    {
+        "question_id": 64,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_9088043504221051292_1.png",
+        "category": "android_detailed_caption_box",
+        "text": "A red, teardrop-shaped pin with a black circular center."
+    },
+    {
+        "question_id": 65,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_9088043504221051292_1.png",
+        "category": "android_detailed_caption_box",
+        "text": "A white speech bubble icon with a blue outline, containing three horizontal blue lines of varying lengths."
+    },
+    {
+        "question_id": 66,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_9088043504221051292_1.png",
+        "category": "android_detailed_caption_box",
+        "text": "A stylized letter \"G\" with a gradient of colors starting from red at the top, transitioning to orange, yellow, green, and ending with blue at the bottom."
+    },
+    {
+        "question_id": 67,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_9088043504221051292_1.png",
+        "category": "android_detailed_caption_box",
+        "text": "A blue circle with a white border, a red circle with a white border, and a yellow circle with a white border."
+    },
+    {
+        "question_id": 68,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_1849.png",
+        "category": "android_detailed_caption_box",
+        "text": "The text \"costco.com/Check\" is displayed in a bold, sans-serif font. The word \"costco.com\" is in lowercase letters, and the word \"Check\" is in uppercase letters. The text is aligned to the left."
+    },
+    {
+        "question_id": 69,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_1849.png",
+        "category": "android_detailed_caption_box",
+        "text": "The logo features the word \"COSTCO\" in large, bold, red capital letters with a white outline. Below it, the word \"WHOLESALE\" is written in smaller, bold, blue capital letters."
+    },
+    {
+        "question_id": 70,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_1849.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"Warehouses\" is written in a bold, sans-serif font with a light blue color. The letters are evenly spaced and aligned horizontally."
+    },
+    {
+        "question_id": 71,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_1849.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"Account\" in a bold, sans-serif font, with a gradient of blue shades ranging from light to dark, giving it a three-dimensional appearance."
+    },
+    {
+        "question_id": 72,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_1849.png",
+        "category": "android_detailed_caption_box",
+        "text": "A blue shopping cart with a white handle and a white basket area."
+    },
+    {
+        "question_id": 73,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_1849.png",
+        "category": "android_detailed_caption_box",
+        "text": "A blue rectangular sign with the word \"Shop\" in white, bold, sans-serif font. To the left of the text, there are three horizontal white lines of varying lengths."
+    },
+    {
+        "question_id": 74,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_1849.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"Search\" in a bold, sans-serif font, with a slight shadow effect, giving it a three-dimensional appearance. The letters are evenly spaced and have a consistent size throughout."
+    },
+    {
+        "question_id": 75,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_1849.png",
+        "category": "android_detailed_caption_box",
+        "text": "My Warehouse"
+    },
+    {
+        "question_id": 76,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_1849.png",
+        "category": "android_detailed_caption_box",
+        "text": "Delivery Location"
+    },
+    {
+        "question_id": 77,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_1849.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"Seattle\" in bold, black, sans-serif font."
+    },
+    {
+        "question_id": 78,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_125967318814166469_6.png",
+        "category": "android_detailed_caption_box",
+        "text": "Fetch Rewards: Play"
+    },
+    {
+        "question_id": 79,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_125967318814166469_6.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"Play\" in bold, black, sans-serif font."
+    },
+    {
+        "question_id": 80,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_125967318814166469_6.png",
+        "category": "android_detailed_caption_box",
+        "text": "to earn"
+    },
+    {
+        "question_id": 81,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_125967318814166469_6.png",
+        "category": "android_detailed_caption_box",
+        "text": "The text \"MAKE\" is written in bold, uppercase letters with a dark green color. The letters are evenly spaced and have a slight shadow effect, giving them a three-dimensional appearance."
+    },
+    {
+        "question_id": 82,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_125967318814166469_6.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"MONEY\" in bold, uppercase letters with a green background and black outline."
+    },
+    {
+        "question_id": 83,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_125967318814166469_6.png",
+        "category": "android_detailed_caption_box",
+        "text": "The text \"appminer st\" is displayed in lowercase letters. The letters are green and have a sans-serif font. The text is aligned to the left."
+    },
+    {
+        "question_id": 84,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_125967318814166469_6.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"Contains\" is written in a bold, sans-serif font with a light gray color. The letters are evenly spaced and aligned horizontally."
+    },
+    {
+        "question_id": 85,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_125967318814166469_6.png",
+        "category": "android_detailed_caption_box",
+        "text": "The text \"ads\" is written in lowercase letters with a modern, sans-serif font. The letters are evenly spaced and have a clean, minimalist design. The color of the text is a light gray, blending subtly with the background."
+    },
+    {
+        "question_id": 86,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_125967318814166469_6.png",
+        "category": "android_detailed_caption_box",
+        "text": "The text \"50K+\" is displayed in bold, black font with a slight shadow effect, giving it a three-dimensional appearance. The \"50K\" is in a larger font size compared to the \"+\" sign."
+    },
+    {
+        "question_id": 87,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_125967318814166469_6.png",
+        "category": "android_detailed_caption_box",
+        "text": "A black star with a five-pointed shape, featuring a slightly irregular outline and a textured surface that suggests a three-dimensional form."
+    },
+    {
+        "question_id": 88,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_2921.png",
+        "category": "android_detailed_caption_box",
+        "text": "A black and white image of a computer keyboard with a standard QWERTY layout, including function keys, a number pad, and arrow keys. The keys are rectangular with white lettering on black keys, and the keyboard has a slight ergonomic curve."
+    },
+    {
+        "question_id": 89,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_2921.png",
+        "category": "android_detailed_caption_box",
+        "text": "The text \"walmart.com\" is displayed in a bold, sans-serif font. The letters are black and evenly spaced, with a slight shadow effect, giving them a three-dimensional appearance. The text is aligned to the left."
+    },
+    {
+        "question_id": 90,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_2921.png",
+        "category": "android_detailed_caption_box",
+        "text": "A white rectangular signboard with the text \"Lenovo Thinkpad\" in black, sans-serif font."
+    },
+    {
+        "question_id": 91,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_2921.png",
+        "category": "android_detailed_caption_box",
+        "text": "A blue rectangular button with rounded corners featuring the word \"Cancel\" in white, bold, sans-serif font."
+    },
+    {
+        "question_id": 92,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_2921.png",
+        "category": "android_detailed_caption_box",
+        "text": "A black and white image of a Lenovo ThinkPad laptop with a visible keyboard and trackpad."
+    },
+    {
+        "question_id": 93,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_2921.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"Lenovo\" in lowercase letters, with a bold font and a slight italicization, set against a plain background."
+    },
+    {
+        "question_id": 94,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_2921.png",
+        "category": "android_detailed_caption_box",
+        "text": "A black, rectangular computer keyboard with a standard QWERTY layout, including a number pad on the right side. The keys are chiclet-style with white lettering, and there is a slight sheen on the surface, suggesting a smooth texture. The function keys are aligned along the top, and there is a visible space bar at the bottom center."
+    },
+    {
+        "question_id": 95,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_2921.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"in\" in lowercase letters, with a bold font and a slight shadow effect, giving it a three-dimensional appearance."
+    },
+    {
+        "question_id": 96,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_2921.png",
+        "category": "android_detailed_caption_box",
+        "text": "A rectangular electronic device with a screen displaying text, surrounded by a thin bezel."
+    },
+    {
+        "question_id": 97,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_2921.png",
+        "category": "android_detailed_caption_box",
+        "text": "A black and white image of a Lenovo ThinkPad charger."
+    },
+    {
+        "question_id": 98,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/6.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "NAVIGATING SPECIAL EDUCATION SOCIAL & EMOTIONAL LEARNING"
+    },
+    {
+        "question_id": 99,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/6.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A yellow background with two human head outlines facing each other. The left head has the words \"FIXED MINDSET\" above a red downward arrow, and the right head has the words \"GROWTH MINDSET\" above a green upward arrow."
+    },
+    {
+        "question_id": 100,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/6.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A cartoon character with a serious expression, featuring a dark gray hair, a light blue shirt, and a red cross symbol on the left side of the head. The character has a red frown and is surrounded by two white, cloud-like shapes on either side of the head."
+    },
+    {
+        "question_id": 101,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/6.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A circular logo with a beige background featuring five hands in different colors: red, green, blue, purple, and orange, arranged in a circular pattern. Above the hands, the text \"Understanding Diversity\" is written in black."
+    },
+    {
+        "question_id": 102,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/6.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A black and white illustration of a person with a light bulb on their head, holding a book. The person has a question mark above their head and another question mark to the right of their head. The background is a light peach color."
+    },
+    {
+        "question_id": 103,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/6.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A cartoon illustration of two boys, one wearing a red shirt and blue shorts, and the other wearing a striped shirt and brown shorts, both with their arms raised. The word \"Bullying\" is written above them."
+    },
+    {
+        "question_id": 104,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/6.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A cartoon of a boy and a girl playing with each other. The boy is wearing a yellow shirt, black shorts, and red shoes. The girl is wearing a yellow shirt, blue pants, and red shoes. Both have black hair and are smiling."
+    },
+    {
+        "question_id": 105,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/6.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A blue speech bubble with a yellow lightning bolt symbol, and a red speech bubble with a yellow lightning bolt symbol, both containing a person's face."
+    },
+    {
+        "question_id": 106,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/6.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A rectangular blue traffic sign with a white border, featuring three white arrows. The leftmost arrow curves to the left, the middle arrow points straight up, and the rightmost arrow curves to the right. Below the arrows, the word \"CHANGES\" is written in white capital letters."
+    },
+    {
+        "question_id": 107,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/6.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A stylized illustration of two human figures, one in yellow and the other in blue, both with black outlines. The yellow figure is standing on a staircase, while the blue figure is standing on a platform. The blue figure is holding a microphone and appears to be speaking or presenting. The word \"Leadership\" is written in black text above the figures."
+    },
+    {
+        "question_id": 108,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=3115468935,3930284634&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A blue circle with a white plus sign inside it, followed by a white \"2X\" text."
+    },
+    {
+        "question_id": 109,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=3115468935,3930284634&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A hand holding a person with a blue shirt and black pants, with a purple banner below displaying \"$4,000\" in white text."
+    },
+    {
+        "question_id": 110,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=3115468935,3930284634&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A pie chart with a blue background and a white border, featuring a white line that divides the chart into two sections. The left section is larger and has a white number \"36%\" inside it, while the right section is smaller and has a white number \"36%\" inside it."
+    },
+    {
+        "question_id": 111,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=3115468935,3930284634&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A globe with a blue ocean and white continents, featuring a purple banner with white text that reads \"2.7 trillion impact to global GDP from use of more efficient talent platforms.\""
+    },
+    {
+        "question_id": 112,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=3115468935,3930284634&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "46% of companies are sometimes or frequently understaffed"
+    },
+    {
+        "question_id": 113,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/50.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Travel personas: how travelers identify their travel style"
+    },
+    {
+        "question_id": 114,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/50.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A circular planner with a white background featuring a colorful illustration of two people, one wearing a red hat and the other wearing a blue hat, both holding a smartphone. The person in the red hat is holding a book, and the person in the blue hat is holding a suitcase. The background includes a mountain and a sun. The text \"THE SMART PLANNER\" is written in bold, black letters at the top."
+    },
+    {
+        "question_id": 115,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/50.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "The Relaxed Nomad"
+    },
+    {
+        "question_id": 116,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/50.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A family of five, consisting of a man, a woman, and three children, standing together. The man is holding a baby, while the woman is holding a suitcase. The children are standing around them, with one child holding a suitcase. The family is depicted in a circular frame."
+    },
+    {
+        "question_id": 117,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/50.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A circular white background with a thin black border."
+    },
+    {
+        "question_id": 118,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/50.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A circular white background with a thin black border."
+    },
+    {
+        "question_id": 119,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/50.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A red airplane seat with a high backrest and armrests, featuring a small, rectangular, red and white logo on the backrest."
+    },
+    {
+        "question_id": 120,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/50.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A circular logo with a white background featuring a stylized illustration of a person in a blue suit with a red briefcase in their left hand and a blue suitcase in their right hand. The person is depicted in a walking motion, with one leg forward and the other leg back. The text \"THE BUSINESS ROAD WARRIOR\" is written in bold, black capital letters above the illustration."
+    },
+    {
+        "question_id": 121,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/24.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A woman with short brown hair, wearing a purple top with a white collar, is holding a yellow envelope in her right hand. She has a headset on her head and is standing in front of a computer monitor with the word \"BIG\" visible on the screen."
+    },
+    {
+        "question_id": 122,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/24.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A circular orange background with a white border."
+    },
+    {
+        "question_id": 123,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/24.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A circular logo with a light blue background featuring a stylized globe in the center. The globe is divided into four quadrants, each in a different shade of blue. A black headset with a microphone is positioned over the globe, with the earpieces extending outward. To the right of the globe, there is a yellow star."
+    },
+    {
+        "question_id": 124,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/24.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A cartoon man with a light blue shirt and a black tie, wearing a headset with a microphone. He has a light brown hair and is pointing upwards with his right hand. To his right, there is a yellow light bulb with a red base."
+    },
+    {
+        "question_id": 125,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/24.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A blue and black wrench with a flat-head design, featuring a blue handle with a textured grip and a black head with a serrated edge. The wrench has a long, straight shaft connecting the handle to the head."
+    },
+    {
+        "question_id": 126,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/24.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A stylized illustration of a person wearing a headset with a microphone, a purple shirt, and a white undershirt. The person is holding a smartphone with a blue and white design on the screen."
+    },
+    {
+        "question_id": 127,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/24.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A stylized illustration of a hand holding a black and white telephone handset, with a blue circular background featuring a partial globe and a speech bubble with the word \"BIG\" in white. The hand is wearing an orange life jacket with white stripes."
+    },
+    {
+        "question_id": 128,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/24.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A circular logo with a red border, featuring a stylized design of a person wearing a white shirt and a black tie, with a blue and white striped hat. The background includes a Union Jack flag and a yellow rectangle."
+    },
+    {
+        "question_id": 129,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/24.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A cartoon woman with brown hair tied back, wearing a purple shirt with a white collar, and a headset. She is holding a yellow star in her right hand and has a black and white striped object in her left hand."
+    },
+    {
+        "question_id": 130,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=1241354889,2739849697&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A stylized heart with a vibrant red color, featuring a prominent blue and orange flame-like design on the upper left side, and a smaller blue and orange flame-like design on the lower right side."
+    },
+    {
+        "question_id": 131,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=1241354889,2739849697&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A stylized human figure with arms raised in a celebratory pose, surrounded by four blue arrows pointing outward, each arrow with a slight curve and a pointed tip."
+    },
+    {
+        "question_id": 132,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=1241354889,2739849697&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A digital bathroom scale with a black base and a white digital display showing the weight."
+    },
+    {
+        "question_id": 133,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=1241354889,2739849697&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A pair of pink lungs with a central trachea, featuring detailed vein patterns and a slightly curved shape."
+    },
+    {
+        "question_id": 134,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=1241354889,2739849697&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A yellow smiley face with a black outline, featuring two black dots for eyes and a curved black line for a mouth."
+    },
+    {
+        "question_id": 135,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=1241354889,2739849697&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A human knee with a visible bone structure, including the femur and tibia, with a slight curvature and a smooth surface."
+    },
+    {
+        "question_id": 136,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=1241354889,2739849697&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A human brain with a detailed, textured surface, featuring a prominent cerebral cortex and a visible portion of the brain stem."
+    },
+    {
+        "question_id": 137,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=1241354889,2739849697&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A red heart with a white outline and a white line through the center, indicating a heart rate or rhythm."
+    },
+    {
+        "question_id": 138,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/11.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "The word \"HOTAPPE\" is written in large, bold, uppercase letters. The letters are colored in the following order from left to right: red, orange, yellow, light blue, and dark blue."
+    },
+    {
+        "question_id": 139,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/11.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A circular smiley face with a yellow face and a red border. The face has two blue teardrop-shaped eyes, a brown curved mouth, and two brown curved lines for eyebrows."
+    },
+    {
+        "question_id": 140,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/11.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "An orange circle with two brown hands facing each other, with the word \"OPENNESS\" in green capital letters below the circle."
+    },
+    {
+        "question_id": 141,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/11.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A circular yellow background with a pair of hands clasped together in the center. The hands are depicted in a light brown color, with the left hand slightly overlapping the right hand. Radiating from the hands are white lines, giving the impression of light or energy emanating from the hands. Below the hands, the word \"TOUCH\" is written in bold, uppercase letters."
+    },
+    {
+        "question_id": 142,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/11.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A circular logo with a light blue background featuring a large red heart in the center. Inside the heart, there is a white exclamation mark. Below the heart, the word \"ATTENTION\" is written in bold, uppercase letters."
+    },
+    {
+        "question_id": 143,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/11.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A circular blue background with two cartoon faces, one on the left and one on the right, separated by a white dashed line. The left face has brown hair and a neutral expression, while the right face has light brown hair and a neutral expression. Below the faces, the word \"PROXIMITY\" is written in bold, uppercase letters."
+    },
+    {
+        "question_id": 144,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/11.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A circular blue background with a white eye in the center, featuring a brown iris and a white sclera. Below the eye, the words \"EYE CONTACT\" are written in bold, uppercase letters."
+    },
+    {
+        "question_id": 145,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=2557672574,3690790099&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A person with a green background, wearing a red shirt, with a thermometer in their mouth."
+    },
+    {
+        "question_id": 146,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=2557672574,3690790099&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A person with a green background, wearing a pink shirt, with a red nose and a red mouth, and a white hand with three fingers extended."
+    },
+    {
+        "question_id": 147,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=2557672574,3690790099&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A person with a green background, wearing a pink shirt, with a green and white object in their mouth."
+    },
+    {
+        "question_id": 148,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=2557672574,3690790099&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A stylized illustration of a person with a green circular background. The person has a gray face with a red nose and a red mouth. The person is wearing a red shirt with a yellow collar."
+    },
+    {
+        "question_id": 149,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=2557672574,3690790099&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A person with a green background, wearing a red shirt and white pants, is sitting on a white chair."
+    },
+    {
+        "question_id": 150,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=2557672574,3690790099&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A circular green sign with a white border, featuring a stylized illustration of a pair of red lungs with a gray outline, set against a dark background."
+    },
+    {
+        "question_id": 151,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=2557672574,3690790099&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A stylized illustration of a kidney with a red and pink color scheme, featuring a central red area with a pink outline, flanked by two symmetrical, curved, pink shapes resembling the kidney's lobes, all set against a light green background."
+    },
+    {
+        "question_id": 152,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/23.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A blue rectangular header with the text \"Interesting Facts\" in white, bold, sans-serif font. To the left of the text, there are three white horizontal lines. To the right of the text, there is a red heart symbol."
+    },
+    {
+        "question_id": 153,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/23.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A stylized panda face with a white face, black ears, black patches around the eyes, and a black nose. The panda has a small, curved black mouth and a content expression. The face is set against a green circular background."
+    },
+    {
+        "question_id": 154,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/23.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A green circular background with a white plate in the center, containing a yellow circle. To the left of the plate is a white fork, and to the right is a white spoon."
+    },
+    {
+        "question_id": 155,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/23.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A circular icon with a dark blue background featuring a red heart in the center. The heart is outlined in white and has a white line running horizontally across its middle. Below the heart, the word \"Diseases\" is written in white, bold, sans-serif font."
+    },
+    {
+        "question_id": 156,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/23.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A white long-sleeved shirt with a teal collar and cuffs, featuring a row of black buttons down the front."
+    },
+    {
+        "question_id": 157,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/23.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A circular orange icon with a white film reel design in the center. The film reel has a blue border with white squares on the left and right sides, and a white center with a blue horizontal line dividing it into two sections."
+    },
+    {
+        "question_id": 158,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/23.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A circular green icon featuring a white syringe with a red cross symbol on the barrel, a white droplet to the right of the syringe, and a yellow needle."
+    },
+    {
+        "question_id": 159,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/23.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A circular blue icon featuring a white wine glass with a yellow liquid on the left and a white bottle with a yellow liquid and a brown cap on the right."
+    },
+    {
+        "question_id": 160,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/23.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A circular icon with a dark blue background featuring two stylized human figures. The figure on the left has short, light brown hair and is wearing a red shirt. The figure on the right has short, light brown hair and is wearing a brown shirt with a white collar."
+    },
+    {
+        "question_id": 161,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/23.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A circular icon with a solid olive green background featuring a white silhouette of the Earth in the center."
+    },
+    {
+        "question_id": 162,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=2795077530,1349319423&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A person sitting on a chair with their head in their hands, wearing a blue shirt and black pants."
+    },
+    {
+        "question_id": 163,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=2795077530,1349319423&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A person with short brown hair, wearing a blue long-sleeve shirt and yellow pants, is sitting on a white platform with a blue wave design at the bottom."
+    },
+    {
+        "question_id": 164,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=2795077530,1349319423&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A woman with dark hair tied back, wearing a pink top, is depicted with a thought bubble above her head."
+    },
+    {
+        "question_id": 165,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=2795077530,1349319423&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A person with red hair, wearing a green top and blue pants, is sitting on a windowsill with their legs crossed."
+    },
+    {
+        "question_id": 166,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=2795077530,1349319423&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A woman with dark hair tied back, wearing a blue sleeveless top and black leggings, is running with her arms slightly bent and her legs in motion. She has a white earphone cord hanging from her right ear."
+    },
+    {
+        "question_id": 167,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=2795077530,1349319423&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A woman with black hair tied back, wearing a green headband, a green sleeveless top, and black pants, is sitting cross-legged with her hands pressed together in a prayer position."
+    },
+    {
+        "question_id": 168,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=3691911939,3379985415&fm=253&app=138&f=PNG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A green dinosaur with a white belly, a purple dinosaur with a white belly, and a green dinosaur with a white belly."
+    },
+    {
+        "question_id": 169,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=3691911939,3379985415&fm=253&app=138&f=PNG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A cartoon boy with a purple bandage on his forehead, wearing a blue shirt and blue pants, is holding a purple object in his right hand."
+    },
+    {
+        "question_id": 170,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=3691911939,3379985415&fm=253&app=138&f=PNG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A lime green refrigerator with a single door, featuring a black handle on the right side. The door has a horizontal indentation near the top."
+    },
+    {
+        "question_id": 171,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=3691911939,3379985415&fm=253&app=138&f=PNG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A small, rectangular, lime green refrigerator with a single door featuring a vertical handle on the left side. The bottom section of the refrigerator is orange with a horizontal handle."
+    },
+    {
+        "question_id": 172,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/4010.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A dark-colored, rectangular structure with a flat roof and vertical sides, featuring a small, square window on the upper left side and a larger, rectangular window on the lower right side."
+    },
+    {
+        "question_id": 173,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/4010.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A tree with dense, green foliage."
+    },
+    {
+        "question_id": 174,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/4010.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A cylindrical, metallic pole with a consistent diameter throughout its length, featuring a series of evenly spaced, horizontal bands encircling its surface."
+    },
+    {
+        "question_id": 175,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407550.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A deep, dark-colored bowl with a wide, flared rim and a smooth, glossy finish."
+    },
+    {
+        "question_id": 176,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407550.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A modern kitchen with a stainless steel oven and a black cooktop. The oven has a digital display and control panel, and there is a visible handle on the oven door. The cooktop has multiple burners with black grates."
+    },
+    {
+        "question_id": 177,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407550.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A white, rectangular wall socket with a single, round, black power switch located on the right side."
+    },
+    {
+        "question_id": 178,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407550.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A white, rectangular light switch with rounded edges, featuring a central toggle switch mechanism."
+    },
+    {
+        "question_id": 179,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407550.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "Stainless steel built-in oven with a large glass door, featuring a digital control panel above the door with multiple buttons and a display screen."
+    },
+    {
+        "question_id": 180,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407550.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A tall, slender vase with a flared rim and a narrow neck that gradually widens into a bulbous base, featuring a glossy finish with a gradient of colors transitioning from a deep blue at the top to a greenish hue towards the bottom."
+    },
+    {
+        "question_id": 181,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407550.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "The floor is composed of medium-toned wooden planks with a smooth, polished finish. The wood grain is visible, running lengthwise along the planks, which are laid out parallel to each other. The planks have a consistent width and exhibit a warm, reddish-brown hue."
+    },
+    {
+        "question_id": 182,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407550.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A vertical, wall-mounted spice rack with multiple tiers, each tier holding several glass jars with metal lids. The jars are arranged in a single column, and the rack appears to be made of a dark, possibly wooden material."
+    },
+    {
+        "question_id": 183,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/402.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A round, dark-colored table with a smooth surface and a central pedestal base."
+    },
+    {
+        "question_id": 184,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/402.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "The chair features a high, slightly curved backrest and seat cushion upholstered in a woven fabric with a diamond pattern. The fabric is primarily light green with a central vertical stripe in a slightly darker shade. The armrests are padded and covered in the same woven fabric, with a light green color. The chair's legs are dark-colored and straight."
+    },
+    {
+        "question_id": 185,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/402.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A purple place mat with a textured surface and a white circular design in the center."
+    },
+    {
+        "question_id": 186,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/402.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A vertical traffic light with three circular lenses arranged in a column, displaying a red light at the top, an unlit middle lens, and a green light at the bottom, all encased in a black housing with a visor over each lens."
+    },
+    {
+        "question_id": 187,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/402.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A pink and white striped awning with a scalloped edge and fringe detailing."
+    },
+    {
+        "question_id": 188,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/402.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A tall, dark brown tree trunk with a rough, textured bark. The trunk is relatively straight and has a consistent width throughout its visible length."
+    },
+    {
+        "question_id": 189,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/402.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A chalkboard sign with a wooden frame displaying the text \"Château de la Bertrandière\" in elegant, cursive script."
+    },
+    {
+        "question_id": 190,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/402.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A tall, narrow, rectangular window with a dark frame and a single vertical pane of clear glass."
+    },
+    {
+        "question_id": 191,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000518836.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A chestnut horse with a white star on its forehead, dark eyes, and a soft, dark muzzle. Its ears are pricked forward, and the mane appears to be a lighter shade of chestnut, blending into the darker coat. The horse's neck shows a gentle curve, and the coat has a healthy sheen."
+    },
+    {
+        "question_id": 192,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000518836.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A brown horse with a dark mane."
+    },
+    {
+        "question_id": 193,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000518836.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A light gray horse with a darker mane and tail, featuring a well-muscled build, a straight profile, and a calm demeanor."
+    },
+    {
+        "question_id": 194,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000205601.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A white, rectangular table with rounded corners and a smooth surface."
+    },
+    {
+        "question_id": 195,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000205601.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A modern black induction cooktop featuring a sleek design with two visible cooking zones, each outlined with a white circular pattern. The front edge has a stainless steel trim with control buttons, and there are small yellow indicator lights above the buttons."
+    },
+    {
+        "question_id": 196,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000205601.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A glossy, metallic spoon with a reflective surface and a tapered handle, featuring a rounded bowl with a slight indentation on one side."
+    },
+    {
+        "question_id": 197,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000205601.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A metallic spoon with a reflective surface and a tapered handle that widens towards the end, featuring a rounded bowl with a pointed tip."
+    },
+    {
+        "question_id": 198,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000299654.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A zebra with a distinctive black and white striped pattern, featuring a mane of short, erect hair transitioning from black at the base to white at the tips. The stripes on the neck are vertical and become more horizontal as they reach the mane. The visible part of the zebra's face shows a pattern of narrow stripes that converge around the eyes and muzzle, with a white area above the eyes and a dark nose. The ears are pointed and display a striped pattern consistent with the head."
+    },
+    {
+        "question_id": 199,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000107939.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "An octagonal red stop sign with bold, all-caps white lettering spelling \"STOP\" centered on the sign."
+    },
+    {
+        "question_id": 200,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000107939.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "An octagonal sign with a red background and a white border, featuring the word \"STOP\" in white uppercase letters."
+    },
+    {
+        "question_id": 201,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000437374.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A dark brown, square-shaped cushion with a visible textured surface that suggests a soft, plush fabric."
+    },
+    {
+        "question_id": 202,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000437374.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A dark brown, square-shaped pillow with a visible corner that appears to be soft and plush."
+    },
+    {
+        "question_id": 203,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000437374.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "The earlobe is small and rounded, with a smooth, slightly glossy surface. It is adorned with a small, round, gold-colored earring that has a subtle, reflective sheen."
+    },
+    {
+        "question_id": 204,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000437374.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A young girl with curly hair, wearing a patterned top with a mix of geometric and floral designs in dark and vibrant colors, paired with long-sleeved pink undershirts. Her expression is one of mild surprise or excitement, with her mouth slightly open and eyes looking upwards. Her arms are outstretched with palms facing up, as if gesturing or presenting something."
+    },
+    {
+        "question_id": 205,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000437374.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A young boy with curly hair, wearing a striped sweater with shades of blue, white, and brown, stands with his hands clasped together. He has a focused expression on his face, with his mouth slightly open and his eyes looking to the side."
+    },
+    {
+        "question_id": 206,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407508.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A ski parka featuring a color-block design with a white torso, green sleeves, and black shoulder panels. The jacket has a high collar and a front zipper closure. There are red accents on the cuffs and a red logo on the left chest area. The parka is paired with a black helmet with a visor."
+    },
+    {
+        "question_id": 207,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407508.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "The knee of the person is covered in a dark purple snowsuit with a slightly glossy finish. The fabric appears thick and durable, suitable for cold weather. The knee area is slightly bent, indicating a relaxed stance. The snowsuit has a subtle sheen, reflecting light, and the material appears to be tightly fitted around the knee."
+    },
+    {
+        "question_id": 208,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407508.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "The trousers are dark-colored, possibly black or dark gray, with a straight-leg cut. They feature a visible side pocket on the right leg with a flap closure, and there are belt loops around the waistband. The fabric appears to be a sturdy material, potentially denim or a similar thick textile."
+    },
+    {
+        "question_id": 209,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407508.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A blue helmet with a glossy finish, featuring a prominent white stripe with a red outline running horizontally across the middle. The helmet has a black visor attached at the front, and a black chin strap with a buckle hanging down from the sides."
+    },
+    {
+        "question_id": 210,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407508.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "The ski boot is predominantly black with a sleek, modern design. It features a sturdy, high-ankle structure for support and a smooth, matte finish. The boot has a contoured shape to fit the foot and lower leg, with a slightly raised heel for added stability. The sole is thick and textured for grip and durability."
+    },
+    {
+        "question_id": 211,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407508.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "The sleeve of the sweater is predominantly white with a bold red graphic of a person skiing. The fabric appears to be a soft, knit material, and the sleeve is slightly loose-fitting, extending to the wrist. The red graphic is positioned centrally on the sleeve, adding a dynamic contrast to the white background."
+    },
+    {
+        "question_id": 212,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407508.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A person wearing a black helmet, goggles, and a white jacket with red and black accents, including a red logo on the left chest area. The individual is also wearing black gloves and appears to be in a skiing stance."
+    },
+    {
+        "question_id": 213,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2411153.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A red, white, and green racing motorcycle fairing with the number 69 prominently displayed in white on a red background, flanked by green and white stripes. The fairing features sponsor logos and a black lower section with a vent."
+    },
+    {
+        "question_id": 214,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2411153.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A series of parallel, evenly spaced, horizontal lines with a consistent width, running across the entire width of the image."
+    },
+    {
+        "question_id": 215,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/22d3844dcf29a07bd10f557a33684e331846f81b938ca0f742afab09c542133f.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The mass of the quark is a very small, massless particle that is part of the quark mass. It is a fundamental particle that is responsible for the mass of the quark, and it is often used in particle physics to study the properties of quarks and their interactions."
+    },
+    {
+        "question_id": 216,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/22d3844dcf29a07bd10f557a33684e331846f81b938ca0f742afab09c542133f.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "A lowercase letter 'v' with a serif at the top and a tail at the bottom, featuring a bold, sans-serif font."
+    },
+    {
+        "question_id": 217,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/3b5a913400aa0be183eed5cdd06246f1f1c27dfc145a62a4296fe3ef38fc44f8.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The geometry and adsorption energies for the structures of thio-glycolic acid on Au(111) at 0.25ML."
+    },
+    {
+        "question_id": 218,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/3b5a913400aa0be183eed5cdd06246f1f1c27dfc145a62a4296fe3ef38fc44f8.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The table contains a list of adsorption sites with their corresponding adsorption energies. The adsorption sites are listed in a column, with each site having a corresponding adsorption energy. The adsorption energy is listed in a separate column, with each site having a corresponding energy value. The table also includes the adsorption energy for the Au-S bond, which is listed in a separate column. The adsorption energy for the Au-S bond is listed in a separate column, with each site having a corresponding energy value."
+    },
+    {
+        "question_id": 219,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/3b5a913400aa0be183eed5cdd06246f1f1c27dfc145a62a4296fe3ef38fc44f8.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The adsorption energy is 0.63 eV."
+    },
+    {
+        "question_id": 220,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/3b5a913400aa0be183eed5cdd06246f1f1c27dfc145a62a4296fe3ef38fc44f8.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The adsorption energy for the most stable structure of the HSCH2COOH on the Au(111) surface is 0.63 eV. The adsorption site preferred by the sulfur atom is located at the top of the gold atom. The polar angle between the normal vector of the surface and the S-C2 direction is 74.2 degrees. The HSCH2COOH tend to lie down at the low coverage."
+    },
+    {
+        "question_id": 221,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/3b5a913400aa0be183eed5cdd06246f1f1c27dfc145a62a4296fe3ef38fc44f8.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "A black and white image of a person's face with a neutral expression, featuring a prominent nose, closed lips, and visible teeth. The person has short hair and is wearing a dark-colored top."
+    },
+    {
+        "question_id": 222,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0146_0010.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The segmented image shows two graphs. The first graph on the left is titled \"Atom prediction performance (a and c)\" and features a scatter plot with blue and orange dots. The second graph on the right is titled \"Bond prediction performance (a and c)\" and also features a scatter plot with blue and orange dots. Both graphs have a similar layout with x and y axes, and the dots are evenly spaced."
+    },
+    {
+        "question_id": 223,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0146_0010.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The F1 score for segmentation and classification networks."
+    },
+    {
+        "question_id": 224,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0146_0010.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The performance of segmentation network is measured by the F1 score, which is a metric that takes into account both precision and recall. The F1 score is used to evaluate the performance of the segmentation network in terms of its ability to correctly segment the image. The segmentation network is compared to other networks, and the F1 score is used to determine which network is the most effective."
+    },
+    {
+        "question_id": 225,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0146_0010.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The segmentation network is a deep learning model that uses a combination of atom, bond, and charge types to predict the pixel values. The model is trained on a large amount of data and has a high F1 score, indicating its high accuracy. The F1 score is a measure of the model's performance, taking into account both precision and recall. The model is designed to be used for various tasks, such as image segmentation and object detection."
+    },
+    {
+        "question_id": 226,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0146_0010.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The performance of the different types of networks is measured by the F1 score, which is a measure of the accuracy of the network. The F1 score is higher for the different types of networks, indicating that they are performing well. The performance of the different types of networks is compared to the performance of the segmentation networks."
+    },
+    {
+        "question_id": 227,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0146_0010.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The performance of the different parts of the network is measured by the F1 score, which is a measure of the accuracy of the network. The F1 score is used to evaluate the performance of the network in different tasks, such as atom, bond, and charge type classifications. The network is able to do a good job even when the segmentation is not perfect, and the performance of the different parts of the network is significantly higher than the segmentation networks."
+    },
+    {
+        "question_id": 228,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0146_0010.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "8.3 Overall graph accuracy"
+    },
+    {
+        "question_id": 229,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0146_0010.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The overall graph accuracy is a measure of the performance of the different parts of the graph, including the segmentation network and the classification network. The segmentation network is used to segment the graph into different parts, and the classification network is used to predict the type of the graph. The overall graph accuracy is a combination of these two parts, and it is used to measure the performance of the graph."
+    },
+    {
+        "question_id": 230,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0146_0010.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The number 11 is displayed in a bold, sans-serif font with a dark color, possibly black or dark gray, against a lighter background. The digits are evenly spaced and aligned vertically."
+    },
+    {
+        "question_id": 231,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/2802b6a4f8f0c20b8ba717634b852ef20bc4d76831853ff5279febe7cc8b98a1.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The sugar is a low GI sweet spot, which is a type of sugar that has a low glucose index."
+    },
+    {
+        "question_id": 232,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/2802b6a4f8f0c20b8ba717634b852ef20bc4d76831853ff5279febe7cc8b98a1.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The low GI sweet spot is at least 22mg CE/100mg sucrose."
+    },
+    {
+        "question_id": 233,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/2802b6a4f8f0c20b8ba717634b852ef20bc4d76831853ff5279febe7cc8b98a1.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The sugar has a low GI of about 22-32 mg CE/100g polyphenols. The polyphenol content is high, with a range of 22-32 mg CE/100g polyphenols. The sugar is hygroscopic, with a higher moisture content, and the polyphenol content increases as the sugar becomes more saturated."
+    },
+    {
+        "question_id": 234,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/2802b6a4f8f0c20b8ba717634b852ef20bc4d76831853ff5279febe7cc8b98a1.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The massacuit is a dark brown, viscous liquid with a glossy sheen, contained in a clear glass bottle."
+    },
+    {
+        "question_id": 235,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/2802b6a4f8f0c20b8ba717634b852ef20bc4d76831853ff5279febe7cc8b98a1.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The massacuites are prepared at two different sugar mills, designated as \"Mill 1\" and \"Mill 2\". The polyphenol content of each sample is determined and washed until they reach the desired polyphenol content, which is roughly 500 to 2000 ICUMSA. The results are in Table 4 below."
+    },
+    {
+        "question_id": 236,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/2802b6a4f8f0c20b8ba717634b852ef20bc4d76831853ff5279febe7cc8b98a1.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "A black and white image of a sugar cube with a textured surface, featuring a pattern of small, raised dots."
+    },
+    {
+        "question_id": 237,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0148_0008.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The image shows a collection of documents with text, some of which are in black and white, and others in color. The documents are arranged in a grid-like pattern, with some documents having a red border. The text on the documents is in various fonts and sizes, and some documents have a red box around the text."
+    },
+    {
+        "question_id": 238,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0148_0008.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The OCR process."
+    },
+    {
+        "question_id": 239,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0148_0008.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The text is a letter written in English, with the first line reading \"Available OCR\" followed by \"for your information a Report upon the Plague in Hong Kong in 1894, so far as it concerns the medical work which I carried out under your direction.\" The second line reads \"I regret that several important matters, including the epidemiology of the disease, have been touched upon in the Report, which I will ask you to accept as an excuse for my shortcomings in this Report.\" The third line reads \"I have the honour to forward herewith for your information a Report upon the Plague in Hong Kong in 1894, so far as it concerns the medical work which I carried out under your direction.\" The fourth line reads \"I regret that several important matters, including the epidemiology of the disease, have been touched upon in the Report, which I will ask you to accept as an excuse for my shortcomings in this Report.\" The fifth line reads \"I have the honour to forward herewith for your information a Report upon the Plague in Hong Kong in 1894, so far as it concerns the medical work which I carried out under your direction.\" The sixth line reads \"I regret that several important matters, including the epidemiology of the disease, have been touched upon in the Report, which I will ask you to accept as an excuse for my shortcomings in this Report.\" The seventh line reads \"I have the honour to forward herewith for your information a Report upon the Plague in Hong Kong in 1894, so far as it concerns the medical work which I carried out under your direction.\" The eighth line reads \"I regret that several important matters, including the epidemiology of the disease, have been touched upon in the Report, which I will ask you to accept as an excuse for my shortcomings in this Report.\" The ninth line reads \"I have the honour to forward herewith for your information a Report upon the Plague in Hong Kong in 1894, so far as it concerns the medical work which I carried out under your direction.\" The tenth line reads \"I regret that several important matters, including the epidemiology of the disease, have been touched upon in the Report, which I will ask you to accept as an excuse for my shortcomings in this Report.\" The eleventh line reads \"I have the honour to forward herewith for your information a Report upon the Plague in Hong Kong in 1894, so far as it concerns the medical work which I carried out under your direction.\" The twelfth line reads \"I regret that several important matters, including the epidemiology of the disease, have been touched upon in the Report, which I will ask you to accept as an excuse for my shortcomings in this Report.\" The thirteenth line reads \"I have the honour to forward herewith for your information a Report upon the Plague in Hong Kong in 1894, so far as it concerns the medical work which I carried out under your direction.\" The fourteenth line reads \"I regret that several important matters, including the epidemiology of the disease, have been touched upon in the Report, which I will ask you to accept as an excuse for my shortcomings in this Report.\" The fifteenth line reads \"I have the honour to forward herewith for your information a Report upon the Plague in Hong Kong in 1894, so far as it concerns the medical work which I carried out under your direction.\" The sixteenth line reads \"I regret that several important matters, including the epidemiology of the disease, have been touched upon in the Report, which I will ask you to accept as an excuse for my shortcomings in this Report.\" The seventeenth line reads \"I have the honour to forward herewith for your information a Report upon the Plague in Hong Kong in 1894, so far as it concerns the medical work which I carried out under your direction.\" The eighteenth line reads \"I regret that several important matters, including the epidemiology of the disease, have been touched upon in the Report, which I will ask you to accept as an excuse for my shortcomings in this Report.\" The nineteenth line reads \"I have the honour to forward herewith for your information a Report upon the Plague in Hong Kong in 1894, so far as it concerns the medical work which I carried out under your direction.\" The twentieth line reads \"I regret that several important matters, including the epidemiology of the disease, have been touched upon in the Report, which I will ask you to accept as an excuse for my shortcomings in this Report.\" The twenty-first line reads \"I have the honour to forward herewith for your information a Report upon the Plague in Hong Kong in 1894, so far as it concerns the medical work which I carried out under your direction.\" The twenty-second line reads \"I regret that several important matters, including the epidemiology of the disease, have been touched upon in the Report, which I will ask you to accept as an excuse for my shortcomings in this Report.\" The twenty-third"
+    },
+    {
+        "question_id": 240,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0148_0008.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The Internet Archive image containing this excerpt can be accessed here: https://archive.org/details/b2439867/page/n7"
+    },
+    {
+        "question_id": 241,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0148_0008.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "Journal of Data Mining and Digital Humanities"
+    },
+    {
+        "question_id": 242,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0148_0008.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The text is a web address in blue, displaying the URL \"http://dmh.esciences.org\"."
+    },
+    {
+        "question_id": 243,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0148_0008.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The number 9 is displayed in a bold, sans-serif font with a slight shadow effect, giving it a three-dimensional appearance. The color of the number is a gradient of dark to light gray, with the darker shade at the top and the lighter shade at the bottom."
+    },
+    {
+        "question_id": 244,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/6b5108198110934af9975bbb77b66ac0e9d095ec2031082b58970252031cc686.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The text \"IOOF Annual Report 2012\" is displayed in a serif font, with \"IOOF\" in a larger size and \"Annual Report 2012\" in a smaller size. The text is in a light green color."
+    },
+    {
+        "question_id": 245,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/6b5108198110934af9975bbb77b66ac0e9d095ec2031082b58970252031cc686.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "Non-Executive Directors' Remuneration"
+    },
+    {
+        "question_id": 246,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/6b5108198110934af9975bbb77b66ac0e9d095ec2031082b58970252031cc686.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "4.1. Components of Non-Executive Director remuneration"
+    },
+    {
+        "question_id": 247,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/6b5108198110934af9975bbb77b66ac0e9d095ec2031082b58970252031cc686.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The text \"page 37\" is written in lowercase letters."
+    },
+    {
+        "question_id": 248,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/6b5108198110934af9975bbb77b66ac0e9d095ec2031082b58970252031cc686.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The company is a non-executive director."
+    },
+    {
+        "question_id": 249,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/6b5108198110934af9975bbb77b66ac0e9d095ec2031082b58970252031cc686.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The Company's Constitution requires that the aggregate remuneration paid or provided to all Non-Executive Directors in any financial year by the Company, its subsidiaries and associated entities may not exceed an amount approved by shareholders. The ceiling amount includes all remuneration provided to Non-Executive Directors, including superannuation but not including retirement benefits. The current limit of $980,000 per annum was approved by shareholders at the 2010 Annual General Meeting. There has been no increase to the Non-Executive Director fee pool since this time."
+    },
+    {
+        "question_id": 250,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/6b5108198110934af9975bbb77b66ac0e9d095ec2031082b58970252031cc686.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "Non-Executive Directors receive a fee for being a Director of the Board. An additional fee is paid to the Chairman of the Board. Non-Executive Directors do not receive additional fees for service on Board and Committees. The Company's Constitution requires that the aggregate remuneration paid or provided to all Non-Executive Directors in any financial year may not exceed an amount approved by shareholders."
+    },
+    {
+        "question_id": 251,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/c17e4a6722b8cd30e591150720d363de3b00a3b5510eeafc2e5d83a3c1e9c08b.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The text is a mathematical equation involving the homotopy group of a space."
+    },
+    {
+        "question_id": 252,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/c17e4a6722b8cd30e591150720d363de3b00a3b5510eeafc2e5d83a3c1e9c08b.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The region is a monopole, which is a type of topological defect."
+    },
+    {
+        "question_id": 253,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/c17e4a6722b8cd30e591150720d363de3b00a3b5510eeafc2e5d83a3c1e9c08b.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The topological conditions of formation of defects only govern the formation of topologically stable defects. It was found that defects solutions can form even when the topology is trivial. The most well-known example are the electro-weak strings, formed during the electroweak symmetry breaking, which are perturbatively stable for a range of parameters which are not realized in nature, and belong to the broader class of embedded defects."
+    },
+    {
+        "question_id": 254,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/c17e4a6722b8cd30e591150720d363de3b00a3b5510eeafc2e5d83a3c1e9c08b.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "These defects are a priori unstable though mechanisms (such as plasma effects) have been found to stabilize them. They are of interest for inflation model builders since this mechanism can allow lift the constraints from the formation of cosmic strings (see Sec. IV F on D-term inflation)."
+    },
+    {
+        "question_id": 255,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/c17e4a6722b8cd30e591150720d363de3b00a3b5510eeafc2e5d83a3c1e9c08b.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "A black and white image of a mathematical equation with the variables \"x\" and \"y\" in a bold font, followed by a period and the number \"1\" in a smaller font."
+    },
+    {
+        "question_id": 256,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/c17e4a6722b8cd30e591150720d363de3b00a3b5510eeafc2e5d83a3c1e9c08b.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The number 72 is displayed in a bold, black font with a slight shadow effect, giving it a three-dimensional appearance. The numerals are evenly spaced and aligned horizontally."
+    },
+    {
+        "question_id": 257,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0301_0188_0040.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "A stylized illustration of a woman with a bun hairstyle, featuring a pattern of white, cloud-like shapes with small black dots scattered throughout. The woman is wearing a pink garment with a polka dot pattern."
+    },
+    {
+        "question_id": 258,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0301_0188_0040.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "A red and white polka dot pattern with a small, dark, irregularly shaped mark near the center."
+    },
+    {
+        "question_id": 259,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/8785a083270bd6931b7096508bdb57d938bca3a9787c50b82c188f7744a5b5f7.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The number 62 is displayed in a bold, sans-serif font with a dark color, possibly black or dark gray, against a lighter background. The numerals are evenly spaced and aligned horizontally."
+    },
+    {
+        "question_id": 260,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/8785a083270bd6931b7096508bdb57d938bca3a9787c50b82c188f7744a5b5f7.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "Chapter 2: Motivation"
+    },
+    {
+        "question_id": 261,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/8785a083270bd6931b7096508bdb57d938bca3a9787c50b82c188f7744a5b5f7.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The string theory is a type of string theory that is compactified on the near-horizon geometry. It is a decoupled theory that combines the two pictures of the same low energy limit of one theory, Type IIB string theory."
+    },
+    {
+        "question_id": 262,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/8785a083270bd6931b7096508bdb57d938bca3a9787c50b82c188f7744a5b5f7.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The region is a field theory picture of the low energy limit of Type IIB string theory."
+    },
+    {
+        "question_id": 263,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/8785a083270bd6931b7096508bdb57d938bca3a9787c50b82c188f7744a5b5f7.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The regions for which analytic tools exist for these two different pictures turn out to be completely incompatible."
+    },
+    {
+        "question_id": 264,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/8785a083270bd6931b7096508bdb57d938bca3a9787c50b82c188f7744a5b5f7.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The equation is a complex mathematical expression involving various variables and functions. It includes a combination of Greek letters, numbers, and mathematical operators. The visible part of the equation shows a series of variables and functions that are interconnected, with some parts appearing to be in parentheses. The equation is written in a formal, mathematical notation."
+    },
+    {
+        "question_id": 265,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/1d4428fcd749139270136afe55a72185c44b5ff783c1161767efacc2f08a43c3.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The presence of an insider on the market does not necessarily lead to arbitrage, and the presence of insiders might be considered beneficial to the market, in the sense that it leads to higher information efficiency of the equilibrium price process."
+    },
+    {
+        "question_id": 266,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/1d4428fcd749139270136afe55a72185c44b5ff783c1161767efacc2f08a43c3.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The fundamental value of the firm is a stochastic process, and the insider can observe it directly or at least observe it in a less noisy way than the other agents on the market."
+    },
+    {
+        "question_id": 267,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/1d4428fcd749139270136afe55a72185c44b5ff783c1161767efacc2f08a43c3.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The paper relaxes the assumption of static insider information and studies the equilibrium trading and price processes, as well as market efficiency, in a setting with dynamic private information."
+    },
+    {
+        "question_id": 268,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/1d4428fcd749139270136afe55a72185c44b5ff783c1161767efacc2f08a43c3.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The model is a generalization of the static information setting of [2]."
+    },
+    {
+        "question_id": 269,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/1d4428fcd749139270136afe55a72185c44b5ff783c1161767efacc2f08a43c3.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The model is a generalization of the static information setting of [2] and is designed to include dynamic information. It has a much smaller set of admissible trading strategies and pricing rules compared to the ones considered in the work. The model shows the existence of a unique Markovian equilibrium, which is an equilibrium price that allows the insider to trade undetected and depends only on the total order process. The model also shows that the presence of an insider increases the market informational efficiency for times close to the time of the order."
+    },
+    {
+        "question_id": 270,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/1d4428fcd749139270136afe55a72185c44b5ff783c1161767efacc2f08a43c3.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "A green and white striped awning with a scalloped edge and fringe detailing."
+    },
+    {
+        "question_id": 271,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0000288.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "A red, three-dimensional, cursive sign with the word \"Abondana\" written in a flowing, elegant script."
+    },
+    {
+        "question_id": 272,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0000288.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The signboard features the word \"Cafe\" in a stylized, cursive font with a gradient of red to dark red, giving it a three-dimensional appearance. The letters are slightly italicized and have a shadow effect, enhancing their depth."
+    },
+    {
+        "question_id": 273,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0000288.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The logo features the letters \"USIS\" in bold, with \"US\" in red and \"IS\" in black. Below the letters, there is a tagline in smaller, gray font."
+    },
+    {
+        "question_id": 274,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_49.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The word \"ESTATE\" is written in bold, black, uppercase letters on a yellow background."
+    },
+    {
+        "question_id": 275,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_49.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The signage displays the word \"AGENTS\" in bold, uppercase letters. The letters are black and set against a yellow background."
+    },
+    {
+        "question_id": 276,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_49.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The signage displays the word \"SAXONS\" in bold, black capital letters on a yellow background."
+    },
+    {
+        "question_id": 277,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_49.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The signboard features the word \"SAXONS\" in capital letters with a serif font, set against a dark background. The letters are in a metallic gold color with a slight gradient, giving them a three-dimensional appearance. The signboard has a reflective surface, suggesting it is made of a glossy material."
+    },
+    {
+        "question_id": 278,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_49.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The signboard displays the word \"ESTATE\" in capital letters, with a serif font. The letters are dark and possibly metallic, with a reflective surface that catches the light, giving them a slightly shiny appearance. The background of the signboard is not visible, but the letters are set against a dark backdrop that contrasts with the lighter color of the text."
+    },
+    {
+        "question_id": 279,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_49.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The signboard features capitalized, serif lettering spelling \"AGENTS\" with a metallic finish and a slight gradient, giving it a three-dimensional appearance. The letters are evenly spaced and aligned horizontally."
+    },
+    {
+        "question_id": 280,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0000808.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The word \"Triple\" is written in a cursive, green font with a white outline. The letters are slightly italicized and have a playful, rounded design."
+    },
+    {
+        "question_id": 281,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0000808.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The word \"WHITE\" is written in bold, uppercase letters with a slight shadow effect, giving it a three-dimensional appearance. The letters are evenly spaced and aligned horizontally."
+    },
+    {
+        "question_id": 282,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0000808.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The word \"SPOT\" is written in bold, uppercase letters with a light blue color. The letters are evenly spaced and have a slight shadow effect, giving them a three-dimensional appearance."
+    },
+    {
+        "question_id": 283,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0000808.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "A stylized, cursive letter \"O\" with a green outline and a white fill, featuring a small, curved tail extending from the bottom right."
+    },
+    {
+        "question_id": 284,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0000808.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The visible part of the ag is a white, stylized letter \"A\" with a slight shadow effect, giving it a three-dimensional appearance."
+    },
+    {
+        "question_id": 285,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0001122.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The text \"NEW\" is written in bold, red, uppercase letters with a slight shadow effect, giving it a three-dimensional appearance. The letters are evenly spaced and aligned horizontally."
+    },
+    {
+        "question_id": 286,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0001122.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The text \"YORK\" is written in bold, red, uppercase letters with a slight shadow effect, giving it a three-dimensional appearance. The letters are evenly spaced and aligned horizontally."
+    },
+    {
+        "question_id": 287,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_162.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The text \"Colchester\" is written in a bold, sans-serif font with a dark blue color."
+    },
+    {
+        "question_id": 288,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_940.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The signage features bold, black, uppercase letters spelling \"AYAM\" on a yellow background."
+    },
+    {
+        "question_id": 289,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_940.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The signage features large, bold, red letters \"RUA\" on a yellow background."
+    },
+    {
+        "question_id": 290,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_940.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "A yellow sign with the word \"SMASHED\" in bold, black, uppercase letters."
+    },
+    {
+        "question_id": 291,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_940.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "A dark brown, rectangular sign with the word \"FRIED\" in bold, uppercase letters."
+    },
+    {
+        "question_id": 292,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_940.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "A brown sign with the word \"CHICKEN\" in bold, uppercase letters."
+    },
+    {
+        "question_id": 293,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_70.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "Accommodation"
+    },
+    {
+        "question_id": 294,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_70.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The word \"Office\" is written in a bold, sans-serif font with a dark blue color. The letters are evenly spaced and aligned horizontally."
+    },
+    {
+        "question_id": 295,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_70.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The word \"Nightline\" is written in a bold, sans-serif font with a dark blue color."
+    },
+    {
+        "question_id": 296,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0001250.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "A red and white signboard with the word \"BUBBA\" in bold, capitalized, red letters on a white background, with a red border around the sign."
+    },
+    {
+        "question_id": 297,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0001250.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The signboard features the word \"GUMP\" in large, bold, red capital letters with a white outline. The letters are set against a textured, light-colored background that resembles a stone or concrete surface."
+    },
+    {
+        "question_id": 298,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0001250.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The signboard features the word \"SHRIMP\" in capital letters, with a bold, sans-serif font. The letters are white with a slight shadow effect, giving them a three-dimensional appearance. The background of the signboard is a deep blue color, providing a stark contrast to the white text."
+    },
+    {
+        "question_id": 299,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0001250.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "A curved signboard with a red border and a white background, featuring the word \"RESTAURANT\" in bold, black, uppercase letters."
+    },
+    {
+        "question_id": 300,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0001250.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "A curved, red and white signboard with the word \"MARKET\" in capital letters, featuring a serif font."
+    },
+    {
+        "question_id": 301,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0001250.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "A circular blue signboard with a white border and a white symbol resembling a stylized letter 'C' in the center."
+    },
+    {
+        "question_id": 302,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0001250.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "A circular, metallic signboard with a textured background featuring the letters \"TM\" in a bold, sans-serif font, centered on the sign."
+    },
+    {
+        "question_id": 303,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/tr_img_01235.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The word \"EVENING\" is written in bold, uppercase letters with a gradient of red to pink. The letters are evenly spaced and have a slightly blurred effect, giving them a soft, glowing appearance."
+    },
+    {
+        "question_id": 304,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/tr_img_01235.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The word \"PRIMROSE\" is written in bold, uppercase letters with a gradient of pink to red. The letters are evenly spaced and have a slightly blurred effect, giving them a soft, glowing appearance."
+    },
+    {
+        "question_id": 305,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/tr_img_01235.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The word \"BASE\" is written in bold, uppercase letters with a red background and white outline. The letters are evenly spaced and have a slightly distressed texture."
+    },
+    {
+        "question_id": 306,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/tr_img_01235.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The word \"OIL\" is written in bold, uppercase letters with a gradient of red to pink. The letters are evenly spaced and have a slightly blurred appearance."
+    },
+    {
+        "question_id": 307,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/tr_img_01644.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The number 46 is displayed in a large, bold, white font with a slight shadow effect, giving it a three-dimensional appearance. The numerals are evenly spaced and have a smooth, rounded design."
+    },
+    {
+        "question_id": 308,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/60e34f9315443cb6c77d32da7ba5eee1.png",
+        "category": "web_detailed_caption_box",
+        "text": "A green calendar with white text displaying the numbers 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369,"
+    },
+    {
+        "question_id": 309,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/60e34f9315443cb6c77d32da7ba5eee1.png",
+        "category": "web_detailed_caption_box",
+        "text": "A green rectangular button with rounded corners featuring the word \"Connecter\" in white lowercase letters, followed by a yellow icon resembling a lock with a keyhole."
+    },
+    {
+        "question_id": 310,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/60e34f9315443cb6c77d32da7ba5eee1.png",
+        "category": "web_detailed_caption_box",
+        "text": "A green, stylized, lowercase letter \"a\" with a slight shadow effect, giving it a three-dimensional appearance."
+    },
+    {
+        "question_id": 311,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/60e34f9315443cb6c77d32da7ba5eee1.png",
+        "category": "web_detailed_caption_box",
+        "text": "A green, stylized lowercase \"a\" with a curved tail extending from the bottom right, resembling a lowercase \"i\" with a dot above it."
+    },
+    {
+        "question_id": 312,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/60e34f9315443cb6c77d32da7ba5eee1.png",
+        "category": "web_detailed_caption_box",
+        "text": "A green rectangular sign with white text displaying the numbers \"07\" in a bold, sans-serif font."
+    },
+    {
+        "question_id": 313,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/60e34f9315443cb6c77d32da7ba5eee1.png",
+        "category": "web_detailed_caption_box",
+        "text": "The word \"septembre\" in lowercase letters, with a green background and white font."
+    },
+    {
+        "question_id": 314,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/60e34f9315443cb6c77d32da7ba5eee1.png",
+        "category": "web_detailed_caption_box",
+        "text": "The text \"Lien Web\" is written in a bold, sans-serif font with a green color. The letters are evenly spaced and aligned horizontally."
+    },
+    {
+        "question_id": 315,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/60e34f9315443cb6c77d32da7ba5eee1.png",
+        "category": "web_detailed_caption_box",
+        "text": "The numbers 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30 are displayed in a green color."
+    },
+    {
+        "question_id": 316,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/60e34f9315443cb6c77d32da7ba5eee1.png",
+        "category": "web_detailed_caption_box",
+        "text": "A green and white striped awning with a scalloped edge and a fringe detail."
+    },
+    {
+        "question_id": 317,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/60e34f9315443cb6c77d32da7ba5eee1.png",
+        "category": "web_detailed_caption_box",
+        "text": "Plan du site"
+    },
+    {
+        "question_id": 318,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/0180e97a3e9609ea8c72b6b8db0071c8.png",
+        "category": "web_detailed_caption_box",
+        "text": "A white arrow pointing to the right, with a slight curve at the tail end, is positioned to the right of the text \"Book Now.\""
+    },
+    {
+        "question_id": 319,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/0180e97a3e9609ea8c72b6b8db0071c8.png",
+        "category": "web_detailed_caption_box",
+        "text": "About Us"
+    },
+    {
+        "question_id": 320,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/0180e97a3e9609ea8c72b6b8db0071c8.png",
+        "category": "web_detailed_caption_box",
+        "text": "The text \"Pay Balance\" is written in bold, black, sans-serif font."
+    },
+    {
+        "question_id": 321,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/0180e97a3e9609ea8c72b6b8db0071c8.png",
+        "category": "web_detailed_caption_box",
+        "text": "About Us"
+    },
+    {
+        "question_id": 322,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/0180e97a3e9609ea8c72b6b8db0071c8.png",
+        "category": "web_detailed_caption_box",
+        "text": "contact us"
+    },
+    {
+        "question_id": 323,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/0180e97a3e9609ea8c72b6b8db0071c8.png",
+        "category": "web_detailed_caption_box",
+        "text": "The word \"About\" is written in a bold, sans-serif font with a gradient of pink to red, set against a teal background."
+    },
+    {
+        "question_id": 324,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/0180e97a3e9609ea8c72b6b8db0071c8.png",
+        "category": "web_detailed_caption_box",
+        "text": "A teal-colored horizontal bar with white text and symbols. On the left side, there is a white envelope icon followed by the text \"doonawash@gmail.com\". On the right side, there is a white icon resembling a person in a wheelchair."
+    },
+    {
+        "question_id": 325,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/0180e97a3e9609ea8c72b6b8db0071c8.png",
+        "category": "web_detailed_caption_box",
+        "text": "The text \"Contact us\" is written in a bold, sans-serif font with a pinkish-red color. The letters are evenly spaced and aligned horizontally."
+    },
+    {
+        "question_id": 326,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/0180e97a3e9609ea8c72b6b8db0071c8.png",
+        "category": "web_detailed_caption_box",
+        "text": "The word \"Home\" is written in a bold, sans-serif font with a gradient of blue shades, transitioning from a lighter blue at the top to a darker blue at the bottom."
+    },
+    {
+        "question_id": 327,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/0180e97a3e9609ea8c72b6b8db0071c8.png",
+        "category": "web_detailed_caption_box",
+        "text": "The text \"Pay Balance\" is written in a bold, sans-serif font with a pinkish hue. The letters are evenly spaced and aligned horizontally."
+    },
+    {
+        "question_id": 328,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/web_0558c1f4-c05b-49a8-8479-04b1575779d2.png",
+        "category": "web_detailed_caption_box",
+        "text": "OpenStreetMap Belgium"
+    },
+    {
+        "question_id": 329,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/367173643a055b0657de17afff8d541d.png",
+        "category": "web_detailed_caption_box",
+        "text": "A black arrow pointing to the right."
+    },
+    {
+        "question_id": 330,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/367173643a055b0657de17afff8d541d.png",
+        "category": "web_detailed_caption_box",
+        "text": "A white rectangular tag with the number \"4.9\" in bold black font centered on it."
+    },
+    {
+        "question_id": 331,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/367173643a055b0657de17afff8d541d.png",
+        "category": "web_detailed_caption_box",
+        "text": "A rectangular blue button with white text that reads \"Pulsuz Konsultasyon.\""
+    },
+    {
+        "question_id": 332,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/367173643a055b0657de17afff8d541d.png",
+        "category": "web_detailed_caption_box",
+        "text": "The word \"Portfolio\" in a bold, sans-serif font, with a slight italicization, and a drop shadow effect, giving it a three-dimensional appearance. The letters are black with a white outline, and the text is set against a plain background."
+    },
+    {
+        "question_id": 333,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/5c9b9883310423712e466bee13a36a02.png",
+        "category": "web_detailed_caption_box",
+        "text": "A white shopping cart icon with a blue outline, featuring a rectangular basket with a grid pattern, two vertical handles, and four wheels, two of which are visible."
+    },
+    {
+        "question_id": 334,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/5c9b9883310423712e466bee13a36a02.png",
+        "category": "web_detailed_caption_box",
+        "text": "The word \"SUPPORT\" in bold, uppercase letters with a blue background and white outline."
+    },
+    {
+        "question_id": 335,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/5c9b9883310423712e466bee13a36a02.png",
+        "category": "web_detailed_caption_box",
+        "text": "A white lowercase letter \"f\" with a bold, sans-serif font, set against a blue background."
+    },
+    {
+        "question_id": 336,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/5c9b9883310423712e466bee13a36a02.png",
+        "category": "web_detailed_caption_box",
+        "text": "Your Charts"
+    },
+    {
+        "question_id": 337,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/5c9b9883310423712e466bee13a36a02.png",
+        "category": "web_detailed_caption_box",
+        "text": "A blue \"X\" with a white outline, featuring a slightly darker blue fill and a lighter blue border."
+    },
+    {
+        "question_id": 338,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/5c9b9883310423712e466bee13a36a02.png",
+        "category": "web_detailed_caption_box",
+        "text": "A rectangular white sign with the words \"CONTACT US\" in bold, uppercase, blue letters."
+    },
+    {
+        "question_id": 339,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/5c9b9883310423712e466bee13a36a02.png",
+        "category": "web_detailed_caption_box",
+        "text": "A rectangular blue button with rounded corners and a white border. The button has the words \"ADD TO CART\" in bold, white, uppercase letters centered on it."
+    },
+    {
+        "question_id": 340,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/5c9b9883310423712e466bee13a36a02.png",
+        "category": "web_detailed_caption_box",
+        "text": "The word \"PRODUCTS\" is written in bold, uppercase letters with a blue background. The letters are evenly spaced and have a slight shadow effect, giving them a three-dimensional appearance."
+    },
+    {
+        "question_id": 341,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/5c9b9883310423712e466bee13a36a02.png",
+        "category": "web_detailed_caption_box",
+        "text": "The word \"PODCAST\" is written in bold, uppercase letters with a blue background. The letters are evenly spaced and have a slight shadow effect, giving them a three-dimensional appearance."
+    },
+    {
+        "question_id": 342,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/5c9b9883310423712e466bee13a36a02.png",
+        "category": "web_detailed_caption_box",
+        "text": "The text \"ABOUT US\" is written in bold, uppercase letters. The letters are blue and have a slight shadow effect, giving them a three-dimensional appearance. The text is centered horizontally."
+    },
+    {
+        "question_id": 343,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/53b4ab2cb706a43fec7ce4ac5eac181e.png",
+        "category": "web_detailed_caption_box",
+        "text": "The text \"WHAT WE DO\" is written in bold, uppercase letters. The letters are evenly spaced and have a modern, sans-serif font style. The color of the text is black, and it stands out against a light background."
+    },
+    {
+        "question_id": 344,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/53b4ab2cb706a43fec7ce4ac5eac181e.png",
+        "category": "web_detailed_caption_box",
+        "text": "GWM launches livelihood micro-grants"
+    },
+    {
+        "question_id": 345,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/53b4ab2cb706a43fec7ce4ac5eac181e.png",
+        "category": "web_detailed_caption_box",
+        "text": "A rectangular white button with a black border and the word \"Settings\" in black, bold, sans-serif font centered on it."
+    },
+    {
+        "question_id": 346,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/53b4ab2cb706a43fec7ce4ac5eac181e.png",
+        "category": "web_detailed_caption_box",
+        "text": "Privacy Policy"
+    },
+    {
+        "question_id": 347,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/53b4ab2cb706a43fec7ce4ac5eac181e.png",
+        "category": "web_detailed_caption_box",
+        "text": "The word \"HOME\" in uppercase letters, with a bold, sans-serif font, is centered on the image. The letters are evenly spaced and have a slight shadow effect, giving them a three-dimensional appearance. The color of the text is a gradient of light to dark gray, creating a subtle contrast against the background."
+    },
+    {
+        "question_id": 348,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/53b4ab2cb706a43fec7ce4ac5eac181e.png",
+        "category": "web_detailed_caption_box",
+        "text": "A rectangular black button with the word \"Accept\" in white, bold, sans-serif font centered on it."
+    },
+    {
+        "question_id": 349,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/53b4ab2cb706a43fec7ce4ac5eac181e.png",
+        "category": "web_detailed_caption_box",
+        "text": "A red, oval-shaped button with a white border and the word \"DONATE\" in bold, uppercase, red letters centered on it."
+    },
+    {
+        "question_id": 350,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/53b4ab2cb706a43fec7ce4ac5eac181e.png",
+        "category": "web_detailed_caption_box",
+        "text": "The word \"NEWS\" in bold, uppercase letters with a slight shadow effect, giving it a three-dimensional appearance. The letters are evenly spaced and have a clean, modern font style."
+    },
+    {
+        "question_id": 351,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/53b4ab2cb706a43fec7ce4ac5eac181e.png",
+        "category": "web_detailed_caption_box",
+        "text": "The text \"ABOUT US\" is written in bold, uppercase letters with a sans-serif font. The letters are evenly spaced and aligned horizontally. The color of the text is black, and it stands out against a light background."
+    },
+    {
+        "question_id": 352,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/53b4ab2cb706a43fec7ce4ac5eac181e.png",
+        "category": "web_detailed_caption_box",
+        "text": "The text \"CONTACT US\" is written in bold, uppercase letters. The letters are evenly spaced and have a modern, sans-serif font. The color of the text is black, and it stands out against a light background."
+    },
+    {
+        "question_id": 353,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/web_6c677961-e540-4cc5-b725-5e301019a9f9.png",
+        "category": "web_detailed_caption_box",
+        "text": "A black and white icon depicting a stylized, abstract representation of a building with a flat roof and multiple rectangular windows arranged in a grid pattern."
+    },
+    {
+        "question_id": 354,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/656b47ffb1270a8038d876586e92a71b.png",
+        "category": "web_detailed_caption_box",
+        "text": "The word \"News\" in a bold, sans-serif font, with a slight shadow effect, giving it a three-dimensional appearance. The letters are evenly spaced and have a dark color, contrasting with the lighter background."
+    },
+    {
+        "question_id": 355,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/656b47ffb1270a8038d876586e92a71b.png",
+        "category": "web_detailed_caption_box",
+        "text": "The logo features the word \"ServeGate\" in bold, black letters. To the left of the text, there is a stylized design consisting of two overlapping triangles, one in teal and the other in red, with a black line separating them."
+    },
+    {
+        "question_id": 356,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/656b47ffb1270a8038d876586e92a71b.png",
+        "category": "web_detailed_caption_box",
+        "text": "Our Difference"
+    },
+    {
+        "question_id": 357,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/656b47ffb1270a8038d876586e92a71b.png",
+        "category": "web_detailed_caption_box",
+        "text": "The text \"About Us\" is written in a bold, sans-serif font with a red color. The letters are evenly spaced and aligned horizontally."
+    },
+    {
+        "question_id": 358,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/656b47ffb1270a8038d876586e92a71b.png",
+        "category": "web_detailed_caption_box",
+        "text": "A rectangular button with rounded corners, featuring a light pink background and a thin red border. The button displays the text \"Get in touch\" in bold, red, sans-serif font."
+    },
+    {
+        "question_id": 359,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/656b47ffb1270a8038d876586e92a71b.png",
+        "category": "web_detailed_caption_box",
+        "text": "The word \"Home\" in a serif font, with the letters in a light gray color against a white background."
+    },
+    {
+        "question_id": 360,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/656b47ffb1270a8038d876586e92a71b.png",
+        "category": "web_detailed_caption_box",
+        "text": "The word \"Services\" in a bold, sans-serif font, with a slight shadow effect, giving it a three-dimensional appearance. The letters are evenly spaced and aligned horizontally."
+    },
+    {
+        "question_id": 361,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/656b47ffb1270a8038d876586e92a71b.png",
+        "category": "web_detailed_caption_box",
+        "text": "Indigenous Impact"
+    },
+    {
+        "question_id": 362,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/656b47ffb1270a8038d876586e92a71b.png",
+        "category": "web_detailed_caption_box",
+        "text": "The text \"ServeGate\" is written in bold, black, sans-serif font. The letters are evenly spaced and aligned horizontally."
+    },
+    {
+        "question_id": 363,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/web_5a35d9c2-2c2d-4a49-ad0a-1408d9cac78e.png",
+        "category": "web_detailed_caption_box",
+        "text": "A rectangular white button with rounded corners, featuring the text \"Close issue\" in bold, black, sans-serif font."
+    },
+    {
+        "question_id": 364,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/web_3fed2169-3c3d-43e7-baaa-3bf0e0c7134c.png",
+        "category": "web_detailed_caption_box",
+        "text": "A vertical array of three circular, dark-colored buttons with a slightly raised, smooth surface, aligned centrally on a light-colored background."
+    }
+]

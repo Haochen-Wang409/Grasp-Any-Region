@@ -1,0 +1,396 @@
+[
+    {
+        "image_name": "u=758170821,3598362063&fm=253&app=138&f=JPEG.png",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 1,
+        "dataset_name": "multipanel_detailed_caption_point",
+        "gt_answers": "<Mark 1>: The image shows a header section with the text \"Our Services,\" suggesting this panel is an introduction to the various services provided by a company that specializes in cleaning. It is likely the main title for the subsequent individual services listed below in the other panels.\n<Mark 2>: This panel shows an icon of a bed with a sparkling effect, and the text \"Mattress Cleaning\" below it. The image suggests a service focused on cleaning mattresses, likely promising a thorough clean to remove dirt, dust mites, or other allergens.\n<Mark 3>: Depicted here is a symbol representing a floor and a carpet with a cleaning instrument, accompanied by the text \"Floor and Carpet Cleaning.\" This indicates a service dedicated to the cleaning of flooring and carpets, which may include washing or stain removal.\n<Mark 4>: Illustrated in this region is an icon of a house with waves of air or fragrance emanating from it, and the text \"Air Treatment\" is shown below. This indicates a service that likely involves improving indoor air quality, possibly through filtration or purification methods.\n<Mark 5>: Featured in this panel is a graphic of a sofa with bubbles above it, and \"Sofa Cleaning\" is the text identified below. This suggests a cleaning service for upholstery, particularly sofas, where thorough cleaning for removal of stains and dust is implied.\n<Mark 6>: This panel contains an icon of a curtain with sparkling stars around it, and the text \"Curtain Cleaning\" underneath. It indicates a service focused on cleaning curtains, implying that it could remove dust and refresh the fabric.\n<Mark 7>: Displayed is a symbol of a figure with a broom and a dustpan, and below it is the text \"Maid Service.\" This suggests that the company offers regular cleaning services performed by a maid, which could include various household cleaning tasks.",
+        "points": [
+            [
+                240,
+                98
+            ],
+            [
+                98,
+                177
+            ],
+            [
+                101,
+                259
+            ],
+            [
+                243,
+                178
+            ],
+            [
+                241,
+                255
+            ],
+            [
+                384,
+                176
+            ],
+            [
+                385,
+                254
+            ]
+        ]
+    },
+    {
+        "image_name": "47.png",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 2,
+        "dataset_name": "multipanel_detailed_caption_point",
+        "gt_answers": "<Mark 1>: The image presents a stylized illustration of a person with a sun and cloud above their head, suggesting an improvement in mood or clearing of dark thoughts. The text beneath indicates that this is a positive aspect of antidepressants, as it \"Helps manage symptoms.\"\n<Mark 2>: This section depicts a thumbs-up hand gesture, which universally signifies approval or success. Accompanying text declares this as \"Effective,\" implying that antidepressants are generally successful in treating symptoms.\n<Mark 3>: The graphic illustrates a person hugging themselves with the word \"OK\" circled, signaling self-assurance and safety. This indicates that the medication is considered \"Safe\" for use.\n<Mark 4>: The overall header of the infographic reads \"Pros and Cons of Antidepressants,\" which introduces the subject of the entire image. In the central image, a figure seems contemplative, with a question mark above her head, indicating consideration or decision-making regarding antidepressant use.\n<Mark 5>: The visual element shows an upset stomach, paired with text \"Can cause side effects,\" which denotes a negative aspect of antidepressant use, highlighting potential adverse reactions to the medication.\n<Mark 6>: An hourglass is featured, symbolizing time passing. The associated phrase \"Takes time to see results\" points out that it may require a duration before the effects of antidepressants are noticeable.\n<Mark 7>: The final portion portrays a person holding an umbrella under a cloud, with a sad face shown, along with text saying \"Some may not work,\" suggesting that antidepressants might not be effective for everyone.",
+        "points": [
+            [
+                243,
+                199
+            ],
+            [
+                249,
+                517
+            ],
+            [
+                223,
+                783
+            ],
+            [
+                794,
+                489
+            ],
+            [
+                1288,
+                198
+            ],
+            [
+                1288,
+                516
+            ],
+            [
+                1277,
+                788
+            ]
+        ]
+    },
+    {
+        "image_name": "23.png",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 3,
+        "dataset_name": "multipanel_detailed_caption_point",
+        "gt_answers": "<Mark 1>: This region displays the heading \"Interesting Facts\" at the top, set against a blue background with a three-line menu icon to the left and a heart symbol to the right.\n<Mark 2>: Depicts a graphical icon of a panda bear's face on a green background with the label \"Animals\" beneath it.\n<Mark 3>: Shows an icon representing a plate and silverware on a green background, labeled as \"Diet Nutrition.\"\n<Mark 4>: Includes a graphical icon that combines a heart shape and a pulse line on a dark background, labeled \"Diseases Disorders.\"\n<Mark 5>: Features an image of a fashionable shirt on a dark background with the word \"Fashion\" underneath it.\n<Mark 6>: Contains an icon resembling a film strip on an orange background, indicating the \"Entertainment\" category.\n<Mark 7>: This panel displays an icon of a syringe with a drop, which is on a green background, and is described with the words \"Drugs Addiction.\"\n<Mark 8>: Shows a depiction of a wine bottle and glass on a blue background, labeled \"Food & Drink.\"\n<Mark 9>: Exhibits two stylized human figures, one male and one female, on a blue background, with the inscription \"Gender.\"\n<Mark 10>: Contains a depiction of the Earth on a green background, with the word \"Global\" beneath it.",
+        "points": [
+            [
+                552,
+                94
+            ],
+            [
+                229,
+                392
+            ],
+            [
+                550,
+                387
+            ],
+            [
+                850,
+                398
+            ],
+            [
+                855,
+                817
+            ],
+            [
+                553,
+                820
+            ],
+            [
+                223,
+                830
+            ],
+            [
+                220,
+                1231
+            ],
+            [
+                556,
+                1219
+            ],
+            [
+                872,
+                1221
+            ]
+        ]
+    },
+    {
+        "image_name": "u=3691911939,3379985415&fm=253&app=138&f=PNG.png",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 4,
+        "dataset_name": "multipanel_detailed_caption_point",
+        "gt_answers": "<Mark 1>: The image shows three gel ice packs in green, purple, and blue colors, with distinctive shapes, resembling a dinosaur, a star, and a fish. Accompanying text suggests \"Take out the one you need.\"\n<Mark 2>: An illustration depicts a cartoon boy holding an ice pack to his head. Text indicates the ice pack has multi-functionality and advises using the ice pack for \"the relief area for the doctor recommended time of 20 minutes.\"\n<Mark 3>: Detailed instructions on how to use the ice pack are given, with two methods highlighted: \"TO USE COLD\" involving refrigeration, and \"TO USE HOT\" instructing to microwave the pack for 10 seconds and check the temperature.\n<Mark 4>: Guidelines for storage are portrayed, advising to \"put the item in the storage bag, for longer shelf life, keep pack in freezer while not in use.\"",
+        "points": [
+            [
+                144,
+                122
+            ],
+            [
+                376,
+                172
+            ],
+            [
+                141,
+                345
+            ],
+            [
+                389,
+                403
+            ]
+        ]
+    },
+    {
+        "image_name": "38.png",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 5,
+        "dataset_name": "multipanel_detailed_caption_point",
+        "gt_answers": "<Mark 1>: The image shows the title \"Physical Therapy Options for Managing Cervical Radiculopathy,\" suggesting the content is focused on treatments for a specific type of neck issue through various physical therapy techniques.\n<Mark 2>: Depicts an illustrated person with their arms crossed and hands resting on opposite shoulders in a stretching pose, with the word \"Exercise\" beneath, indicating that physical activity is a recommended therapy option.\n<Mark 3>: Shows an illustrated arm with an ice pack applied to the elbow area, labeled with the word \"Ice,\" signifying cold therapy as a suggested treatment for cervical radiculopathy.\n<Mark 4>: Features an illustration of a person applying heat pads to their neck, with the label \"Heat\" below, suggesting the use of heat therapy for managing cervical radiculopathy.\n<Mark 5>: An illustration of an ultrasound device being applied to the shoulder area with the word \"Ultrasound\" underneath, indicating this as a therapeutic technique for cervical radiculopathy.\n<Mark 6>: Illustrates a hand with electrical currents around it, together with a small device, with the caption \"Electrical stimulation,\" indicating this as an option for treating the condition.\n<Mark 7>: Shows an illustration of a person getting a neck massage, labeled with the word \"Massage,\" recommending it as a method for alleviating symptoms of cervical radiculopathy.",
+        "points": [
+            [
+                747,
+                70
+            ],
+            [
+                1230,
+                318
+            ],
+            [
+                790,
+                324
+            ],
+            [
+                319,
+                332
+            ],
+            [
+                294,
+                741
+            ],
+            [
+                763,
+                756
+            ],
+            [
+                1240,
+                765
+            ]
+        ]
+    },
+    {
+        "image_name": "42.png",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 6,
+        "dataset_name": "multipanel_detailed_caption_point",
+        "gt_answers": "<Mark 1>: The image depicts a banner with the phrase \"TALKING ENGLISH\" in capitalized bold letters, suggesting the content is educational material for learning English. The use of speech bubble imagery conveys a focus on spoken language skills.\n<Mark 2>: This panel features a simplistic human icon above the words \"Personal Data,\" which likely indicates a topic or category associated with personal information in the context of learning English.\n<Mark 3>: Shown here is an illustration of a location marker on a circular landscape, positioned above the word \"Travel.\" This panel suggests a thematic connection to traveling, likely containing vocabulary and phrases pertinent to this subject.\n<Mark 4>: The image includes a depiction of a hotel facade with a four-star rating and the word \"Hotel\" above it, combined with \"Flat,\" below, portrays a focus on accommodations as part of the learning material.\n<Mark 5>: Characterized by an envelope and an '@' symbol design, the panel reads \"Post office,\" signifying a section dedicated to postal services, which may cover relevant terminology and dialogue.\n<Mark 6>: Displaying various service-related icons such as a barber's pole, repair tools, and a shopping bag, this panel is labeled \"Services,\" indicating a lesson on language used for different services.\n<Mark 7>: The panel shows a plate with a knife, fork, and food, accompanied by the word \"Meals,\" indicating content that teaches English vocabulary and expressions related to eating and food.\n<Mark 8>: This panel with a shopping cart filled with goods and tagged with the word \"Shopping\" suggests a section on retail-related English dialogue and terminology.\n<Mark 9>: Representing a stylized town with buildings and a car, the word \"Town\" beneath it likely denotes a section focused on language and vocabulary pertaining to the town or city environment.\n<Mark 10>: Depicting a heart with a heartbeat wave, accompanied by the word \"Health,\" this panel signifies content aimed at teaching English words and phrases related to health and wellbeing.",
+        "points": [
+            [
+                265,
+                63
+            ],
+            [
+                96,
+                206
+            ],
+            [
+                269,
+                202
+            ],
+            [
+                436,
+                202
+            ],
+            [
+                440,
+                412
+            ],
+            [
+                280,
+                417
+            ],
+            [
+                103,
+                411
+            ],
+            [
+                89,
+                620
+            ],
+            [
+                264,
+                631
+            ],
+            [
+                435,
+                632
+            ]
+        ]
+    },
+    {
+        "image_name": "u=4152088043,200625823&fm=253&app=138&f=JPEG.png",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 7,
+        "dataset_name": "multipanel_detailed_caption_point",
+        "gt_answers": "<Mark 1>: An illustrated hand suggests \"eyeballing\" portion sizes rather than using precise measurements, which may lead to inaccurate estimates of food quantities.\n<Mark 2>: Depicts a kitchen scale and food items implying the incorrect practice of measuring food by volume instead of weight, which can result in less accurate tracking of food intake.\n<Mark 3>: Features a bottle of alcohol and a warning against not tracking alcohol properly, indicating that failing to account for alcoholic drinks can undermine dietary tracking efforts.\n<Mark 4>: Shows an apple with text about using generic measurements (medium apple), indicating a potential pitfall in estimating food portions without specificity, possibly leading to inaccuracies.\n<Mark 5>: Displays a check mark with a statement about not using verified entries, suggesting that relying on unverified food database entries may affect the accuracy of dietary tracking.\n<Mark 6>: Presents two steaks with an advisory about the common mistake of weighing raw and then logging cooked food (or vice versa), which can lead to inaccurate calorie or nutrient logging due to changes in weight through cooking.\n<Mark 7>: A notepad icon symbolizes the mistake of not planning your day in advance, possibly implying that a lack of meal planning can result in poor dietary choices or tracking.\n<Mark 8>: Illustrates a cookie with a caption about forgetting to track everything, pointing out that omitting items from dietary tracking can lead to an incomplete record of consumption.\n<Mark 9>: Shows a person on a treadmill with a warning about eating back calories burned from exercise, which is a common issue where individuals may overcompensate for exercise by increasing caloric intake.",
+        "points": [
+            [
+                110,
+                89
+            ],
+            [
+                318,
+                95
+            ],
+            [
+                527,
+                86
+            ],
+            [
+                523,
+                257
+            ],
+            [
+                322,
+                260
+            ],
+            [
+                115,
+                261
+            ],
+            [
+                112,
+                421
+            ],
+            [
+                315,
+                422
+            ],
+            [
+                524,
+                420
+            ]
+        ]
+    },
+    {
+        "image_name": "u=74400039,1118061224&fm=253&app=138&f=JPEG.png",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 8,
+        "dataset_name": "multipanel_detailed_caption_point",
+        "gt_answers": "<Mark 1>: This panel displays cartoon images representing mathematical elements such as numbers and mathematical symbols, coupled with the word \"Math\" indicating the school subject of mathematics.\n<Mark 2>: Illustrated in this panel is an image depicting different aspects of the Earth, including landmasses and water bodies, with the word \"Geography\" below, suggesting the subject that studies the Earth and its features.\n<Mark 3>: This panel features creative elements like a paint palette, brushes, and a pencil, along with the word \"Art\" which refers to the school subject that involves creativity and visual expression.\n<Mark 4>: It shows a simple physics equation \"F=ma\" associated with Newton's second law, and the word \"Physics\" below, referring to the scientific subject that studies matter, energy, and the fundamental forces of nature.\n<Mark 5>: This panel contains an image of a historical scroll or document and a feather quill, placed above the word \"History,\" indicating the school subject related to studying past events.\n<Mark 6>: Here, an individual is depicted in a dynamic pose that signifies physical activity, and the words \"Physical Education\" beneath, implying the subject focusing on bodily exercise and fitness.\n<Mark 7>: In this panel, a set of flasks and beakers, commonly used in chemical experiments, appear above the word \"Chemistry,\" highlighting the subject of science dealing with the properties of substances and their interactions.\n<Mark 8>: Represented is a cell structure containing a nucleus, typically studied in biology classes, with the word \"Biology\" below, pointing to the subject that explores living organisms and life processes.\n<Mark 9>: This section comprises an open book with pages fluttering, which, along with the word \"Literature,\" signifies the subject dealing with written works, especially those considered of artistic or intellectual value.",
+        "points": [
+            [
+                71,
+                205
+            ],
+            [
+                71,
+                319
+            ],
+            [
+                72,
+                437
+            ],
+            [
+                256,
+                203
+            ],
+            [
+                247,
+                316
+            ],
+            [
+                252,
+                432
+            ],
+            [
+                414,
+                203
+            ],
+            [
+                417,
+                320
+            ],
+            [
+                417,
+                440
+            ]
+        ]
+    },
+    {
+        "image_name": "u=3749429080,2686066601&fm=253&app=138&f=JPEG.png",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 9,
+        "dataset_name": "multipanel_detailed_caption_point",
+        "gt_answers": "<Mark 1>: The image displays a sphygmomanometer, an instrument used for measuring blood pressure, with the indicator pointing to a high reading. Below it is a label stating \"high blood pressure.\"\n<Mark 2>: Illustrated is a hand with a red, swollen finger, possibly indicating inflammation or injury. The text beneath the image reads \"sore finger.\"\n<Mark 3>: Depicted is a stylized white tooth with a prominent crack, signifying dental damage or decay. Above the tooth, the term \"toothache\" is written, suggesting dental pain.\n<Mark 4>: This shows a depiction of a human stomach with wavy lines around it, typically used to represent unease or pain. The label \"stomachache\" describes the discomfort associated with the area.\n<Mark 5>: A human hand is shown with lines around the base of the thumb extending to the wrist. This is commonly used to represent swelling or pain. The word \"sprain\" is noted below, indicating a type of injury.\n<Mark 6>: The image showcases a medical device, a blood glucose meter, which is used to monitor blood sugar levels, and the reading displayed suggests a state of \"diabetes,\" as noted next to it.\n<Mark 7>: Illustrated is a clinical thermometer with the mercury rising to a fever level. Above it, the word \"fever\" signals an elevated body temperature.\n<Mark 8>: A human figure is displayed with the left arm wrapped in a green cast, indicating a fracture. The word \"broken arm\" is positioned below the figure, confirming the injury depicted.\n<Mark 9>: Here is the lower half of a figure with the right knee highlighted, stating \"injury,\" which likely refers to a physical trauma or damage to the knee area.",
+        "points": [
+            [
+                43,
+                167
+            ],
+            [
+                33,
+                313
+            ],
+            [
+                116,
+                314
+            ],
+            [
+                210,
+                315
+            ],
+            [
+                311,
+                271
+            ],
+            [
+                319,
+                124
+            ],
+            [
+                179,
+                89
+            ],
+            [
+                140,
+                194
+            ],
+            [
+                231,
+                181
+            ]
+        ]
+    },
+    {
+        "image_name": "u=1806211385,2703137837&fm=253&app=138&f=JPEG.png",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 10,
+        "dataset_name": "multipanel_detailed_caption_point",
+        "gt_answers": "<Mark 1>: An icon featuring a paint roller and tray represents cleaning. Accompanying text indicates the use of appropriate products to remove dirt, dust, grease, and germs.\n<Mark 2>: This area shows a window icon, accompanied by text advocating for ventilation. The text suggests airing out after each service to ensure sufficient renewal of the air.\n<Mark 3>: A spray bottle icon is depicted, emitting a mist. The text delineates the cleaning crew's use of masks, gloves, and gowns throughout the cleaning process.\n<Mark 4>: An illustration of a virion being targeted, with text detailing the practice of disinfecting. It notes that disinfectant is sprayed on all floor surfaces.",
+        "points": [
+            [
+                202,
+                133
+            ],
+            [
+                532,
+                167
+            ],
+            [
+                193,
+                291
+            ],
+            [
+                492,
+                395
+            ]
+        ]
+    }
+]

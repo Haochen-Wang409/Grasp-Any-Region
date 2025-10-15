@@ -1,0 +1,387 @@
+[
+    {
+        "image_name": "u=386285352,2538957886&fm=253&app=138&f=JPEG.png",
+        "question": "Please analyze the relationship between all marked points in the image.",
+        "question_id": 1,
+        "dataset_name": "multipanel_Inter_Relationship_point",
+        "gt_answers": "<Mark 1><Mark 2>...<Mark 10>: These images are all related as they represent different types of weather conditions. The panels seem to be part of an educational set or resource designed to teach or convey information about various meteorological phenomena. The layout suggests that the images are intended to be viewed in a sequence or as a collective that comprehensively covers a spectrum of weather vocabulary. Each image combines a graphical representation with text that defines the specific weather condition being depicted.",
+        "points": [
+            [
+                64,
+                142
+            ],
+            [
+                181,
+                148
+            ],
+            [
+                316,
+                148
+            ],
+            [
+                447,
+                148
+            ],
+            [
+                66,
+                294
+            ],
+            [
+                182,
+                294
+            ],
+            [
+                308,
+                293
+            ],
+            [
+                436,
+                296
+            ],
+            [
+                58,
+                430
+            ],
+            [
+                186,
+                429
+            ]
+        ]
+    },
+    {
+        "image_name": "44.png",
+        "question": "Please analyze the relationship between all marked points in the image.",
+        "question_id": 2,
+        "dataset_name": "multipanel_Inter_Relationship_point",
+        "gt_answers": "<Mark 1><Mark 2>...<Mark 8>: The marked regions, when examined collectively, layout a guide to the expected behavior within Buddhist temples. The graphics are simple and paired with clear instructions for ease of understanding, reflecting a concern for cultural sensitivity and appropriate conduct. The sequence starts with a general call to respect, progresses through specific actions like clothing and physical interactions, and culminates with directives about monetary offerings and hand usage. The spatial arrangement and reading order is left-to-right and top-to-bottom, which is standard for English-speaking viewers, and each panel is designed to contribute to a comprehensive set of instructions for temple etiquette.",
+        "points": [
+            [
+                791,
+                96
+            ],
+            [
+                282,
+                367
+            ],
+            [
+                590,
+                356
+            ],
+            [
+                935,
+                348
+            ],
+            [
+                1270,
+                347
+            ],
+            [
+                1103,
+                736
+            ],
+            [
+                754,
+                741
+            ],
+            [
+                426,
+                730
+            ]
+        ]
+    },
+    {
+        "image_name": "14.png",
+        "question": "Please analyze the relationship between all marked points in the image.",
+        "question_id": 3,
+        "dataset_name": "multipanel_Inter_Relationship_point",
+        "gt_answers": "<Mark 1><Mark 2><Mark 3><Mark 4><Mark 5><Mark 6><Mark 7><Mark 8>: These illustrations reflect various forms of exploitation and human rights violations. Each image succinctly visualizes a different type of abuse, ranging from sexual exploitation to forced labor, and from the use of child soldiers to forced marriage. They share a common theme in illustrating coercive or non-consensual situations where individuals are compelled to engage in activities against their will, often for others' profit or gain.",
+        "points": [
+            [
+                287,
+                295
+            ],
+            [
+                790,
+                299
+            ],
+            [
+                1257,
+                296
+            ],
+            [
+                1738,
+                295
+            ],
+            [
+                1742,
+                908
+            ],
+            [
+                1252,
+                933
+            ],
+            [
+                755,
+                927
+            ],
+            [
+                272,
+                917
+            ]
+        ]
+    },
+    {
+        "image_name": "49.png",
+        "question": "Please analyze the relationship between all marked points in the image.",
+        "question_id": 4,
+        "dataset_name": "multipanel_Inter_Relationship_point",
+        "gt_answers": "<Mark 1><Mark 2><Mark 3><Mark 4><Mark 5><Mark 6><Mark 7><Mark 8><Mark 9>: These regions collectively depict various financial themes associated with personal and business expenses, potential tax credits, and deductions. They appear to be informing the viewer of different financial considerations, such as tax planning, familial loans, and expenses related to child care, transportation, sales activities, and fitness. Each panel visually represents a distinct category that one might encounter in financial management or tax preparation.",
+        "points": [
+            [
+                152,
+                153
+            ],
+            [
+                529,
+                158
+            ],
+            [
+                867,
+                159
+            ],
+            [
+                883,
+                439
+            ],
+            [
+                520,
+                470
+            ],
+            [
+                150,
+                461
+            ],
+            [
+                135,
+                768
+            ],
+            [
+                518,
+                765
+            ],
+            [
+                889,
+                764
+            ]
+        ]
+    },
+    {
+        "image_name": "u=2125079971,3262680906&fm=253&app=138&f=JPEG.png",
+        "question": "Please analyze the relationship between all marked points in the image.",
+        "question_id": 6,
+        "dataset_name": "multipanel_Inter_Relationship_point",
+        "gt_answers": "<Mark 1><Mark 2><Mark 3><Mark 4><Mark 5><Mark 6><Mark 7><Mark 8><Mark 9><Mark 10>: All regions are part of an instructional or motivational poster delineating various self-care activities. They are interconnected thematically, presenting different strategies to improve personal well-being. The spatial arrangement mirrors the order of a list, suggesting these are recommendations to be considered collectively or individually. Each panel emphasizes personal activities that contribute to mental or physical health, showcasing practices such as mindfulness, physical exercise, journaling, hydration, enjoying meals, setting boundaries, managing digital engagement, enjoying music, adhering to healthy sleep habits, and maintaining a clean environment.",
+        "points": [
+            [
+                77,
+                140
+            ],
+            [
+                180,
+                142
+            ],
+            [
+                280,
+                142
+            ],
+            [
+                289,
+                260
+            ],
+            [
+                188,
+                267
+            ],
+            [
+                81,
+                267
+            ],
+            [
+                80,
+                390
+            ],
+            [
+                185,
+                394
+            ],
+            [
+                288,
+                391
+            ],
+            [
+                393,
+                391
+            ]
+        ]
+    },
+    {
+        "image_name": "u=2378115703,2671782333&fm=253&app=138&f=JPEG.png",
+        "question": "Please analyze the relationship between all marked points in the image.",
+        "question_id": 7,
+        "dataset_name": "multipanel_Inter_Relationship_point",
+        "gt_answers": "<Mark 1><Mark 2>...<Mark 10>: The panels depict the twelve zodiac signs, each with a representative illustration and its corresponding Italian name. They follow the Western astrological sequence and are likely part of a horoscope feature. The stylistic approach of the illustrations is consistent, using simple lines, bold colors, and clear symbolism. The sequence in this case is non-traditional, as not all twelve signs are shown, and the usual order is somewhat shuffled. Traditionally, the signs are ordered as follows: Aries (Region 1), Taurus (Region 2), Gemini (Region 3), Cancer (Region 4), Leo (Region 5), Virgo (Region 6), Libra (Region 7), Scorpio (Region 8), Sagittarius (Region 9), Capricorn (Region 10), followed by Aquarius and Pisces, which are not labeled in this series. The layout likely aligns with an emphasis on astrology in the context of guidance or predictions, as indicated by the text in the header, which appears to be Italian and suggests a personal task related to forgiveness.",
+        "points": [
+            [
+                58,
+                205
+            ],
+            [
+                179,
+                210
+            ],
+            [
+                305,
+                213
+            ],
+            [
+                428,
+                206
+            ],
+            [
+                53,
+                348
+            ],
+            [
+                178,
+                345
+            ],
+            [
+                305,
+                347
+            ],
+            [
+                432,
+                349
+            ],
+            [
+                59,
+                494
+            ],
+            [
+                186,
+                492
+            ]
+        ]
+    },
+    {
+        "image_name": "45.png",
+        "question": "Please analyze the relationship between all marked points in the image.",
+        "question_id": 8,
+        "dataset_name": "multipanel_Inter_Relationship_point",
+        "gt_answers": "<Mark 1><Mark 2><Mark 3><Mark 4><Mark 5>: All the marked regions collectively illustrate business ideas that are economical to initiate, as indicated by the heading in <Mark 1>. Each panel from <Mark 2> to <Mark 5> portrays a different business idea through visual illustrations accompanied by labels, suggesting diverse, cost-effective entrepreneurial opportunities.",
+        "points": [
+            [
+                768,
+                191
+            ],
+            [
+                231,
+                581
+            ],
+            [
+                579,
+                586
+            ],
+            [
+                935,
+                620
+            ],
+            [
+                1289,
+                624
+            ]
+        ]
+    },
+    {
+        "image_name": "24.png",
+        "question": "Please analyze the relationship between all marked points in the image.",
+        "question_id": 9,
+        "dataset_name": "multipanel_Inter_Relationship_point",
+        "gt_answers": "<Mark 1><Mark 2><Mark 3><Mark 4><Mark 5><Mark 6><Mark 7><Mark 8><Mark 9>: These regions collectively represent different aspects of customer service, with each one emphasizing a unique component such as email communication, service problem-solving, global support, expertise, quality assurance, callback services, technical help, language translation, and 24/7 consultation. They are likely part of a larger illustration highlighting various customer support roles and services offered by a company.",
+        "points": [
+            [
+                329,
+                283
+            ],
+            [
+                758,
+                288
+            ],
+            [
+                1223,
+                320
+            ],
+            [
+                1211,
+                753
+            ],
+            [
+                773,
+                733
+            ],
+            [
+                334,
+                745
+            ],
+            [
+                316,
+                1194
+            ],
+            [
+                781,
+                1194
+            ],
+            [
+                1234,
+                1203
+            ]
+        ]
+    },
+    {
+        "image_name": "u=2557672574,3690790099&fm=253&app=138&f=JPEG.png",
+        "question": "Please analyze the relationship between all marked points in the image.",
+        "question_id": 10,
+        "dataset_name": "multipanel_Inter_Relationship_point",
+        "gt_answers": "<Mark 1><Mark 2><Mark 3><Mark 4><Mark 5><Mark 6><Mark 7>: These regions are all visually conveying symptoms of the Middle East respiratory syndrome coronavirus (MERS-CoV), as indicated by the overarching text of the entire image. From fever in <Mark 1>, cough in <Mark 2>, to more severe manifestations such as pneumonia in <Mark 6> and renal failure in <Mark 7>, they contribute to a comprehensive overview of potential health issues caused by the virus. The sequence in which these regions are presented may suggest a progression from more common to more severe symptoms, although such progression varies by individual cases of the disease.",
+        "points": [
+            [
+                81,
+                186
+            ],
+            [
+                222,
+                185
+            ],
+            [
+                351,
+                185
+            ],
+            [
+                481,
+                187
+            ],
+            [
+                153,
+                364
+            ],
+            [
+                285,
+                362
+            ],
+            [
+                422,
+                364
+            ]
+        ]
+    }
+]

@@ -1,0 +1,320 @@
+[
+    {
+        "image_name": "000000265256.jpg",
+        "question": "Please provide a brief description of each marked point in the image.",
+        "question_id": 1,
+        "dataset_name": "natural_brief_caption_point",
+        "gt_answers": "<Mark 1>:Person holding a large patriotically designed kite",
+        "points": [
+            [
+                233,
+                244
+            ]
+        ]
+    },
+    {
+        "image_name": "000000487774.jpg",
+        "question": "Please provide a brief description of each marked point in the image.",
+        "question_id": 2,
+        "dataset_name": "natural_brief_caption_point",
+        "gt_answers": "<Mark 1>:Black ergonomic mouse with two main buttons.\n<Mark 2>:Edge of grey computer keyboard, button partially visible.",
+        "points": [
+            [
+                415,
+                266
+            ],
+            [
+                87,
+                271
+            ]
+        ]
+    },
+    {
+        "image_name": "000000073521.jpg",
+        "question": "Please provide a brief description of each marked point in the image.",
+        "question_id": 3,
+        "dataset_name": "natural_brief_caption_point",
+        "gt_answers": "<Mark 1>:Upright black suitcase near seating area.\n<Mark 2>:Large black standing suitcase with extended handle.\n<Mark 3>:Blue plaid suitcase lying on the floor.\n<Mark 4>:Black suitcase adjacent to chair at terminal.\n<Mark 5>:Piece of handle protruding from top of suitcase.\n<Mark 6>:Partial view of a suitcase handle above seat.\n<Mark 7>:Handle of suitcase, higher perspective than surroundings.\n<Mark 8>:Suitcase handle above a blue plaid patterned item.",
+        "points": [
+            [
+                361,
+                208
+            ],
+            [
+                228,
+                194
+            ],
+            [
+                123,
+                227
+            ],
+            [
+                392,
+                163
+            ],
+            [
+                390,
+                170
+            ],
+            [
+                346,
+                165
+            ],
+            [
+                239,
+                94
+            ],
+            [
+                147,
+                166
+            ]
+        ]
+    },
+    {
+        "image_name": "4134.jpg",
+        "question": "Please provide a brief description of each marked point in the image.",
+        "question_id": 4,
+        "dataset_name": "natural_brief_caption_point",
+        "gt_answers": "<Mark 1>:Metal handrails on the right side of outdoor steps.\n<Mark 2>:Two individuals walking together in an outdoor setting.\n<Mark 3>:Individual approaching steps near a building exterior.\n<Mark 4>:Building entrance with an open door and a visible interior.\n<Mark 5>:Metal railing adjacent to a building pathway.\n<Mark 6>:Exposed brick section of a building's exterior wall.\n<Mark 7>:Woman in a blue jacket walking outdoors.\n<Mark 8>:Concrete steps leading up to a modern building.",
+        "points": [
+            [
+                409,
+                209
+            ],
+            [
+                215,
+                255
+            ],
+            [
+                371,
+                213
+            ],
+            [
+                127,
+                266
+            ],
+            [
+                255,
+                176
+            ],
+            [
+                100,
+                111
+            ],
+            [
+                194,
+                232
+            ],
+            [
+                345,
+                221
+            ]
+        ]
+    },
+    {
+        "image_name": "2407684.jpg",
+        "question": "Please provide a brief description of each marked point in the image.",
+        "question_id": 5,
+        "dataset_name": "natural_brief_caption_point",
+        "gt_answers": "<Mark 1>: Part of a wet, shiny motorcycle wheel.\n<Mark 2>: Curved, metallic part, likely a vehicle's component.",
+        "points": [
+            [
+                188,
+                259
+            ],
+            [
+                117,
+                317
+            ]
+        ]
+    },
+    {
+        "image_name": "000000266371.jpg",
+        "question": "Please provide a brief description of each marked point in the image.",
+        "question_id": 6,
+        "dataset_name": "natural_brief_caption_point",
+        "gt_answers": "<Mark 1>: Assorted vegetables displayed on an outdoor table.\n<Mark 2>: Various neatly arranged orange vegetables on a table.\n<Mark 3>: Exhibit of diverse fruits and vegetables on a market table.\n<Mark 4>: Top part of an umbrella with white and green pattern.\n<Mark 5>: Partial view of a patterned umbrella providing shade at market.\n<Mark 6>: Blue plastic bucket beside a market stand.\n<Mark 7>: Green bucket on the ground near produce table.\n<Mark 8>: Single strawberry rests on a surface at a market.",
+        "points": [
+            [
+                181,
+                255
+            ],
+            [
+                292,
+                282
+            ],
+            [
+                602,
+                314
+            ],
+            [
+                104,
+                35
+            ],
+            [
+                433,
+                76
+            ],
+            [
+                578,
+                397
+            ],
+            [
+                520,
+                401
+            ],
+            [
+                108,
+                112
+            ]
+        ]
+    },
+    {
+        "image_name": "225.jpg",
+        "question": "Please provide a brief description of each marked point in the image.",
+        "question_id": 7,
+        "dataset_name": "natural_brief_caption_point",
+        "gt_answers": "<Mark 1>:Yellow cab on city street\n<Mark 2>:Traffic signal, urban background\n<Mark 3>:Red street sign, elevated position\n<Mark 4>:Adult female, bag in hand\n<Mark 5>:Adult male, blue attire, accessory\n<Mark 6>:Print on vehicle door, street view",
+        "points": [
+            [
+                363,
+                312
+            ],
+            [
+                597,
+                178
+            ],
+            [
+                770,
+                199
+            ],
+            [
+                527,
+                452
+            ],
+            [
+                653,
+                309
+            ],
+            [
+                201,
+                340
+            ]
+        ]
+    },
+    {
+        "image_name": "1159702.jpg",
+        "question": "Please provide a brief description of each marked point in the image.",
+        "question_id": 8,
+        "dataset_name": "natural_brief_caption_point",
+        "gt_answers": "<Mark 1>:Bunch of bananas on display\n<Mark 2>:Sack of grain on the floor\n<Mark 3>:Fresh pineapples hanging from hooks\n<Mark 4>:Shelf with various products in jars\n<Mark 5>:Large metal 'S' shaped hook\n<Mark 6>:White metal mesh wall structure\n<Mark 7>:Single pineapple hanging from a hook\n<Mark 8>:Assorted items on market stall surface",
+        "points": [
+            [
+                495,
+                118
+            ],
+            [
+                455,
+                718
+            ],
+            [
+                632,
+                490
+            ],
+            [
+                499,
+                349
+            ],
+            [
+                125,
+                184
+            ],
+            [
+                1008,
+                706
+            ],
+            [
+                719,
+                633
+            ],
+            [
+                414,
+                583
+            ]
+        ]
+    },
+    {
+        "image_name": "2409087.jpg",
+        "question": "Please provide a brief description of each marked point in the image.",
+        "question_id": 9,
+        "dataset_name": "natural_brief_caption_point",
+        "gt_answers": "<Mark 1>: Appliance for heating and cooking food, located above stove.\n<Mark 2>: Rotary controls for temperature management on cooking appliance.\n<Mark 3>: Dark-toned storage compartments in kitchen for utensils and pantry items.\n<Mark 4>: Metallic cooking vessel on stove with visible steam or vapors.\n<Mark 5>: Decorative foliage in a transparent container, placed near water source.\n<Mark 6>: Metal basin for washing within the kitchen, accompanied by a faucet.",
+        "points": [
+            [
+                402,
+                173
+            ],
+            [
+                413,
+                239
+            ],
+            [
+                283,
+                298
+            ],
+            [
+                372,
+                250
+            ],
+            [
+                67,
+                168
+            ],
+            [
+                104,
+                288
+            ]
+        ]
+    },
+    {
+        "image_name": "2546.jpg",
+        "question": "Please provide a brief description of each marked point in the image.",
+        "question_id": 10,
+        "dataset_name": "natural_brief_caption_point",
+        "gt_answers": "<Mark 1>:Silver car parked beside road on a sunny day.\n<Mark 2>:Garbage can on grass near pavement on sunny day.\n<Mark 3>:Telephone pole near stop sign at street corner.\n<Mark 4>:Garbage can by roadside under clear sky.\n<Mark 5>:Leafy bush in front of a residential home.\n<Mark 6>:Truck parked on residential street during sunny day.\n<Mark 7>:Brown door on the facade of a white house.\n<Mark 8>:Tall trees with dense foliage on a bright day.",
+        "points": [
+            [
+                444,
+                375
+            ],
+            [
+                277,
+                399
+            ],
+            [
+                62,
+                347
+            ],
+            [
+                722,
+                357
+            ],
+            [
+                163,
+                333
+            ],
+            [
+                555,
+                353
+            ],
+            [
+                30,
+                339
+            ],
+            [
+                304,
+                200
+            ]
+        ]
+    }
+]

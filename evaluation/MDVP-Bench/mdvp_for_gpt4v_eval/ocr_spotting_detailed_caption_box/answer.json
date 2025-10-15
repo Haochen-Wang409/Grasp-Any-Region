@@ -1,0 +1,2186 @@
+[
+    {
+        "question_id": 1,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_251980.png",
+        "category": "android_detailed_caption_box",
+        "text": "This is a status bar displaying the date \"Friday, Sep 2,\" along with the temperature \"61°F.\" It informs the user about the current day, date, and ambient temperature, likely provided by a weather service. This text is generally not interactive and serves as an informational display only."
+    },
+    {
+        "question_id": 2,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_251980.png",
+        "category": "android_detailed_caption_box",
+        "text": "This represents a capital letter \"G\" set inside a circle. It is part of a larger icon that is likely associated with a search engine or service, commonly used as a button to initiate web searches or to access related services. Interaction with this icon typically leads to the search engine's interface or homepage."
+    },
+    {
+        "question_id": 3,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_251980.png",
+        "category": "android_detailed_caption_box",
+        "text": "This icon depicts clouds, which is a visual representation often used for weather-related services or apps. It indicates current or forecasted weather conditions and is typically interactive, leading the user to a detailed weather report upon tapping."
+    },
+    {
+        "question_id": 4,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_251980.png",
+        "category": "android_detailed_caption_box",
+        "text": "The gear-like icon signifies settings or options. It is a common symbol for accessing system settings or preferences in an application or operating system. Interacting with this icon usually opens a menu where various settings can be adjusted."
+    },
+    {
+        "question_id": 5,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_251980.png",
+        "category": "android_detailed_caption_box",
+        "text": "The icon resembling a speech bubble is often associated with messaging services or chat applications. Tapping it would commonly open a messaging app where users can send messages, photos, or videos to others."
+    },
+    {
+        "question_id": 6,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_251980.png",
+        "category": "android_detailed_caption_box",
+        "text": "This icon, featuring a triangle resembling a \"play\" button, is widely recognized as a symbol for media players or services offering video and music content. Interaction with this icon would likely launch a media playback application or service."
+    },
+    {
+        "question_id": 7,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_251980.png",
+        "category": "android_detailed_caption_box",
+        "text": "The icon represents a search engine or a suite of services provided by a major tech company, indicated by the letter \"G\" and vibrant colors. Interacting with this icon typically brings the user to a home screen with access to various services offered by the company, such as search, email, maps, and more."
+    },
+    {
+        "question_id": 8,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_251980.png",
+        "category": "android_detailed_caption_box",
+        "text": "This icon, representing a microphone inside a colorful outline, is suggestive of a digital assistant or voice search feature. When interacted with, it would generally activate a voice recognition service allowing users to speak commands or queries for assistance."
+    },
+    {
+        "question_id": 9,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_251980.png",
+        "category": "android_detailed_caption_box",
+        "text": "The circle icon in a navigation bar is typically an interactive home button on a mobile device, often bringing the user back to the home screen when tapped."
+    },
+    {
+        "question_id": 10,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_251980.png",
+        "category": "android_detailed_caption_box",
+        "text": "The icon with a triangle pointing leftwards resembles a \"back\" navigation button, generally used to go back to the previous screen in an application or navigate backwards in a browser."
+    },
+    {
+        "question_id": 11,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_18183248185514867672_2.png",
+        "category": "android_detailed_caption_box",
+        "text": "This icon is indicative of the Microsoft Excel mobile application, recognizable by its green 'X' on a white background, which suggests a tool for creating and editing spreadsheets. It is likely an interactive element that, upon touch or click, launches the application allowing users to work with spreadsheets on their mobile device."
+    },
+    {
+        "question_id": 12,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_18183248185514867672_2.png",
+        "category": "android_detailed_caption_box",
+        "text": "This is the Facebook mobile application icon, featuring a lowercase 'f' on a blue background. When interacted with, it typically opens the Facebook app where users can browse their news feed, connect with friends and family, post updates, and engage in social networking activities."
+    },
+    {
+        "question_id": 13,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_18183248185514867672_2.png",
+        "category": "android_detailed_caption_box",
+        "text": "Represented here is an icon for the Speedtest application by Ookla, depicted by a speedometer graphic suggesting the app's function of measuring internet connection speed. Tapping on this icon will likely open the app and allow the user to test their current internet speed."
+    },
+    {
+        "question_id": 14,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_18183248185514867672_2.png",
+        "category": "android_detailed_caption_box",
+        "text": "This icon, featuring a camera lens and a gradient background, is for the Instagram mobile application. Interacting with this icon will usually open the app, providing access to photo and video sharing, as well as viewing the content from others on the Instagram social network."
+    },
+    {
+        "question_id": 15,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_18183248185514867672_2.png",
+        "category": "android_detailed_caption_box",
+        "text": "Resembling a house with a triangular roof, this icon signifies a home automation or real estate application. Interaction with this icon would open the respective app, providing controls for smart home devices or real estate listings, depending on its specific function."
+    },
+    {
+        "question_id": 16,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_18183248185514867672_2.png",
+        "category": "android_detailed_caption_box",
+        "text": "This icon has a feather, hinting at a lite version of an application that offers a minimalistic or resource-efficient option, typically for use in areas with limited connectivity or on devices with lower performance."
+    },
+    {
+        "question_id": 17,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_18183248185514867672_2.png",
+        "category": "android_detailed_caption_box",
+        "text": "Featuring a speech bubble with a lightning bolt, this is the Facebook Messenger app icon. It signifies an app dedicated to messaging which, upon interaction, opens a platform where users can send messages, share media, and participate in video calls."
+    },
+    {
+        "question_id": 18,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_18183248185514867672_2.png",
+        "category": "android_detailed_caption_box",
+        "text": "The icon partially reads \"Home De...\" against an orange square, suggesting a home improvement or retail company's app, possibly offering goods or services related to home refurbishment or decoration. The app's full functionality would be revealed upon opening it."
+    },
+    {
+        "question_id": 19,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_18183248185514867672_2.png",
+        "category": "android_detailed_caption_box",
+        "text": "The green owl represents Duolingo, an educational platform icon with its function being language learning. Upon touching the icon, the user would engage with the app to learn a new language through interactive lessons."
+    },
+    {
+        "question_id": 20,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_18183248185514867672_2.png",
+        "category": "android_detailed_caption_box",
+        "text": "This icon, with an abstract design and the letters 'GE', likely signifies a news or media application that provides users with news articles, updates, and possibly live reporting, accessible by touching the icon to open the app."
+    },
+    {
+        "question_id": 21,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_14797572530627259726_40.png",
+        "category": "android_detailed_caption_box",
+        "text": "This area contains the term \"Search,\" suggesting it is likely related to a search function where a user can input queries to locate specific settings or information within this system or application."
+    },
+    {
+        "question_id": 22,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_14797572530627259726_40.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"settings\" indicates an option or heading that relates to configuration options. Interacting with it would typically bring up a menu to adjust system preferences or application parameters."
+    },
+    {
+        "question_id": 23,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_14797572530627259726_40.png",
+        "category": "android_detailed_caption_box",
+        "text": "The term \"mobile,\" followed by a comma hints at a list or continuation of related topics, likely referring to mobile network settings or features in the context of this system or application."
+    },
+    {
+        "question_id": 24,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_14797572530627259726_40.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"data\" in this context may refer to mobile data usage and settings. It suggests an option to view or adjust how the device handles cellular data."
+    },
+    {
+        "question_id": 25,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_14797572530627259726_40.png",
+        "category": "android_detailed_caption_box",
+        "text": "This term \"Wi-Fi,\" ending with a comma, implies it is part of a series, possibly relating to Wi-Fi settings where a user can manage Wi-Fi networks and preferences."
+    },
+    {
+        "question_id": 26,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_14797572530627259726_40.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"and\" serves as a conjunction within a list or sentence, indicating the addition of more items or concepts that are related to the ones previously mentioned."
+    },
+    {
+        "question_id": 27,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_14797572530627259726_40.png",
+        "category": "android_detailed_caption_box",
+        "text": "This term \"hotspot\" typically refers to a feature where the device can share its internet connection with other devices through Wi-Fi, Bluetooth, or USB."
+    },
+    {
+        "question_id": 28,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_14797572530627259726_40.png",
+        "category": "android_detailed_caption_box",
+        "text": "The term \"usage,\" followed by a comma, likely relates to the tracking or monitoring of resource consumption, such as data, battery, or connectivity usage."
+    },
+    {
+        "question_id": 29,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_14797572530627259726_40.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"Connected\" suggests it pertains to the status or management of connected devices or networks, such as Bluetooth connections or Wi-Fi networks."
+    },
+    {
+        "question_id": 30,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_14797572530627259726_40.png",
+        "category": "android_detailed_caption_box",
+        "text": "The partially visible term \"Lo\" could be part of a word that identifies a feature, option, or information related to the system or application settings."
+    },
+    {
+        "question_id": 31,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_98501.png",
+        "category": "android_detailed_caption_box",
+        "text": "This area is a text-entry field in a web browser, typically used for typing in web addresses or performing web searches. Interaction with this field usually involves clicking or tapping to enter text, and pressing Enter would initiate a web search or take the user to the entered web address."
+    },
+    {
+        "question_id": 32,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_98501.png",
+        "category": "android_detailed_caption_box",
+        "text": "This is a tab title within a web browser, indicating that the user has accessed or searched for 'eBay shopping' in this tab. The text serves a navigational purpose, allowing the user to identify and switch to the associated web page when multiple tabs are open."
+    },
+    {
+        "question_id": 33,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_98501.png",
+        "category": "android_detailed_caption_box",
+        "text": "This label refers to a 'cart' on a shopping platform, hinting at a functionality that allows users to view items that have been added to a virtual shopping cart. It is likely interactive and clicking it would navigate the user to a page summarizing their selected items for purchase."
+    },
+    {
+        "question_id": 34,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_98501.png",
+        "category": "android_detailed_caption_box",
+        "text": "This text is a URL displayed in the address bar of a web browser. It indicates that the current web page pertains to the shopping cart of the eBay website. The user can click on this text to edit the URL or copy it for use elsewhere."
+    },
+    {
+        "question_id": 35,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_98501.png",
+        "category": "android_detailed_caption_box",
+        "text": "This text suggests that the user is visiting or has searched for a page related to 'Welcome to Costco Wholesale'. It might serve as a title for a page, potentially indicating that the user can find information regarding Costco's offerings through this tab."
+    },
+    {
+        "question_id": 36,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_98501.png",
+        "category": "android_detailed_caption_box",
+        "text": "Here, 'costco.com' is the simplified representation of an address bar or tab title suggesting that the user is visiting Costco's website. Users interact with this by clicking it to switch to the Costco tab within the browser."
+    },
+    {
+        "question_id": 37,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_98501.png",
+        "category": "android_detailed_caption_box",
+        "text": "This phrase 'Pay Less.' is likely associated with a slogan or branding message, suggesting a value proposition to customers; the promise of spending less for the products or services offered by the entity associated with this phrase."
+    },
+    {
+        "question_id": 38,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_98501.png",
+        "category": "android_detailed_caption_box",
+        "text": "The text 'Target:' resembles a title or a navigational cue for a segment within a web browser, it may indicate a web page related to the retail company Target and is probably part of a list or compilation of bookmarks or frequently visited sites."
+    },
+    {
+        "question_id": 39,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_98501.png",
+        "category": "android_detailed_caption_box",
+        "text": "Similar to <Region 7>, 'Expect More.' is a slogan that implies a promise of greater value, service, or product quality from the associated entity. It is designed to communicate a marketing message or company ethos to customers."
+    },
+    {
+        "question_id": 40,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/web_shopping_98501.png",
+        "category": "android_detailed_caption_box",
+        "text": "This text 'target.com' represents a simplified address, similar to <Region 6>, likely indicating that the user is visiting or has the option to visit Target's website. Interaction with this area would navigate to or indicate presence at Target's web page."
+    },
+    {
+        "question_id": 41,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_5797941172247377583_7.png",
+        "category": "android_detailed_caption_box",
+        "text": "The text appears at the top of the screenshot and is likely the title of the application or page currently being viewed. It suggests that the content of the page is related to the Skype application, possibly for download or further information purposes."
+    },
+    {
+        "question_id": 42,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_5797941172247377583_7.png",
+        "category": "android_detailed_caption_box",
+        "text": "This text is also indicative of the Skype application. It is usually the main header on an app page and is a non-interactive element that provides the user with confirmation of the app's identity."
+    },
+    {
+        "question_id": 43,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_5797941172247377583_7.png",
+        "category": "android_detailed_caption_box",
+        "text": "The icon displayed represents the Skype application. It's typically used as a visual identifier of the app within digital stores or on a device's home screen. It serves as a non-interactive branding element in this context."
+    },
+    {
+        "question_id": 44,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_5797941172247377583_7.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"Install\" is generally an interactive button when found on an application download page. Tapping this button would initiate the download and installation of the app onto the user's device."
+    },
+    {
+        "question_id": 45,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_5797941172247377583_7.png",
+        "category": "android_detailed_caption_box",
+        "text": "This repeated mention of \"Skype\" may refer to the name of the application on its store page. It usually appears below the app icon and serves as a non-interactive title or label."
+    },
+    {
+        "question_id": 46,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_5797941172247377583_7.png",
+        "category": "android_detailed_caption_box",
+        "text": "The term \"purchases\" here likely relates to transactions associated with the app, suggesting that the app might offer in-app purchases."
+    },
+    {
+        "question_id": 47,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_5797941172247377583_7.png",
+        "category": "android_detailed_caption_box",
+        "text": "Paired with the previous \"purchases\" text, \"In-app\" specifies the location or type of purchases available, indicating that users can buy items or services within the app itself."
+    },
+    {
+        "question_id": 48,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_5797941172247377583_7.png",
+        "category": "android_detailed_caption_box",
+        "text": "The rating \"4.1*\" is indicative of user reviews and ratings for the app. It reflects the app's quality as perceived by its users and is usually an averaged score based on individual user ratings."
+    },
+    {
+        "question_id": 49,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_5797941172247377583_7.png",
+        "category": "android_detailed_caption_box",
+        "text": "\"1B+\" signifies the number of times the app has been downloaded, indicating that the Skype app has been downloaded over one billion times."
+    },
+    {
+        "question_id": 50,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_5797941172247377583_7.png",
+        "category": "android_detailed_caption_box",
+        "text": "The phrase \"Editors' Choice\" likely denotes a special recognition or endorsement by the app store's editorial team, suggesting that the app comes highly recommended."
+    },
+    {
+        "question_id": 51,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_8853455778583749835_5.png",
+        "category": "android_detailed_caption_box",
+        "text": "This region contains the phrase \"search settings,\" which indicates a function allowing the user to search within the settings menu. The presence of a magnifying glass icon suggests that this is an interactive search bar interface element. Typically, a user would tap this area and input text to locate specific settings."
+    },
+    {
+        "question_id": 52,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_8853455778583749835_5.png",
+        "category": "android_detailed_caption_box",
+        "text": "This portion features the single character \"M\" which is typically representative of a user's initial or an application's logo. It is stylized with a certain thickness and distinct font that can be indicative of a branding design or user personalization within a software interface."
+    },
+    {
+        "question_id": 53,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_8853455778583749835_5.png",
+        "category": "android_detailed_caption_box",
+        "text": "This region includes the word \"Add\" presented with clear, bold lettering on a button or interactive element. This is commonly used to initiate the process of adding new elements, possibly in this context to add a new email account, as suggested by the surrounding text."
+    },
+    {
+        "question_id": 54,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_8853455778583749835_5.png",
+        "category": "android_detailed_caption_box",
+        "text": "The text \"another email\" is part of a larger phrase that suggests functionality for adding additional email addresses to the account or application in use. It is likely not interactive by itself but is part of instructional or descriptive text guiding the user's actions."
+    },
+    {
+        "question_id": 55,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_8853455778583749835_5.png",
+        "category": "android_detailed_caption_box",
+        "text": "Featuring the word \"account,\" this text complements the nearby phrase and is associated with the process of adding or managing email accounts within the application or device settings. It would generally not be interactive but adds context to the interface's options."
+    },
+    {
+        "question_id": 56,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_8853455778583749835_5.png",
+        "category": "android_detailed_caption_box",
+        "text": "The phrase \"Set up your personal\" suggests a prompt or direction for the user to configure personal settings, possibly related to an email or other account settings. This text is usually static and provides guidance or instructions within a user interface."
+    },
+    {
+        "question_id": 57,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_8853455778583749835_5.png",
+        "category": "android_detailed_caption_box",
+        "text": "Paired with the previous text, \"or work email\" completes instructions for setting up email accounts of different types (personal or professional) within an application. This portion of text helps to further define the user's options for account configuration."
+    },
+    {
+        "question_id": 58,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_8853455778583749835_5.png",
+        "category": "android_detailed_caption_box",
+        "text": "\"Network & internet\" signifies a category or menu within the settings that pertains to adjusting network-related preferences including Wi-Fi, data usage, and related connectivity features. This text typically leads to a subsection where related settings can be modified."
+    },
+    {
+        "question_id": 59,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_8853455778583749835_5.png",
+        "category": "android_detailed_caption_box",
+        "text": "This section, \"Wi-Fi, mobile, data\" lists different connectivity options available to the user for configuration. It could be informative text providing a summary of the settings contained within the \"Network & internet\" menu mentioned in the previous region."
+    },
+    {
+        "question_id": 60,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_8853455778583749835_5.png",
+        "category": "android_detailed_caption_box",
+        "text": "The presence of the word \"usage,\" combined with the context from the surrounding text, relates to data consumption aspects of the device's network settings. \"And\" suggests there are additional relevant aspects listed after this text, likely related to managing network services or features."
+    },
+    {
+        "question_id": 61,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_9088043504221051292_1.png",
+        "category": "android_detailed_caption_box",
+        "text": "This area displays the text \"Wednesday, May 18,\" which appears to show the date information, presumably representing the current day of the week and the month's date. This is typically displayed on mobile devices as part of the user interface to inform the user of the current date."
+    },
+    {
+        "question_id": 62,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_9088043504221051292_1.png",
+        "category": "android_detailed_caption_box",
+        "text": "The text \"Maps\" suggests an application name, likely a mapping or navigation app, which users commonly utilize to find locations, get directions, or explore maps of different areas. It is probable that tapping on this text would open the associated application."
+    },
+    {
+        "question_id": 63,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_9088043504221051292_1.png",
+        "category": "android_detailed_caption_box",
+        "text": "This is a single character \"G,\" customarily associated with Google’s branding. It often represents access to Google's search services or apps affiliated with Google. Interacting with this symbol would possibly lead to a Google product or service."
+    },
+    {
+        "question_id": 64,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_9088043504221051292_1.png",
+        "category": "android_detailed_caption_box",
+        "text": "This icon, often indicative of location services or map functionality, is commonly used to represent a user's current location or to access location-based features. Interacting with this icon typically opens a mapping application that shows the user's real-time location on a map."
+    },
+    {
+        "question_id": 65,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_9088043504221051292_1.png",
+        "category": "android_detailed_caption_box",
+        "text": "This icon depicts a chat bubble, usually associated with messaging or communication services. It typically indicates the user's chat or messaging applications, and interaction would likely open the associated messaging service to send or receive messages."
+    },
+    {
+        "question_id": 66,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_9088043504221051292_1.png",
+        "category": "android_detailed_caption_box",
+        "text": "This icon with a colorful design resembling a camera shutter or a wheel hints at the Google Chrome browser, which is widely used for Internet browsing. Tapping this icon would typically open the Chrome browser for web navigation."
+    },
+    {
+        "question_id": 67,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/google_apps_9088043504221051292_1.png",
+        "category": "android_detailed_caption_box",
+        "text": "The icon exhibits the Google Assistant symbol, suggesting voice-activated or typing search query functionality. Interacting with this icon would likely invoke Google Assistant to help with tasks, answer questions, or control smart home devices."
+    },
+    {
+        "question_id": 68,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_1849.png",
+        "category": "android_detailed_caption_box",
+        "text": "The URL displayed in the address bar indicates that the webpage belongs to costco.com and includes a path, or endpoint, that suggests a functional page, which the text 'Check' implies may be related to a checkout or verification process. This is the web address users can navigate to for interacting with the website's functionality."
+    },
+    {
+        "question_id": 69,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_1849.png",
+        "category": "android_detailed_caption_box",
+        "text": "The logo represents the brand identity for Costco Wholesale, indicating that the user is currently on the official website of this retail company. As a logo, it may serve as a clickable element that typically redirects users to the homepage of the website."
+    },
+    {
+        "question_id": 70,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_1849.png",
+        "category": "android_detailed_caption_box",
+        "text": "Labeled 'Warehouses,' this indicates a section of the website where users can find information about Costco's physical store locations. It likely functions as a link that, when clicked, will take the user to a page detailing warehouse locations and related information."
+    },
+    {
+        "question_id": 71,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_1849.png",
+        "category": "android_detailed_caption_box",
+        "text": "Marked 'Account,' this suggests a section pertaining to user account management. Clicking on this would likely allow the user to access their personal account details, sign in, or manage their membership and profile."
+    },
+    {
+        "question_id": 72,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_1849.png",
+        "category": "android_detailed_caption_box",
+        "text": "This icon appears to represent a shopping cart, which is commonly used on e-commerce websites to signify where users can view items they intend to purchase. Clicking on it would probably take the user to view their current selections or to the checkout page."
+    },
+    {
+        "question_id": 73,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_1849.png",
+        "category": "android_detailed_caption_box",
+        "text": "Highlighting the word 'Shop,' this implies a navigational link designed to direct users to the online shopping section of the website, where they can browse and choose products for purchase."
+    },
+    {
+        "question_id": 74,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_1849.png",
+        "category": "android_detailed_caption_box",
+        "text": "This appears to be a search bar, where users can enter keywords or phrases to find specific items or information on the website. Such fields typically include an interactive function that generates search results upon entry confirmation."
+    },
+    {
+        "question_id": 75,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_1849.png",
+        "category": "android_detailed_caption_box",
+        "text": "'My Warehouse' likely refers to the user's preferred or designated Costco warehouse location. It may include functionality for the user to select or change their preferred store and may show additional details, such as operational hours."
+    },
+    {
+        "question_id": 76,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_1849.png",
+        "category": "android_detailed_caption_box",
+        "text": "The phrase 'Delivery Location' accompanied with what appears to be a postal code implies a feature that allows users to specify or view the location to which online purchases will be delivered."
+    },
+    {
+        "question_id": 77,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_1849.png",
+        "category": "android_detailed_caption_box",
+        "text": "Containing the city name 'Seattle,' this suggests the chosen warehouse or delivery location for the user. It might be interactive to allow the user to change the location or view information on the selected warehouse."
+    },
+    {
+        "question_id": 78,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_125967318814166469_6.png",
+        "category": "android_detailed_caption_box",
+        "text": "This text likely represents the name of an application or service known as Fetch Rewards, potentially hinting at a rewards system that users can utilize by engaging with the app."
+    },
+    {
+        "question_id": 79,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_125967318814166469_6.png",
+        "category": "android_detailed_caption_box",
+        "text": "This is the word \"Play,\" which usually is associated with initiating an action or starting something, such as a video or game within an application."
+    },
+    {
+        "question_id": 80,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_125967318814166469_6.png",
+        "category": "android_detailed_caption_box",
+        "text": "The phrase \"to earn\" typically suggests that there is an opportunity to gain something—often points, money, or rewards—by performing certain actions or tasks."
+    },
+    {
+        "question_id": 81,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_125967318814166469_6.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"MAKE\" usually denotes the action of creating something or obtaining an outcome, perhaps insinuating that users can create or earn money through the app."
+    },
+    {
+        "question_id": 82,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_125967318814166469_6.png",
+        "category": "android_detailed_caption_box",
+        "text": "This text states \"MONEY,\" which indicates that the application or service likely involves opportunities for users to earn financial rewards or benefits."
+    },
+    {
+        "question_id": 83,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_125967318814166469_6.png",
+        "category": "android_detailed_caption_box",
+        "text": "The text \"appminer st\" is not immediately clear, but it could be a truncation or part of a larger phrase, possibly indicating a feature within the app, or related to app mining or statistics."
+    },
+    {
+        "question_id": 84,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_125967318814166469_6.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word \"Contains\" usually suggests that what follows will describe the contents or features within the app, which in this case could be related to advertisements."
+    },
+    {
+        "question_id": 85,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_125967318814166469_6.png",
+        "category": "android_detailed_caption_box",
+        "text": "This term generally refers to \"advertisements,\" suggesting that the application includes ads that users might see while utilizing the app."
+    },
+    {
+        "question_id": 86,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_125967318814166469_6.png",
+        "category": "android_detailed_caption_box",
+        "text": "The numerical figure \"50K+\" generally implies a quantity greater than 50,000, typically used in the context of downloads, users, or items within an app."
+    },
+    {
+        "question_id": 87,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/install_125967318814166469_6.png",
+        "category": "android_detailed_caption_box",
+        "text": "The characters \"4.7*\" indicate a rating, likely on a 5-point scale, suggesting that users have rated the app positively, with 4.7 out of 5 stars."
+    },
+    {
+        "question_id": 88,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_2921.png",
+        "category": "android_detailed_caption_box",
+        "text": "This area contains the webpage title indicating the user is on a retail website known for its wide range of products, hinting at online shopping capabilities. The title is typically non-interactive and serves as an identifier of the site."
+    },
+    {
+        "question_id": 89,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_2921.png",
+        "category": "android_detailed_caption_box",
+        "text": "This text seems to be an incorrect or truncated URL for the same retail website mentioned in Region 1. Possibly a typographical error within the text, it seems non-functional."
+    },
+    {
+        "question_id": 90,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_2921.png",
+        "category": "android_detailed_caption_box",
+        "text": "The text here represents a search query within a search bar of the website, suggesting the user is looking for a Lenovo ThinkPad, which is a model of a laptop computer."
+    },
+    {
+        "question_id": 91,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_2921.png",
+        "category": "android_detailed_caption_box",
+        "text": "Labeled 'Cancel,' this is likely an interactive button used to clear the current search query within the search bar. Once tapped or clicked, it should clear the input text."
+    },
+    {
+        "question_id": 92,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_2921.png",
+        "category": "android_detailed_caption_box",
+        "text": "This text duplicates the query in Region 3 and is part of the search bar suggestions or search history, indicating a previous or common search made by the user."
+    },
+    {
+        "question_id": 93,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_2921.png",
+        "category": "android_detailed_caption_box",
+        "text": "The single word 'Lenovo,' which is part of a search suggestion below the search bar, represents the brand that manufactures various electronic devices, including laptops."
+    },
+    {
+        "question_id": 94,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_2921.png",
+        "category": "android_detailed_caption_box",
+        "text": "The word 'ThinkPad' refers to a specific line of laptops and is part of a search suggestion. Standalone, it specifies the user's interest in the ThinkPad series by Lenovo."
+    },
+    {
+        "question_id": 95,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_2921.png",
+        "category": "android_detailed_caption_box",
+        "text": "The text 'ir' appears to be an incomplete or mistyped search term or fragment within the search suggestions. Its context is unclear without additional information."
+    },
+    {
+        "question_id": 96,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_2921.png",
+        "category": "android_detailed_caption_box",
+        "text": "This text, likely a category label, indicates the section of the site the user is navigating, presumably the electronics category where items like laptops would be found."
+    },
+    {
+        "question_id": 97,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/android_detailed_caption/images/single_2921.png",
+        "category": "android_detailed_caption_box",
+        "text": "Representing a longer search suggestion, this phrase indicates a related accessory for the Lenovo ThinkPad, specifically a charger, suggesting the user might be looking to purchase this item."
+    },
+    {
+        "question_id": 98,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/6.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "The image displays a title that reads \"NAVIGATING SPECIAL EDUCATION SOCIAL & EMOTIONAL LEARNING.\" It's styled in bold, white capital letters against a red background, and it appears to serve as a header for the entire visual presentation, indicating the overarching theme of the content below."
+    },
+    {
+        "question_id": 99,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/6.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "This panel illustrates the concept of a \"Growth Mindset\" juxtaposed with \"Fixed Mindset.\" Two head silhouettes are shown with arrows pointing towards a \"Growth Mindset\" tag indicating a positive transformation away from a \"Fixed Mindset,\" symbolizing the adaptability and learning potential of the mind."
+    },
+    {
+        "question_id": 100,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/6.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Depicted here is a person with a grim expression, and steam coming out of their ears, conveying the theme of \"Anger Management.\" This symbolizes the need to control tempers, with visual cues highlighting the struggle typically associated with anger."
+    },
+    {
+        "question_id": 101,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/6.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "This panel represents \"Understanding Diversity.\" It features a circle of variously colored handprints reaching towards the center, signifying unity and inclusiveness among diverse individuals or groups. The image communicates the idea of embracing diversity."
+    },
+    {
+        "question_id": 102,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/6.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "The image here is indicative of \"Social Inferencing.\" A figure stands perplexed before an open box with question marks floating above, suggesting the process of interpreting social cues and understanding social contexts or scenarios that are not overtly expressed."
+    },
+    {
+        "question_id": 103,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/6.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "An illustration of two children, one standing over the other with a raised fist, typifies \"Bullying.\" This image portrays an aggressive interaction between youth, emphasizing the dynamic of power and intimidation present in bullying behaviors."
+    },
+    {
+        "question_id": 104,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/6.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Here, \"Helping Others\" is symbolized by two children, one assisting the other by tying their shoe. This image evokes themes of kindness, helpfulness, and cooperation among individuals, highlighting the importance of social support."
+    },
+    {
+        "question_id": 105,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/6.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Showing two profiles with opposing arrows and a lightning bolt in between, this panel discusses \"Conflict Resolution.\" The imagery suggests two individuals facing a conflict with a potential for resolution, emphasizing communication and problem-solving."
+    },
+    {
+        "question_id": 106,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/6.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "This panel depicts \"Coping With Changes,\" represented by a signpost with arrows pointing in different directions, labeled \"CHANGES.\" It symbolizes the various paths one may take when encountering life's transitions and the importance of adaptability."
+    },
+    {
+        "question_id": 107,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/6.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Finally, \"Leadership\" is expressed through an individual climbing a staircase while assisting another person upward. It represents the concept of leading by example, and guiding others towards success, showcasing the traits of a good leader."
+    },
+    {
+        "question_id": 108,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=3115468935,3930284634&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "The image highlights a statistic related to hiring efficiency, pointing out that the time to hire has more than doubled over the last 5 years. A graphical element beside the text emphasizes this increase in time with a \"+2X\" indicating the doubling."
+    },
+    {
+        "question_id": 109,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=3115468935,3930284634&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "This section of the image indicates that the average cost to hire someone in the U.S. is $4,000, emphasizing the financial implications of the recruitment process for employers."
+    },
+    {
+        "question_id": 110,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=3115468935,3930284634&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Illustrated here is a pie chart displaying that 36% of employers are unable to find the talent they need when it is needed. This statistic points to the challenges in matching skills and job openings in a timely manner."
+    },
+    {
+        "question_id": 111,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=3115468935,3930284634&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Described here is the significant potential economic benefit (\"$2.7 trillion impact to global GDP\") that could result from using more efficient talent platforms, suggesting that improvements in recruiting methods could have a profound impact on the global economy."
+    },
+    {
+        "question_id": 112,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=3115468935,3930284634&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "This part of the image addresses organizational efficiency, with a statement that 46% of companies are sometimes or frequently understaffed. The figure is accompanied by a graphic showing the 46% proportion."
+    },
+    {
+        "question_id": 113,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/50.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "This area presents the title and introductory text providing an overview of the image's intent. It introduces the concept of \"Travel Personas,\" indicates that these personas are used to identify individual travel styles, and how these styles are significant for personalized engagement in marketing. It references a report by the CMO Council from 2018."
+    },
+    {
+        "question_id": 114,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/50.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A visual and textual depiction of \"The Smart Planner\" travel persona. This persona, representing 31% of travelers, is illustrated by a character with suitcases, a camera, binoculars, and a hat, suggesting a well-prepared and organized traveler."
+    },
+    {
+        "question_id": 115,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/50.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "This illustrates \"The Relaxed Nomad\" persona. With 25% representation, the image shows two individuals in hiking attire with a backpack, indicating a laid-back and adventurous travel style."
+    },
+    {
+        "question_id": 116,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/50.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Depicts \"The Deal Seeker\" persona, representing 22% of travelers. The image shows a family with suitcases and shopping bags, suggesting a focus on economical travel and value for money."
+    },
+    {
+        "question_id": 117,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/50.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Presents \"The Nervous Stresser\" persona with 13% representation. The image depicts an anxious individual in an airplane seat, clutching the armrests, reflecting a traveler who experiences stress during trips."
+    },
+    {
+        "question_id": 118,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/50.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Showcases \"The Adventurous Thrill-Seeker\" persona, accounting for 5% of the traveler demographic. The image portrays two characters skydiving, indicating a preference for high-energy and adventure-filled travel experiences."
+    },
+    {
+        "question_id": 119,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/50.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Portrays \"The Luxury Budget-Buster\" persona, constituting 1% of travelers according to this depiction. The image includes a character sipping a drink on a plane, implying a tendency towards indulgence and high expenditure."
+    },
+    {
+        "question_id": 120,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/50.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Displays \"The Business Road Warrior\" persona, also making up 1% of the traveler profile. The graphical representation includes a character briskly walking with a rolling suitcase and carrying a briefcase, suggesting frequent travel for business purposes."
+    },
+    {
+        "question_id": 121,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/24.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "An illustration depicts a female customer service representative wearing a headset and holding a notepad, with an envelope icon indicating email communication."
+    },
+    {
+        "question_id": 122,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/24.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Depicted here is a male customer support agent with a headset. Behind him are symbols such as a magnifying glass and a wrench, suggesting a focus on service and problem-solving."
+    },
+    {
+        "question_id": 123,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/24.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "This image shows a customer support agent with a globe and a phone headset in the background. The presence of a star and headphones suggests excellence in global support."
+    },
+    {
+        "question_id": 124,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/24.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "In this graphic, a male figure with a headset is surrounded by symbols: a question mark, gears, and a light bulb. This represents expertise in finding solutions."
+    },
+    {
+        "question_id": 125,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/24.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Featuring tools and a gauge, the illustration conveys a commitment to quality in customer service, indicated by the 'Quality Service' text."
+    },
+    {
+        "question_id": 126,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/24.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "The design shows a female representative with a headset alongside a mobile phone displaying a wifi signal and a callback option, emphasizing telecommunications services."
+    },
+    {
+        "question_id": 127,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/24.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "This panel portrays a customer support individual with a wrench, highlighting the concept of assistance with technical or practical issues."
+    },
+    {
+        "question_id": 128,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/24.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Illustrated here is a customer support agent with a headset in front of a backdrop depicting the UK flag, a speech bubble, and a phone, suggesting language translation services."
+    },
+    {
+        "question_id": 129,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/24.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A female customer service consultant is represented, with symbols of 24-hour availability and a gold star, signifying round-the-clock excellence."
+    },
+    {
+        "question_id": 130,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=1241354889,2739849697&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "The image features a human heart symbolizing a strong heart as one of the benefits of running."
+    },
+    {
+        "question_id": 131,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=1241354889,2739849697&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "This panel showcases an icon of a shield with a check mark, representing the immune system's boost from running."
+    },
+    {
+        "question_id": 132,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=1241354889,2739849697&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A silhouette of a figure measuring their waist indicates that running can aid in weight loss."
+    },
+    {
+        "question_id": 133,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=1241354889,2739849697&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "The artwork depicts a pair of lungs, signifying the respiratory system's enhancement due to running."
+    },
+    {
+        "question_id": 134,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=1241354889,2739849697&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A smiling face emoticon suggests that running can improve one's mood."
+    },
+    {
+        "question_id": 135,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=1241354889,2739849697&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "An illustration of a leg bone signifies that running increases bone density."
+    },
+    {
+        "question_id": 136,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=1241354889,2739849697&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "An image of a brain is used to illustrate the benefit of improved brain function from running."
+    },
+    {
+        "question_id": 137,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=1241354889,2739849697&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "The image features a detailed representation of the cardiovascular system, emphasizing its strengthening through running."
+    },
+    {
+        "question_id": 138,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/11.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "The image displays the word 'HOT' in large, bold, uppercase letters with varying colors for each letter. The 'H' is in red, the 'O' is in mustard yellow, and the 'T' is in a light blue color."
+    },
+    {
+        "question_id": 139,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/11.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Here, a round, yellow cartoon-like emoji with blue tears, symbolizing laughter or crying with joy, is shown. Below it, the word 'HUMOR' is written in uppercase letters."
+    },
+    {
+        "question_id": 140,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/11.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "This depicts an open hand graphic in brown color, which is centered within an orange circular background. Underneath the image, the word 'OPENNESS' appears in capital letters."
+    },
+    {
+        "question_id": 141,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/11.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Shown is an illustration of two hands coming together in a handshake or high five, set against a yellow circle. Below, the word 'TOUCH' is described in uppercase letters."
+    },
+    {
+        "question_id": 142,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/11.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A graphic of a heart with an exclamation mark within it is displayed within a light green circular background. Written below is the word 'ATTENTION' in uppercase letters."
+    },
+    {
+        "question_id": 143,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/11.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "A portrayal of a person with a gender-neutral appearance, featuring brown hair, is encircled in blue. A sequence of dashes leads from the character to the bottom right, with the word 'PROXIMITY' written in block capitals."
+    },
+    {
+        "question_id": 144,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/11.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "The image shows a close-up illustration of a stylized blue eye with a large brown pupil, against a dark blue background. Below the eye is the word 'EYE CONTACT' written in all caps."
+    },
+    {
+        "question_id": 145,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=2557672574,3690790099&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "The image depicts an illustration of a person with flushed cheeks and a thermometer in their mouth, indicating a high temperature, alongside the word \"fever.\""
+    },
+    {
+        "question_id": 146,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=2557672574,3690790099&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "The image shows an individual coughing into their hand, representing a symptom identified by the word \"cough.\""
+    },
+    {
+        "question_id": 147,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=2557672574,3690790099&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "This panel illustrates an individual appearing unwell, with a sick expression and a hand over their mouth. The word \"vomiting\" is associated, indicating it as a symptom."
+    },
+    {
+        "question_id": 148,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=2557672574,3690790099&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Here, an individual is portrayed with their hands near their throat, their cheeks flushed, and an uneasy expression. The term \"dyspnea\" adjacent to the figure defines the displayed respiratory distress."
+    },
+    {
+        "question_id": 149,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=2557672574,3690790099&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "An individual is seen clutching their stomach, with a distressed expression, representative of \"diarrhea\" which is indicated by the corresponding label."
+    },
+    {
+        "question_id": 150,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=2557672574,3690790099&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "The illustration shows a pair of human lungs with a highlighted area indicating inflammation. The word \"pneumonia\" is present to describe the condition being depicted."
+    },
+    {
+        "question_id": 151,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=2557672574,3690790099&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Featured is a graphic representation of a pair of kidneys with a highlighted area in red, indicating distress or damage. Alongside is the phrase \"renal failure,\" signifying the medical condition exhibited."
+    },
+    {
+        "question_id": 152,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/23.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "This region displays the heading \"Interesting Facts\" at the top, set against a blue background with a three-line menu icon to the left and a heart symbol to the right."
+    },
+    {
+        "question_id": 153,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/23.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Depicts a graphical icon of a panda bear's face on a green background with the label \"Animals\" beneath it."
+    },
+    {
+        "question_id": 154,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/23.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Shows an icon representing a plate and silverware on a green background, labeled as \"Diet Nutrition.\""
+    },
+    {
+        "question_id": 155,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/23.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Includes a graphical icon that combines a heart shape and a pulse line on a dark background, labeled \"Diseases Disorders.\""
+    },
+    {
+        "question_id": 156,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/23.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Features an image of a fashionable shirt on a dark background with the word \"Fashion\" underneath it."
+    },
+    {
+        "question_id": 157,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/23.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Contains an icon resembling a film strip on an orange background, indicating the \"Entertainment\" category."
+    },
+    {
+        "question_id": 158,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/23.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "This panel displays an icon of a syringe with a drop, which is on a green background, and is described with the words \"Drugs Addiction.\""
+    },
+    {
+        "question_id": 159,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/23.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Shows a depiction of a wine bottle and glass on a blue background, labeled \"Food & Drink.\""
+    },
+    {
+        "question_id": 160,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/23.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Exhibits two stylized human figures, one male and one female, on a blue background, with the inscription \"Gender.\""
+    },
+    {
+        "question_id": 161,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/23.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Contains a depiction of the Earth on a green background, with the word \"Global\" beneath it."
+    },
+    {
+        "question_id": 162,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=2795077530,1349319423&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "The image depicts two individuals engaged in conversation. One appears to be a professional, possibly a therapist, sitting across from a person who seems to be seeking help. The scene is accompanied by the text \"Seek Professional Help,\" suggesting that the image represents the advice to consult a mental health professional when dealing with depression."
+    },
+    {
+        "question_id": 163,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=2795077530,1349319423&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "This panel features an individual sitting on the ground with their head down, projecting a dejected or hopeless demeanor. Above the figure, the text reads \"Don't Lose Hope.\" The image conveys the message of maintaining hope as a countermeasure against feelings of depression."
+    },
+    {
+        "question_id": 164,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=2795077530,1349319423&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "An illustration of a female figure is shown alongside the phrase \"Practice Mindfulness.\" She appears calm and collected, with her eyes closed and a slight smile, which indicates a serene state of mind, commonly associated with mindfulness practice."
+    },
+    {
+        "question_id": 165,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=2795077530,1349319423&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Here, an individual is seen looking out of a large window onto a sunny landscape with trees. The phrase \"Rethink Your Perspective\" suggests that the image is advising a change in one's outlook, possibly to a more positive or broader view, as a way to combat depression."
+    },
+    {
+        "question_id": 166,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=2795077530,1349319423&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "The image presents a person in activewear, taking a stride forward with a focused expression. The associated text, \"Stay Active,\" recommends physical activity as a method for improving mental health and battling depression."
+    },
+    {
+        "question_id": 167,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=2795077530,1349319423&fm=253&app=138&f=JPEG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "This panel displays a person in a yoga pose, meditating with eyes closed and hands in a position of focus. The text \"Meditate\" indicates that the image is suggesting meditation as a therapeutic practice for managing depression."
+    },
+    {
+        "question_id": 168,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=3691911939,3379985415&fm=253&app=138&f=PNG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "The image shows three gel ice packs in green, purple, and blue colors, with distinctive shapes, resembling a dinosaur, a star, and a fish. Accompanying text suggests \"Take out the one you need.\""
+    },
+    {
+        "question_id": 169,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=3691911939,3379985415&fm=253&app=138&f=PNG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "An illustration depicts a cartoon boy holding an ice pack to his head. Text indicates the ice pack has multi-functionality and advises using the ice pack for \"the relief area for the doctor recommended time of 20 minutes.\""
+    },
+    {
+        "question_id": 170,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=3691911939,3379985415&fm=253&app=138&f=PNG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Detailed instructions on how to use the ice pack are given, with two methods highlighted: \"TO USE COLD\" involving refrigeration, and \"TO USE HOT\" instructing to microwave the pack for 10 seconds and check the temperature."
+    },
+    {
+        "question_id": 171,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/multipanel_detailed_caption/images/u=3691911939,3379985415&fm=253&app=138&f=PNG.png",
+        "category": "multipanel_detailed_caption_box",
+        "text": "Guidelines for storage are portrayed, advising to \"put the item in the storage bag, for longer shelf life, keep pack in freezer while not in use.\""
+    },
+    {
+        "question_id": 172,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/4010.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "The object appears to be a small brown wooden shed, likely used for storage, situated on a patch of grass. It has a clearly visible slanted roof, possibly for rain runoff, and looks to be a single-door structure typically found in a backyard or garden setting."
+    },
+    {
+        "question_id": 173,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/4010.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "This object is a tree with thick, lush foliage, representing a mature specimen that provides shade and greenery. It stands behind a smaller, sparser tree and is part of a larger grouping of trees that appear to create a natural boundary or backdrop for the area."
+    },
+    {
+        "question_id": 174,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/4010.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A single metal pole is embedded in the ground in a vertical orientation. It seems to be a simple, slender structure, possibly serving as a support or part of a larger construction that isn't fully visible. The lawn surrounding it is well-trimmed and maintains an even appearance."
+    },
+    {
+        "question_id": 175,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407550.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "This bowl, appearing to be dark blue, is situated against a background, likely part of kitchenware."
+    },
+    {
+        "question_id": 176,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407550.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "The tabletop is made of dark marble, showcasing a glossy finish and reflecting its surroundings slightly."
+    },
+    {
+        "question_id": 177,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407550.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "The light switches are white, contrasting with the dark wall, likely plastic, and appear functional."
+    },
+    {
+        "question_id": 178,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407550.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "Positioned in the background, these white light switches are paired on a wall above the countertop."
+    },
+    {
+        "question_id": 179,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407550.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "This silver oven, with digital controls and a handle, appears modern and built into the cabinetry."
+    },
+    {
+        "question_id": 180,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407550.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "An indistinct blue and green object, possibly decorative, is partially visible against a lighter backdrop."
+    },
+    {
+        "question_id": 181,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407550.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "The floor, constructed of hardwood, showcases a natural finish with variations in wood grain."
+    },
+    {
+        "question_id": 182,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407550.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "The jar holder, likely metal, is mounted to the wall, containing jars that may hold spices or ingredients."
+    },
+    {
+        "question_id": 183,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/402.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "This is an image of a silver metal table situated outside on a paved ground. The table has a shiny, reflective surface indicative of being metallic."
+    },
+    {
+        "question_id": 184,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/402.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "The object is an outdoor chair characterized by its red backrest and tan seat. It appears sturdy and designed for outdoor settings, likely part of a café or restaurant patio."
+    },
+    {
+        "question_id": 185,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/402.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "The item in question is a piece of lavender paper that seems to be placed atop a metal table. The paper's edges are distinctly visible against the table's surface."
+    },
+    {
+        "question_id": 186,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/402.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "Visible here is a yellow traffic light, suspended above the street. The light is not illuminated and it stands against a light sky, possibly signaling a traffic-stop scenario."
+    },
+    {
+        "question_id": 187,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/402.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A large red and white striped umbrella stands open, presumably providing shade or shelter in an outdoor setting. Its vibrant colors attract attention."
+    },
+    {
+        "question_id": 188,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/402.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A brown tree trunk is seen beside a sidewalk. The trunk's bark is rugged and it appears to be a mature, healthy tree, offering shade to the vicinity."
+    },
+    {
+        "question_id": 189,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/402.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "Displayed is a black chalkboard featuring white text. It seems to be placed on a sidewalk, often used for displaying messages or menus outside establishments."
+    },
+    {
+        "question_id": 190,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/402.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A window is seen on the side of a tan-colored building. It appears to be rectangular, typical of building windows, and reflects the adjacent surroundings."
+    },
+    {
+        "question_id": 191,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000518836.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A close-up view of a horse's head, predominantly brown with a distinctive white patch on its forehead and visible mane."
+    },
+    {
+        "question_id": 192,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000518836.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "This is the body of a brown horse, most likely the same one as the head seen in the close-up. Its front body is visible."
+    },
+    {
+        "question_id": 193,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000518836.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A white horse is seen from a side angle in the distance, grazing or standing in a meadow with trees and a fence."
+    },
+    {
+        "question_id": 194,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000205601.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A frying pan on a heat source contains sautéed meat and vegetables, emitting steam, indicating the food is hot and being cooked."
+    },
+    {
+        "question_id": 195,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000205601.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "An electric stovetop features a radiant burner that is glowing, suggesting it is turned on and providing heat for cooking."
+    },
+    {
+        "question_id": 196,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000205601.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A kitchen knife with a green handle rests on a countertop; its blade appears sharp and suitable for food preparation."
+    },
+    {
+        "question_id": 197,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000205601.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A human hand is captured in motion, seasoning or stirring the food in the pan, contributing to the cooking process."
+    },
+    {
+        "question_id": 198,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000299654.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "The image depicts the head of a zebra, with distinctive black and white stripes covering its fur. The animal's ears are pointed upwards, indicating alertness. The eyes are visible, showcasing a gentle gaze, and the nose is close to the ground, suggesting the zebra is grazing or sniffing the terrain. The mane is partially visible as a series of short, erect black hair between the zebra's ears."
+    },
+    {
+        "question_id": 199,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000107939.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "The object is a rectangular street sign with white letters on a green background, indicating the name of a street. It is affixed to a metal pole and is located above and slightly to the left of a stop sign. The sign reads 'NORTH AVE' suggesting it's likely an indication of the street or direction. It appears to be a standard street name sign used in many urban settings."
+    },
+    {
+        "question_id": 200,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000107939.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "This object is a red hexagonal stop sign with white uppercase letters spelling 'STOP'. It is attached to the same metal pole as another sign, below and to the right of it. The sign is designed to alert drivers to stop and is a widely recognized traffic control device. The edges of the sign appear sharp and undamaged, suggesting it is in good condition."
+    },
+    {
+        "question_id": 201,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000437374.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A plush, padded object designed for comfort, potentially used on a sofa."
+    },
+    {
+        "question_id": 202,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000437374.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "Similar to the first object, this is also a stuffed and soft piece intended for supporting or resting."
+    },
+    {
+        "question_id": 203,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000437374.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "Decorative accessory adorned on the ear, visible as a small, shiny object."
+    },
+    {
+        "question_id": 204,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000437374.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "This is a child with an open mouth and animated facial expression, possibly speaking or expressing surprise."
+    },
+    {
+        "question_id": 205,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/000000437374.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "Appears to be a young boy, casually dressed, gripping an electronic device with attention."
+    },
+    {
+        "question_id": 206,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407508.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "The figure is wearing a red ski suit with a blue helmet and goggles. Their stance is open and welcoming, arms outstretched, and they seem to be an instructor addressing a group of students on a snowy slope."
+    },
+    {
+        "question_id": 207,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407508.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A person is mostly obscured by the instructor but can be identified as a ski student by the helmet. The student is wearing a purple jacket with green sleeves and appears to be in mid-motion, learning to ski."
+    },
+    {
+        "question_id": 208,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407508.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "There is a student dressed in green ski gear with visible ski poles, possibly following instructions. They are viewed from the side, indicating movement or a pause during skiing."
+    },
+    {
+        "question_id": 209,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407508.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A clear blue sky with scant clouds, indicative of a bright, sunny day ideal for outdoor activities such as skiing. This backdrop is above a snowy mountain setting."
+    },
+    {
+        "question_id": 210,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407508.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A ski student is captured from behind, suggesting they are moving away from the viewer. They are wearing a red jacket with black pants, indicative of typical ski wear fit for the cold environment."
+    },
+    {
+        "question_id": 211,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407508.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "This student, visible from the side, is wearing a green and purple ski outfit with a matching helmet, possibly in the midst of practicing or following a ski maneuver."
+    },
+    {
+        "question_id": 212,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2407508.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "A detailed examination of the instructor's black glove, which is part of standard skiing attire, suited to protect hands from cold conditions and providing better grip on ski poles."
+    },
+    {
+        "question_id": 213,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2411153.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "Captured in this section is a motorcycle racer, sharply tilting while maneuvering a turn on a race track. The rider, outfitted in a full-body racing suit, is almost in a horizontal position relative to the ground, a technique used in high-speed motorcycle racing to navigate tight turns while maintaining speed. The motorcycle itself is predominantly red with hints of white and black, and it showcases a sleek, aerodynamic design typical of high-performance racing bikes. The rider's focused posture and the bike's dynamic angle suggest this is a moment of intense action during a race."
+    },
+    {
+        "question_id": 214,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/natural_detailed_caption/images/2411153.jpg",
+        "category": "natural_detailed_caption_box",
+        "text": "This portion of the image displays the texture of an asphalt road, detailed with small granular elements indicative of a typical racing track surface built to offer traction and durability. A crisp white boundary line marks the edge of the racing track, contrasting with the dark gray tone of the asphalt. The road surface is illuminated by ambient light, highlighting the texture and suggesting a dry weather condition which is ideal for racing. The condition of the road suggests it is well-maintained, a necessity for the safety and performance of high-speed motorsport events."
+    },
+    {
+        "question_id": 215,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/22d3844dcf29a07bd10f557a33684e331846f81b938ca0f742afab09c542133f.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This region of the image displays a portion of a scientific or academic paper, specifically focusing on points that seem to outlay contents or headings within the document. The page appears to discuss topics in physics, with references to quark and meson masses, as well as lattice data. The content suggests that the document may be exploring the relationship between subatomic particles and their masses, experimental data, and theoretical models (likely within the field of particle physics or quantum chromodynamics). Each item listed is followed by ellipsis and a numerical value, denoting sections or page numbers where these topics are expanded upon within the document."
+    },
+    {
+        "question_id": 216,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/22d3844dcf29a07bd10f557a33684e331846f81b938ca0f742afab09c542133f.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This region is at the bottom of the document, typically referred to as the page-footer. In academic or scientific papers, this section could include information such as the page number, publication date, author's name, or part of the document classification system. However, the specifics of what this footer contains are not visible, as the black rectangle with a white numeric identifier covers it entirely."
+    },
+    {
+        "question_id": 217,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/3b5a913400aa0be183eed5cdd06246f1f1c27dfc145a62a4296fe3ef38fc44f8.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The content is a caption designated for a table, which generally serves to describe the table's subject matter. The caption reads, \"TABLE 1: The geometries and adsorption energies for the structures of thioglycolic acid on Au(111) at 0.25ML.\" It provides a clear indication that Table 1 will present quantitative data regarding the geometry and energy characteristics of thioglycolic acid adsorbed on a gold (Au) substrate at a specific coverage level."
+    },
+    {
+        "question_id": 218,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/3b5a913400aa0be183eed5cdd06246f1f1c27dfc145a62a4296fe3ef38fc44f8.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This is a table containing organized data. It lists various configurations of thioglycolic acid adsorbed on an Au(111) surface, along with numerical values for initial and optimized parameters such as adsorption distance (ds–Au), polar angle (θ), and adsorption energy (E_ads). The data is structured in columns with headings for different parameters and rows corresponding to different adsorption sites and tilt directions. The table is used to convey detailed quantitative information in a comparative format, facilitating the analysis of changes in geometry and energy after optimization."
+    },
+    {
+        "question_id": 219,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/3b5a913400aa0be183eed5cdd06246f1f1c27dfc145a62a4296fe3ef38fc44f8.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "Here appears to be an excerpt of text, possibly from a research article or report, focusing on detailed scientific analysis. The text discusses the shortest Au-S bond length and mentions 'initial and optimized site,' likely referring to the states before and after some experimental or computational procedure. The content seems to pertain to the interpretation of the data presented in the table above it, providing context and insights into the structural data of the adsorption process."
+    },
+    {
+        "question_id": 220,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/3b5a913400aa0be183eed5cdd06246f1f1c27dfc145a62a4296fe3ef38fc44f8.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This section of text also seems to be a detailed analytical discussion, possibly a continuation of the content from the previous text excerpt. It specifically highlights the adsorption energy for the most stable structure of a molecule on the Au(111) surface and the preferred adsorption site. It suggests a close relationship with both the data in the table above and the scientific interpretation or conclusion drawn from that data."
+    },
+    {
+        "question_id": 221,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/3b5a913400aa0be183eed5cdd06246f1f1c27dfc145a62a4296fe3ef38fc44f8.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The content in this region appears to be a page-footer, usually found at the bottom of journal pages or official documents. It may contain information such as the page number, document section, publication date, or authors' names. Such footers are used for navigation and citation purposes."
+    },
+    {
+        "question_id": 222,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0146_0010.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The image is a collection of three scatter plots, each corresponding to a distinct type of prediction performance evaluated by F1 score. The x-axis represents the frequency (presumably of occurrence in the training set), while the y-axis represents the F1 score, which is a measure of test accuracy. The plots are labeled (a) Atom prediction performance, (b) Bond prediction performance, and (c) Charge prediction performance. Each plot features a variety of points labeled with chemical symbols or bond types, indicating that the data relates to chemical structures."
+    },
+    {
+        "question_id": 223,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0146_0010.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This is a caption for the series of scatter plots shown in <Region 1>. It provides an interpretation of the data, stating that there is a clear correlation between the performance of neural networks on different prediction types and the frequency of the specific type in the training dataset. It is noted that classification networks perform significantly better than segmentation networks."
+    },
+    {
+        "question_id": 224,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0146_0010.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This is a subsection title within the document that reads \"Performance of segmentation network.\" It indicates that the following text will discuss the results and analysis related to the evaluation of the segmentation network's performance."
+    },
+    {
+        "question_id": 225,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0146_0010.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This is a paragraph that explains how the performance of the segmentation network is measured by the F1 score for pixel predictions for different atom, bond, and charge types. The text discusses how performance correlates with the frequency of these types in the training data and references a correlation visible in Figure 4, assuming that Figure 4 corresponds to the scatter plots in <Region 1>."
+    },
+    {
+        "question_id": 226,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0146_0010.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This is another subsection title within the document that reads \"Performance of classification networks.\" It signals that the subsequent paragraph will describe the performance evaluation for classification networks."
+    },
+    {
+        "question_id": 227,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0146_0010.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This paragraph details the performance of classification networks, mentioning that the F1 score is used for evaluation. It highlights a correlation between F1 score and the frequency of different atom, bond, and charge types in the training set. Although the segmentation is not perfect, the classification networks can maintain accuracy. Results are summarized in Figure 4, which likely refers to the scatter plots in <Region 1>."
+    },
+    {
+        "question_id": 228,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0146_0010.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This is a subsection title denoted \"Overall graph accuracy,\" which suggests that the following section of the document will focus on the combined accuracy measurements of the previously discussed networks."
+    },
+    {
+        "question_id": 229,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0146_0010.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "In this paragraph, the text outlines how combining the performance of different parts can produce an overall accuracy for graph predictions. It implies that integration of segmentation and classification network results, as indicated by an algorithm, can construct the resulting graph, referencing images in three different blocks."
+    },
+    {
+        "question_id": 230,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0146_0010.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This is the page number of the document, specifically '11,' marking its location within the document's sequence of pages."
+    },
+    {
+        "question_id": 231,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/2802b6a4f8f0c20b8ba717634b852ef20bc4d76831853ff5279febe7cc8b98a1.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This region appears to be a paragraph of text discussing the outcome of a washing process on reducing sugar content. It notes that this process resulted in a higher content of reducing sugar which is thought to overshadow the glycemic index (GI) lowering effect of the polyphenols and may increase the GI of the sugar."
+    },
+    {
+        "question_id": 232,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/2802b6a4f8f0c20b8ba717634b852ef20bc4d76831853ff5279febe7cc8b98a1.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This region of text outlines a graphical demonstration of the 'GI sweet spot' related to the sugars shown in a referenced table. It explains that a certain minimum amount of sucrose (22mg CE/100mg) needs to be retained during sugar processing to maintain a low GI, and that if additional polyphenols are present but the reducing sugars are too high, then the low GI effect is negated."
+    },
+    {
+        "question_id": 233,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/2802b6a4f8f0c20b8ba717634b852ef20bc4d76831853ff5279febe7cc8b98a1.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This region includes a section header titled \"Table 3 - Example sugars,\" which implies that the region is categorizing and summarizing data related to various sugars, likely in a tabular format."
+    },
+    {
+        "question_id": 234,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/2802b6a4f8f0c20b8ba717634b852ef20bc4d76831853ff5279febe7cc8b98a1.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The text in this region describes the effects of increasing the reducing sugar content of sugar and its impact on the GI, moisture content, and the behavior of glucose and fructose when polyphenol content is increased. It concludes that optimizing moisture and reducing sugar content is insufficient to lower the GI in the presence of higher polyphenol levels."
+    },
+    {
+        "question_id": 235,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/2802b6a4f8f0c20b8ba717634b852ef20bc4d76831853ff5279febe7cc8b98a1.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This region is a section header for the text that follows, indicating that the content will deal with \"Example b - Washing or massecuite to desired polyphenol content.\" This text likely explains an example or case study related to the process of washing sugar massecuite to achieve a certain level of polyphenol content."
+    },
+    {
+        "question_id": 236,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/2802b6a4f8f0c20b8ba717634b852ef20bc4d76831853ff5279febe7cc8b98a1.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This region contains text describing an experimental process where two different sugar mill samples were tested for polyphenol content after undergoing washing to a certain depth of color. It discusses how the polyphenol content was measured against desired levels and mentions results found in a specific table."
+    },
+    {
+        "question_id": 237,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0148_0008.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This is a figure. It includes several images arranged in a grid layout depicting various stages of a document life cycle or processing steps. Each image shows a different state of documents, possibly related to digitalization or text recognition processes. These images likely serve as a visual representation of the document's evolution through a particular workflow, such as scanning or Optical Character Recognition (OCR)."
+    },
+    {
+        "question_id": 238,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0148_0008.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This is a caption associated with a figure. It reads \"Figure 5: The OCR process.\" This caption identifies and describes the figure that it is associated with. The figure it refers to likely illustrates the stages or aspects of the OCR process, which could involve converting scanned images of text into machine-encoded text."
+    },
+    {
+        "question_id": 239,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0148_0008.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This is a figure. It shows a piece of text with visual markings comparing two sections labeled \"Available OCR\" and \"Improved OCR.\" The annotations indicate corrections or enhancements made in the 'Improved OCR' section compared to the 'Available OCR' section. This figure serves to demonstrate the efficacy of certain OCR technologies or methodologies by providing a before-and-after comparison."
+    },
+    {
+        "question_id": 240,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0148_0008.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This is a caption associated with a figure. It reads \"Figure 6: Excerpt from the Hong Kong report with different versions of OCR output. The Internet Archive image containing this excerpt can be accessed here:\" followed by a URL. This caption provides context for the associated figure, indicating that it is an excerpt from a specific report and acknowledges the source of the image. It helps readers understand the purpose of the figure and where they can find additional information."
+    },
+    {
+        "question_id": 241,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0148_0008.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This is part of a footer. It contains the name of a journal, \"Journal of Data Mining and Digital Humanities,\" along with the ISSN number, which is a unique identifier used for serial publications. This area of the document provides information about the publication in which the article or research paper may be found."
+    },
+    {
+        "question_id": 242,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0148_0008.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This is also part of a footer. It includes a URL, \"http://jdmdh.episciences.org\", which likely directs readers to the website of the journal or publication mentioned in <Region 5>. This URL provides a way for readers to access more information or related content online."
+    },
+    {
+        "question_id": 243,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0501_0148_0008.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This is a page number. It is located in the footer area of the document and provides the numerical identifier \"9\" for the current page. This helps readers navigate the document and facilitates referencing specific sections."
+    },
+    {
+        "question_id": 244,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/6b5108198110934af9975bbb77b66ac0e9d095ec2031082b58970252031cc686.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This region is identified as the page-header of the document. It contains the title of the document, which reads \"2012 Annual Report 2013.\""
+    },
+    {
+        "question_id": 245,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/6b5108198110934af9975bbb77b66ac0e9d095ec2031082b58970252031cc686.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This portion is a section-header labeled \"Non-Executive Directors' Remuneration.\" It indicates that the following section will discuss the payment and remuneration details for non-executive directors of the company."
+    },
+    {
+        "question_id": 246,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/6b5108198110934af9975bbb77b66ac0e9d095ec2031082b58970252031cc686.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This area is another section-header specifying \"Components of Non-Executive Director remuneration.\" This header suggests a breakdown of the various elements that constitute the remuneration for non-executive directors."
+    },
+    {
+        "question_id": 247,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/6b5108198110934af9975bbb77b66ac0e9d095ec2031082b58970252031cc686.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "Found at the bottom of the page, this region is the page-footer. It's a small section that is typically used for providing footnotes, disclaimers, or publication information for the document."
+    },
+    {
+        "question_id": 248,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/6b5108198110934af9975bbb77b66ac0e9d095ec2031082b58970252031cc686.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This is a table detailing a \"Share purchase plan.\" It contains columns for the name of the individual, the amount of shares acquired, and the share price range at acquisition dates, alongside with the total sum. It lists information about shares acquired by specific individuals at specified price ranges during a specific time frame."
+    },
+    {
+        "question_id": 249,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/6b5108198110934af9975bbb77b66ac0e9d095ec2031082b58970252031cc686.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This is a block of text providing detailed information on \"Current Board fees\" and \"Post-employment benefits.\" It specifies the annual fees for different board roles and outlines the post-retirement benefits provided to non-executive directors with terms of board service."
+    },
+    {
+        "question_id": 250,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/6b5108198110934af9975bbb77b66ac0e9d095ec2031082b58970252031cc686.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This region contains text related to the \"Deferred share purchase plan.\" It describes the nature of the share purchase plan, specifying the conditions under which shares were purchased, the performance criteria associated with the plan, and details regarding the share price and acquisition dates."
+    },
+    {
+        "question_id": 251,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/c17e4a6722b8cd30e591150720d363de3b00a3b5510eeafc2e5d83a3c1e9c08b.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This region is categorized as text. It discusses the mathematical concept of homotopy groups designated π_n(M), focusing on their ability to classify different dimensional hypersurfaces within a manifold M. The text further explains that the triviality of these homotopy groups is linked to the connectivity of the space they represent, with specific mentions of the concepts of domain walls in cosmology and topological defects arising from symmetry breaking during phase transitions in the universe."
+    },
+    {
+        "question_id": 252,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/c17e4a6722b8cd30e591150720d363de3b00a3b5510eeafc2e5d83a3c1e9c08b.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This region of text delves into the implications of symmetry breaking in theoretical physics. It connects the process of symmetry breaking to the generation of monopole-like defects, and it references the Standard Model's group construction that includes a U(1) factor. The text implies that this formation of defects played a pivotal role in historical scientific developments."
+    },
+    {
+        "question_id": 253,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/c17e4a6722b8cd30e591150720d363de3b00a3b5510eeafc2e5d83a3c1e9c08b.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The text in this section links the theoretical concepts mentioned earlier to a practical application: the motivation for introducing a phase of inflation in cosmological models. It characterizes the topological conditions for the formation of defects and points out that certain solutions for these conditions can exist even in the absence of topologically stable defects. References are made to specific types of defects and academic citations are included to support these statements."
+    },
+    {
+        "question_id": 254,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/c17e4a6722b8cd30e591150720d363de3b00a3b5510eeafc2e5d83a3c1e9c08b.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The content in this region pertains to the study of cosmic defects and their stability. It addresses scenarios in which initially unstable defects might become stable through various mechanisms, such as the effects of plasma. These considerations are relevant to the inflationary model in cosmology, particularly the constraints from the formation of cosmic strings."
+    },
+    {
+        "question_id": 255,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/c17e4a6722b8cd30e591150720d363de3b00a3b5510eeafc2e5d83a3c1e9c08b.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This region is categorized as a formula and presents a mathematical equation related to the text's discussion about topological defects and homotopy groups. The equation seems to represent a relationship that is essential to the argument or analysis presented in the categorical text regions it is associated with."
+    },
+    {
+        "question_id": 256,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/c17e4a6722b8cd30e591150720d363de3b00a3b5510eeafc2e5d83a3c1e9c08b.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The last region is identified as a page-footer. It likely contains publication and/or authorship information, a page number, or possibly an indication of the section of the document where the content can be found. Since it is a page-footer, its purpose is primarily to aid in the organization and navigation of the document."
+    },
+    {
+        "question_id": 257,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0301_0188_0040.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The image appears to be a stylized illustration of a side profile of a person's head and upper torso. The person's face is depicted with a serene or peaceful expression, eyes closed and a faint smile, implying a sense of calm or contemplation. Behind the figure, there are abstract shapes resembling clouds or wind patterns that swirl around the head, which could suggest thoughts, memories, or a state of mental flow. The illustration uses a muted color palette, predominantly warm shades of beige, pink, and gray, with a touch of red in the figure's attire, which has a dotted pattern. This artwork likely serves to evoke a mood or theme related to the content of the document in which it's included, possibly regarding mental health, mindfulness, psychology, or the creative process."
+    },
+    {
+        "question_id": 258,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/0301_0188_0040.jpg",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This is a footer section of an image or document. It contains a citation that reads \"© 2021 Scientific American,\" indicating that the image or the content of the document is copyrighted by Scientific American. This informs the viewer about the source of the content and copyright year, serving both as an attribution and a legal notice to respect the intellectual property rights associated with the material."
+    },
+    {
+        "question_id": 259,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/8785a083270bd6931b7096508bdb57d938bca3a9787c50b82c188f7744a5b5f7.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This section is labeled as \"Chapter 2: Motivation.\" It functions as a heading signifying the start of a new chapter or section within the document, providing readers with an indication of the chapter's theme, which in this case is to establish the rationale or impetus behind the subject matter discussed in the chapter."
+    },
+    {
+        "question_id": 260,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/8785a083270bd6931b7096508bdb57d938bca3a9787c50b82c188f7744a5b5f7.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This region, also labeled as \"Chapter 2: Motivation,\" serves a similar purpose to <Region 1>, functioning as part of the chapter heading that presents the focus of the chapter, potentially implying that the author will delve into the reasons or driving forces guiding the study or research presented."
+    },
+    {
+        "question_id": 261,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/8785a083270bd6931b7096508bdb57d938bca3a9787c50b82c188f7744a5b5f7.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This region contains a paragraph of text that discusses specific concepts related to a theoretical framework, possibly in the field of theoretical physics or string theory. It mentions a scenario where excitations in a certain 'near horizon throat region' appear redshifted to an observer at infinity. The text discusses the energy associated with these excitations and touches on limits pertaining to string theory, suggesting that in a particular limit, the full Type IIB string theory must be considered. The paragraph concludes with an implication that supergravity must be considered in the context of near-horizon geometry within the scope of string theory."
+    },
+    {
+        "question_id": 262,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/8785a083270bd6931b7096508bdb57d938bca3a9787c50b82c188f7744a5b5f7.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "In this text paragraph, the document appears to be discussing two theoretical pictures related to the same low-energy limit within theoretical physics or string theory. It mentions the field theory picture with supergravity and an \\( N = 4 \\text{SU}(N) \\) SYM on the D branes, as well as the geometry picture with supergravity in flat space and Type IIB string theory. It suggests that the document is comparing and contrasting these two theoretical perspectives and proposing that they are both decoupled theories with identical asymptotic conditions."
+    },
+    {
+        "question_id": 263,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/8785a083270bd6931b7096508bdb57d938bca3a9787c50b82c188f7744a5b5f7.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This text section seems to conclude the discussion by mentioning that the analytical tools for two differing theoretical scenarios are completely incompatible. It references the Born-Infeld action and suggests that a mathematical comparison between different models yields coincident D-branes for an \\( \\text{SU}(N) \\) two-form field strength, relating to a broader discussion on theoretical physics and string theory."
+    },
+    {
+        "question_id": 264,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/8785a083270bd6931b7096508bdb57d938bca3a9787c50b82c188f7744a5b5f7.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "This region exhibits a mathematical formula that is relevant to the discussion within the document. The formula appears to link certain theoretical physics concepts, connecting string coupling constants \\( g_s \\) with D-brane charges and configurations. The formula is most likely important in the context of supporting the document's claims about supergravity or string theory."
+    },
+    {
+        "question_id": 265,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/1d4428fcd749139270136afe55a72185c44b5ff783c1161767efacc2f08a43c3.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The paragraph in <Region 1> discusses the conventional assumption that an insider's private information is static, citing specific examples from the literature. It elaborates by stating that in certain works, insiders are assumed to know the final value of an asset both before and after the default of the company issuing the asset. The text suggests that the presence of insiders does not always lead to market arbitrage and may contribute positively to the market by leading to higher information efficiency in price processes."
+    },
+    {
+        "question_id": 266,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/1d4428fcd749139270136afe55a72185c44b5ff783c1161767efacc2f08a43c3.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The text in <Region 2> challenges the assumption of an insider's perfect foresight as unrealistic, reasoning that the fundamental value of a firm is tied to dynamically changing elements like cash flows and sales, among other factors. The paragraph presents the idea that the fundamental value is stochastic, implying that it is subject to random fluctuations, and that the insider has the advantage of perceiving these fluctuations more clearly than other market participants."
+    },
+    {
+        "question_id": 267,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/1d4428fcd749139270136afe55a72185c44b5ff783c1161767efacc2f08a43c3.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "In <Region 3>, the document introduces the paper's goal, which is to relax the assumption of static information and examine the equilibrium in trading and price processes and market efficiency when insiders have dynamic private information. The paragraph sets the context for a more detailed exploration of how markets operate under these conditions."
+    },
+    {
+        "question_id": 268,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/1d4428fcd749139270136afe55a72185c44b5ff783c1161767efacc2f08a43c3.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "<Region 4> contains text which explains that the model considered in this paper is a broader version of the earlier static models. The paper's intention is to cover dynamic information scenarios and improve on previous models that covered a narrower range of trading strategies and pricing rules."
+    },
+    {
+        "question_id": 269,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/1d4428fcd749139270136afe55a72185c44b5ff783c1161767efacc2f08a43c3.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The paragraph in <Region 5> discusses the findings of the paper, which include the identification of a Markovian equilibrium that is inconspicuous, allows insiders to trade without being detected, and is solely dependent on the total order process. It underscores the unique nature of this equilibrium and how it enhances the market efficiency in certain conditions."
+    },
+    {
+        "question_id": 270,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_doc_detailed_caption/images/1d4428fcd749139270136afe55a72185c44b5ff783c1161767efacc2f08a43c3.png",
+        "category": "ocr_doc_detailed_caption_box",
+        "text": "The text in <Region 6> suggests empirical outcomes where revealing information might be beneficial. Specifically, it contrasts different market equilibrium scenarios and suggests that in non-Markovian price processes, it’s often better for insiders to disclose their private information."
+    },
+    {
+        "question_id": 271,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0000288.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The Comprehensive Description includes \"Abbondanza\" displayed in a script font that conveys a sense of stylishness or elegance, which may suggest that it is the name of a business, possibly a restaurant or some sort of food-related establishment, given its association with abundance or plenty often related to food."
+    },
+    {
+        "question_id": 272,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0000288.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The Comprehensive Description for \"Cafe\" suggests that the text is identifying a type of establishment where coffee and light meals may be served. The font is straightforward and easily legible, which is typically used for clarity and immediate recognition for passersby."
+    },
+    {
+        "question_id": 273,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0000288.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The Comprehensive Description for \"USIS\" indicates a text that is likely an acronym or a name presented in a bold and blocky font, common for official or institutional entities. It is placed on the side of a van, suggesting it could be the branding of a company or a service, possibly linked to the van's purpose or ownership."
+    },
+    {
+        "question_id": 274,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_49.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The text \"ESTATE\" is written in capital letters with a bold typeface that has clear and uniform strokes, implying a sense of authority and prominence. It appears against a yellow background, which suggests visibility and is likely meant to catch the eye of passersby. The text is likely part of a business sign for a company dealing with property, real estate sales, or management."
+    },
+    {
+        "question_id": 275,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_49.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The text \"AGENTS\" displayed similarly in capital letters and bold typeface complements the text in <Region 1>. The typeface is consistent, suggesting that both are part of the same sign. The dark text against the yellow background stands out, indicating the nature of the business below, which is likely involved in real estate agency work."
+    },
+    {
+        "question_id": 276,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_49.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The word \"SAXONS\" is written in capital letters with a font style that is bold and prominent, but with a slightly more decorative style than <Region 1> and <Region 2>. This difference could be a stylized choice to make the brand name distinctive. Positioned on a façade above a window, it is part of the business's branding, likely the name of the company."
+    },
+    {
+        "question_id": 277,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_49.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "This contains the same text as <Region 3>, \"SAXONS\", indicating that the text is repeated within the image. This repetition reinforces the importance of the name as part of the branding. The text style and location, again above a window, maintain the brand's visibility from multiple angles."
+    },
+    {
+        "question_id": 278,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_49.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "Displaying the word \"ESTATE\" in the same bold, capital letter style as observed in <Region 1>. This repetition at a lower part of the building indicates a consistent branding approach across the business' presence on the building, and its placement closer to eye level increases readability for pedestrians."
+    },
+    {
+        "question_id": 279,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_49.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The word \"AGENTS\" is identified, and like <Region 5>, it mirrors the style and size of the sign in <Region 2>, ensuring that the message of the business being an estate agency is clear. This consistent branding facilitates quick recognition and understanding of the services offered."
+    },
+    {
+        "question_id": 280,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0000808.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The text \"Triple\" appears in a retro cursive script, likely chosen to convey a sense of nostalgia or classic style, which is consistent with the overall branding. It is set against a yellow portion of the sign, and the color choice here is a mint green which provides a pleasing contrast that makes the text stand out."
+    },
+    {
+        "question_id": 281,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0000808.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "\"WHITE\" is written in bold, capital letters, featured on a green ribbon-like background that cuts across the sign. The font is sans-serif, which gives a modern and clean look. The use of capital letters in this context suggests emphasis and importance."
+    },
+    {
+        "question_id": 282,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0000808.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The phrase \"SPOT\" is displayed in a sans-serif, uppercase font similar to the text in <Region 2>. It is placed within the same green ribbon background, mirroring the style and maintaining design consistency. This positioning completes the name or title represented on the signage."
+    },
+    {
+        "question_id": 283,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0000808.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "\"O's\" is written in a script that echoes the retro flair seen in <Region 1>. This script is mint green, presented on a yellow backdrop, and it features an apostrophe, signifying a possessive or a contraction. The stylized \"O\" has a red center dot, adding to the thematic color scheme."
+    },
+    {
+        "question_id": 284,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0000808.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The word \"by\" is located on the lower left area of the central graphic and is likely to be a connector or a preposition relating to the larger text elements in the image. It's written in small, lowercase letters, contrasting in size to the other texts, suggesting a subordinate role in the information hierarchy."
+    },
+    {
+        "question_id": 285,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0001122.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The text in this area reads \"NEW\". The font is bold and stylized with thick vertical lines and sharp edges, suggesting a strong, impactful presence. The letters are colored in red, which stands out against the white background of the fabric they are printed on. There are black vertical lines that run down the fabric, giving the impression of pinstripes. The text placement and style are reminiscent of classic athletic or team-related apparel, often used to represent a specific city or team name."
+    },
+    {
+        "question_id": 286,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0001122.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The text in this area reads \"YORK\". Similar to the previous region, it features a bold and stylized font in red, contrasting with the white pinstriped background. The consistent style between this text and that of <Region 1> suggests they form a single phrase, typically associated with a particular location or team. The font size and its commanding presence imply that the text is intended to be easily read and recognized from a distance, characteristic of team jerseys or sports merchandise."
+    },
+    {
+        "question_id": 287,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_162.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The text \"Colchester\" is displayed in a straightforward, sans-serif font with a bold weight, which makes it highly legible and easy to read. The text color is white, which contrasts sharply with the red background, creating a standout effect that captures attention. This type of text presentation is typically used for clear communication and effective signage. \"Colchester\" is likely the name of a place, possibly a destination or location referenced on a signpost or directional marker. The choice of a bold and contrasting color scheme is intentional, aimed at ensuring that the text is discernible from a distance and under various lighting conditions. The text is centrally aligned within the marked area, suggesting the importance of the information it conveys. The presence of the symbol above the text, resembling a stylized pair of railway tracks, indicates that this sign is associated with a railway service or station. The purpose of the text in this context is to inform viewers of a railway station name or a destination reachable via train services."
+    },
+    {
+        "question_id": 288,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_940.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The text \"AYAM\" is presented in large uppercase letters on a signage board. The font appears bold and designed to be eye-catching, serving the purpose of promoting or identifying a business or product associated with chicken, as \"ayam\" means chicken in Malay and Indonesian."
+    },
+    {
+        "question_id": 289,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_940.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The text \"RIA\" appears next to \"AYAM\" in the same font and style, following the design pattern of the sign. It seems to be part of a larger phrase or brand name, although without additional context it is challenging to ascertain its full meaning or association."
+    },
+    {
+        "question_id": 290,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_940.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The word \"SMASHED\" is in uppercase letters and retains the same font consistency and styling as the previous words, indicating it's part of the same signboard. The use of the word \"smashed\" could be describing a method of food preparation, possibly relating to the menu items offered by the establishment."
+    },
+    {
+        "question_id": 291,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_940.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The word \"FRIED\" appears in the same bold, attention-grabbing font as the other text elements in the signage. The usage of the term \"fried\" aligns well with food-oriented establishments and could denote a particular style of cooking advertised by the business."
+    },
+    {
+        "question_id": 292,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_940.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The term \"CHICKEN\" completes what seems to be a descriptive phrase relating to the nature of the food provided at this location. Presented in the same visual style as the other text elements on the sign, it confirms the establishment’s focus on chicken dishes."
+    },
+    {
+        "question_id": 293,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_70.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The text \"Accommodation\" appears on a signboard, suggesting the label for a location where lodging facilities are provided. The text is bold and capitalized, providing clear visibility and significance, thus indicating direction to the accommodation facilities within the vicinity."
+    },
+    {
+        "question_id": 294,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_70.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The text \"Office\" displayed similarly to <Region 1>, is also on the signboard, and its typography suggests it is an instructional marker guiding individuals towards offices located nearby. Its distinct appearance functions as a navigational aid for visitors seeking office spaces."
+    },
+    {
+        "question_id": 295,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/img_70.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The term \"Nightline\" is prominently featured, possibly indicating a nighttime service or a helpline available after-hours. This text, like the others on the sign, caters to nighttime assistance or inquiries, potentially providing crucial information for individuals seeking support during late hours."
+    },
+    {
+        "question_id": 296,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0001250.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The text \"BUBBA\" appears in bold, capital letters with a font that is playful and somewhat informal, possibly evoking a casual or friendly atmosphere. The position is prominently displayed at the top of a circular logo, which suggests its importance as a distinguishing element or a brand name."
+    },
+    {
+        "question_id": 297,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0001250.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The word \"GUMP\" is presented in a similar bold and playful font directly below <Region 1>. Both words form a cohesive phrase when read together, implying a connection or partnership, possibly in a business context."
+    },
+    {
+        "question_id": 298,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0001250.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The word \"SHRIMP\" is placed below <Region 1> and <Region 2>, completing the phrase that seems to be the focal point of the circular logo. The font style remains consistent with the previous text, reinforcing the brand's identity and likely indicating the type of product or service offered."
+    },
+    {
+        "question_id": 299,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0001250.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "\"RESTAURANT\" is written in a smaller, yet bold font beneath the word \"SHRIMP\". This text specifies the nature of the business associated with the overarching brand identified by the preceding text."
+    },
+    {
+        "question_id": 300,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0001250.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The word \"MARKET\" appears in a smaller font at the bottom of the circle, suggesting a secondary or additional aspect of the business, perhaps indicating a place where goods are sold as part of the company's offerings."
+    },
+    {
+        "question_id": 301,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0001250.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "\"CO\" could stand for \"Company,\" abbreviated and presented beside the main brand name, which is common practice for businesses to denote a corporate entity."
+    },
+    {
+        "question_id": 302,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/0001250.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "\"TM\" indicates that the entire phrase formed by <Region 1>, <Region 2>, and <Region 3> is a trademark. This protects the brand's unique identity and legally secures its use exclusively for the business's purposes."
+    },
+    {
+        "question_id": 303,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/tr_img_01235.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The text \"EVENING\" appears in a sans-serif, bold font that is capitalized for emphasis. It is located on the lower part of a product label, positioned just above another text element that indicates further details about the product. The text serves to indicate either the usage time or a key ingredient, \"Evening Primrose,\" of the product, likely related to wellness or personal care."
+    },
+    {
+        "question_id": 304,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/tr_img_01235.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "\"PRIMROSE\" is the second part of a phrase in which the text is styled similarly to the text in <Region 1>. It follows directly below \"EVENING,\" suggesting the complete term \"EVENING PRIMROSE.\" The positioning and styling are consistent with <Region 1>, reinforcing the connection between the two words. The term \"Evening Primrose\" is usually associated with the name of a plant, often used in the context of essential oils or natural product ingredients."
+    },
+    {
+        "question_id": 305,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/tr_img_01235.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The term \"BASE\" is part of the full term \"BASE OIL,\" which is shown in a smaller and possibly lighter weight sans-serif typeface compared to <Region 1> and <Region 2>. Positioned at the bottom of the product label, it likely indicates the type of product, suggesting that the contents of the bottle can be used as a carrier or base oil in aromatherapy or skincare."
+    },
+    {
+        "question_id": 306,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/tr_img_01235.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "\"OIL\" completes the term \"BASE OIL,\" as mentioned in <Region 3>. The font and positioning maintain consistency with the description provided in <Region 3>, reinforcing its role as part of a descriptive phrase related to the product's use or contents. Together, \"BASE OIL\" likely designates the product's category within a larger set of similar goods."
+    },
+    {
+        "question_id": 307,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/ocr_spotting_detailed_caption/images/tr_img_01644.jpg",
+        "category": "ocr_spotting_detailed_caption_box",
+        "text": "The text \"46\" appears in a serif font with distinct, prominent stylistic flares at the ends of the strokes, which is characteristic of serif fonts. These numerals are white, providing a strong contrast against a dark background plate, which appears to be made of slate or a similar material. The plate is mounted onto a brick wall, and there are two spherical, possibly metallic, fixtures attached to the plate on either side, which seem to be serving as decorative mounting posts. The purpose of this text likely indicates an address or number associated with the location, commonly used to identify specific residential or commercial units."
+    },
+    {
+        "question_id": 308,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/60e34f9315443cb6c77d32da7ba5eee1.png",
+        "category": "web_detailed_caption_box",
+        "text": "This area seems to indicate the numeric value '31,' which, in a calendrical context, may reference the number of days in a month. It does not appear to have any interactive features based on the screenshot."
+    },
+    {
+        "question_id": 309,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/60e34f9315443cb6c77d32da7ba5eee1.png",
+        "category": "web_detailed_caption_box",
+        "text": "This seems to be a button or a link labeled 'Connecter' which, when translated from French, means 'Connect' or 'Log in'. It is likely an interactive element that upon being clicked, would prompt the user to access an account or initiate a connection process."
+    },
+    {
+        "question_id": 310,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/60e34f9315443cb6c77d32da7ba5eee1.png",
+        "category": "web_detailed_caption_box",
+        "text": "This section contains the French word 'Novembre', which is the month of November. It appears to be a part of a list of months, possibly for navigating a calendar or archives by month. It may be an interactive element that allows users to view content from November."
+    },
+    {
+        "question_id": 311,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/60e34f9315443cb6c77d32da7ba5eee1.png",
+        "category": "web_detailed_caption_box",
+        "text": "This is a button or link with the text 'Annoncez' followed by information icon (i). The French word 'Annoncez' translates to 'Advertise'. This suggests that it is a call-to-action for users to advertise, possibly by clicking this button or link. The information icon typically indicates additional details available upon interaction."
+    },
+    {
+        "question_id": 312,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/60e34f9315443cb6c77d32da7ba5eee1.png",
+        "category": "web_detailed_caption_box",
+        "text": "This area displays the number '07', which could signify a day of the month, especially since it is seen next to a date heading in the format 'Vendredi 7 Mai 2021', which translates to 'Friday, May 7, 2021'. It seems to be a static element without interactivity."
+    },
+    {
+        "question_id": 313,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/60e34f9315443cb6c77d32da7ba5eee1.png",
+        "category": "web_detailed_caption_box",
+        "text": "Similar to <Region 3>, this is labeled 'Septembre', which is the French word for September. It is part of the same apparent navigational element for a calendar or archive sorted by months and is likely interactive as well."
+    },
+    {
+        "question_id": 314,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/60e34f9315443cb6c77d32da7ba5eee1.png",
+        "category": "web_detailed_caption_box",
+        "text": "This section reads 'Liens Web', which translates to 'Web Links' from French. This likely refers to a section of the web page intended to direct users to other related sites or resources. It is probably interactive, with each listed link being clickable."
+    },
+    {
+        "question_id": 315,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/60e34f9315443cb6c77d32da7ba5eee1.png",
+        "category": "web_detailed_caption_box",
+        "text": "The number '15' is visible here, and when combined with the context of a calendar visible in the screenshot, it likely represents the 15th day of a month. This element does not seem to be interactive itself."
+    },
+    {
+        "question_id": 316,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/60e34f9315443cb6c77d32da7ba5eee1.png",
+        "category": "web_detailed_caption_box",
+        "text": "Here we see the number '04' which, in the context of the surrounding calendar, might represent the 4th day of a month. It doesn't show any sign of interactivity."
+    },
+    {
+        "question_id": 317,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/60e34f9315443cb6c77d32da7ba5eee1.png",
+        "category": "web_detailed_caption_box",
+        "text": "This text, 'Plan du site', stands for 'Site Map' in French and usually refers to a detailed page listing where one can find an overview of all the sections and pages within the website. It is usually an interactive element that, when clicked, will take the user to the sitemap page."
+    },
+    {
+        "question_id": 318,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/0180e97a3e9609ea8c72b6b8db0071c8.png",
+        "category": "web_detailed_caption_box",
+        "text": "This region depicts an interactive button with the text \"BOOK NOW\" overlaid on it. Usually, buttons like this on websites are clickable and lead the user to a page where they can schedule an appointment or reserve a service. The button is stylistically designed to stand out and grab attention, potentially suggesting it is a call-to-action feature for users to quickly access the booking process for the service provided by the website."
+    },
+    {
+        "question_id": 319,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/0180e97a3e9609ea8c72b6b8db0071c8.png",
+        "category": "web_detailed_caption_box",
+        "text": "This section of the website features a text link with the phrase \"Buy Luxurious Doona.\" It likely serves as a navigational element, which upon clicking, would redirect users to a page where they can purchase a \"Luxurious Doona.\" The term \"Doona\" typically refers to a type of bedding, suggesting that the site might be related to home goods or personal comfort items."
+    },
+    {
+        "question_id": 320,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/0180e97a3e9609ea8c72b6b8db0071c8.png",
+        "category": "web_detailed_caption_box",
+        "text": "This area contains a text link that reads \"Pay Balance.\" It is probably an interactive link that, once clicked, would take the user to a section of the website where they can complete a payment - likely concerning a service or product they have previously engaged with."
+    },
+    {
+        "question_id": 321,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/0180e97a3e9609ea8c72b6b8db0071c8.png",
+        "category": "web_detailed_caption_box",
+        "text": "Featured here is a clickable text link titled \"About Us.\" Such links generally lead users to a webpage that elaborates on the history, mission, values, or team behind the company or service. It helps users learn more about the company or website owners."
+    },
+    {
+        "question_id": 322,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/0180e97a3e9609ea8c72b6b8db0071c8.png",
+        "category": "web_detailed_caption_box",
+        "text": "This part of the webpage indicates a \"Contact us\" link. Clicking on this text would typically guide the visitor to a page featuring contact information or a form enabling the users to reach out to the company for inquiries or support."
+    },
+    {
+        "question_id": 323,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/0180e97a3e9609ea8c72b6b8db0071c8.png",
+        "category": "web_detailed_caption_box",
+        "text": "\"Home\" appears to be a navigation link that, when selected, would likely redirect users to the homepage of the website. The homepage is the main page that often provides a comprehensive overview of what the website offers."
+    },
+    {
+        "question_id": 324,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/0180e97a3e9609ea8c72b6b8db0071c8.png",
+        "category": "web_detailed_caption_box",
+        "text": "The text here, \"doonawash@gmail.com,\" suggests an email address. This is likely provided for users to directly contact the company or service provider through email. It is not clickable but can be used to send an email using an email client or service."
+    },
+    {
+        "question_id": 325,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/0180e97a3e9609ea8c72b6b8db0071c8.png",
+        "category": "web_detailed_caption_box",
+        "text": "Similar to <Region 5>, this \"Contact us\" link would allow users to access a contact section or page on the website, promoting user interaction with the service provider for queries or assistance."
+    },
+    {
+        "question_id": 326,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/0180e97a3e9609ea8c72b6b8db0071c8.png",
+        "category": "web_detailed_caption_box",
+        "text": "Just like <Region 6>, this \"Home\" link is a navigational feature intended to bring the user back to the site's main page, presenting a starting point or central hub for exploring the website's contents."
+    },
+    {
+        "question_id": 327,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/0180e97a3e9609ea8c72b6b8db0071c8.png",
+        "category": "web_detailed_caption_box",
+        "text": "Echoing <Region 3>, the \"Pay Balance\" text link is associated with the payment part of a transaction on the website. It is intended to facilitate users in clearing dues or completing transactions related to the services offered by the site."
+    },
+    {
+        "question_id": 328,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/web_0558c1f4-c05b-49a8-8479-04b1575779d2.png",
+        "category": "web_detailed_caption_box",
+        "text": "This area of the webpage is part of a bullet point list under the subheading \"Local Chapters\". The subheading describes Local Chapters as country or region-level groups affiliated with the OpenStreetMap Foundation that represent their local mapping community in dealings with government, business, and media. The bullet point \"OpenStreetMap Belgium\" likely indicates that there is an established local chapter for the country of Belgium. The text appears in blue with an underline, suggesting that it is a hyperlink. Clicking on this hyperlink would presumably direct the user to more information about the OpenStreetMap community in Belgium or to their specific website."
+    },
+    {
+        "question_id": 329,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/367173643a055b0657de17afff8d541d.png",
+        "category": "web_detailed_caption_box",
+        "text": "This area appears to be a contact detail, specifically a phone number. It typically serves as a direct line of communication for users to reach out to the company or organization featured on the website. Such contact information is usually clickable on mobile devices, enabling the user to initiate a phone call directly."
+    },
+    {
+        "question_id": 330,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/367173643a055b0657de17afff8d541d.png",
+        "category": "web_detailed_caption_box",
+        "text": "This section includes a numerical rating, which is indicative of client satisfaction, service quality, or performance measurement. It suggests that it may be connected to reviews or ratings received from clients, as denoted by the star symbol which commonly represents ratings."
+    },
+    {
+        "question_id": 331,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/367173643a055b0657de17afff8d541d.png",
+        "category": "web_detailed_caption_box",
+        "text": "The text translates to \"Free Consultation\" in Azerbaijani, indicating an offering from the company to prospective clients. It is likely a call-to-action button which upon clicking, would lead a user to a form or contact option to set up a consultation without any charge."
+    },
+    {
+        "question_id": 332,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/367173643a055b0657de17afff8d541d.png",
+        "category": "web_detailed_caption_box",
+        "text": "This part of the website is labeled \"Portfolio,\" signifying that it's likely a navigation element leading to a page where the company showcases their previous work, projects, or case studies to highlight their experience and expertise."
+    },
+    {
+        "question_id": 333,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/5c9b9883310423712e466bee13a36a02.png",
+        "category": "web_detailed_caption_box",
+        "text": "This space indicates a shopping cart feature with a count of items currently in the cart, which currently stands at zero. This interactive element likely becomes clickable when items are added, allowing users to view and manage the contents of their cart."
+    },
+    {
+        "question_id": 334,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/5c9b9883310423712e466bee13a36a02.png",
+        "category": "web_detailed_caption_box",
+        "text": "This area is typically a customer service feature, allowing users to access help or assistance through various means such as a help center, live chat, or contact information. It's usually clickable and would direct the user to a support section of the website."
+    },
+    {
+        "question_id": 335,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/5c9b9883310423712e466bee13a36a02.png",
+        "category": "web_detailed_caption_box",
+        "text": "The text suggests a prompt to visit the company's Facebook page. This is an interactive element that, when clicked, likely redirects users to the specified social media page to engage with the company's content on that platform."
+    },
+    {
+        "question_id": 336,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/5c9b9883310423712e466bee13a36a02.png",
+        "category": "web_detailed_caption_box",
+        "text": "It denotes an area that likely relates to personalization for users, where they can view their astrology charts. This is expected to be a clickable feature which, when accessed, leads the user to a section where their personalized charts are displayed or can be created."
+    },
+    {
+        "question_id": 337,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/5c9b9883310423712e466bee13a36a02.png",
+        "category": "web_detailed_caption_box",
+        "text": "Similar to <Region 3>, this is a call to action to visit the company's Twitter page. Clicking on this interactive element would redirect a user to the company's Twitter profile to view tweets and engage with their content."
+    },
+    {
+        "question_id": 338,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/5c9b9883310423712e466bee13a36a02.png",
+        "category": "web_detailed_caption_box",
+        "text": "This is a customer contact area, providing users with a way to get in touch with the company. Clicking on this is likely to take the user to a section of the site with various contact options like email, phone, or a contact form."
+    },
+    {
+        "question_id": 339,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/5c9b9883310423712e466bee13a36a02.png",
+        "category": "web_detailed_caption_box",
+        "text": "This is a call-to-action button that allows users to add a product to their shopping cart. This button is interactive, and upon clicking, the chosen product would be added to the user's cart, with the action possibly reflected in the shopping cart count in <Region 1>."
+    },
+    {
+        "question_id": 340,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/5c9b9883310423712e466bee13a36a02.png",
+        "category": "web_detailed_caption_box",
+        "text": "This area is likely dedicated to showcasing the company's range of products. Clicking here would probably lead users to a product catalog where they can browse and select items of interest."
+    },
+    {
+        "question_id": 341,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/5c9b9883310423712e466bee13a36a02.png",
+        "category": "web_detailed_caption_box",
+        "text": "It represents an area designated for a podcast. Users can expect to interact with this button to be taken to a media player or section of the website where they can listen to recorded audio content."
+    },
+    {
+        "question_id": 342,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/5c9b9883310423712e466bee13a36a02.png",
+        "category": "web_detailed_caption_box",
+        "text": "This part of the website provides company information to the user. It's normally a clickable element that leads the user to learn more about the company's history, values, mission, and team members."
+    },
+    {
+        "question_id": 343,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/53b4ab2cb706a43fec7ce4ac5eac181e.png",
+        "category": "web_detailed_caption_box",
+        "text": "This section typically represents a menu item on a website that describes the services or actions undertaken by the organization. It usually links to a page with detailed information on the work that the organization performs, including projects, mission statements, or other relevant content."
+    },
+    {
+        "question_id": 344,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/53b4ab2cb706a43fec7ce4ac5eac181e.png",
+        "category": "web_detailed_caption_box",
+        "text": "This appears to be a news headline or feature article title on the website. It suggests that the organization has introduced a new initiative offering financial assistance for livelihood projects. Clicking on this title would likely lead to an article or post giving more information about the micro-grants program and its objectives."
+    },
+    {
+        "question_id": 345,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/53b4ab2cb706a43fec7ce4ac5eac181e.png",
+        "category": "web_detailed_caption_box",
+        "text": "This is likely a button or link to a settings page where users can adjust their preferences for the website, which might include language settings, account details, notification preferences, and more."
+    },
+    {
+        "question_id": 346,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/53b4ab2cb706a43fec7ce4ac5eac181e.png",
+        "category": "web_detailed_caption_box",
+        "text": "This commonly links to the website's privacy policy document, where users can learn about how the organization collects, uses, stores, and protects personal data."
+    },
+    {
+        "question_id": 347,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/53b4ab2cb706a43fec7ce4ac5eac181e.png",
+        "category": "web_detailed_caption_box",
+        "text": "This is typically a navigation link that returns the user to the main homepage of the website from any other page."
+    },
+    {
+        "question_id": 348,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/53b4ab2cb706a43fec7ce4ac5eac181e.png",
+        "category": "web_detailed_caption_box",
+        "text": "It usually indicates a button the user can click to accept the terms of a policy, possibly related to cookies or usage terms, as indicated by the accompanying text."
+    },
+    {
+        "question_id": 349,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/53b4ab2cb706a43fec7ce4ac5eac181e.png",
+        "category": "web_detailed_caption_box",
+        "text": "This is often a prominent call-to-action button meant to direct users to a page where they can make financial contributions to the organization or cause."
+    },
+    {
+        "question_id": 350,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/53b4ab2cb706a43fec7ce4ac5eac181e.png",
+        "category": "web_detailed_caption_box",
+        "text": "Commonly a menu item that links to a news section containing articles, updates, blog posts, press releases, or other information that keeps readers informed about the organization's activities or relevant topics."
+    },
+    {
+        "question_id": 351,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/53b4ab2cb706a43fec7ce4ac5eac181e.png",
+        "category": "web_detailed_caption_box",
+        "text": "This is typically a link to a page where users can find more information about the organization, including history, values, team members, or accomplishments."
+    },
+    {
+        "question_id": 352,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/53b4ab2cb706a43fec7ce4ac5eac181e.png",
+        "category": "web_detailed_caption_box",
+        "text": "Usually a link to a page where visitors can find contact information for the organization, such as an address, phone number, email, or a contact form."
+    },
+    {
+        "question_id": 353,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/web_6c677961-e540-4cc5-b725-5e301019a9f9.png",
+        "category": "web_detailed_caption_box",
+        "text": "This region appears to be a toolbar located within a content editing area, likely part of a web-based application interface. The specific feature highlighted is an icon that suggests functionality related to inserting tables into the content. In a typical text editor or content management system interface, clicking this icon would presumably open a menu or dialogue box allowing the user to create and insert a table into the document. The table insertion feature commonly lets users specify the number of rows and columns, choose a table style, and sometimes adjust additional table properties such as cell padding or headers."
+    },
+    {
+        "question_id": 354,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/656b47ffb1270a8038d876586e92a71b.png",
+        "category": "web_detailed_caption_box",
+        "text": "This area encompasses a navigation element labeled \"News.\" It likely leads to a section of the website where current news relevant to the organization or its field of operation is disseminated. As a navigational element, it is interactive and upon clicking would redirect users to the page where news articles or updates are posted."
+    },
+    {
+        "question_id": 355,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/656b47ffb1270a8038d876586e92a71b.png",
+        "category": "web_detailed_caption_box",
+        "text": "This area displays the company's name ServeGate, which appears to be stylized as a logo. This typically acts as a home button; clicking on it would usually take users back to the main or home page of the website."
+    },
+    {
+        "question_id": 356,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/656b47ffb1270a8038d876586e92a71b.png",
+        "category": "web_detailed_caption_box",
+        "text": "This heading titled \"Our Difference\" may signify a navigational item that leads to content describing what sets the organization apart from competitors. Interaction would involve clicking it to navigate to a page that likely discusses the company's unique selling propositions (USPs), mission, values, or other differentiating factors."
+    },
+    {
+        "question_id": 357,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/656b47ffb1270a8038d876586e92a71b.png",
+        "category": "web_detailed_caption_box",
+        "text": "Labeled \"About Us,\" this is another navigation item that, when clicked, would take the user to a section of the site that provides information about ServeGate, such as its history, leadership team, vision, and mission."
+    },
+    {
+        "question_id": 358,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/656b47ffb1270a8038d876586e92a71b.png",
+        "category": "web_detailed_caption_box",
+        "text": "The text \"Get in touch\" suggests an interactive component that leads to a part of the website where users can contact the organization. This may include a contact form, phone numbers, email addresses, or other means of communication."
+    },
+    {
+        "question_id": 359,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/656b47ffb1270a8038d876586e92a71b.png",
+        "category": "web_detailed_caption_box",
+        "text": "The term \"Home\" designates a navigational link that typically redirects users to the front page of the website. Clicking this link would generally return the user to the starting point of their navigation experience."
+    },
+    {
+        "question_id": 360,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/656b47ffb1270a8038d876586e92a71b.png",
+        "category": "web_detailed_caption_box",
+        "text": "The item labeled \"Services\" is likely a drop-down menu or a link to a page that outlines the company's offerings. Users can click on it to discover more about the services provided by ServeGate, including descriptions and possibly pricing or someone to contact for further inquiry."
+    },
+    {
+        "question_id": 361,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/656b47ffb1270a8038d876586e92a71b.png",
+        "category": "web_detailed_caption_box",
+        "text": "\"Indigenous Impact\" might be a navigation link to a page detailing the company's impact on, contributions to, or programs associated with Indigenous communities. Interaction with this element would bring the user to either a dedicated section or might expand into a submenu listing various facets of this impact."
+    },
+    {
+        "question_id": 362,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/656b47ffb1270a8038d876586e92a71b.png",
+        "category": "web_detailed_caption_box",
+        "text": "This appears to be another instance of the company logo for ServeGate, similar to <Region 2>. It likely serves the same function as a clickable link leading back to the home page of the website."
+    },
+    {
+        "question_id": 363,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/web_5a35d9c2-2c2d-4a49-ad0a-1408d9cac78e.png",
+        "category": "web_detailed_caption_box",
+        "text": "The area appears to contain an interface element labeled \"Close issue\" situated within a software development environment, likely a part of an issue tracking or project management system. This interface element is a button, as suggested by its design and placement near the text input area for comments. When clicked, it would typically result in the associated issue being marked as resolved or closed in the system, thereby updating the status of the issue within the project's workflow. The button is designed for users to signify that the discussion, problem, or task represented by the issue no longer requires attention and can be archived or removed from active consideration."
+    },
+    {
+        "question_id": 364,
+        "image": "/mnt/bn/zilongdata-us/wanghaochen/caption/merge/evaluation/MDVP-bench/data/web_detailed_caption/images/web_3fed2169-3c3d-43e7-baaa-3bf0e0c7134c.png",
+        "category": "web_detailed_caption_box",
+        "text": "This is a close button found on a web-based issue tracking platform, specifically GitLab. In the context of the page, it is presumably used to close the issue which is currently being viewed. When a user clicks this button, the active issue (#1460 in this case) will likely be marked as closed within the system, changing its status from open to closed. This is a standard feature in issue tracking and project management software, allowing users to manage the lifecycle of issues and tasks."
+    }
+]

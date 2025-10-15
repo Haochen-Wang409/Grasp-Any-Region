@@ -1,0 +1,264 @@
+[
+    {
+        "image_name": "tr_img_01039.jpg",
+        "question": "What does the complete phrase given by <Mark 1> and <Mark 2> signify?",
+        "question_id": 1,
+        "dataset_name": "ocr_spotting_QA_point",
+        "gt_answers": "The complete phrase 'POLLING STATION' signifies the location where voters go to cast their votes during an election.",
+        "points": [
+            [
+                406,
+                109
+            ],
+            [
+                407,
+                212
+            ]
+        ]
+    },
+    {
+        "image_name": "0001235.jpg",
+        "question": "What could be the primary language or locale of the business indicated by the signage in <Mark 1>?",
+        "question_id": 2,
+        "dataset_name": "ocr_spotting_QA_point",
+        "gt_answers": "The primary language or locale of the business indicated by the signage in <Mark 1> is likely Slavic, such as Czech, since 'VINARNA' is a term associated with wine establishments in Slavic languages.",
+        "points": [
+            [
+                340,
+                320
+            ],
+            [
+                350,
+                505
+            ],
+            [
+                471,
+                479
+            ],
+            [
+                471,
+                733
+            ],
+            [
+                599,
+                756
+            ],
+            [
+                643,
+                799
+            ],
+            [
+                585,
+                807
+            ]
+        ]
+    },
+    {
+        "image_name": "tr_img_03390.jpg",
+        "question": "What issue does the sign, as referenced by the text in <Mark 1> and <Mark 3>, seem to focus on?",
+        "question_id": 3,
+        "dataset_name": "ocr_spotting_QA_point",
+        "gt_answers": "The sign appears to focus on issues related to the care for children of migrant workers, specifically regarding their education during non-compulsory phases.",
+        "points": [
+            [
+                558,
+                325
+            ],
+            [
+                626,
+                486
+            ],
+            [
+                536,
+                382
+            ],
+            [
+                548,
+                441
+            ]
+        ]
+    },
+    {
+        "image_name": "0000433.jpg",
+        "question": "What type of cuisine does the name associated with <Mark 1> suggest?",
+        "question_id": 4,
+        "dataset_name": "ocr_spotting_QA_point",
+        "gt_answers": "The name 'SEOUL' in <Mark 1> suggests a connection to Korean cuisine.",
+        "points": [
+            [
+                986,
+                526
+            ],
+            [
+                974,
+                618
+            ],
+            [
+                957,
+                742
+            ],
+            [
+                961,
+                971
+            ],
+            [
+                961,
+                1198
+            ],
+            [
+                988,
+                1223
+            ]
+        ]
+    },
+    {
+        "image_name": "img_175.jpg",
+        "question": "What does the text in <Mark 1> and <Mark 2> signify when combined together?",
+        "question_id": 5,
+        "dataset_name": "ocr_spotting_QA_point",
+        "gt_answers": "The text in <Mark 1> and <Mark 2> when combined signifies the name of a company or organization, likely indicating its brand identity or logo.",
+        "points": [
+            [
+                160,
+                272
+            ],
+            [
+                410,
+                276
+            ]
+        ]
+    },
+    {
+        "image_name": "tr_img_03584.jpg",
+        "question": "What type of information do <Mark 1> and <Mark 3> together provide?",
+        "question_id": 6,
+        "dataset_name": "ocr_spotting_QA_point",
+        "gt_answers": "<Mark 1> and <Mark 3> provide the name of a road in both Chinese characters and its English phonetic transcription, specifically 'Danshan Road'.",
+        "points": [
+            [
+                805,
+                767
+            ],
+            [
+                788,
+                1008
+            ],
+            [
+                776,
+                828
+            ],
+            [
+                740,
+                1075
+            ],
+            [
+                907,
+                871
+            ],
+            [
+                860,
+                1104
+            ]
+        ]
+    },
+    {
+        "image_name": "img_184.jpg",
+        "question": "What indication is there that <Mark 1> is welcoming visitors to a particular establishment?",
+        "question_id": 7,
+        "dataset_name": "ocr_spotting_QA_point",
+        "gt_answers": "The presence of the word 'WELCOME' set above other text suggests a greeting to visitors, indicating their arrival at an establishment, likely the one named in <Mark 2> and <Mark 3>.",
+        "points": [
+            [
+                271,
+                98
+            ],
+            [
+                142,
+                204
+            ],
+            [
+                485,
+                202
+            ],
+            [
+                196,
+                393
+            ],
+            [
+                531,
+                393
+            ]
+        ]
+    },
+    {
+        "image_name": "tr_img_03043.jpg",
+        "question": "What is the purpose of the signs in <Mark 1> and <Mark 2>?",
+        "question_id": 8,
+        "dataset_name": "ocr_spotting_QA_point",
+        "gt_answers": "The purpose of the signs is to inform and direct traffic due to construction. The sign in <Mark 1> warns of construction ahead, while the sign in <Mark 2> instructs to take a detour.",
+        "points": [
+            [
+                1582,
+                1377
+            ],
+            [
+                1584,
+                1464
+            ]
+        ]
+    },
+    {
+        "image_name": "0000549.jpg",
+        "question": "What might be the overall context or setting for the texts found in <Mark 1>, <Mark 2>, and <Mark 3> when viewed together?",
+        "question_id": 9,
+        "dataset_name": "ocr_spotting_QA_point",
+        "gt_answers": "The texts 'DOMINE', 'DIRIGA', and 'ROB', due to their similar font style and placement on what appears to be a decorative or commemorative structure, might belong to a religious or historical context. They could form part of a larger phrase or exhortation when put together.",
+        "points": [
+            [
+                73,
+                254
+            ],
+            [
+                127,
+                279
+            ],
+            [
+                185,
+                260
+            ]
+        ]
+    },
+    {
+        "image_name": "tr_img_03827.jpg",
+        "question": "What information is provided in <Mark 2> regarding the bus?",
+        "question_id": 10,
+        "dataset_name": "ocr_spotting_QA_point",
+        "gt_answers": "The information in <Mark 2> displays the bus's authorized carrying capacity, which is 29 people.",
+        "points": [
+            [
+                288,
+                126
+            ],
+            [
+                436,
+                360
+            ],
+            [
+                200,
+                373
+            ],
+            [
+                201,
+                404
+            ],
+            [
+                439,
+                396
+            ],
+            [
+                398,
+                132
+            ]
+        ]
+    }
+]

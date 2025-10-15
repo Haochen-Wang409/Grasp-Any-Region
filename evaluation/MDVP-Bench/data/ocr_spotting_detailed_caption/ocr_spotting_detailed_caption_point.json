@@ -1,0 +1,220 @@
+[
+    {
+        "image_name": "tr_img_01109.jpg",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 1,
+        "dataset_name": "ocr_spotting_detailed_caption_point",
+        "gt_answers": "<Mark 1>: The text \"Police\" appears prominently on a sign with a blue background flanked by a checkered pattern that suggests it is a police station signboard. The font is bold and in white, creating a stark contrast for readability. The text is placed below a grid of four white and three blue squares that likely symbolize the police service's emblem or logo. This sign is usually intended to mark the location of a police facility and to provide a visible and recognizable point for those seeking law enforcement services.",
+        "points": [
+            [
+                568,
+                258
+            ]
+        ]
+    },
+    {
+        "image_name": "img_717.jpg",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 2,
+        "dataset_name": "ocr_spotting_detailed_caption_point",
+        "gt_answers": "<Mark 1>: The text \"MONDIAL\" is presented in uppercase letters, colored in white, against a dark background for enhanced contrast and visibility. The font appears to be a bold, sans-serif type, suggesting a modern and clean aesthetic. It is located above the entrance of what seems to be a commercial establishment, prominently placed to attract attention and inform visitors or passersby of the brand or company name associated with the premises. The purpose of this signage is likely to serve as a locator or identifier for the business, possibly a shop or store within a larger commercial complex, such as a mall or shopping center. The text's clean and distinct style makes it easily legible to those at a distance or approaching the location, fulfilling its role as an effective means of branding and identification.",
+        "points": [
+            [
+                869,
+                121
+            ]
+        ]
+    },
+    {
+        "image_name": "img_838.jpg",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 3,
+        "dataset_name": "ocr_spotting_detailed_caption_point",
+        "gt_answers": "<Mark 1>: The text \"Ion\" appears in uppercase with a simple, bold sans-serif font. The letters are evenly spaced and directly applied to a surface which seems to be a column within an interior space, likely a shopping or commercial center. The text is positioned at some height on the column, suggesting it may serve as signage or branding for visibility across the area.\n<Mark 2>: \"ART\" is displayed in uppercase letters with a heavier weight than normal text. It uses a clean, bold sans-serif font, emphasizing clarity and importance. Positioned on what appears to be a vertical surface, possibly another column or wall, it is likely there to denote a section, a store, or an art-related venue within the building.\n<Mark 3>: Here again, the text \"Ion\" is shown, matching the font and style of <Mark 1>. Its identical appearance and placement on a similar structure indicate it is part of the same naming or branding strategy, contributing to consistent visual identity throughout the facility.\n<Mark 4>: The word \"Salt\" is written in lowercase with a sans-serif font that is less bold compared to the previous regions. This label is also applied to a vertical surface and seems to designate a specific area or venue, possibly a restaurant or store within the complex.\n<Mark 5>: Displaying the word \"Grill\" in a simplistic sans-serif font and all lowercase letters, this text complements the text in <Mark 4>, potentially representing the full name or theme of a dining establishment, \"Salt Grill.\"",
+        "points": [
+            [
+                121,
+                33
+            ],
+            [
+                192,
+                22
+            ],
+            [
+                99,
+                105
+            ],
+            [
+                86,
+                165
+            ],
+            [
+                200,
+                188
+            ]
+        ]
+    },
+    {
+        "image_name": "0000310.jpg",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 4,
+        "dataset_name": "ocr_spotting_detailed_caption_point",
+        "gt_answers": "<Mark 1>: The text \"ALVES\" is displayed prominently on a yellow background, likely part of a sports jersey. The font is bold and capitalized, providing a strong visual presence. This type of text is typically indicative of a last name, suggesting that it belongs to an athlete. The text is part of a personalized jersey, which often represents the athlete's identity on the field.\n<Mark 2>: The word \"PARIS\" is part of a larger emblem, which appears to be the crest of a sports team. The font is large, bold, and arched, making it a focal point of the emblem. This text, being part of a logo, signifies the city or location associated with the team, fostering a sense of identity and pride among its supporters.\n<Mark 3>: The name \"DANI\" appears in a casual and less formal font compared to the other texts. Its placement above \"ALVES\" suggests it may be a first name, offering a complete identity when paired with the surname below it. The text's appearance on the jersey connects it to a specific individual, likely a player.\n<Mark 4>: The number \"32\" is shown in a large, bold font with a drop shadow effect, providing a sense of depth. Numbers on sports jerseys typically indicate the player's squad number, which is used for identification during games and for fans to recognize their favorite athletes.",
+        "points": [
+            [
+                270,
+                310
+            ],
+            [
+                338,
+                74
+            ],
+            [
+                207,
+                310
+            ],
+            [
+                240,
+                377
+            ]
+        ]
+    },
+    {
+        "image_name": "tr_img_03430.jpg",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 5,
+        "dataset_name": "ocr_spotting_detailed_caption_point",
+        "gt_answers": "<Mark 1>: The text \"\u7231\u62a4\u811a\u4e0b\u8349\" is written in white, capitalized characters against a solid red background. The font is simple and sans-serif, making it easily legible. The message itself is a plea in Mandarin Chinese, translating to 'Protect the grass beneath your feet', suggesting that the grass in the area needs to be preserved from damage. This text is often found in public areas as a reminder to passersby.\n<Mark 2>: The text \"Please\" appears in black, lowercase letters against a white background. The text is positioned above Chinese characters within a rectangular yellow sign that is bordered in red. The font is sans-serif, which contributes to a clear and direct message. This fragment of text seems to be the starting part of a polite request or instruction, commonly used in public signage to encourage certain behavior.\n<Mark 3>: This text, comprising the Mandarin Chinese characters \"\u83ab\u6298\u679d\u5934\u82b1\", translates to 'Do not pick the flowers from the branches'. The characters are white, set against a red background, and written in a straightforward, sans-serif typeface for easy reading. The statement serves as a directive aimed at preserving the natural flora and likely complements other sign components to relay a full conservation message.\n<Mark 4>: The single word \"grass\" is displayed in black, lowercase letters on a white backdrop. The font is sans-serif and unembellished, ensuring readability. This word is part of a larger directive likely aiming to protect the grassy area where the sign is placed.\n<Mark 5>: Displayed in black, lowercase letters on a white background, the word \"keep\" is written in a simple, sans-serif font. This term indicates an imperative, which typically precedes further instructions. It is likely part of an overall message on the sign to instruct the viewer on what actions to take or avoid concerning the vicinity.\n<Mark 6>: The word \"away\" is shown in black, lowercase letters against a white background, using a sans-serif font for clarity. It usually denotes a distance or separation from something and is most probably part of a set of instructions on the sign.\n<Mark 7>: The text \"from\" is provided in black, lowercase letters on a white background. The sans-serif typeface used is unadorned, emphasizing legibility. This preposition suggests a relational direction or separation and fits in line with the other words on the sign to form an instructive sentence.\n<Mark 8>: The word \"the\" is written in black, lowercase letters on a white background. The font is straightforward, sans-serif, and the word functions as a definite article, typically used in English to specify a particular instance of a noun that is understood from the context.",
+        "points": [
+            [
+                1328,
+                1481
+            ],
+            [
+                1100,
+                1616
+            ],
+            [
+                1329,
+                1557
+            ],
+            [
+                1089,
+                1664
+            ],
+            [
+                1243,
+                1618
+            ],
+            [
+                1371,
+                1619
+            ],
+            [
+                1494,
+                1613
+            ],
+            [
+                1601,
+                1611
+            ]
+        ]
+    },
+    {
+        "image_name": "img_981.jpg",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 6,
+        "dataset_name": "ocr_spotting_detailed_caption_point",
+        "gt_answers": "<Mark 1>: This region displays the text \"SIDE\" in a bold, sans-serif font, which is typically used for clarity and legibility. The text is in capital letters, suggesting it may be a label or a title for a section within the larger environment. The exact purpose of this text cannot be determined without further context, but it is likely used to indicate a specific side or area within the location, possibly for orientation or categorization purposes.\n<Mark 2>: Here we see the word \"LABEL\" presented in a bold, sans-serif typeface similar to that of <Mark 1>. The text is capitalized, which often denotes a heading or an important designation. The usage of the word \"LABEL\" suggests that this might be an instructive sign or part of an informational display, guiding viewers to understand that items in the vicinity should bear a label or are sorted by labels. The setting appears to be a retail or commercial environment, where such signs are integral in assisting customers to navigate the space efficiently.",
+        "points": [
+            [
+                357,
+                127
+            ],
+            [
+                408,
+                129
+            ]
+        ]
+    },
+    {
+        "image_name": "tr_img_03892.jpg",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 7,
+        "dataset_name": "ocr_spotting_detailed_caption_point",
+        "gt_answers": "<Mark 1>: The text here reads \"\u6e56\u5357\u7701\u4f20\u8fbe\u5b66\u4e60\" which translates to \"Hunan Province Conveys Learning\". The characters are printed in a formal, bold typeface that is common for official or governmental contexts. It appears to be a banner or sign placed above a stage, suggesting that it is related to an official event or meeting where learning or communication of knowledge is being disseminated, most likely political in nature given the context.\n<Mark 2>: This region contains the text \"\u5341\u4e00\u5c4a\u5168\u56fd\u4eba\u5927\u56db\u6b21\u4f1a\u8bae\" which translates to \"The Fourth Session of the 11th National People's Congress\". The font is similar to that of Region 1, indicating formality and official communication. As with Region 1, the text likely denotes the name or nature of the official event being held, which is a session of the National People's Congress, an important legislative body in China.\n<Mark 3>: The characters \"\u7cbe\u795e\u4f1a\u8bae\" translate to \"Spiritual Meeting\" or \"Meeting with Purpose/Resolve\". This text, in the same formal style, may describe the focus or nature of the gathering, emphasizing a meeting with a specific ideological or political significance.\n<Mark 4>: Here, the text reads \"\u5168\u56fd\u653f\u534f\u5341\u4e00\u5c4a\u56db\u6b21\u4f1a\u8bae\" which means \"The Fourth Session of the 11th National Committee of the Chinese People's Political Consultative Conference (CPPCC)\". This indicates that another major political event is being referenced, which is the meeting of the CPPCC, an important advisory body in the Chinese political system.",
+        "points": [
+            [
+                115,
+                24
+            ],
+            [
+                323,
+                16
+            ],
+            [
+                482,
+                25
+            ],
+            [
+                323,
+                35
+            ]
+        ]
+    },
+    {
+        "image_name": "tr_img_03783.jpg",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 8,
+        "dataset_name": "ocr_spotting_detailed_caption_point",
+        "gt_answers": "<Mark 1>: The text reads \"\u6df1\u5733\u53d1\u5c55\u94f6\u884c,\" which translates to \"Shenzhen Development Bank.\" The characters are in a bold, red font and are prominently displayed against the backdrop of the grey building's upper facade. This suggests that the building is either a branch or headquarters of the Shenzhen Development Bank, and the text serves as a signboard, indicating the presence and branding of the bank within the building.\n<Mark 2>: The text \"\u8fdc\u6d0b\u5927\u53a6\" translates to \"Oceanwide Building.\" The characters are in a lighter tone, possibly white or silver, and appear smaller than the text in <Mark 1>. They are located on the side of the building, indicating the name of the edifice or the name of the company that occupies it. This text acts as an identifying marker for the building itself.",
+        "points": [
+            [
+                250,
+                120
+            ],
+            [
+                62,
+                345
+            ]
+        ]
+    },
+    {
+        "image_name": "img_159.jpg",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 9,
+        "dataset_name": "ocr_spotting_detailed_caption_point",
+        "gt_answers": "<Mark 1>: The text reads \"RAF\" in a bold, sans-serif font. It is in white against a navy blue background which might suggest a formal or official nature, potentially related to an organization or entity abbreviated as \"RAF\". The text's high contrast with the background ensures visibility and legibility, which hints that it is intended for public view and is likely significant to the entity it represents.\n<Mark 2>: This text displays the word \"CAREERS\" in white letters on a red background. The choice of a bold, sans-serif font type maximizes readability and the stark contrast with the background color draws attention. The term \"CAREERS\" indicates a focus on employment or vocational opportunities and could imply that the organization or entity referenced in <Mark 1> is presenting information related to job prospects or guidance for individuals seeking employment.",
+        "points": [
+            [
+                131,
+                247
+            ],
+            [
+                388,
+                244
+            ]
+        ]
+    },
+    {
+        "image_name": "img_452.jpg",
+        "question": "Please provide a detailed description of each marked point in the image.",
+        "question_id": 10,
+        "dataset_name": "ocr_spotting_detailed_caption_point",
+        "gt_answers": "<Mark 1>: The text \"NOVEMBER\" is in all caps and is captured with high contrast, suggesting that it may be used here as an indication of the schedule or release time frame of the movie or event advertised in the poster it's a part of. The font is bold and fairly large, meant to stand out and be easily readable from a distance. It is positioned at the bottom of a visual display, which is commonly where important information is included, such as dates, times, or locations. The context points to it being part of a promotion for entertainment content.\n<Mark 2>: The text \"ttins\" appears to be part of a larger word or phrase that's not entirely visible, likely due to the angle or framing of the photo. Without additional context, it's difficult to determine what the full text is supposed to convey. The letters are stylized in a way that is consistent with creative titling, often used in movie or show titles. It is located on a smaller poster, which suggests it is likely a part of promotional material for a different entertainment piece than what's indicated in <Mark 1>.\n<Mark 3>: The text \"One\" stands alone with no additional context. The style and positioning suggest it may be part of a larger phrase or title. It is located on a large poster which hints at its significance; however, without further context, it's not possible to pinpoint the exact nature of the content it relates to. It may refer to a title, a character name, or a concept pivotal to the promotional material it is featured on.",
+        "points": [
+            [
+                434,
+                640
+            ],
+            [
+                1069,
+                420
+            ],
+            [
+                397,
+                575
+            ]
+        ]
+    }
+]

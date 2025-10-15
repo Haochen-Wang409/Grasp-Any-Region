@@ -1,0 +1,332 @@
+[
+    {
+        "image_name": "f7a651aeda9e0d429adf3d9bd3bec6b4.png",
+        "question": "What might I find if I click on <Mark 2>?",
+        "question_id": 1,
+        "dataset_name": "web_QA_point",
+        "gt_answers": "Clicking on <Mark 2> would likely redirect you to a page where you could learn more about the company's history, values, or mission.",
+        "points": [
+            [
+                1161,
+                79
+            ],
+            [
+                825,
+                79
+            ],
+            [
+                902,
+                79
+            ],
+            [
+                1027,
+                79
+            ],
+            [
+                537,
+                597
+            ],
+            [
+                1468,
+                79
+            ],
+            [
+                729,
+                79
+            ],
+            [
+                1574,
+                79
+            ]
+        ]
+    },
+    {
+        "image_name": "web_921e2d81-b8a5-425a-81e6-476cd16f9bdb.png",
+        "question": "What information can an administrator expect to find or manage after clicking on <Mark 1>?",
+        "question_id": 2,
+        "dataset_name": "web_QA_point",
+        "gt_answers": "An administrator can expect to find customer-related data such as personal details, purchase history, customer service interactions, and possibly analytics on customer behavior after clicking on <Mark 1>.",
+        "points": [
+            [
+                88,
+                584
+            ]
+        ]
+    },
+    {
+        "image_name": "a49865bf112a6961f41c6a32fc766d89.png",
+        "question": "What would happen if I click on the 'HOME' tab in <Mark 2>?",
+        "question_id": 3,
+        "dataset_name": "web_QA_point",
+        "gt_answers": "Clicking on the 'HOME' tab in <Mark 2> would redirect you to the main or starting page of the website.",
+        "points": [
+            [
+                633,
+                126
+            ],
+            [
+                383,
+                126
+            ],
+            [
+                738,
+                683
+            ],
+            [
+                1363,
+                770
+            ],
+            [
+                57,
+                49
+            ],
+            [
+                1343,
+                126
+            ],
+            [
+                134,
+                49
+            ],
+            [
+                172,
+                49
+            ],
+            [
+                872,
+                520
+            ],
+            [
+                1430,
+                126
+            ]
+        ]
+    },
+    {
+        "image_name": "9383db3ef92848cd46868197cc5e446f.png",
+        "question": "What would likely happen if I click on <Mark 1>?",
+        "question_id": 4,
+        "dataset_name": "web_QA_point",
+        "gt_answers": "If you click on <Mark 1>, you would likely be directed to a help or support resource to assist you with any inquiries or issues you might have with the services or products on the website.",
+        "points": [
+            [
+                498,
+                21
+            ],
+            [
+                1478,
+                21
+            ],
+            [
+                374,
+                21
+            ],
+            [
+                1333,
+                88
+            ],
+            [
+                758,
+                88
+            ],
+            [
+                1199,
+                88
+            ],
+            [
+                633,
+                88
+            ],
+            [
+                1074,
+                88
+            ],
+            [
+                1285,
+                21
+            ],
+            [
+                374,
+                136
+            ]
+        ]
+    },
+    {
+        "image_name": "web_37acd27f-731c-4292-8caf-159b9be41189.png",
+        "question": "What versions of Ubuntu are mentioned in <Mark 1>?",
+        "question_id": 5,
+        "dataset_name": "web_QA_point",
+        "gt_answers": "The versions mentioned in <Mark 1> are 18.04 LTS, 20.04 LTS, and 22.04 LTS.",
+        "points": [
+            [
+                320,
+                652
+            ]
+        ]
+    },
+    {
+        "image_name": "web_147f0485-994a-4176-bd82-88d81ab8607a.png",
+        "question": "What happens when you check the 'All' checkbox in <Mark 1>?",
+        "question_id": 6,
+        "dataset_name": "web_QA_point",
+        "gt_answers": "When you check the 'All' checkbox in <Mark 1>, it likely includes all namespaces in the search results, rather than just the default selection or other specified filters.",
+        "points": [
+            [
+                924,
+                786
+            ]
+        ]
+    },
+    {
+        "image_name": "243a622c02ef1f0a4ca2a860daa9b5c5.png",
+        "question": "What particular topics might I find assistance on if I navigate to <Mark 1> on the website?",
+        "question_id": 7,
+        "dataset_name": "web_QA_point",
+        "gt_answers": "You would find guidance or insights on topics relevant to the financial services provided by the organization behind the website.",
+        "points": [
+            [
+                1141,
+                49
+            ],
+            [
+                1372,
+                49
+            ],
+            [
+                1007,
+                107
+            ],
+            [
+                949,
+                971
+            ],
+            [
+                1247,
+                49
+            ],
+            [
+                1055,
+                789
+            ],
+            [
+                787,
+                49
+            ],
+            [
+                1305,
+                107
+            ],
+            [
+                844,
+                789
+            ],
+            [
+                1142,
+                107
+            ]
+        ]
+    },
+    {
+        "image_name": "30620b1a82ea24f660db2be94d4c09c8.png",
+        "question": "What options do I have if I wish to learn more about the background or ethos of the company?",
+        "question_id": 8,
+        "dataset_name": "web_QA_point",
+        "gt_answers": "You could select <Mark 5> to navigate to the 'About' page, which would provide information about the company's background or ethos.",
+        "points": [
+            [
+                1295,
+                98
+            ],
+            [
+                1430,
+                568
+            ],
+            [
+                1410,
+                40
+            ],
+            [
+                1785,
+                40
+            ],
+            [
+                1391,
+                98
+            ],
+            [
+                1631,
+                98
+            ],
+            [
+                422,
+                491
+            ],
+            [
+                1506,
+                98
+            ],
+            [
+                1842,
+                98
+            ],
+            [
+                1727,
+                98
+            ]
+        ]
+    },
+    {
+        "image_name": "web_921e2d81-b8a5-425a-81e6-476cd16f9bdb.png",
+        "question": "What would likely happen when I click on the 'Products' option in <Mark 1>?",
+        "question_id": 9,
+        "dataset_name": "web_QA_point",
+        "gt_answers": "Clicking on the 'Products' option would probably navigate you to the product management section where you can view and interact with the inventory.",
+        "points": [
+            [
+                439,
+                229
+            ]
+        ]
+    },
+    {
+        "image_name": "d5b8fc0c05f898a78cd3183d534aafdd.png",
+        "question": "If I'm looking for information on the company's background and history, which <Region> should I click on?",
+        "question_id": 10,
+        "dataset_name": "web_QA_point",
+        "gt_answers": "You should click on <Mark 3> to find information about the company's background and history.",
+        "points": [
+            [
+                1295,
+                78
+            ],
+            [
+                911,
+                318
+            ],
+            [
+                863,
+                78
+            ],
+            [
+                1488,
+                78
+            ],
+            [
+                978,
+                78
+            ],
+            [
+                1083,
+                78
+            ],
+            [
+                1401,
+                78
+            ],
+            [
+                1180,
+                78
+            ]
+        ]
+    }
+]

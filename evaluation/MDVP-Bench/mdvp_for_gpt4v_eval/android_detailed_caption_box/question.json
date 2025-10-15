@@ -1,0 +1,694 @@
+[
+    {
+        "question_id": 1,
+        "image": "web_shopping_251980.png",
+        "category": "android_detailed_caption_box",
+        "text": "Please provide a detailed description of each marked region in the image.",
+        "annotation": {
+            "bbox": [
+                [
+                    82,
+                    117,
+                    374,
+                    35
+                ],
+                [
+                    36,
+                    1006,
+                    46,
+                    58
+                ],
+                [
+                    328,
+                    105,
+                    35,
+                    35
+                ],
+                [
+                    457,
+                    900,
+                    23,
+                    46
+                ],
+                [
+                    153,
+                    900,
+                    35,
+                    46
+                ],
+                [
+                    59,
+                    912,
+                    23,
+                    23
+                ],
+                [
+                    59,
+                    1006,
+                    23,
+                    46
+                ],
+                [
+                    457,
+                    1017,
+                    23,
+                    35
+                ],
+                [
+                    258,
+                    1111,
+                    23,
+                    35
+                ],
+                [
+                    129,
+                    1111,
+                    11,
+                    35
+                ]
+            ],
+            "segmentation": []
+        }
+    },
+    {
+        "question_id": 2,
+        "image": "install_18183248185514867672_2.png",
+        "category": "android_detailed_caption_box",
+        "text": "Please provide a detailed description of each marked region in the image.",
+        "annotation": {
+            "bbox": [
+                [
+                    86,
+                    182,
+                    45,
+                    15
+                ],
+                [
+                    390,
+                    182,
+                    106,
+                    15
+                ],
+                [
+                    223,
+                    182,
+                    106,
+                    30
+                ],
+                [
+                    557,
+                    182,
+                    121,
+                    30
+                ],
+                [
+                    71,
+                    395,
+                    75,
+                    15
+                ],
+                [
+                    588,
+                    395,
+                    45,
+                    15
+                ],
+                [
+                    208,
+                    395,
+                    136,
+                    15
+                ],
+                [
+                    375,
+                    395,
+                    136,
+                    15
+                ],
+                [
+                    71,
+                    516,
+                    75,
+                    30
+                ],
+                [
+                    588,
+                    516,
+                    45,
+                    30
+                ]
+            ],
+            "segmentation": []
+        }
+    },
+    {
+        "question_id": 3,
+        "image": "google_apps_14797572530627259726_40.png",
+        "category": "android_detailed_caption_box",
+        "text": "Please provide a detailed description of each marked region in the image.",
+        "annotation": {
+            "bbox": [
+                [
+                    140,
+                    102,
+                    80,
+                    21
+                ],
+                [
+                    227,
+                    102,
+                    102,
+                    21
+                ],
+                [
+                    206,
+                    175,
+                    87,
+                    29
+                ],
+                [
+                    301,
+                    175,
+                    58,
+                    21
+                ],
+                [
+                    125,
+                    175,
+                    65,
+                    29
+                ],
+                [
+                    220,
+                    212,
+                    43,
+                    21
+                ],
+                [
+                    271,
+                    212,
+                    95,
+                    29
+                ],
+                [
+                    125,
+                    219,
+                    80,
+                    21
+                ],
+                [
+                    125,
+                    307,
+                    161,
+                    21
+                ],
+                [
+                    30,
+                    344,
+                    51,
+                    29
+                ]
+            ],
+            "segmentation": []
+        }
+    },
+    {
+        "question_id": 4,
+        "image": "web_shopping_98501.png",
+        "category": "android_detailed_caption_box",
+        "text": "Please provide a detailed description of each marked region in the image.",
+        "annotation": {
+            "bbox": [
+                [
+                    30,
+                    68,
+                    285,
+                    22
+                ],
+                [
+                    87,
+                    136,
+                    148,
+                    22
+                ],
+                [
+                    247,
+                    148,
+                    34,
+                    11
+                ],
+                [
+                    87,
+                    171,
+                    205,
+                    22
+                ],
+                [
+                    87,
+                    228,
+                    319,
+                    22
+                ],
+                [
+                    87,
+                    262,
+                    102,
+                    22
+                ],
+                [
+                    315,
+                    319,
+                    102,
+                    34
+                ],
+                [
+                    87,
+                    319,
+                    79,
+                    22
+                ],
+                [
+                    167,
+                    319,
+                    136,
+                    22
+                ],
+                [
+                    87,
+                    353,
+                    102,
+                    22
+                ]
+            ],
+            "segmentation": []
+        }
+    },
+    {
+        "question_id": 5,
+        "image": "install_5797941172247377583_7.png",
+        "category": "android_detailed_caption_box",
+        "text": "Please provide a detailed description of each marked region in the image.",
+        "annotation": {
+            "bbox": [
+                [
+                    132,
+                    76,
+                    76,
+                    30
+                ],
+                [
+                    162,
+                    182,
+                    76,
+                    15
+                ],
+                [
+                    56,
+                    182,
+                    45,
+                    60
+                ],
+                [
+                    572,
+                    212,
+                    75,
+                    15
+                ],
+                [
+                    162,
+                    212,
+                    76,
+                    30
+                ],
+                [
+                    253,
+                    258,
+                    106,
+                    15
+                ],
+                [
+                    162,
+                    258,
+                    76,
+                    15
+                ],
+                [
+                    86,
+                    319,
+                    60,
+                    30
+                ],
+                [
+                    299,
+                    319,
+                    45,
+                    30
+                ],
+                [
+                    451,
+                    364,
+                    75,
+                    15
+                ]
+            ],
+            "segmentation": []
+        }
+    },
+    {
+        "question_id": 6,
+        "image": "google_apps_8853455778583749835_5.png",
+        "category": "android_detailed_caption_box",
+        "text": "Please provide a detailed description of each marked region in the image.",
+        "annotation": {
+            "bbox": [
+                [
+                    110,
+                    79,
+                    148,
+                    22
+                ],
+                [
+                    30,
+                    171,
+                    22,
+                    22
+                ],
+                [
+                    30,
+                    216,
+                    34,
+                    11
+                ],
+                [
+                    64,
+                    216,
+                    125,
+                    11
+                ],
+                [
+                    201,
+                    216,
+                    68,
+                    11
+                ],
+                [
+                    30,
+                    239,
+                    159,
+                    11
+                ],
+                [
+                    190,
+                    239,
+                    102,
+                    11
+                ],
+                [
+                    99,
+                    330,
+                    159,
+                    22
+                ],
+                [
+                    99,
+                    364,
+                    136,
+                    11
+                ],
+                [
+                    247,
+                    364,
+                    79,
+                    11
+                ]
+            ],
+            "segmentation": []
+        }
+    },
+    {
+        "question_id": 7,
+        "image": "google_apps_9088043504221051292_1.png",
+        "category": "android_detailed_caption_box",
+        "text": "Please provide a detailed description of each marked region in the image.",
+        "annotation": {
+            "bbox": [
+                [
+                    103,
+                    80,
+                    204,
+                    21
+                ],
+                [
+                    37,
+                    417,
+                    29,
+                    7
+                ],
+                [
+                    23,
+                    658,
+                    43,
+                    36
+                ],
+                [
+                    52,
+                    358,
+                    14,
+                    36
+                ],
+                [
+                    37,
+                    578,
+                    21,
+                    36
+                ],
+                [
+                    44,
+                    658,
+                    14,
+                    36
+                ],
+                [
+                    345,
+                    666,
+                    21,
+                    29
+                ]
+            ],
+            "segmentation": []
+        }
+    },
+    {
+        "question_id": 8,
+        "image": "single_1849.png",
+        "category": "android_detailed_caption_box",
+        "text": "Please provide a detailed description of each marked region in the image.",
+        "annotation": {
+            "bbox": [
+                [
+                    121,
+                    68,
+                    262,
+                    22
+                ],
+                [
+                    30,
+                    136,
+                    171,
+                    45
+                ],
+                [
+                    304,
+                    171,
+                    79,
+                    22
+                ],
+                [
+                    406,
+                    171,
+                    57,
+                    22
+                ],
+                [
+                    486,
+                    182,
+                    22,
+                    0
+                ],
+                [
+                    42,
+                    216,
+                    91,
+                    34
+                ],
+                [
+                    178,
+                    228,
+                    68,
+                    11
+                ],
+                [
+                    19,
+                    296,
+                    125,
+                    22
+                ],
+                [
+                    270,
+                    296,
+                    136,
+                    22
+                ],
+                [
+                    64,
+                    330,
+                    68,
+                    22
+                ]
+            ],
+            "segmentation": []
+        }
+    },
+    {
+        "question_id": 9,
+        "image": "install_125967318814166469_6.png",
+        "category": "android_detailed_caption_box",
+        "text": "Please provide a detailed description of each marked region in the image.",
+        "annotation": {
+            "bbox": [
+                [
+                    156,
+                    125,
+                    250,
+                    34
+                ],
+                [
+                    418,
+                    125,
+                    68,
+                    34
+                ],
+                [
+                    156,
+                    182,
+                    114,
+                    22
+                ],
+                [
+                    42,
+                    193,
+                    22,
+                    11
+                ],
+                [
+                    76,
+                    193,
+                    34,
+                    11
+                ],
+                [
+                    156,
+                    216,
+                    114,
+                    22
+                ],
+                [
+                    156,
+                    250,
+                    68,
+                    11
+                ],
+                [
+                    235,
+                    250,
+                    22,
+                    11
+                ],
+                [
+                    452,
+                    307,
+                    45,
+                    11
+                ],
+                [
+                    64,
+                    307,
+                    45,
+                    11
+                ]
+            ],
+            "segmentation": []
+        }
+    },
+    {
+        "question_id": 10,
+        "image": "single_2921.png",
+        "category": "android_detailed_caption_box",
+        "text": "Please provide a detailed description of each marked region in the image.",
+        "annotation": {
+            "bbox": [
+                [
+                    51,
+                    24,
+                    108,
+                    12
+                ],
+                [
+                    51,
+                    36,
+                    48,
+                    12
+                ],
+                [
+                    21,
+                    72,
+                    72,
+                    18
+                ],
+                [
+                    231,
+                    78,
+                    30,
+                    6
+                ],
+                [
+                    15,
+                    114,
+                    78,
+                    12
+                ],
+                [
+                    15,
+                    150,
+                    36,
+                    6
+                ],
+                [
+                    51,
+                    150,
+                    42,
+                    12
+                ],
+                [
+                    93,
+                    150,
+                    6,
+                    6
+                ],
+                [
+                    105,
+                    150,
+                    36,
+                    6
+                ],
+                [
+                    15,
+                    180,
+                    120,
+                    12
+                ]
+            ],
+            "segmentation": []
+        }
+    }
+]

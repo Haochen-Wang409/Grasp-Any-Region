@@ -1,0 +1,304 @@
+[
+    {
+        "image_name": "0501_0024_0025.jpg",
+        "question": "What types of content can you find in <Mark 1> of the document?",
+        "question_id": 1,
+        "dataset_name": "ocr_doc_QA_point",
+        "gt_answers": "In <Mark 1>, you can find bibliographic entries for scholarly works, which include authors' names, paper titles, publication details, DOIs, and URLs.",
+        "points": [
+            [
+                597,
+                760
+            ],
+            [
+                595,
+                1581
+            ],
+            [
+                953,
+                1587
+            ],
+            [
+                293,
+                1596
+            ]
+        ]
+    },
+    {
+        "image_name": "0501_0063_0005.jpg",
+        "question": "What does the caption in <Mark 1> signify about the table?",
+        "question_id": 2,
+        "dataset_name": "ocr_doc_QA_point",
+        "gt_answers": "The caption in <Mark 1> indicates that the table presents benchmarking results of various configurations tested on a test set.",
+        "points": [
+            [
+                421,
+                199
+            ],
+            [
+                596,
+                474
+            ],
+            [
+                599,
+                920
+            ],
+            [
+                475,
+                1122
+            ],
+            [
+                595,
+                1253
+            ]
+        ]
+    },
+    {
+        "image_name": "2ca63b73694ed160b6622c66f310b0e1560a7663934acb864f0abf64494aa300.png",
+        "question": "What types of products are prominently featured in <Mark 1>, and how does this relate to the purpose of the document?",
+        "question_id": 3,
+        "dataset_name": "ocr_doc_QA_point",
+        "gt_answers": "In <Mark 1>, there's a variety of alcoholic beverages including wines, beers, and spirits, suggesting that the company's product offerings are diverse. This relates to the purpose of the document, likely an annual report, by showcasing what the company produces or sells.",
+        "points": [
+            [
+                511,
+                604
+            ],
+            [
+                515,
+                175
+            ],
+            [
+                513,
+                92
+            ]
+        ]
+    },
+    {
+        "image_name": "78434ade0043f2ad51901b7aed5805201ecb92dfb9c36a2b61715c327265f238.png",
+        "question": "What chapter of the document is <Mark 2> referring to, and what is the main focus based on the title?",
+        "question_id": 4,
+        "dataset_name": "ocr_doc_QA_point",
+        "gt_answers": "<Mark 2> refers to Chapter 6, and the main focus, based on the title, appears to be about the role of heavy quarks in photon production and radiation processes within the context of physics.",
+        "points": [
+            [
+                828,
+                130
+            ],
+            [
+                401,
+                334
+            ],
+            [
+                306,
+                474
+            ],
+            [
+                511,
+                693
+            ]
+        ]
+    },
+    {
+        "image_name": "6b5108198110934af9975bbb77b66ac0e9d095ec2031082b58970252031cc686.png",
+        "question": "Can you tell me about the fees provided to non-executive directors according to <Mark 6>?",
+        "question_id": 5,
+        "dataset_name": "ocr_doc_QA_point",
+        "gt_answers": "According to <Mark 6>, non-executive directors receive a fee for their service with specific annual fees for the Chairman and board members. The Chairman fee is $213,200 per annum, and the fee for each board non-executive director is $140,400 per annum.",
+        "points": [
+            [
+                852,
+                48
+            ],
+            [
+                300,
+                147
+            ],
+            [
+                332,
+                175
+            ],
+            [
+                903,
+                978
+            ],
+            [
+                509,
+                621
+            ],
+            [
+                511,
+                269
+            ],
+            [
+                502,
+                207
+            ]
+        ]
+    },
+    {
+        "image_name": "c6703eee02fb570504b9a09f74e09f8152eef554f2e5251b78a3f9b46afef8a5.png",
+        "question": "What main topic does <Mark 2> suggest the chapter discusses?",
+        "question_id": 6,
+        "dataset_name": "ocr_doc_QA_point",
+        "gt_answers": "<Mark 2> suggests that the chapter will discuss Quantum Chromodynamics (QCD) and compare or contemplate its aspects with the Anti-de Sitter/Conformal Field Theory (Ads/CFT) correspondence.",
+        "points": [
+            [
+                828,
+                130
+            ],
+            [
+                319,
+                130
+            ],
+            [
+                511,
+                228
+            ],
+            [
+                511,
+                508
+            ],
+            [
+                511,
+                802
+            ]
+        ]
+    },
+    {
+        "image_name": "0501_0059_0042.jpg",
+        "question": "What is 'FogBus2' mentioned in <Mark 3> and <Mark 4>?",
+        "question_id": 7,
+        "dataset_name": "ocr_doc_QA_point",
+        "gt_answers": "'FogBus2' is described as a lightweight and distributed container-based framework intended to support IoT-enabled systems across various servers such as edge, fog, and cloud servers. It includes features designed for efficient deployment, scheduling, scalability, and dynamic resource management.",
+        "points": [
+            [
+                509,
+                461
+            ],
+            [
+                334,
+                718
+            ],
+            [
+                632,
+                834
+            ],
+            [
+                650,
+                1232
+            ],
+            [
+                631,
+                1562
+            ]
+        ]
+    },
+    {
+        "image_name": "e9c8841c90a9a2000c39a368e99b35f0fd4f295f0de67c572e9717b37567eab1.png",
+        "question": "What is the main benefit of using the simulation tools mentioned in <Mark 2>?",
+        "question_id": 8,
+        "dataset_name": "ocr_doc_QA_point",
+        "gt_answers": "The main benefit is to enable engineers and operators to monitor and optimize the performance of operating units, which leads to minimized energy consumption and maximized throughput and yields, thereby improving refinery profitability.",
+        "points": [
+            [
+                203,
+                63
+            ],
+            [
+                256,
+                244
+            ],
+            [
+                271,
+                410
+            ],
+            [
+                703,
+                222
+            ],
+            [
+                704,
+                366
+            ],
+            [
+                705,
+                466
+            ],
+            [
+                600,
+                423
+            ],
+            [
+                45,
+                998
+            ]
+        ]
+    },
+    {
+        "image_name": "0501_0239_0000.jpg",
+        "question": "What information is provided about the author in <Mark 4> and <Mark 5>?",
+        "question_id": 9,
+        "dataset_name": "ocr_doc_QA_point",
+        "gt_answers": "In <Mark 4>, the author's name, Eugene Borovikov, is provided. <Mark 5> presents the author's institutional affiliation, which is American Management Systems, Inc., along with the corresponding address.",
+        "points": [
+            [
+                52,
+                731
+            ],
+            [
+                611,
+                1495
+            ],
+            [
+                611,
+                242
+            ],
+            [
+                613,
+                298
+            ],
+            [
+                614,
+                356
+            ],
+            [
+                610,
+                430
+            ],
+            [
+                612,
+                524
+            ],
+            [
+                612,
+                598
+            ]
+        ]
+    },
+    {
+        "image_name": "0501_0048_0003.jpg",
+        "question": "What is the purpose of the subsection titled 'Image Preprocessing'?",
+        "question_id": 10,
+        "dataset_name": "ocr_doc_QA_point",
+        "gt_answers": "The purpose of the subsection titled 'Image Preprocessing' is to describe the techniques and methods used to prepare scanned document images for further analysis or processing.",
+        "points": [
+            [
+                236,
+                159
+            ],
+            [
+                598,
+                261
+            ],
+            [
+                610,
+                813
+            ],
+            [
+                610,
+                1350
+            ]
+        ]
+    }
+]

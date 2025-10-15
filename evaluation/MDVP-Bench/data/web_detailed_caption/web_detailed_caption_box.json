@@ -1,0 +1,434 @@
+[
+    {
+        "image_name": "60e34f9315443cb6c77d32da7ba5eee1.png",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 1,
+        "dataset_name": "web_detailed_caption_box",
+        "gt_answers": "<Region 1>: This area seems to indicate the numeric value '31,' which, in a calendrical context, may reference the number of days in a month. It does not appear to have any interactive features based on the screenshot.\n<Region 2>: This seems to be a button or a link labeled 'Connecter' which, when translated from French, means 'Connect' or 'Log in'. It is likely an interactive element that upon being clicked, would prompt the user to access an account or initiate a connection process.\n<Region 3>: This section contains the French word 'Novembre', which is the month of November. It appears to be a part of a list of months, possibly for navigating a calendar or archives by month. It may be an interactive element that allows users to view content from November.\n<Region 4>: This is a button or link with the text 'Annoncez' followed by information icon (i). The French word 'Annoncez' translates to 'Advertise'. This suggests that it is a call-to-action for users to advertise, possibly by clicking this button or link. The information icon typically indicates additional details available upon interaction.\n<Region 5>: This area displays the number '07', which could signify a day of the month, especially since it is seen next to a date heading in the format 'Vendredi 7 Mai 2021', which translates to 'Friday, May 7, 2021'. It seems to be a static element without interactivity.\n<Region 6>: Similar to <Region 3>, this is labeled 'Septembre', which is the French word for September. It is part of the same apparent navigational element for a calendar or archive sorted by months and is likely interactive as well.\n<Region 7>: This section reads 'Liens Web', which translates to 'Web Links' from French. This likely refers to a section of the web page intended to direct users to other related sites or resources. It is probably interactive, with each listed link being clickable.\n<Region 8>: The number '15' is visible here, and when combined with the context of a calendar visible in the screenshot, it likely represents the 15th day of a month. This element does not seem to be interactive itself.\n<Region 9>: Here we see the number '04' which, in the context of the surrounding calendar, might represent the 4th day of a month. It doesn't show any sign of interactivity.\n<Region 10>: This text, 'Plan du site', stands for 'Site Map' in French and usually refers to a detailed page listing where one can find an overview of all the sections and pages within the website. It is usually an interactive element that, when clicked, will take the user to the sitemap page.",
+        "bbox": [
+            [
+                1248,
+                156,
+                19,
+                19
+            ],
+            [
+                1286,
+                40,
+                134,
+                19
+            ],
+            [
+                480,
+                386,
+                153,
+                19
+            ],
+            [
+                1382,
+                117,
+                76,
+                0
+            ],
+            [
+                768,
+                156,
+                19,
+                19
+            ],
+            [
+                480,
+                348,
+                153,
+                19
+            ],
+            [
+                652,
+                981,
+                153,
+                19
+            ],
+            [
+                921,
+                156,
+                19,
+                19
+            ],
+            [
+                710,
+                156,
+                19,
+                19
+            ],
+            [
+                825,
+                1000,
+                172,
+                19
+            ]
+        ]
+    },
+    {
+        "image_name": "0180e97a3e9609ea8c72b6b8db0071c8.png",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 2,
+        "dataset_name": "web_detailed_caption_box",
+        "gt_answers": "<Region 1>: This region depicts an interactive button with the text \"BOOK NOW\" overlaid on it. Usually, buttons like this on websites are clickable and lead the user to a page where they can schedule an appointment or reserve a service. The button is stylistically designed to stand out and grab attention, potentially suggesting it is a call-to-action feature for users to quickly access the booking process for the service provided by the website.\n<Region 2>: This section of the website features a text link with the phrase \"Buy Luxurious Doona.\" It likely serves as a navigational element, which upon clicking, would redirect users to a page where they can purchase a \"Luxurious Doona.\" The term \"Doona\" typically refers to a type of bedding, suggesting that the site might be related to home goods or personal comfort items.\n<Region 3>: This area contains a text link that reads \"Pay Balance.\" It is probably an interactive link that, once clicked, would take the user to a section of the website where they can complete a payment - likely concerning a service or product they have previously engaged with.\n<Region 4>: Featured here is a clickable text link titled \"About Us.\" Such links generally lead users to a webpage that elaborates on the history, mission, values, or team behind the company or service. It helps users learn more about the company or website owners.\n<Region 5>: This part of the webpage indicates a \"Contact us\" link. Clicking on this text would typically guide the visitor to a page featuring contact information or a form enabling the users to reach out to the company for inquiries or support.\n<Region 6>: \"Home\" appears to be a navigation link that, when selected, would likely redirect users to the homepage of the website. The homepage is the main page that often provides a comprehensive overview of what the website offers.\n<Region 7>: The text here, \"doonawash@gmail.com,\" suggests an email address. This is likely provided for users to directly contact the company or service provider through email. It is not clickable but can be used to send an email using an email client or service.\n<Region 8>: Similar to <Region 5>, this \"Contact us\" link would allow users to access a contact section or page on the website, promoting user interaction with the service provider for queries or assistance.\n<Region 9>: Just like <Region 6>, this \"Home\" link is a navigational feature intended to bring the user back to the site's main page, presenting a starting point or central hub for exploring the website's contents.\n<Region 10>: Echoing <Region 3>, the \"Pay Balance\" text link is associated with the payment part of a transaction on the website. It is intended to facilitate users in clearing dues or completing transactions related to the services offered by the site.",
+        "bbox": [
+            [
+                1420,
+                21,
+                134,
+                19
+            ],
+            [
+                614,
+                252,
+                192,
+                19
+            ],
+            [
+                614,
+                136,
+                134,
+                19
+            ],
+            [
+                614,
+                98,
+                115,
+                19
+            ],
+            [
+                614,
+                156,
+                115,
+                19
+            ],
+            [
+                614,
+                213,
+                38,
+                19
+            ],
+            [
+                326,
+                2,
+                422,
+                38
+            ],
+            [
+                614,
+                309,
+                96,
+                19
+            ],
+            [
+                614,
+                60,
+                76,
+                19
+            ],
+            [
+                614,
+                290,
+                96,
+                19
+            ]
+        ]
+    },
+    {
+        "image_name": "web_0558c1f4-c05b-49a8-8479-04b1575779d2.png",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 3,
+        "dataset_name": "web_detailed_caption_box",
+        "gt_answers": "<Region 1>: This area of the webpage is part of a bullet point list under the subheading \"Local Chapters\". The subheading describes Local Chapters as country or region-level groups affiliated with the OpenStreetMap Foundation that represent their local mapping community in dealings with government, business, and media. The bullet point \"OpenStreetMap Belgium\" likely indicates that there is an established local chapter for the country of Belgium. The text appears in blue with an underline, suggesting that it is a hyperlink. Clicking on this hyperlink would presumably direct the user to more information about the OpenStreetMap community in Belgium or to their specific website.",
+        "bbox": [
+            [
+                333,
+                971,
+                366,
+                36
+            ]
+        ]
+    },
+    {
+        "image_name": "367173643a055b0657de17afff8d541d.png",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 4,
+        "dataset_name": "web_detailed_caption_box",
+        "gt_answers": "<Region 1>: This area appears to be a contact detail, specifically a phone number. It typically serves as a direct line of communication for users to reach out to the company or organization featured on the website. Such contact information is usually clickable on mobile devices, enabling the user to initiate a phone call directly.\n<Region 2>: This section includes a numerical rating, which is indicative of client satisfaction, service quality, or performance measurement. It suggests that it may be connected to reviews or ratings received from clients, as denoted by the star symbol which commonly represents ratings.\n<Region 3>: The text translates to \"Free Consultation\" in Azerbaijani, indicating an offering from the company to prospective clients. It is likely a call-to-action button which upon clicking, would lead a user to a form or contact option to set up a consultation without any charge.\n<Region 4>: This part of the website is labeled \"Portfolio,\" signifying that it's likely a navigation element leading to a page where the company showcases their previous work, projects, or case studies to highlight their experience and expertise.",
+        "bbox": [
+            [
+                1324,
+                40,
+                96,
+                19
+            ],
+            [
+                364,
+                732,
+                19,
+                19
+            ],
+            [
+                307,
+                559,
+                172,
+                57
+            ],
+            [
+                960,
+                21,
+                57,
+                57
+            ]
+        ]
+    },
+    {
+        "image_name": "5c9b9883310423712e466bee13a36a02.png",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 5,
+        "dataset_name": "web_detailed_caption_box",
+        "gt_answers": "<Region 1>: This space indicates a shopping cart feature with a count of items currently in the cart, which currently stands at zero. This interactive element likely becomes clickable when items are added, allowing users to view and manage the contents of their cart.\n<Region 2>: This area is typically a customer service feature, allowing users to access help or assistance through various means such as a help center, live chat, or contact information. It's usually clickable and would direct the user to a support section of the website.\n<Region 3>: The text suggests a prompt to visit the company's Facebook page. This is an interactive element that, when clicked, likely redirects users to the specified social media page to engage with the company's content on that platform.\n<Region 4>: It denotes an area that likely relates to personalization for users, where they can view their astrology charts. This is expected to be a clickable feature which, when accessed, leads the user to a section where their personalized charts are displayed or can be created.\n<Region 5>: Similar to <Region 3>, this is a call to action to visit the company's Twitter page. Clicking on this interactive element would redirect a user to the company's Twitter profile to view tweets and engage with their content.\n<Region 6>: This is a customer contact area, providing users with a way to get in touch with the company. Clicking on this is likely to take the user to a section of the site with various contact options like email, phone, or a contact form.\n<Region 7>: This is a call-to-action button that allows users to add a product to their shopping cart. This button is interactive, and upon clicking, the chosen product would be added to the user's cart, with the action possibly reflected in the shopping cart count in <Region 1>.\n<Region 8>: This area is likely dedicated to showcasing the company's range of products. Clicking here would probably lead users to a product catalog where they can browse and select items of interest.\n<Region 9>: It represents an area designated for a podcast. Users can expect to interact with this button to be taken to a media player or section of the website where they can listen to recorded audio content.\n<Region 10>: This part of the website provides company information to the user. It's normally a clickable element that leads the user to learn more about the company's history, values, mission, and team members.",
+        "bbox": [
+            [
+                1478,
+                21,
+                95,
+                57
+            ],
+            [
+                1017,
+                98,
+                95,
+                38
+            ],
+            [
+                1228,
+                21,
+                19,
+                57
+            ],
+            [
+                1056,
+                616,
+                76,
+                19
+            ],
+            [
+                1267,
+                21,
+                38,
+                57
+            ],
+            [
+                1286,
+                98,
+                115,
+                38
+            ],
+            [
+                1075,
+                463,
+                153,
+                38
+            ],
+            [
+                691,
+                98,
+                115,
+                38
+            ],
+            [
+                902,
+                98,
+                96,
+                38
+            ],
+            [
+                1152,
+                98,
+                115,
+                38
+            ]
+        ]
+    },
+    {
+        "image_name": "53b4ab2cb706a43fec7ce4ac5eac181e.png",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 6,
+        "dataset_name": "web_detailed_caption_box",
+        "gt_answers": "<Region 1>: This section typically represents a menu item on a website that describes the services or actions undertaken by the organization. It usually links to a page with detailed information on the work that the organization performs, including projects, mission statements, or other relevant content.\n<Region 2>: This appears to be a news headline or feature article title on the website. It suggests that the organization has introduced a new initiative offering financial assistance for livelihood projects. Clicking on this title would likely lead to an article or post giving more information about the micro-grants program and its objectives.\n<Region 3>: This is likely a button or link to a settings page where users can adjust their preferences for the website, which might include language settings, account details, notification preferences, and more.\n<Region 4>: This commonly links to the website's privacy policy document, where users can learn about how the organization collects, uses, stores, and protects personal data.\n<Region 5>: This is typically a navigation link that returns the user to the main homepage of the website from any other page.\n<Region 6>: It usually indicates a button the user can click to accept the terms of a policy, possibly related to cookies or usage terms, as indicated by the accompanying text.\n<Region 7>: This is often a prominent call-to-action button meant to direct users to a page where they can make financial contributions to the organization or cause.\n<Region 8>: Commonly a menu item that links to a news section containing articles, updates, blog posts, press releases, or other information that keeps readers informed about the organization's activities or relevant topics.\n<Region 9>: This is typically a link to a page where users can find more information about the organization, including history, values, team members, or accomplishments.\n<Region 10>: Usually a link to a page where visitors can find contact information for the organization, such as an address, phone number, email, or a contact form.",
+        "bbox": [
+            [
+                998,
+                60,
+                115,
+                19
+            ],
+            [
+                1267,
+                232,
+                153,
+                76
+            ],
+            [
+                1689,
+                1039,
+                76,
+                19
+            ],
+            [
+                729,
+                1039,
+                96,
+                19
+            ],
+            [
+                825,
+                60,
+                76,
+                19
+            ],
+            [
+                1785,
+                1039,
+                76,
+                19
+            ],
+            [
+                1305,
+                40,
+                134,
+                38
+            ],
+            [
+                1113,
+                60,
+                76,
+                19
+            ],
+            [
+                902,
+                60,
+                96,
+                19
+            ],
+            [
+                1190,
+                60,
+                115,
+                19
+            ]
+        ]
+    },
+    {
+        "image_name": "web_6c677961-e540-4cc5-b725-5e301019a9f9.png",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 7,
+        "dataset_name": "web_detailed_caption_box",
+        "gt_answers": "<Region 1>: This region appears to be a toolbar located within a content editing area, likely part of a web-based application interface. The specific feature highlighted is an icon that suggests functionality related to inserting tables into the content. In a typical text editor or content management system interface, clicking this icon would presumably open a menu or dialogue box allowing the user to create and insert a table into the document. The table insertion feature commonly lets users specify the number of rows and columns, choose a table style, and sometimes adjust additional table properties such as cell padding or headers.",
+        "bbox": [
+            [
+                2282,
+                775,
+                75,
+                68
+            ]
+        ]
+    },
+    {
+        "image_name": "656b47ffb1270a8038d876586e92a71b.png",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 8,
+        "dataset_name": "web_detailed_caption_box",
+        "gt_answers": "<Region 1>: This area encompasses a navigation element labeled \"News.\" It likely leads to a section of the website where current news relevant to the organization or its field of operation is disseminated. As a navigational element, it is interactive and upon clicking would redirect users to the page where news articles or updates are posted.\n<Region 2>: This area displays the company's name ServeGate, which appears to be stylized as a logo. This typically acts as a home button; clicking on it would usually take users back to the main or home page of the website.\n<Region 3>: This heading titled \"Our Difference\" may signify a navigational item that leads to content describing what sets the organization apart from competitors. Interaction would involve clicking it to navigate to a page that likely discusses the company's unique selling propositions (USPs), mission, values, or other differentiating factors.\n<Region 4>: Labeled \"About Us,\" this is another navigation item that, when clicked, would take the user to a section of the site that provides information about ServeGate, such as its history, leadership team, vision, and mission.\n<Region 5>: The text \"Get in touch\" suggests an interactive component that leads to a part of the website where users can contact the organization. This may include a contact form, phone numbers, email addresses, or other means of communication.\n<Region 6>: The term \"Home\" designates a navigational link that typically redirects users to the front page of the website. Clicking this link would generally return the user to the starting point of their navigation experience.\n<Region 7>: The item labeled \"Services\" is likely a drop-down menu or a link to a page that outlines the company's offerings. Users can click on it to discover more about the services provided by ServeGate, including descriptions and possibly pricing or someone to contact for further inquiry.\n<Region 8>: \"Indigenous Impact\" might be a navigation link to a page detailing the company's impact on, contributions to, or programs associated with Indigenous communities. Interaction with this element would bring the user to either a dedicated section or might expand into a submenu listing various facets of this impact.\n<Region 9>: This appears to be another instance of the company logo for ServeGate, similar to <Region 2>. It likely serves the same function as a clickable link leading back to the home page of the website.",
+        "bbox": [
+            [
+                1612,
+                40,
+                76,
+                76
+            ],
+            [
+                57,
+                40,
+                268,
+                76
+            ],
+            [
+                1132,
+                40,
+                153,
+                76
+            ],
+            [
+                979,
+                40,
+                153,
+                76
+            ],
+            [
+                1708,
+                40,
+                134,
+                76
+            ],
+            [
+                345,
+                175,
+                57,
+                19
+            ],
+            [
+                1478,
+                40,
+                134,
+                76
+            ],
+            [
+                1286,
+                40,
+                192,
+                76
+            ],
+            [
+                57,
+                60,
+                268,
+                19
+            ]
+        ]
+    },
+    {
+        "image_name": "web_5a35d9c2-2c2d-4a49-ad0a-1408d9cac78e.png",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 9,
+        "dataset_name": "web_detailed_caption_box",
+        "gt_answers": "<Region 1>: The area appears to contain an interface element labeled \"Close issue\" situated within a software development environment, likely a part of an issue tracking or project management system. This interface element is a button, as suggested by its design and placement near the text input area for comments. When clicked, it would typically result in the associated issue being marked as resolved or closed in the system, thereby updating the status of the issue within the project's workflow. The button is designed for users to signify that the discussion, problem, or task represented by the issue no longer requires attention and can be archived or removed from active consideration.",
+        "bbox": [
+            [
+                801,
+                1139,
+                196,
+                68
+            ]
+        ]
+    },
+    {
+        "image_name": "web_3fed2169-3c3d-43e7-baaa-3bf0e0c7134c.png",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 10,
+        "dataset_name": "web_detailed_caption_box",
+        "gt_answers": "<Region 1>: This is a close button found on a web-based issue tracking platform, specifically GitLab. In the context of the page, it is presumably used to close the issue which is currently being viewed. When a user clicks this button, the active issue (#1460 in this case) will likely be marked as closed within the system, changing its status from open to closed. This is a standard feature in issue tracking and project management software, allowing users to manage the lifecycle of issues and tasks.",
+        "bbox": [
+            [
+                1880,
+                205,
+                66,
+                67
+            ]
+        ]
+    }
+]

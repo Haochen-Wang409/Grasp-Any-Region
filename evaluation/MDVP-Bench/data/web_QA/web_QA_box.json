@@ -1,0 +1,290 @@
+[
+    {
+        "image_name": "a2ded10dfbb6d0e57ef6284499b50c3e.png",
+        "question": "What action can users typically perform by interacting with <Region 1>?",
+        "question_id": 1,
+        "dataset_name": "web_QA_box",
+        "gt_answers": "Users can typically download an iOS-compatible app or access iOS-specific services by interacting with <Region 1>.",
+        "bbox": [
+            [
+                979,
+                367,
+                844,
+                211
+            ],
+            [
+                96,
+                367,
+                825,
+                211
+            ]
+        ]
+    },
+    {
+        "image_name": "web_3357799b-92ed-4ce8-8c01-452993f9397b.png",
+        "question": "What content appears when you select <Region 1> from the search results?",
+        "question_id": 2,
+        "dataset_name": "web_QA_box",
+        "gt_answers": "When you select the content within <Region 1>, it probably takes you to a detailed page about Arsenal F.C., the association football club based in London, England.",
+        "bbox": [
+            [
+                781,
+                944,
+                863,
+                148
+            ]
+        ]
+    },
+    {
+        "image_name": "73621fa95a3736b26b69b3f2ab5f5df9.png",
+        "question": "What action will most likely be initiated by clicking on the email address in <Region 1>?",
+        "question_id": 3,
+        "dataset_name": "web_QA_box",
+        "gt_answers": "Clicking on the email address would probably open the user's default email client with a new message composed and the 'To' field already populated with the email address 'info@medcompany.by.'",
+        "bbox": [
+            [
+                633,
+                21,
+                115,
+                19
+            ],
+            [
+                1497,
+                21,
+                38,
+                19
+            ],
+            [
+                0,
+                2,
+                0,
+                0
+            ],
+            [
+                1459,
+                21,
+                38,
+                19
+            ]
+        ]
+    },
+    {
+        "image_name": "web_c762cbb8-b6b0-48e3-84ad-5c4090137fa2.png",
+        "question": "What happens when you click on the magnifying glass icon in <Region 1>?",
+        "question_id": 4,
+        "dataset_name": "web_QA_box",
+        "gt_answers": "When you click on the magnifying glass icon in <Region 1>, the website will likely perform a search with the entered term 'machine learning' and display relevant search results.",
+        "bbox": [
+            [
+                1617,
+                936,
+                109,
+                87
+            ]
+        ]
+    },
+    {
+        "image_name": "70514e899292ab6f2811529dabca3c39.png",
+        "question": "What could I find under the section indicated by <Region 3>?",
+        "question_id": 5,
+        "dataset_name": "web_QA_box",
+        "gt_answers": "Under the section indicated by <Region 3>, you would likely find completed projects or achievements showcased by the company or organization.",
+        "bbox": [
+            [
+                1056,
+                636,
+                134,
+                19
+            ],
+            [
+                460,
+                1039,
+                115,
+                19
+            ],
+            [
+                1113,
+                60,
+                115,
+                38
+            ],
+            [
+                1324,
+                2,
+                96,
+                38
+            ],
+            [
+                1113,
+                2,
+                172,
+                38
+            ],
+            [
+                844,
+                2,
+                230,
+                38
+            ],
+            [
+                1056,
+                732,
+                211,
+                19
+            ],
+            [
+                940,
+                60,
+                76,
+                38
+            ],
+            [
+                1440,
+                2,
+                38,
+                38
+            ],
+            [
+                806,
+                60,
+                57,
+                38
+            ]
+        ]
+    },
+    {
+        "image_name": "web_6c4e07ff-3589-4a78-99cf-fcf703a33a74.png",
+        "question": "If I want to see visual previews of links, should I change the setting in <Region 1>?",
+        "question_id": 6,
+        "dataset_name": "web_QA_box",
+        "gt_answers": "Yes, you should check the checkbox in <Region 1> to enable the display of thumbnails which serve as visual previews for links.",
+        "bbox": [
+            [
+                435,
+                905,
+                46,
+                45
+            ]
+        ]
+    },
+    {
+        "image_name": "86f76b2e2a69f885543e8d7250c77845.png",
+        "question": "What can I find by clicking on <Region 5>?",
+        "question_id": 7,
+        "dataset_name": "web_QA_box",
+        "gt_answers": "By clicking on <Region 5>, you would likely find products or content related to the National Rugby League (NRL).",
+        "bbox": [
+            [
+                537,
+                828,
+                115,
+                19
+            ],
+            [
+                1382,
+                636,
+                76,
+                38
+            ],
+            [
+                1036,
+                789,
+                76,
+                19
+            ],
+            [
+                1228,
+                789,
+                96,
+                19
+            ],
+            [
+                595,
+                213,
+                76,
+                38
+            ],
+            [
+                691,
+                213,
+                76,
+                38
+            ],
+            [
+                499,
+                616,
+                96,
+                19
+            ],
+            [
+                441,
+                213,
+                76,
+                38
+            ],
+            [
+                902,
+                789,
+                115,
+                19
+            ],
+            [
+                499,
+                674,
+                76,
+                19
+            ]
+        ]
+    },
+    {
+        "image_name": "072abbc72f059f0d21b806afb400eba1.png",
+        "question": "What is suggested by the style of the text within <Region 1>?",
+        "question_id": 8,
+        "dataset_name": "web_QA_box",
+        "gt_answers": "The style of the text within <Region 1> suggests that it might be a hyperlink, possibly to the main page or a central hub of the site.",
+        "bbox": [
+            [
+                19,
+                21,
+                76,
+                76
+            ],
+            [
+                192,
+                98,
+                76,
+                19
+            ]
+        ]
+    },
+    {
+        "image_name": "web_bd7a1ecb-e3e7-4a79-ba7e-91ae27a861ba.png",
+        "question": "What happens when I click on <Region 1>?",
+        "question_id": 9,
+        "dataset_name": "web_QA_box",
+        "gt_answers": "Clicking on <Region 1> will close the cart summary window, allowing you to continue browsing the website.",
+        "bbox": [
+            [
+                2482,
+                255,
+                42,
+                57
+            ]
+        ]
+    },
+    {
+        "image_name": "web_1c75d12a-d93d-4cb2-b179-38009584c282.png",
+        "question": "What action is a user likely to be prompted to take when interacting with <Region 1>?",
+        "question_id": 10,
+        "dataset_name": "web_QA_box",
+        "gt_answers": "Upon interacting with <Region 1>, a user is likely to be redirected to a donation landing page where they can financially support the website.",
+        "bbox": [
+            [
+                2256,
+                213,
+                194,
+                71
+            ]
+        ]
+    }
+]

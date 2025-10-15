@@ -1,0 +1,376 @@
+[
+    {
+        "image_name": "u=4096204886,1155943766&fm=253&app=138&f=JPEG.png",
+        "question": "What does <Mark 1> imply about the importance of environment for motivation?",
+        "question_id": 1,
+        "dataset_name": "multipanel_QA_point",
+        "gt_answers": "The cozy setting in <Mark 1> with a plant and books implies that a comfortable and inviting environment can help inspire perseverance and motivation.",
+        "points": [
+            [
+                97,
+                129
+            ],
+            [
+                301,
+                90
+            ],
+            [
+                497,
+                125
+            ],
+            [
+                133,
+                320
+            ],
+            [
+                504,
+                321
+            ]
+        ]
+    },
+    {
+        "image_name": "u=1806211385,2703137837&fm=253&app=138&f=JPEG.png",
+        "question": "What does the text in <Mark 1> suggest regarding the types of products used for cleaning?",
+        "question_id": 2,
+        "dataset_name": "multipanel_QA_point",
+        "gt_answers": "The text in <Mark 1> indicates that appropriate products are used to eliminate dirt, dust, grease, and germs.",
+        "points": [
+            [
+                202,
+                133
+            ],
+            [
+                532,
+                167
+            ],
+            [
+                193,
+                291
+            ],
+            [
+                492,
+                395
+            ]
+        ]
+    },
+    {
+        "image_name": "u=2710646532,750768721&fm=253&app=138&f=JPEG.png",
+        "question": "What is the significance of the illustration in <Mark 1>?",
+        "question_id": 3,
+        "dataset_name": "multipanel_QA_point",
+        "gt_answers": "The illustration in <Mark 1> signifies the requirement of pre-event COVID-19 testing for selected larger-scale and higher-risk activities, using antigen rapid tests.",
+        "points": [
+            [
+                75,
+                303
+            ],
+            [
+                244,
+                302
+            ],
+            [
+                419,
+                303
+            ],
+            [
+                412,
+                543
+            ],
+            [
+                240,
+                545
+            ],
+            [
+                78,
+                541
+            ]
+        ]
+    },
+    {
+        "image_name": "u=3115468935,3930284634&fm=253&app=138&f=JPEG.png",
+        "question": "What is the trend in hiring time over the past 5 years according to <Mark 1>?",
+        "question_id": 4,
+        "dataset_name": "multipanel_QA_point",
+        "gt_answers": "According to <Mark 1>, the time to hire has more than doubled over the past 5 years.",
+        "points": [
+            [
+                112,
+                140
+            ],
+            [
+                240,
+                149
+            ],
+            [
+                380,
+                141
+            ],
+            [
+                337,
+                272
+            ],
+            [
+                177,
+                273
+            ]
+        ]
+    },
+    {
+        "image_name": "u=3591188059,2160065444&fm=253&app=138&f=JPEG.png",
+        "question": "What concept does <Mark 1> symbolize in the context of the overarching theme?",
+        "question_id": 5,
+        "dataset_name": "multipanel_QA_point",
+        "gt_answers": "<Mark 1> symbolizes the importance of peers or community in the context of promoting cooperation between languages and literacy.",
+        "points": [
+            [
+                79,
+                181
+            ],
+            [
+                234,
+                179
+            ],
+            [
+                374,
+                137
+            ],
+            [
+                586,
+                212
+            ],
+            [
+                85,
+                365
+            ],
+            [
+                232,
+                367
+            ],
+            [
+                406,
+                383
+            ],
+            [
+                570,
+                385
+            ]
+        ]
+    },
+    {
+        "image_name": "27.png",
+        "question": "What does the icon in <Mark 2> imply within the context of the infographic?",
+        "question_id": 6,
+        "dataset_name": "multipanel_QA_point",
+        "gt_answers": "The icon in <Mark 2> suggests the concept of innovation and ideas generation, which could be associated with mentoring aspects within the internship training program.",
+        "points": [
+            [
+                216,
+                485
+            ],
+            [
+                568,
+                726
+            ],
+            [
+                956,
+                842
+            ],
+            [
+                1344,
+                741
+            ],
+            [
+                1693,
+                481
+            ],
+            [
+                990,
+                270
+            ]
+        ]
+    },
+    {
+        "image_name": "u=856418766,3773125614&fm=253&app=138&f=JPEG.png",
+        "question": "What soft skills is represented in <Mark 1> and how is it visually depicted?",
+        "question_id": 7,
+        "dataset_name": "multipanel_QA_point",
+        "gt_answers": "<Mark 1> represents 'Clear Communication' and is visually depicted with the icon of a person's side profile and a speech bubble which is a common symbol for speaking or conversing.",
+        "points": [
+            [
+                76,
+                152
+            ],
+            [
+                213,
+                153
+            ],
+            [
+                337,
+                149
+            ],
+            [
+                468,
+                156
+            ],
+            [
+                599,
+                152
+            ],
+            [
+                76,
+                325
+            ],
+            [
+                210,
+                322
+            ],
+            [
+                338,
+                316
+            ],
+            [
+                469,
+                327
+            ],
+            [
+                590,
+                324
+            ]
+        ]
+    },
+    {
+        "image_name": "46.png",
+        "question": "What does the illustration in <Mark 1> suggest about career flexibility?",
+        "question_id": 8,
+        "dataset_name": "multipanel_QA_point",
+        "gt_answers": "The illustration in <Mark 1> suggests that a career in law offers flexible working hours or a good work-life balance.",
+        "points": [
+            [
+                236,
+                368
+            ],
+            [
+                388,
+                718
+            ],
+            [
+                822,
+                803
+            ],
+            [
+                1176,
+                724
+            ],
+            [
+                1283,
+                384
+            ],
+            [
+                726,
+                373
+            ],
+            [
+                751,
+                88
+            ]
+        ]
+    },
+    {
+        "image_name": "10.png",
+        "question": "What activity is depicted in <Mark 5> to promote healthy aging?",
+        "question_id": 9,
+        "dataset_name": "multipanel_QA_point",
+        "gt_answers": "In <Mark 5>, exercise is promoted as part of healthy aging, with an illustration of a senior walking in a park.",
+        "points": [
+            [
+                800,
+                128
+            ],
+            [
+                294,
+                485
+            ],
+            [
+                621,
+                486
+            ],
+            [
+                964,
+                487
+            ],
+            [
+                1295,
+                488
+            ],
+            [
+                1307,
+                888
+            ],
+            [
+                982,
+                898
+            ],
+            [
+                638,
+                898
+            ],
+            [
+                297,
+                901
+            ],
+            [
+                295,
+                1304
+            ]
+        ]
+    },
+    {
+        "image_name": "u=386285352,2538957886&fm=253&app=138&f=JPEG.png",
+        "question": "What weather condition is represented by <Mark 1> and which region depicts its opposite?",
+        "question_id": 10,
+        "dataset_name": "multipanel_QA_point",
+        "gt_answers": "<Mark 1> represents rainy weather, and its opposite, sunny weather, is depicted in <Mark 2>.",
+        "points": [
+            [
+                64,
+                142
+            ],
+            [
+                181,
+                148
+            ],
+            [
+                316,
+                148
+            ],
+            [
+                447,
+                148
+            ],
+            [
+                66,
+                294
+            ],
+            [
+                182,
+                294
+            ],
+            [
+                308,
+                293
+            ],
+            [
+                436,
+                296
+            ],
+            [
+                58,
+                430
+            ],
+            [
+                186,
+                429
+            ]
+        ]
+    }
+]

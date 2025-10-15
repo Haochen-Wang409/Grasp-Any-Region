@@ -1,0 +1,470 @@
+[
+    {
+        "image_name": "0501_0243_0005.jpg",
+        "question": "What is the primary topic discussed in <Region 4>?",
+        "question_id": 1,
+        "dataset_name": "ocr_doc_QA_box",
+        "gt_answers": "The primary topic discussed in <Region 4> is the concept of a Turing Test and the assessment of a system's intelligence by comparing its answers to those of a human.",
+        "bbox": [
+            [
+                152.0,
+                65.0,
+                728.0,
+                27.0
+            ],
+            [
+                249.0,
+                138.0,
+                521.0,
+                262.0
+            ],
+            [
+                319.0,
+                401.0,
+                396.0,
+                25.0
+            ],
+            [
+                134.0,
+                438.0,
+                765.0,
+                147.0
+            ],
+            [
+                132.0,
+                582.0,
+                760.0,
+                57.0
+            ],
+            [
+                267.0,
+                635.0,
+                501.0,
+                204.0
+            ],
+            [
+                189.0,
+                838.0,
+                654.0,
+                27.0
+            ],
+            [
+                138.0,
+                887.0,
+                756.0,
+                166.0
+            ]
+        ]
+    },
+    {
+        "image_name": "0501_0215_0000.jpg",
+        "question": "What is the significance of including the Kraken ibn Octopus image in the document?",
+        "question_id": 2,
+        "dataset_name": "ocr_doc_QA_box",
+        "gt_answers": "The image of Kraken ibn Octopus in the document likely serves a metaphorical purpose, reflecting the complex nature of OCR for Arabographic texts, or it may simply serve to visually engage the reader and provide a historical connection to the manuscript tradition discussed in the research.",
+        "bbox": [
+            [
+                501.0,
+                144.0,
+                550.0,
+                135.0
+            ],
+            [
+                541.0,
+                321.0,
+                520.0,
+                68.0
+            ],
+            [
+                139.0,
+                150.0,
+                296.0,
+                381.0
+            ],
+            [
+                656.0,
+                417.0,
+                395.0,
+                115.0
+            ],
+            [
+                143.0,
+                629.0,
+                511.0,
+                35.0
+            ],
+            [
+                136.0,
+                692.0,
+                911.0,
+                406.0
+            ],
+            [
+                131.0,
+                1166.0,
+                923.0,
+                374.0
+            ],
+            [
+                1027.0,
+                1553.0,
+                18.0,
+                23.0
+            ]
+        ]
+    },
+    {
+        "image_name": "0501_0112_0016.jpg",
+        "question": "What is the main focus of TabStruct-Net as mentioned in <Region 5>?",
+        "question_id": 3,
+        "dataset_name": "ocr_doc_QA_box",
+        "gt_answers": "The main focus of TabStruct-Net is to provide a data-driven, end-to-end trainable architecture for predicting table structure from table images and combines both top-down and bottom-up methods.",
+        "bbox": [
+            [
+                346.0,
+                183.0,
+                553.0,
+                28.0
+            ],
+            [
+                938.0,
+                180.0,
+                27.0,
+                25.0
+            ],
+            [
+                264.0,
+                233.0,
+                708.0,
+                577.0
+            ],
+            [
+                265.0,
+                844.0,
+                340.0,
+                35.0
+            ],
+            [
+                265.0,
+                900.0,
+                703.0,
+                221.0
+            ],
+            [
+                266.0,
+                1151.0,
+                382.0,
+                29.0
+            ],
+            [
+                264.0,
+                1192.0,
+                702.0,
+                77.0
+            ],
+            [
+                277.0,
+                1284.0,
+                687.0,
+                53.0
+            ]
+        ]
+    },
+    {
+        "image_name": "735400b9246050615d18bd4b869005c2956025e1d4672053c3878f869d2d749e.png",
+        "question": "What is the main purpose of <Region 1> in the document?",
+        "question_id": 4,
+        "dataset_name": "ocr_doc_QA_box",
+        "gt_answers": "The main purpose of <Region 1> is to provide the title of the financial document, specifically indicating that the content below will detail the consolidated statements of cash flows of the entity for a particular period.",
+        "bbox": [
+            [
+                105,
+                65,
+                660,
+                21
+            ],
+            [
+                104,
+                94,
+                848,
+                838
+            ],
+            [
+                105,
+                943,
+                428,
+                13
+            ],
+            [
+                456,
+                988,
+                143,
+                9
+            ],
+            [
+                60,
+                987,
+                14,
+                12
+            ]
+        ]
+    },
+    {
+        "image_name": "8ee7444d6abb05f1012d240b4e41e87a9c7f3ced1d4cf85eb84be958b7ffc81c.png",
+        "question": "What theory is discussed in <Region 1> and why was it deemed unsatisfactory?",
+        "question_id": 5,
+        "dataset_name": "ocr_doc_QA_box",
+        "gt_answers": "Van der Waals theory for liquids is discussed in <Region 1>, and it was deemed unsatisfactory because it did not account for the differences between the densities of liquids and solids as initially thought.",
+        "bbox": [
+            [
+                120,
+                94,
+                780,
+                96
+            ],
+            [
+                120,
+                202,
+                780,
+                123
+            ],
+            [
+                120,
+                338,
+                780,
+                205
+            ],
+            [
+                120,
+                553,
+                780,
+                71
+            ],
+            [
+                120,
+                695,
+                780,
+                232
+            ],
+            [
+                145,
+                939,
+                755,
+                15
+            ],
+            [
+                421,
+                660,
+                479,
+                20
+            ],
+            [
+                496,
+                978,
+                9,
+                15
+            ]
+        ]
+    },
+    {
+        "image_name": "a53dc9a9c4847e6c94b56842d033d2c1d54ff689b9d035b94593960863d5ca61.png",
+        "question": "What physical phenomenon is the caption in <Region 1> referring to?",
+        "question_id": 6,
+        "dataset_name": "ocr_doc_QA_box",
+        "gt_answers": "The caption in <Region 1> is referring to a commensurate spin-density wave at strong Hund's rule coupling, a phenomenon in the context of quantum physics and material science.",
+        "bbox": [
+            [
+                120,
+                530,
+                780,
+                73
+            ],
+            [
+                120,
+                630,
+                781,
+                286
+            ],
+            [
+                145,
+                928,
+                755,
+                15
+            ],
+            [
+                491,
+                978,
+                19,
+                15
+            ],
+            [
+                124,
+                105,
+                754,
+                412
+            ]
+        ]
+    },
+    {
+        "image_name": "3a3cf888c4e9e6a1852571722fdff5625fc706faf8f476048f3e37f431c20c09.png",
+        "question": "Can you explain how feedwater is distributed within the reactor pressure vessel as described in <Region 1>?",
+        "question_id": 7,
+        "dataset_name": "ocr_doc_QA_box",
+        "gt_answers": "In <Region 1>, it is stated that feedwater from the condenser system is introduced into the downcomer region of the reactor pressure vessel outside the core shroud. This is done through one or more lines, and sparger piping is mentioned as a possible means for distributing the feedwater.",
+        "bbox": [
+            [
+                154,
+                91,
+                745,
+                254
+            ],
+            [
+                155,
+                366,
+                747,
+                425
+            ],
+            [
+                155,
+                813,
+                743,
+                117
+            ]
+        ]
+    },
+    {
+        "image_name": "e39800e3bf0e84bcd291b922011d13f1df73c3a1ab075b00d850dd6028c922e2.png",
+        "question": "What regions discuss the balance of information or zeros and ones in relation to complexity?",
+        "question_id": 8,
+        "dataset_name": "ocr_doc_QA_box",
+        "gt_answers": "<Region 1> and <Region 2> discuss the balance of information or zeros and ones in relation to complexity, with <Region 1> focusing on how extreme disorder or order reproduces the highest complexity and <Region 2> elaborating on the tradeoff between information persistence and exploration.",
+        "bbox": [
+            [
+                120,
+                97,
+                783,
+                44
+            ],
+            [
+                120,
+                159,
+                783,
+                261
+            ],
+            [
+                120,
+                438,
+                783,
+                292
+            ],
+            [
+                120,
+                747,
+                850,
+                106
+            ],
+            [
+                120,
+                871,
+                783,
+                44
+            ],
+            [
+                502,
+                959,
+                19,
+                13
+            ]
+        ]
+    },
+    {
+        "image_name": "a957f60205a196e887ed9fc159e8a738eb93849de0868d4dce341aa82bc28158.png",
+        "question": "What types of activities does the <Region 2> of the document divide the cash flows into?",
+        "question_id": 9,
+        "dataset_name": "ocr_doc_QA_box",
+        "gt_answers": "<Region 2> divides the cash flows into operating activities, investing activities, and financing activities.",
+        "bbox": [
+            [
+                330,
+                62,
+                364,
+                14
+            ],
+            [
+                78,
+                139,
+                866,
+                684
+            ],
+            [
+                80,
+                836,
+                266,
+                9
+            ],
+            [
+                747,
+                978,
+                197,
+                8
+            ],
+            [
+                507,
+                983,
+                10,
+                7
+            ]
+        ]
+    },
+    {
+        "image_name": "0501_0103_0002.jpg",
+        "question": "Which region explains the efforts to standardize the Arabic language's online presence?",
+        "question_id": 10,
+        "dataset_name": "ocr_doc_QA_box",
+        "gt_answers": "<Region 1> explains the efforts to create spelling standards for Modern Standard Arabic online, mentioning computational methods such as CODA and Arabizi.",
+        "bbox": [
+            [
+                259.0,
+                253.0,
+                709.0,
+                148.0
+            ],
+            [
+                263.0,
+                421.0,
+                698.0,
+                144.0
+            ],
+            [
+                266.0,
+                568.0,
+                700.0,
+                140.0
+            ],
+            [
+                265.0,
+                744.0,
+                664.0,
+                37.0
+            ],
+            [
+                260.0,
+                796.0,
+                699.0,
+                288.0
+            ],
+            [
+                264.0,
+                1082.0,
+                697.0,
+                270.0
+            ],
+            [
+                598.0,
+                1386.0,
+                22.0,
+                21.0
+            ]
+        ]
+    }
+]

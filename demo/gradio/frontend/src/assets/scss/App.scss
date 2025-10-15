@@ -1,0 +1,99 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.fixed {
+  position: fixed;
+}
+
+.inset-0 {
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.bg-opacity-75 {
+  --tw-bg-opacity: 0.75;
+}
+
+.z-50 {
+  z-index: 50;
+}
+
+.description-container {
+  margin: 20px;
+  display: flex;
+  gap: 20px;
+  height: 140px;
+}
+
+.description-box {
+  flex: 1;
+  background-color: #f5f5f5;
+  border-radius: 4px;
+  padding: 15px;
+  margin-bottom: 0;
+  color: #333;
+  overflow-y: auto;
+  
+  &.describing, &.ready {
+    background-color: #e9ecef;
+    color: #6c757d;
+    font-style: italic;
+  }
+}
+
+.description-controls {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 200px;
+  gap: 10px;
+  
+  button {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    white-space: nowrap;
+    
+    &:disabled {
+      background-color: #cccccc;
+      cursor: not-allowed;
+    }
+    
+    &:hover:not(:disabled) {
+      background-color: #0056b3;
+    }
+
+    &.reset-button {
+        background-color: #007bff;
+      
+      &:hover:not(:disabled) {
+        background-color: #0056b3;
+      }
+      
+      &:disabled {
+        background-color: #cccccc;
+      }
+    }
+  }
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.stage-container {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}

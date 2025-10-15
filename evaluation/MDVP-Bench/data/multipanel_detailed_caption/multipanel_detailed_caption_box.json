@@ -1,0 +1,536 @@
+[
+    {
+        "image_name": "6.png",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 1,
+        "dataset_name": "multipanel_detailed_caption_box",
+        "gt_answers": "<Region 1>: The image displays a title that reads \"NAVIGATING SPECIAL EDUCATION SOCIAL & EMOTIONAL LEARNING.\" It's styled in bold, white capital letters against a red background, and it appears to serve as a header for the entire visual presentation, indicating the overarching theme of the content below.\n<Region 2>: This panel illustrates the concept of a \"Growth Mindset\" juxtaposed with \"Fixed Mindset.\" Two head silhouettes are shown with arrows pointing towards a \"Growth Mindset\" tag indicating a positive transformation away from a \"Fixed Mindset,\" symbolizing the adaptability and learning potential of the mind.\n<Region 3>: Depicted here is a person with a grim expression, and steam coming out of their ears, conveying the theme of \"Anger Management.\" This symbolizes the need to control tempers, with visual cues highlighting the struggle typically associated with anger.\n<Region 4>: This panel represents \"Understanding Diversity.\" It features a circle of variously colored handprints reaching towards the center, signifying unity and inclusiveness among diverse individuals or groups. The image communicates the idea of embracing diversity.\n<Region 5>: The image here is indicative of \"Social Inferencing.\" A figure stands perplexed before an open box with question marks floating above, suggesting the process of interpreting social cues and understanding social contexts or scenarios that are not overtly expressed.\n<Region 6>: An illustration of two children, one standing over the other with a raised fist, typifies \"Bullying.\" This image portrays an aggressive interaction between youth, emphasizing the dynamic of power and intimidation present in bullying behaviors.\n<Region 7>: Here, \"Helping Others\" is symbolized by two children, one assisting the other by tying their shoe. This image evokes themes of kindness, helpfulness, and cooperation among individuals, highlighting the importance of social support.\n<Region 8>: Showing two profiles with opposing arrows and a lightning bolt in between, this panel discusses \"Conflict Resolution.\" The imagery suggests two individuals facing a conflict with a potential for resolution, emphasizing communication and problem-solving.\n<Region 9>: This panel depicts \"Coping With Changes,\" represented by a signpost with arrows pointing in different directions, labeled \"CHANGES.\" It symbolizes the various paths one may take when encountering life's transitions and the importance of adaptability.\n<Region 10>: Finally, \"Leadership\" is expressed through an individual climbing a staircase while assisting another person upward. It represents the concept of leading by example, and guiding others towards success, showcasing the traits of a good leader.",
+        "bbox": [
+            [
+                213.4428086070215,
+                28.742921857304644,
+                518.4371460928652,
+                84.09966024915062
+            ],
+            [
+                77.18006795016987,
+                136.26274065685163,
+                267.202718006795,
+                258.6862967157418
+            ],
+            [
+                344.3827859569649,
+                137.3272933182333,
+                231.0079275198188,
+                257.62174405436014
+            ],
+            [
+                610.5209513023783,
+                123.4881087202718,
+                260.8154020385051,
+                278.9127972819932
+            ],
+            [
+                605.19818799547,
+                426.885617214043,
+                272.52548131370327,
+                233.1370328425821
+            ],
+            [
+                349.70554926387314,
+                440.72480181200456,
+                201.2004530011325,
+                206.52321630804076
+            ],
+            [
+                72.92185730464327,
+                432.2083805209513,
+                233.1370328425821,
+                216.10419026047566
+            ],
+            [
+                76.11551528878822,
+                670.6681766704417,
+                269.33182332955835,
+                239.52434881087203
+            ],
+            [
+                346.5118912797282,
+                668.5390713476784,
+                227.81426953567384,
+                241.65345413363534
+            ],
+            [
+                620.1019252548132,
+                668.5390713476784,
+                191.61947904869763,
+                222.49150622876556
+            ]
+        ]
+    },
+    {
+        "image_name": "u=3115468935,3930284634&fm=253&app=138&f=JPEG.png",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 2,
+        "dataset_name": "multipanel_detailed_caption_box",
+        "gt_answers": "<Region 1>: The image highlights a statistic related to hiring efficiency, pointing out that the time to hire has more than doubled over the last 5 years. A graphical element beside the text emphasizes this increase in time with a \"+2X\" indicating the doubling.\n<Region 2>: This section of the image indicates that the average cost to hire someone in the U.S. is $4,000, emphasizing the financial implications of the recruitment process for employers.\n<Region 3>: Illustrated here is a pie chart displaying that 36% of employers are unable to find the talent they need when it is needed. This statistic points to the challenges in matching skills and job openings in a timely manner.\n<Region 4>: Described here is the significant potential economic benefit (\"$2.7 trillion impact to global GDP\") that could result from using more efficient talent platforms, suggesting that improvements in recruiting methods could have a profound impact on the global economy.\n<Region 5>: This part of the image addresses organizational efficiency, with a statement that 46% of companies are sometimes or frequently understaffed. The figure is accompanied by a graphic showing the 46% proportion.",
+        "bbox": [
+            [
+                66.41997729852442,
+                87.18955732122588,
+                92.4472190692395,
+                106.02951191827468
+            ],
+            [
+                193.4801362088536,
+                90.25652667423383,
+                94.63791146424518,
+                119.61180476730986
+            ],
+            [
+                327.55051078320093,
+                84.56072644721907,
+                106.02951191827468,
+                115.23041997729852
+            ],
+            [
+                255.25766174801362,
+                216.44040862656072,
+                164.30192962542566,
+                112.60158910329172
+            ],
+            [
+                117.68217934165722,
+                216.87854710556186,
+                121.80249716231555,
+                115.66855845629965
+            ]
+        ]
+    },
+    {
+        "image_name": "50.png",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 3,
+        "dataset_name": "multipanel_detailed_caption_box",
+        "gt_answers": "<Region 1>: This area presents the title and introductory text providing an overview of the image's intent. It introduces the concept of \"Travel Personas,\" indicates that these personas are used to identify individual travel styles, and how these styles are significant for personalized engagement in marketing. It references a report by the CMO Council from 2018.\n<Region 2>: A visual and textual depiction of \"The Smart Planner\" travel persona. This persona, representing 31% of travelers, is illustrated by a character with suitcases, a camera, binoculars, and a hat, suggesting a well-prepared and organized traveler.\n<Region 3>: This illustrates \"The Relaxed Nomad\" persona. With 25% representation, the image shows two individuals in hiking attire with a backpack, indicating a laid-back and adventurous travel style.\n<Region 4>: Depicts \"The Deal Seeker\" persona, representing 22% of travelers. The image shows a family with suitcases and shopping bags, suggesting a focus on economical travel and value for money.\n<Region 5>: Presents \"The Nervous Stresser\" persona with 13% representation. The image depicts an anxious individual in an airplane seat, clutching the armrests, reflecting a traveler who experiences stress during trips.\n<Region 6>: Showcases \"The Adventurous Thrill-Seeker\" persona, accounting for 5% of the traveler demographic. The image portrays two characters skydiving, indicating a preference for high-energy and adventure-filled travel experiences.\n<Region 7>: Portrays \"The Luxury Budget-Buster\" persona, constituting 1% of travelers according to this depiction. The image includes a character sipping a drink on a plane, implying a tendency towards indulgence and high expenditure.\n<Region 8>: Displays \"The Business Road Warrior\" persona, also making up 1% of the traveler profile. The graphical representation includes a character briskly walking with a rolling suitcase and carrying a briefcase, suggesting frequent travel for business purposes.",
+        "bbox": [
+            [
+                21.36677115987461,
+                5.362068965517206,
+                1064.7774294670846,
+                142.44514106583074
+            ],
+            [
+                56.978056426332294,
+                167.39341692789966,
+                149.56739811912226,
+                256.4012539184953
+            ],
+            [
+                338.307210031348,
+                156.71003134796234,
+                217.22884012539186,
+                267.08463949843264
+            ],
+            [
+                619.6363636363636,
+                158.49059561128524,
+                197.64263322884014,
+                268.8652037617555
+            ],
+            [
+                897.4043887147336,
+                167.39341692789966,
+                179.8369905956113,
+                258.1818181818182
+            ],
+            [
+                135.3228840125392,
+                450.5031347962382,
+                256.4012539184953,
+                293.79310344827593
+            ],
+            [
+                480.7523510971787,
+                457.6253918495298,
+                215.44827586206898,
+                275.98746081504703
+            ],
+            [
+                783.448275862069,
+                455.8448275862069,
+                211.8871473354232,
+                283.1097178683386
+            ]
+        ]
+    },
+    {
+        "image_name": "24.png",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 4,
+        "dataset_name": "multipanel_detailed_caption_box",
+        "gt_answers": "<Region 1>: An illustration depicts a female customer service representative wearing a headset and holding a notepad, with an envelope icon indicating email communication.\n<Region 2>: Depicted here is a male customer support agent with a headset. Behind him are symbols such as a magnifying glass and a wrench, suggesting a focus on service and problem-solving.\n<Region 3>: This image shows a customer support agent with a globe and a phone headset in the background. The presence of a star and headphones suggests excellence in global support.\n<Region 4>: In this graphic, a male figure with a headset is surrounded by symbols: a question mark, gears, and a light bulb. This represents expertise in finding solutions.\n<Region 5>: Featuring tools and a gauge, the illustration conveys a commitment to quality in customer service, indicated by the 'Quality Service' text.\n<Region 6>: The design shows a female representative with a headset alongside a mobile phone displaying a wifi signal and a callback option, emphasizing telecommunications services.\n<Region 7>: This panel portrays a customer support individual with a wrench, highlighting the concept of assistance with technical or practical issues.\n<Region 8>: Illustrated here is a customer support agent with a headset in front of a backdrop depicting the UK flag, a speech bubble, and a phone, suggesting language translation services.\n<Region 9>: A female customer service consultant is represented, with symbols of 24-hour availability and a gold star, signifying round-the-clock excellence.",
+        "bbox": [
+            [
+                133.33333333333334,
+                60,
+                393.33333333333337,
+                446.6666666666667
+            ],
+            [
+                543.3333333333334,
+                80,
+                430,
+                416.6666666666667
+            ],
+            [
+                980,
+                80,
+                486.6666666666667,
+                480
+            ],
+            [
+                956.6666666666667,
+                560,
+                510,
+                386.6666666666667
+            ],
+            [
+                593.3333333333334,
+                520,
+                360,
+                426.6666666666667
+            ],
+            [
+                83.33333333333334,
+                520,
+                503.33333333333337,
+                450
+            ],
+            [
+                86.66666666666667,
+                973.3333333333334,
+                460,
+                443.33333333333337
+            ],
+            [
+                546.6666666666667,
+                973.3333333333334,
+                470,
+                443.33333333333337
+            ],
+            [
+                1016.6666666666667,
+                973.3333333333334,
+                436.6666666666667,
+                460
+            ]
+        ]
+    },
+    {
+        "image_name": "u=1241354889,2739849697&fm=253&app=138&f=JPEG.png",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 5,
+        "dataset_name": "multipanel_detailed_caption_box",
+        "gt_answers": "<Region 1>: The image features a human heart symbolizing a strong heart as one of the benefits of running.\n<Region 2>: This panel showcases an icon of a shield with a check mark, representing the immune system's boost from running.\n<Region 3>: A silhouette of a figure measuring their waist indicates that running can aid in weight loss.\n<Region 4>: The artwork depicts a pair of lungs, signifying the respiratory system's enhancement due to running.\n<Region 5>: A smiling face emoticon suggests that running can improve one's mood.\n<Region 6>: An illustration of a leg bone signifies that running increases bone density.\n<Region 7>: An image of a brain is used to illustrate the benefit of improved brain function from running.\n<Region 8>: The image features a detailed representation of the cardiovascular system, emphasizing its strengthening through running.",
+        "bbox": [
+            [
+                44.65323496027242,
+                62.92849035187289,
+                81.31668558456299,
+                90.71509648127127
+            ],
+            [
+                143.9494892167991,
+                54.3473325766175,
+                87.85471055618616,
+                88.67196367763904
+            ],
+            [
+                235.89046538024974,
+                75.1872871736663,
+                85.40295119182747,
+                82.54256526674233
+            ],
+            [
+                268.17196367763904,
+                164.2678774120318,
+                84.17707150964812,
+                88.26333711691257
+            ],
+            [
+                19.727014755959143,
+                166.31101021566403,
+                99.70488081725311,
+                79.27355278093073
+            ],
+            [
+                59.36379114642452,
+                258.2519863791146,
+                75.18728717366628,
+                94.39273552780931
+            ],
+            [
+                149.2616345062429,
+                275.82292849035184,
+                84.17707150964814,
+                80.4994324631101
+            ],
+            [
+                242.83711691259933,
+                261.5209988649262,
+                84.58569807037456,
+                93.16685584562995
+            ]
+        ]
+    },
+    {
+        "image_name": "11.png",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 6,
+        "dataset_name": "multipanel_detailed_caption_box",
+        "gt_answers": "<Region 1>: The image displays the word 'HOT' in large, bold, uppercase letters with varying colors for each letter. The 'H' is in red, the 'O' is in mustard yellow, and the 'T' is in a light blue color.\n<Region 2>: Here, a round, yellow cartoon-like emoji with blue tears, symbolizing laughter or crying with joy, is shown. Below it, the word 'HUMOR' is written in uppercase letters.\n<Region 3>: This depicts an open hand graphic in brown color, which is centered within an orange circular background. Underneath the image, the word 'OPENNESS' appears in capital letters.\n<Region 4>: Shown is an illustration of two hands coming together in a handshake or high five, set against a yellow circle. Below, the word 'TOUCH' is described in uppercase letters.\n<Region 5>: A graphic of a heart with an exclamation mark within it is displayed within a light green circular background. Written below is the word 'ATTENTION' in uppercase letters.\n<Region 6>: A portrayal of a person with a gender-neutral appearance, featuring brown hair, is encircled in blue. A sequence of dashes leads from the character to the bottom right, with the word 'PROXIMITY' written in block capitals.\n<Region 7>: The image shows a close-up illustration of a stylized blue eye with a large brown pupil, against a dark blue background. Below the eye is the word 'EYE CONTACT' written in all caps.",
+        "bbox": [
+            [
+                1028.513805522209,
+                7.994897959183692,
+                2225.1500600240097,
+                548.8703481392557
+            ],
+            [
+                91.47839135654262,
+                631.0369147659063,
+                615.624849939976,
+                714.5204081632653
+            ],
+            [
+                709.5756302521008,
+                628.5645258103241,
+                672.4897959183673,
+                719.4651860744298
+            ],
+            [
+                1382.065426170468,
+                628.5645258103241,
+                660.1278511404562,
+                719.4651860744298
+            ],
+            [
+                2042.1932773109243,
+                623.6197478991596,
+                707.1032412965186,
+                724.4099639855942
+            ],
+            [
+                2749.296518607443,
+                623.6197478991596,
+                620.5696278511405,
+                724.4099639855942
+            ],
+            [
+                3369.8661464585834,
+                668.1227490996398,
+                684.8517406962785,
+                674.9621848739496
+            ]
+        ]
+    },
+    {
+        "image_name": "u=2557672574,3690790099&fm=253&app=138&f=JPEG.png",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 7,
+        "dataset_name": "multipanel_detailed_caption_box",
+        "gt_answers": "<Region 1>: The image depicts an illustration of a person with flushed cheeks and a thermometer in their mouth, indicating a high temperature, alongside the word \"fever.\"\n<Region 2>: The image shows an individual coughing into their hand, representing a symptom identified by the word \"cough.\"\n<Region 3>: This panel illustrates an individual appearing unwell, with a sick expression and a hand over their mouth. The word \"vomiting\" is associated, indicating it as a symptom.\n<Region 4>: Here, an individual is portrayed with their hands near their throat, their cheeks flushed, and an uneasy expression. The term \"dyspnea\" adjacent to the figure defines the displayed respiratory distress.\n<Region 5>: An individual is seen clutching their stomach, with a distressed expression, representative of \"diarrhea\" which is indicated by the corresponding label.\n<Region 6>: The illustration shows a pair of human lungs with a highlighted area indicating inflammation. The word \"pneumonia\" is present to describe the condition being depicted.\n<Region 7>: Featured is a graphic representation of a pair of kidneys with a highlighted area in red, indicating distress or damage. Alongside is the phrase \"renal failure,\" signifying the medical condition exhibited.",
+        "bbox": [
+            [
+                16.8927355278093,
+                111.80476730987515,
+                131.1010215664018,
+                150.3972758229285
+            ],
+            [
+                158.2094211123723,
+                111.80476730987515,
+                128.2633371169126,
+                149.82973893303065
+            ],
+            [
+                286.4727582292849,
+                110.66969353007946,
+                130.53348467650397,
+                150.96481271282633
+            ],
+            [
+                417.00624290578884,
+                110.66969353007946,
+                128.83087400681043,
+                154.93757094211125
+            ],
+            [
+                91.80760499432462,
+                290.5788876276958,
+                124.29057888762769,
+                148.1271282633371
+            ],
+            [
+                217.233257661748,
+                286.03859250851303,
+                137.34392735527808,
+                152.66742338251987
+            ],
+            [
+                355.14472190692396,
+                288.30874006810444,
+                135.07377979568673,
+                153.2349602724177
+            ]
+        ]
+    },
+    {
+        "image_name": "23.png",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 8,
+        "dataset_name": "multipanel_detailed_caption_box",
+        "gt_answers": "<Region 1>: This region displays the heading \"Interesting Facts\" at the top, set against a blue background with a three-line menu icon to the left and a heart symbol to the right.\n<Region 2>: Depicts a graphical icon of a panda bear's face on a green background with the label \"Animals\" beneath it.\n<Region 3>: Shows an icon representing a plate and silverware on a green background, labeled as \"Diet Nutrition.\"\n<Region 4>: Includes a graphical icon that combines a heart shape and a pulse line on a dark background, labeled \"Diseases Disorders.\"\n<Region 5>: Features an image of a fashionable shirt on a dark background with the word \"Fashion\" underneath it.\n<Region 6>: Contains an icon resembling a film strip on an orange background, indicating the \"Entertainment\" category.\n<Region 7>: This panel displays an icon of a syringe with a drop, which is on a green background, and is described with the words \"Drugs Addiction.\"\n<Region 8>: Shows a depiction of a wine bottle and glass on a blue background, labeled \"Food & Drink.\"\n<Region 9>: Exhibits two stylized human figures, one male and one female, on a blue background, with the inscription \"Gender.\"\n<Region 10>: Contains a depiction of the Earth on a green background, with the word \"Global\" beneath it.",
+        "bbox": [
+            [
+                26.666666666666714,
+                22.814814814814813,
+                1053.3333333333333,
+                144.49382716049382
+            ],
+            [
+                53.283950617284,
+                197.72839506172838,
+                353.6296296296296,
+                391.65432098765433
+            ],
+            [
+                406.9135802469136,
+                186.320987654321,
+                288.98765432098764,
+                403.0617283950617
+            ],
+            [
+                695.9012345679013,
+                186.320987654321,
+                311.8024691358025,
+                425.87654320987656
+            ],
+            [
+                703.5061728395062,
+                616,
+                304.1975308641975,
+                403.0617283950617
+            ],
+            [
+                403.11111111111114,
+                623.604938271605,
+                300.39506172839504,
+                395.45679012345676
+            ],
+            [
+                45.67901234567906,
+                623.604938271605,
+                357.4320987654321,
+                414.4691358024691
+            ],
+            [
+                49.48148148148153,
+                1049.4814814814815,
+                342.22222222222223,
+                365.037037037037
+            ],
+            [
+                391.70370370370375,
+                1026.6666666666667,
+                330.8148148148148,
+                387.85185185185185
+            ],
+            [
+                722.5185185185186,
+                1026.6666666666667,
+                300.39506172839504,
+                391.65432098765433
+            ]
+        ]
+    },
+    {
+        "image_name": "u=2795077530,1349319423&fm=253&app=138&f=JPEG.png",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 9,
+        "dataset_name": "multipanel_detailed_caption_box",
+        "gt_answers": "<Region 1>: The image depicts two individuals engaged in conversation. One appears to be a professional, possibly a therapist, sitting across from a person who seems to be seeking help. The scene is accompanied by the text \"Seek Professional Help,\" suggesting that the image represents the advice to consult a mental health professional when dealing with depression.\n<Region 2>: This panel features an individual sitting on the ground with their head down, projecting a dejected or hopeless demeanor. Above the figure, the text reads \"Don't Lose Hope.\" The image conveys the message of maintaining hope as a countermeasure against feelings of depression.\n<Region 3>: An illustration of a female figure is shown alongside the phrase \"Practice Mindfulness.\" She appears calm and collected, with her eyes closed and a slight smile, which indicates a serene state of mind, commonly associated with mindfulness practice.\n<Region 4>: Here, an individual is seen looking out of a large window onto a sunny landscape with trees. The phrase \"Rethink Your Perspective\" suggests that the image is advising a change in one's outlook, possibly to a more positive or broader view, as a way to combat depression.\n<Region 5>: The image presents a person in activewear, taking a stride forward with a focused expression. The associated text, \"Stay Active,\" recommends physical activity as a method for improving mental health and battling depression.\n<Region 6>: This panel displays a person in a yoga pose, meditating with eyes closed and hands in a position of focus. The text \"Meditate\" indicates that the image is suggesting meditation as a therapeutic practice for managing depression.",
+        "bbox": [
+            [
+                0.28376844494892167,
+                107.26447219069239,
+                169.69353007945517,
+                184.4494892167991
+            ],
+            [
+                194.94892167990918,
+                107.83200908059024,
+                161.74801362088536,
+                168.55845629965947
+            ],
+            [
+                374.2905788876277,
+                17.593643586833146,
+                125.7094211123723,
+                268.4449489216799
+            ],
+            [
+                0,
+                294.5516458569807,
+                155.22133938706017,
+                171.96367763904652
+            ],
+            [
+                178.49035187287174,
+                284.90351872871736,
+                128.2633371169126,
+                213.3938706015891
+            ],
+            [
+                323.2122587968218,
+                287.17366628830877,
+                171.39614074914869,
+                212.82633371169126
+            ]
+        ]
+    },
+    {
+        "image_name": "u=3691911939,3379985415&fm=253&app=138&f=PNG.png",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 10,
+        "dataset_name": "multipanel_detailed_caption_box",
+        "gt_answers": "<Region 1>: The image shows three gel ice packs in green, purple, and blue colors, with distinctive shapes, resembling a dinosaur, a star, and a fish. Accompanying text suggests \"Take out the one you need.\"\n<Region 2>: An illustration depicts a cartoon boy holding an ice pack to his head. Text indicates the ice pack has multi-functionality and advises using the ice pack for \"the relief area for the doctor recommended time of 20 minutes.\"\n<Region 3>: Detailed instructions on how to use the ice pack are given, with two methods highlighted: \"TO USE COLD\" involving refrigeration, and \"TO USE HOT\" instructing to microwave the pack for 10 seconds and check the temperature.\n<Region 4>: Guidelines for storage are portrayed, advising to \"put the item in the storage bag, for longer shelf life, keep pack in freezer while not in use.\"",
+        "bbox": [
+            [
+                40.6061293984109,
+                73.2122587968218,
+                208.2860385925085,
+                99.31895573212259
+            ],
+            [
+                264.2156640181612,
+                60.1589103291714,
+                225.87968217934164,
+                225.87968217934164
+            ],
+            [
+                32.66061293984109,
+                216.79909194097615,
+                218.5017026106697,
+                259.9318955732123
+            ],
+            [
+                271.59364358683314,
+                337.6844494892168,
+                236.40635641316686,
+                133.93870601589103
+            ]
+        ]
+    }
+]

@@ -1,0 +1,452 @@
+[
+    {
+        "image_name": "000000271795.jpg",
+        "question": "What is the primary use of the object at <Region 3>?",
+        "question_id": 1,
+        "dataset_name": "natural_QA_box",
+        "gt_answers": "The object at <Region 3> is a telephone used for voice communication in the office.",
+        "bbox": [
+            [
+                582.02,
+                216.01,
+                57.98,
+                69.83
+            ],
+            [
+                399.09,
+                246.95,
+                35.93,
+                55.63
+            ],
+            [
+                410.69,
+                269.13,
+                72.86,
+                43.82
+            ],
+            [
+                249.59,
+                211.38,
+                30.33,
+                30.52
+            ],
+            [
+                224.48,
+                138.99,
+                66.58,
+                32.18
+            ],
+            [
+                167.48,
+                172.43,
+                81.64,
+                130.62
+            ],
+            [
+                578.15,
+                116.36,
+                51.49,
+                53.87
+            ],
+            [
+                564.29,
+                377.71,
+                75.71,
+                33.08
+            ]
+        ]
+    },
+    {
+        "image_name": "000000247984.jpg",
+        "question": "What is the visible color of the suitcase at <Region 1>?",
+        "question_id": 2,
+        "dataset_name": "natural_QA_box",
+        "gt_answers": "The visible color of the suitcase at <Region 1> is black.",
+        "bbox": [
+            [
+                0.0,
+                173.07,
+                585.64,
+                252.93
+            ],
+            [
+                121.3,
+                2.79,
+                332.83,
+                242.69
+            ]
+        ]
+    },
+    {
+        "image_name": "2406803.jpg",
+        "question": "What can be inferred about the weather conditions from <Region 1> and <Region 7>?",
+        "question_id": 3,
+        "dataset_name": "natural_QA_box",
+        "gt_answers": "The presence of sunlight on the wing in <Region 1> and the partly cloudy sky in <Region 7> suggest variable weather, with both sunny spells and clouds.",
+        "bbox": [
+            [
+                306,
+                183,
+                54,
+                18
+            ],
+            [
+                223,
+                175,
+                100,
+                180
+            ],
+            [
+                222,
+                150,
+                112,
+                207
+            ],
+            [
+                50,
+                382,
+                125,
+                70
+            ],
+            [
+                235,
+                281,
+                65,
+                30
+            ],
+            [
+                10,
+                241,
+                65,
+                100
+            ],
+            [
+                165,
+                107,
+                84,
+                22
+            ],
+            [
+                225,
+                358,
+                79,
+                125
+            ]
+        ]
+    },
+    {
+        "image_name": "000000452274.jpg",
+        "question": "What is the color of the shirt at <Region 1>?",
+        "question_id": 4,
+        "dataset_name": "natural_QA_box",
+        "gt_answers": "The shirt at <Region 1> appears to be white.",
+        "bbox": [
+            [
+                129.1,
+                214.13,
+                510.9,
+                211.87
+            ],
+            [
+                301.79,
+                322.21,
+                62.35,
+                103.79
+            ]
+        ]
+    },
+    {
+        "image_name": "1165.jpg",
+        "question": "What material is the toilet in <Region 1> made of, and where is it positioned in the room?",
+        "question_id": 5,
+        "dataset_name": "natural_QA_box",
+        "gt_answers": "The toilet in <Region 1> is made of metal and is positioned in the corner of the room.",
+        "bbox": [
+            [
+                458,
+                367,
+                58,
+                55
+            ],
+            [
+                503,
+                300,
+                59,
+                164
+            ],
+            [
+                518,
+                68,
+                78,
+                56
+            ],
+            [
+                64,
+                228,
+                91,
+                71
+            ],
+            [
+                148,
+                225,
+                354,
+                45
+            ],
+            [
+                98,
+                276,
+                411,
+                27
+            ],
+            [
+                73,
+                370,
+                416,
+                84
+            ],
+            [
+                90,
+                38,
+                358,
+                177
+            ]
+        ]
+    },
+    {
+        "image_name": "1144.jpg",
+        "question": "What type of games can be played with the objects at <Region 2> and <Region 4>?",
+        "question_id": 6,
+        "dataset_name": "natural_QA_box",
+        "gt_answers": "Billiards or pool can be played with the object at <Region 2>, and table tennis can be played with the objects at <Region 4>.",
+        "bbox": [
+            [
+                210,
+                138,
+                75,
+                75
+            ],
+            [
+                201,
+                190,
+                107,
+                55
+            ],
+            [
+                191,
+                77,
+                152,
+                35
+            ],
+            [
+                265,
+                340,
+                61,
+                19
+            ],
+            [
+                153,
+                139,
+                52,
+                101
+            ]
+        ]
+    },
+    {
+        "image_name": "2408509.jpg",
+        "question": "What kind of beverage might be contained in the glass at <Region 6>?",
+        "question_id": 7,
+        "dataset_name": "natural_QA_box",
+        "gt_answers": "Given the empty appearance of the glass at <Region 6> and the lack of visible liquid or ice, it is possible that it either contained a clear liquid such as water or is currently empty.",
+        "bbox": [
+            [
+                184,
+                182,
+                158,
+                62
+            ],
+            [
+                236,
+                242,
+                218,
+                127
+            ],
+            [
+                0,
+                182,
+                64,
+                129
+            ],
+            [
+                138,
+                193,
+                34,
+                103
+            ],
+            [
+                413,
+                184,
+                75,
+                160
+            ],
+            [
+                358,
+                160,
+                82,
+                117
+            ],
+            [
+                185,
+                112,
+                142,
+                81
+            ],
+            [
+                188,
+                246,
+                128,
+                47
+            ]
+        ]
+    },
+    {
+        "image_name": "000000180095.jpg",
+        "question": "What type of sign is denoted by <Region 1>, and what specific condition does it appear to be in?",
+        "question_id": 8,
+        "dataset_name": "natural_QA_box",
+        "gt_answers": "The sign at <Region 1> is a traffic direction sign that has been defaced or altered.",
+        "bbox": [
+            [
+                173.73,
+                349.42,
+                170.88,
+                251.7
+            ],
+            [
+                174.15,
+                106.06,
+                170.47,
+                241.4
+            ],
+            [
+                304.47,
+                179.26,
+                56.49,
+                141.71
+            ]
+        ]
+    },
+    {
+        "image_name": "000000019544.jpg",
+        "question": "What kind of object is highlighted at <Region 1> on the image, and where is it located?",
+        "question_id": 9,
+        "dataset_name": "natural_QA_box",
+        "gt_answers": "The object at <Region 1> is likely a ceramic plate, located on the wooden desk.",
+        "bbox": [
+            [
+                482.62,
+                119.0,
+                57.81,
+                17.26
+            ],
+            [
+                50.67,
+                167.0,
+                45.86,
+                90.97
+            ],
+            [
+                34.05,
+                298.05,
+                143.67,
+                51.96
+            ],
+            [
+                446.22,
+                446.23,
+                151.88,
+                29.21
+            ],
+            [
+                180.67,
+                315.5,
+                247.42,
+                55.62
+            ],
+            [
+                439.15,
+                381.14,
+                177.53,
+                80.2
+            ],
+            [
+                44.96,
+                335.65,
+                140.66,
+                71.73
+            ],
+            [
+                65.2,
+                389.64,
+                125.82,
+                23.02
+            ]
+        ]
+    },
+    {
+        "image_name": "2407722.jpg",
+        "question": "What purpose do the red lights identified in <Region 1> serve on the vehicle?",
+        "question_id": 10,
+        "dataset_name": "natural_QA_box",
+        "gt_answers": "The red emergency lights marked by <Region 1> are used to signal urgency or to indicate that this is a service or emergency vehicle, such as a tow truck, ambulance, or fire truck.",
+        "bbox": [
+            [
+                132,
+                147,
+                135,
+                17
+            ],
+            [
+                329,
+                283,
+                63,
+                67
+            ],
+            [
+                97,
+                189,
+                155,
+                45
+            ],
+            [
+                14,
+                101,
+                65,
+                85
+            ],
+            [
+                258,
+                175,
+                54,
+                63
+            ],
+            [
+                257,
+                315,
+                25,
+                37
+            ],
+            [
+                63,
+                317,
+                187,
+                32
+            ],
+            [
+                317,
+                128,
+                113,
+                19
+            ]
+        ]
+    }
+]

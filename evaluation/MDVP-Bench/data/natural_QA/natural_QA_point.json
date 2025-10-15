@@ -1,0 +1,316 @@
+[
+    {
+        "image_name": "000000267088.jpg",
+        "question": "What is the main visible difference between <Mark 1> and <Mark 2>?",
+        "question_id": 1,
+        "dataset_name": "natural_QA_point",
+        "gt_answers": "The main visible difference between <Mark 1> and <Mark 2> is their location on the giraffe; <Mark 1> is on the head, while <Mark 2> is on the neck.",
+        "points": [
+            [
+                334,
+                288
+            ],
+            [
+                328,
+                279
+            ]
+        ]
+    },
+    {
+        "image_name": "2408070.jpg",
+        "question": "What activity is the person at <Mark 1> engaging in?",
+        "question_id": 2,
+        "dataset_name": "natural_QA_point",
+        "gt_answers": "The person at <Mark 1> is engaging in kitesurfing.",
+        "points": [
+            [
+                238,
+                91
+            ]
+        ]
+    },
+    {
+        "image_name": "000000347724.jpg",
+        "question": "What object is highlighted by all the marked regions in the image?",
+        "question_id": 3,
+        "dataset_name": "natural_QA_point",
+        "gt_answers": "All the marked regions in the image highlight carrots, each with an orange body and a green top.",
+        "points": [
+            [
+                182,
+                450
+            ],
+            [
+                153,
+                519
+            ],
+            [
+                225,
+                315
+            ],
+            [
+                351,
+                439
+            ],
+            [
+                323,
+                440
+            ],
+            [
+                416,
+                352
+            ],
+            [
+                110,
+                385
+            ],
+            [
+                83,
+                542
+            ]
+        ]
+    },
+    {
+        "image_name": "2408814.jpg",
+        "question": "Can you describe the pattern on the tie visible at <Mark 2>?",
+        "question_id": 4,
+        "dataset_name": "natural_QA_point",
+        "gt_answers": "The tie has a pattern that includes shades of blue with what appears to be yellow accents. The exact pattern is not clearly discernible, but it contributes to the professional look of the attire.",
+        "points": [
+            [
+                165,
+                241
+            ],
+            [
+                360,
+                207
+            ],
+            [
+                315,
+                320
+            ],
+            [
+                47,
+                175
+            ],
+            [
+                40,
+                135
+            ],
+            [
+                261,
+                90
+            ],
+            [
+                41,
+                144
+            ],
+            [
+                406,
+                356
+            ]
+        ]
+    },
+    {
+        "image_name": "2407853.jpg",
+        "question": "What safety feature for signaling turns is shown in the image?",
+        "question_id": 5,
+        "dataset_name": "natural_QA_point",
+        "gt_answers": "The orange signal light on the motorcycle, likely a turn indicator, is the safety feature shown in the image.",
+        "points": [
+            [
+                194,
+                349
+            ],
+            [
+                487,
+                38
+            ],
+            [
+                379,
+                284
+            ],
+            [
+                98,
+                149
+            ],
+            [
+                240,
+                293
+            ],
+            [
+                225,
+                172
+            ],
+            [
+                324,
+                76
+            ],
+            [
+                489,
+                45
+            ]
+        ]
+    },
+    {
+        "image_name": "000000185512.jpg",
+        "question": "What purpose does the object at <Mark 1> serve in a bathroom?",
+        "question_id": 6,
+        "dataset_name": "natural_QA_point",
+        "gt_answers": "The object at <Mark 1> is a mirror, primarily used for grooming and providing visual feedback.",
+        "points": [
+            [
+                370,
+                230
+            ],
+            [
+                350,
+                433
+            ],
+            [
+                168,
+                529
+            ],
+            [
+                262,
+                251
+            ],
+            [
+                168,
+                245
+            ],
+            [
+                305,
+                534
+            ]
+        ]
+    },
+    {
+        "image_name": "000000051476.jpg",
+        "question": "What is the function of the object marked with <Mark 1> in cooking?",
+        "question_id": 7,
+        "dataset_name": "natural_QA_point",
+        "gt_answers": "The object marked with <Mark 1> is used for flipping or stirring food during preparation or cooking.",
+        "points": [
+            [
+                182,
+                174
+            ],
+            [
+                136,
+                15
+            ],
+            [
+                156,
+                56
+            ],
+            [
+                581,
+                96
+            ],
+            [
+                160,
+                76
+            ],
+            [
+                111,
+                360
+            ],
+            [
+                493,
+                353
+            ],
+            [
+                257,
+                360
+            ]
+        ]
+    },
+    {
+        "image_name": "000000028343.jpg",
+        "question": "What might be the common use for the objects identified at <Mark 1>, <Mark 3>, <Mark 4>, and <Mark 6>?",
+        "question_id": 8,
+        "dataset_name": "natural_QA_point",
+        "gt_answers": "The objects identified at these marks are all doughnuts, typically consumed as a sweet snack or dessert.",
+        "points": [
+            [
+                197,
+                58
+            ],
+            [
+                97,
+                74
+            ],
+            [
+                247,
+                118
+            ],
+            [
+                352,
+                49
+            ],
+            [
+                217,
+                34
+            ],
+            [
+                69,
+                284
+            ],
+            [
+                51,
+                199
+            ],
+            [
+                280,
+                40
+            ]
+        ]
+    },
+    {
+        "image_name": "000000232357.jpg",
+        "question": "What is the primary function of the object identified at <Mark 1>?",
+        "question_id": 9,
+        "dataset_name": "natural_QA_point",
+        "gt_answers": "The primary function of the object at <Mark 1> is to illuminate the room it is installed in.",
+        "points": [
+            [
+                336,
+                63
+            ],
+            [
+                73,
+                319
+            ],
+            [
+                236,
+                355
+            ],
+            [
+                123,
+                340
+            ]
+        ]
+    },
+    {
+        "image_name": "000000262235.jpg",
+        "question": "What function might the item at <Mark 1> serve for the individual?",
+        "question_id": 10,
+        "dataset_name": "natural_QA_point",
+        "gt_answers": "The item at <Mark 1> likely serves as a form of identification or security, granting access or indicating the person's role or authorization within a professional setting or event.",
+        "points": [
+            [
+                208,
+                473
+            ],
+            [
+                228,
+                345
+            ],
+            [
+                214,
+                423
+            ]
+        ]
+    }
+]

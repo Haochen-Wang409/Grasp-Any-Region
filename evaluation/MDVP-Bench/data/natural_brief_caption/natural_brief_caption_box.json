@@ -1,0 +1,452 @@
+[
+    {
+        "image_name": "000000518574.jpg",
+        "question": "Please provide a brief description of each marked region in the image.",
+        "question_id": 1,
+        "dataset_name": "natural_brief_caption_box",
+        "gt_answers": "<Region 1>:Illuminated red fire engine on a wet city street\n<Region 2>:Tall lamppost topped with a bright street light\n<Region 3>:Street light with a vertical lamppost on a sidewalk\n<Region 4>:Lamppost with multiple lights at intersection angle\n<Region 5>:Street lamppost with single light and shadow on ground\n<Region 6>:Lamppost on sidewalk behind traffic light at night\n<Region 7>:Lamppost with an attached circular sign on city street\n<Region 8>:Colorful banner flag hanging from a light post",
+        "bbox": [
+            [
+                321.04,
+                515.8,
+                44.2,
+                48.82
+            ],
+            [
+                67.53,
+                133.57,
+                218.27,
+                506.43
+            ],
+            [
+                347.62,
+                479.72,
+                31.44,
+                77.04
+            ],
+            [
+                284.74,
+                432.36,
+                156.22,
+                140.97
+            ],
+            [
+                154.17,
+                463.4,
+                30.59,
+                93.7
+            ],
+            [
+                455.67,
+                304.12,
+                24.33,
+                131.83
+            ],
+            [
+                21.57,
+                454.71,
+                20.28,
+                118.66
+            ],
+            [
+                203.74,
+                152.88,
+                70.07,
+                185.51
+            ]
+        ]
+    },
+    {
+        "image_name": "000000474502.jpg",
+        "question": "Please provide a brief description of each marked region in the image.",
+        "question_id": 2,
+        "dataset_name": "natural_brief_caption_box",
+        "gt_answers": "<Region 1>:Polar bear standing with open mouth",
+        "bbox": [
+            [
+                219.09,
+                85.48,
+                278.19,
+                341.52
+            ]
+        ]
+    },
+    {
+        "image_name": "2407147.jpg",
+        "question": "Please provide a brief description of each marked region in the image.",
+        "question_id": 3,
+        "dataset_name": "natural_brief_caption_box",
+        "gt_answers": "<Region 1>:Man wearing a wide-brimmed hat in silhouette\n<Region 2>:Silhouetted man donning a long jacket holding something",
+        "bbox": [
+            [
+                163,
+                59,
+                122,
+                136
+            ],
+            [
+                181,
+                134,
+                155,
+                268
+            ]
+        ]
+    },
+    {
+        "image_name": "000000113533.jpg",
+        "question": "Please provide a brief description of each marked region in the image.",
+        "question_id": 4,
+        "dataset_name": "natural_brief_caption_box",
+        "gt_answers": "<Region 1>:Round white plate on wooden surface.\n<Region 2>:Round white plate with blue edging.\n<Region 3>:Round white plate, partially obscured.\n<Region 4>:White plate above a table's surface.\n<Region 5>:White frosted cake with floral decor.\n<Region 6>:Blue frosted cake resembling a flag.\n<Region 7>:Flame on a single lit candle.\n<Region 8>:Flame on candle atop a cake.",
+        "bbox": [
+            [
+                268.02,
+                476.97,
+                122.73,
+                29.06
+            ],
+            [
+                134.91,
+                517.28,
+                162.24,
+                38.73
+            ],
+            [
+                0.0,
+                562.05,
+                149.94,
+                37.95
+            ],
+            [
+                365.95,
+                438.58,
+                34.05,
+                29.61
+            ],
+            [
+                242.23,
+                368.6,
+                133.72,
+                134.72
+            ],
+            [
+                136.26,
+                484.35,
+                148.85,
+                64.53
+            ],
+            [
+                61.37,
+                476.39,
+                24.48,
+                34.25
+            ],
+            [
+                353.93,
+                393.58,
+                22.43,
+                17.33
+            ]
+        ]
+    },
+    {
+        "image_name": "2408783.jpg",
+        "question": "Please provide a brief description of each marked region in the image.",
+        "question_id": 5,
+        "dataset_name": "natural_brief_caption_box",
+        "gt_answers": "<Region 1>: White baseball cap worn by a tennis player.\n<Region 2>: Tennis racquet held in the player's left hand.\n<Region 3>: Service base line on a clay tennis court.\n<Region 4>: Tennis shoes in white with black accents.\n<Region 5>: Tennis shirt with short sleeves and black details.\n<Region 6>: Spectator intently watching the tennis match.\n<Region 7>: Flag on a pole behind the crowd at the tennis match.\n<Region 8>: Tennis player's hand with fingers spread wide.",
+        "bbox": [
+            [
+                157,
+                186,
+                37,
+                46
+            ],
+            [
+                102,
+                151,
+                23,
+                111
+            ],
+            [
+                129,
+                393,
+                154,
+                105
+            ],
+            [
+                180,
+                397,
+                16,
+                33
+            ],
+            [
+                141,
+                170,
+                120,
+                149
+            ],
+            [
+                273,
+                196,
+                50,
+                89
+            ],
+            [
+                326,
+                28,
+                12,
+                162
+            ],
+            [
+                188,
+                66,
+                46,
+                43
+            ]
+        ]
+    },
+    {
+        "image_name": "2406705.jpg",
+        "question": "Please provide a brief description of each marked region in the image.",
+        "question_id": 6,
+        "dataset_name": "natural_brief_caption_box",
+        "gt_answers": "<Region 1>: Avocado pieces arranged on a plate with other foods.\n<Region 2>: Creamy substance layered over a slice of tomato.\n<Region 3>: Beverage can positioned on a table surface.\n<Region 4>: Table with a pattern of holes throughout its surface.\n<Region 5>: Slice of yellow bell pepper on a mixed food plate.\n<Region 6>: Red bell pepper strip placed alongside other ingredients.\n<Region 7>: Fresh avocado chunks on top of a food dish.\n<Region 8>: Triad of toast slices resting near a plate.",
+        "bbox": [
+            [
+                248,
+                134,
+                76,
+                76
+            ],
+            [
+                297,
+                174,
+                84,
+                69
+            ],
+            [
+                60,
+                0,
+                140,
+                51
+            ],
+            [
+                27,
+                366,
+                47,
+                28
+            ],
+            [
+                2,
+                192,
+                186,
+                80
+            ],
+            [
+                381,
+                172,
+                37,
+                141
+            ],
+            [
+                219,
+                130,
+                125,
+                75
+            ],
+            [
+                59,
+                41,
+                355,
+                124
+            ]
+        ]
+    },
+    {
+        "image_name": "2407365.jpg",
+        "question": "Please provide a brief description of each marked region in the image.",
+        "question_id": 7,
+        "dataset_name": "natural_brief_caption_box",
+        "gt_answers": "<Region 1>: Black soft-sided suitcase with a zippered exterior pocket.\n<Region 2>: Mint green hardshell suitcase, slightly obscured in background.\n<Region 3>: Jeans pocket with a visible tag from a clothing manufacturer.\n<Region 4>: Reflection of red neon light on a polished floor surface.\n<Region 5>: Light grey suitcase with an extending handle, in the background.\n<Region 6>: Main compartment of a black soft-sided suitcase.\n<Region 7>: Lower portion of blue jeans with visible stitching and texture.\n<Region 8>: Two suitcase wheels, possibly attached to a retractable handle.",
+        "bbox": [
+            [
+                179,
+                146,
+                60,
+                42
+            ],
+            [
+                442,
+                7,
+                53,
+                71
+            ],
+            [
+                171,
+                8,
+                25,
+                24
+            ],
+            [
+                16,
+                61,
+                85,
+                102
+            ],
+            [
+                226,
+                0,
+                47,
+                57
+            ],
+            [
+                185,
+                170,
+                40,
+                30
+            ],
+            [
+                106,
+                60,
+                31,
+                70
+            ],
+            [
+                166,
+                243,
+                85,
+                16
+            ]
+        ]
+    },
+    {
+        "image_name": "000000133090.jpg",
+        "question": "Please provide a brief description of each marked region in the image.",
+        "question_id": 8,
+        "dataset_name": "natural_brief_caption_box",
+        "gt_answers": "<Region 1>: Tennis player serving ball in motion.",
+        "bbox": [
+            [
+                311.33,
+                377.7,
+                8.74,
+                18.77
+            ]
+        ]
+    },
+    {
+        "image_name": "000000147173.jpg",
+        "question": "Please provide a brief description of each marked region in the image.",
+        "question_id": 9,
+        "dataset_name": "natural_brief_caption_box",
+        "gt_answers": "<Region 1>: Skateboard placed on ground with visible deck graphics.\n<Region 2>: Skateboard laying on ground near curb, wheels up.\n<Region 3>: Skateboard on ground, griptape side up, near shoes.\n<Region 4>: Person standing, wearing dark clothes, facing away.\n<Region 5>: Person walking away from camera, green hoodie, jeans.\n<Region 6>: Seated person smiling, hands together, wearing a hat.\n<Region 7>: Person seated on ledge, legs crossed, looking downward.\n<Region 8>: Person sitting with friends, black t-shirt, visible smile.",
+        "bbox": [
+            [
+                409.35,
+                307.47,
+                114.31,
+                41.71
+            ],
+            [
+                517.31,
+                276.09,
+                98.17,
+                65.08
+            ],
+            [
+                384.92,
+                213.63,
+                45.08,
+                29.63
+            ],
+            [
+                416.86,
+                151.32,
+                99.08,
+                163.96
+            ],
+            [
+                97.14,
+                65.63,
+                132.57,
+                284.47
+            ],
+            [
+                497.59,
+                156.08,
+                94.46,
+                174.57
+            ],
+            [
+                198.6,
+                143.65,
+                124.69,
+                133.45
+            ],
+            [
+                441.71,
+                124.0,
+                82.27,
+                107.35
+            ]
+        ]
+    },
+    {
+        "image_name": "2408569.jpg",
+        "question": "Please provide a brief description of each marked region in the image.",
+        "question_id": 10,
+        "dataset_name": "natural_brief_caption_box",
+        "gt_answers": "<Region 1>: Red book cover possibly related to cooking\n<Region 2>: White cheese slice held by human fingers\n<Region 3>: Golden-brown crispy edge of a pizza crust\n<Region 4>: White shredded cheese on top of a pizza\n<Region 5>: Red marinara sauce spread on pizza dough\n<Region 6>: Large pizza with a variety of toppings\n<Region 7>: Small partially obscured pizza on a box\n<Region 8>: Human fingers grasping a cheese slice",
+        "bbox": [
+            [
+                453,
+                156,
+                39,
+                40
+            ],
+            [
+                288,
+                11,
+                98,
+                71
+            ],
+            [
+                150,
+                253,
+                112,
+                55
+            ],
+            [
+                47,
+                135,
+                66,
+                36
+            ],
+            [
+                381,
+                185,
+                39,
+                45
+            ],
+            [
+                48,
+                78,
+                401,
+                227
+            ],
+            [
+                26,
+                70,
+                418,
+                234
+            ],
+            [
+                286,
+                2,
+                130,
+                50
+            ]
+        ]
+    }
+]

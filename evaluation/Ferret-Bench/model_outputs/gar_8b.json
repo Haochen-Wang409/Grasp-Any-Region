@@ -1,0 +1,962 @@
+[
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000069138.jpg",
+        "annotation": {
+            "bbox": [
+                230.39,
+                52.48,
+                56.02,
+                32.0
+            ],
+            "segmentation": [
+                [
+                    230.39,
+                    52.48,
+                    286.41,
+                    52.48,
+                    286.41,
+                    84.48,
+                    230.39,
+                    84.48
+                ]
+            ]
+        },
+        "caption": "A rectangular signboard with a dark background and light-colored text. The text is arranged in three lines, with the first line reading \"FROM 2,500 SQ FT,\" the second line \"IMMEDIATELY,\" and the third line \"AVAILABLE.\" The text is capitalized and there is a border around the signboard."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000131138.jpg",
+        "annotation": {
+            "bbox": [
+                117.12,
+                383.52,
+                91.52,
+                46.56
+            ],
+            "segmentation": [
+                [
+                    117.12,
+                    383.52,
+                    208.64,
+                    383.52,
+                    208.64,
+                    430.08,
+                    117.12,
+                    430.08
+                ]
+            ]
+        },
+        "caption": "A white, round saucer with a slightly raised rim, featuring a metallic spoon resting on its surface. The saucer has a smooth, glossy finish with some light brown stains and smudges near the center."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000475150.jpg",
+        "annotation": {
+            "bbox": [
+                184.32,
+                138.35,
+                181.76,
+                138.77
+            ],
+            "segmentation": [
+                [
+                    184.32,
+                    138.35,
+                    366.08,
+                    138.35,
+                    366.08,
+                    277.12,
+                    184.32,
+                    277.12
+                ]
+            ]
+        },
+        "caption": "A giraffe with a pattern of large, irregular brown patches separated by lighter, beige lines on its skin. The giraffe has two small horn-like structures, called ossicones, atop its head, which are covered with fur and have a rounded appearance. Its eyes are large with long eyelashes, and the giraffe's ears are pointed and tufted with hair. The visible part of the neck shows a continuation of the same patterned skin, and the giraffe's snout is elongated with prominent nostrils and a slightly darker coloration around the mouth area."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000356424.jpg",
+        "annotation": {
+            "bbox": [
+                253.44,
+                162.56,
+                90.72,
+                263.68
+            ],
+            "segmentation": [
+                [
+                    253.44,
+                    162.56,
+                    344.16,
+                    162.56,
+                    344.16,
+                    426.24,
+                    253.44,
+                    426.24
+                ]
+            ]
+        },
+        "caption": "A person with dark hair tied back, wearing a dark-colored jacket, is seated and looking down at an object in their hands."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000491090.jpg",
+        "annotation": {
+            "bbox": [
+                48.76,
+                318.72,
+                108.51,
+                124.16
+            ],
+            "segmentation": [
+                [
+                    48.76,
+                    318.72,
+                    157.26,
+                    318.72,
+                    157.26,
+                    442.88,
+                    48.76,
+                    442.88
+                ]
+            ]
+        },
+        "caption": "A black motorcycle wheel with a silver exhaust pipe attached to the left side, featuring a visible brake disc and caliper assembly."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000484415.jpg",
+        "annotation": {
+            "bbox": [
+                229.12,
+                46.08,
+                56.96,
+                85.92
+            ],
+            "segmentation": [
+                [
+                    229.12,
+                    46.08,
+                    286.08,
+                    46.08,
+                    286.08,
+                    132.0,
+                    229.12,
+                    132.0
+                ]
+            ]
+        },
+        "caption": "A white ceramic toilet bowl with an open black seat cover, featuring a visible water surface within the bowl."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000184324.jpg",
+        "annotation": {
+            "bbox": [
+                360.96,
+                327.68,
+                199.68,
+                93.5
+            ],
+            "segmentation": [
+                [
+                    360.96,
+                    327.68,
+                    560.64,
+                    327.68,
+                    560.64,
+                    421.18,
+                    360.96,
+                    421.18
+                ]
+            ]
+        },
+        "caption": "The floor consists of alternating black and white rectangular stripes, forming a pedestrian crosswalk pattern. The stripes are evenly spaced and run parallel to each other, creating a clear path for pedestrians."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000341058.jpg",
+        "annotation": {
+            "bbox": [
+                222.22,
+                536.32,
+                5.03,
+                7.68
+            ],
+            "segmentation": [
+                [
+                    222.22,
+                    536.32,
+                    227.25,
+                    536.32,
+                    227.25,
+                    544.0,
+                    222.22,
+                    544.0
+                ]
+            ]
+        },
+        "caption": "A white, rectangular saltshaker with a textured surface and a black, perforated top featuring multiple small holes for dispensing salt."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000184384.jpg",
+        "annotation": {
+            "bbox": [
+                401.92,
+                57.6,
+                236.8,
+                129.12
+            ],
+            "segmentation": [
+                [
+                    401.92,
+                    57.6,
+                    638.72,
+                    57.6,
+                    638.72,
+                    186.72,
+                    401.92,
+                    186.72
+                ]
+            ]
+        },
+        "caption": "A plate with a grilled sausage, a portion of scrambled eggs, and a side of potatoes."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000259097.jpg",
+        "annotation": {
+            "bbox": [
+                6.0,
+                173.16,
+                492.0,
+                36.96
+            ],
+            "segmentation": [
+                [
+                    6.0,
+                    173.16,
+                    498.0,
+                    173.16,
+                    498.0,
+                    210.12,
+                    6.0,
+                    210.12
+                ]
+            ]
+        },
+        "caption": "A long, continuous hill with a gentle slope, covered in dense green trees and vegetation. The hill extends horizontally across the entire image, with a slightly uneven tree line at the top."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000377882.jpg",
+        "annotation": {
+            "bbox": [
+                154.88,
+                101.28,
+                38.4,
+                373.44
+            ],
+            "segmentation": [
+                [
+                    154.88,
+                    101.28,
+                    193.28,
+                    101.28,
+                    193.28,
+                    474.72,
+                    154.88,
+                    474.72
+                ]
+            ]
+        },
+        "caption": "A vertical, cylindrical pole with a textured surface, featuring a series of diagonal, crisscrossing lines that create a diamond pattern across its entirety."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000415748.jpg",
+        "annotation": {
+            "bbox": [
+                35.78,
+                280.32,
+                273.92,
+                330.24
+            ],
+            "segmentation": [
+                [
+                    35.78,
+                    280.32,
+                    309.7,
+                    280.32,
+                    309.7,
+                    610.56,
+                    35.78,
+                    610.56
+                ]
+            ]
+        },
+        "caption": "The ground is a flat, light brown surface with a slightly rough texture. It appears to be made of compacted dirt or sand, with some areas showing faint, irregular patterns. The ground is relatively even, with no significant elevation changes visible."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000408120.jpg",
+        "annotation": {
+            "bbox": [
+                252.16,
+                241.25,
+                112.64,
+                65.33
+            ],
+            "segmentation": [
+                [
+                    252.16,
+                    241.25,
+                    364.8,
+                    241.25,
+                    364.8,
+                    306.59,
+                    252.16,
+                    306.59
+                ]
+            ]
+        },
+        "caption": "The ground is a rough, uneven surface with a mix of small pebbles and fine gravel. The texture is coarse, with a predominantly gray color interspersed with occasional darker and lighter patches. The surface appears slightly compacted, with some areas showing minor indentations and irregularities."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000184400.jpg",
+        "annotation": {
+            "bbox": [
+                385.28,
+                401.76,
+                60.16,
+                76.8
+            ],
+            "segmentation": [
+                [
+                    385.28,
+                    401.76,
+                    445.44,
+                    401.76,
+                    445.44,
+                    478.56,
+                    385.28,
+                    478.56
+                ]
+            ]
+        },
+        "caption": "A cylindrical pole with a flared base and a decorative capital featuring a series of concentric rings and a flat, overhanging element with a scalloped edge."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000276018.jpg",
+        "annotation": {
+            "bbox": [
+                29.54,
+                241.92,
+                177.63,
+                296.96
+            ],
+            "segmentation": [
+                [
+                    29.54,
+                    241.92,
+                    207.17,
+                    241.92,
+                    207.17,
+                    538.88,
+                    29.54,
+                    538.88
+                ]
+            ]
+        },
+        "caption": "A young boy with short, curly brown hair, wearing a black jacket, is holding a brown and white stuffed monkey."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000376322.jpg",
+        "annotation": {
+            "bbox": [
+                319.3,
+                161.28,
+                115.2,
+                236.8
+            ],
+            "segmentation": [
+                [
+                    319.3,
+                    161.28,
+                    434.5,
+                    161.28,
+                    434.5,
+                    398.08,
+                    319.3,
+                    398.08
+                ]
+            ]
+        },
+        "caption": "A man with short gray hair and glasses, wearing a light green button-up shirt with a name tag on the left side of his chest, is holding a glass of white wine in his right hand."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000125472.jpg",
+        "annotation": {
+            "bbox": [
+                85.83,
+                1.28,
+                315.55,
+                483.84
+            ],
+            "segmentation": [
+                [
+                    85.83,
+                    1.28,
+                    401.38,
+                    1.28,
+                    401.38,
+                    485.12,
+                    85.83,
+                    485.12
+                ]
+            ]
+        },
+        "caption": "The sky is a clear, bright white with no visible clouds, creating a stark contrast against the person in the foreground."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000361551.jpg",
+        "annotation": {
+            "bbox": [
+                459.36,
+                394.24,
+                19.2,
+                34.56
+            ],
+            "segmentation": [
+                [
+                    459.36,
+                    394.24,
+                    478.56,
+                    394.24,
+                    478.56,
+                    428.8,
+                    459.36,
+                    428.8
+                ]
+            ]
+        },
+        "caption": "A person with short, dark hair, wearing a light-colored top with a dark strap over the shoulder."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000412240.jpg",
+        "annotation": {
+            "bbox": [
+                1.0,
+                163.88,
+                359.0,
+                131.25
+            ],
+            "segmentation": [
+                [
+                    1.0,
+                    163.88,
+                    360.0,
+                    163.88,
+                    360.0,
+                    295.12,
+                    1.0,
+                    295.12
+                ]
+            ]
+        },
+        "caption": "A pair of black leather dress shoes with a low heel and black laces, positioned side by side."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000130566.jpg",
+        "annotation": {
+            "bbox": [
+                403.2,
+                201.12,
+                33.28,
+                33.73
+            ],
+            "segmentation": [
+                [
+                    403.2,
+                    201.12,
+                    436.48,
+                    201.12,
+                    436.48,
+                    234.85,
+                    403.2,
+                    234.85
+                ]
+            ]
+        },
+        "caption": "The railcar is a modern passenger model with a predominantly maroon and cream livery. It features a streamlined design with a curved front end, large windows on the sides for passenger viewing, and a set of black doors for entry and exit. The lower portion of the railcar has a yellow stripe running horizontally, and there are visible vents and grilles on the side, likely for engine ventilation. The roofline is smooth and slightly overhangs the body of the railcar."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000421923.jpg",
+        "annotation": {
+            "bbox": [
+                339.1,
+                295.68,
+                79.24,
+                56.32
+            ],
+            "segmentation": [
+                [
+                    339.1,
+                    295.68,
+                    418.33,
+                    295.68,
+                    418.33,
+                    352.0,
+                    339.1,
+                    352.0
+                ]
+            ]
+        },
+        "caption": "A lush bouquet of white daisies with prominent yellow centers, complemented by green foliage."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000513567.jpg",
+        "annotation": {
+            "bbox": [
+                592.64,
+                121.44,
+                46.08,
+                188.16
+            ],
+            "segmentation": [
+                [
+                    592.64,
+                    121.44,
+                    638.72,
+                    121.44,
+                    638.72,
+                    309.6,
+                    592.64,
+                    309.6
+                ]
+            ]
+        },
+        "caption": "A person with dark hair tied back, wearing a brown top and blue jeans, is walking."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000543300.jpg",
+        "annotation": {
+            "bbox": [
+                264.96,
+                331.68,
+                158.72,
+                16.32
+            ],
+            "segmentation": [
+                [
+                    264.96,
+                    331.68,
+                    423.68,
+                    331.68,
+                    423.68,
+                    348.0,
+                    264.96,
+                    348.0
+                ]
+            ]
+        },
+        "caption": "A pink banner with the text \"Port River Dolphin Cruises\" in a serif font, with the word \"Port\" in a larger size than the rest of the text."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000241668.jpg",
+        "annotation": {
+            "bbox": [
+                224.02,
+                87.04,
+                147.66,
+                544.0
+            ],
+            "segmentation": [
+                [
+                    224.02,
+                    87.04,
+                    371.68,
+                    87.04,
+                    371.68,
+                    631.04,
+                    224.02,
+                    631.04
+                ]
+            ]
+        },
+        "caption": "A woman with long, straight red hair, wearing a black suit jacket over a white dress shirt and a dark tie. She is holding a slice of chocolate cake with white frosting on a plate."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000535578.jpg",
+        "annotation": {
+            "bbox": [
+                80.7,
+                20.48,
+                219.48,
+                93.44
+            ],
+            "segmentation": [
+                [
+                    80.7,
+                    20.48,
+                    300.18,
+                    20.48,
+                    300.18,
+                    113.92,
+                    80.7,
+                    113.92
+                ]
+            ]
+        },
+        "caption": "A gently sloping hill covered in lush green grass, with a winding stone path running horizontally across its midsection. The hill is dotted with small bushes and patches of exposed soil, and a few scattered rocks are visible along the path."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000277051.jpg",
+        "annotation": {
+            "bbox": [
+                245.76,
+                158.84,
+                200.96,
+                177.21
+            ],
+            "segmentation": [
+                [
+                    245.76,
+                    158.84,
+                    446.72,
+                    158.84,
+                    446.72,
+                    336.05,
+                    245.76,
+                    336.05
+                ]
+            ]
+        },
+        "caption": "A small sparrow with brown and gray feathers, a short beak, and a slightly rounded body. It has a light brown head with darker streaks and a small, dark eye. The wings are brown with darker streaks, and the tail is short and brown. The bird is standing on thin, pinkish legs with small claws."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000018519.jpg",
+        "annotation": {
+            "bbox": [
+                143.69,
+                335.36,
+                31.93,
+                29.44
+            ],
+            "segmentation": [
+                [
+                    143.69,
+                    335.36,
+                    175.62,
+                    335.36,
+                    175.62,
+                    364.8,
+                    143.69,
+                    364.8
+                ]
+            ]
+        },
+        "caption": "A black, rectangular pad with rounded corners, featuring a central white logo consisting of a stylized letter 'S' within a square outline."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000106048.jpg",
+        "annotation": {
+            "bbox": [
+                142.08,
+                61.63,
+                382.72,
+                262.36
+            ],
+            "segmentation": [
+                [
+                    142.08,
+                    61.63,
+                    524.8,
+                    61.63,
+                    524.8,
+                    324.0,
+                    142.08,
+                    324.0
+                ]
+            ]
+        },
+        "caption": "A white coach bus with a curved front windshield and a large side window. The bus features a purple and blue wave-like design on its side, with the text \"Divine Transportation\" written in elegant script above the design. The vehicle number \"7006\" is displayed on the top front corner. The bus has a black front bumper, side mirrors, and a visible door towards the front."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000058393.jpg",
+        "annotation": {
+            "bbox": [
+                346.88,
+                166.7,
+                172.8,
+                72.9
+            ],
+            "segmentation": [
+                [
+                    346.88,
+                    166.7,
+                    519.68,
+                    166.7,
+                    519.68,
+                    239.6,
+                    346.88,
+                    239.6
+                ]
+            ]
+        },
+        "caption": "A person with short, curly hair is attached to another person with long, wavy hair."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000010764.jpg",
+        "annotation": {
+            "bbox": [
+                349.44,
+                265.0,
+                51.2,
+                74.62
+            ],
+            "segmentation": [
+                [
+                    349.44,
+                    265.0,
+                    400.64,
+                    265.0,
+                    400.64,
+                    339.62,
+                    349.44,
+                    339.62
+                ]
+            ]
+        },
+        "caption": "The knee pad features a hard, black plastic shell with a glossy finish, designed to cover and protect the knee. It has a contoured shape to fit the knee, with a series of ridges and indentations that provide structural reinforcement. The edges of the shell appear to be smooth and rounded for comfort. There are two adjustable straps with fastening mechanisms, likely Velcro, for securing the pad around the leg. The straps are black and blend with the overall color scheme of the knee pad."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000271402.jpg",
+        "annotation": {
+            "bbox": [
+                25.44,
+                55.04,
+                170.45,
+                526.08
+            ],
+            "segmentation": [
+                [
+                    25.44,
+                    55.04,
+                    195.89,
+                    55.04,
+                    195.89,
+                    581.12,
+                    25.44,
+                    581.12
+                ]
+            ]
+        },
+        "caption": "Two young girls with light skin and blonde hair tied back, wearing white short-sleeved shirts with a circular emblem on the left side of the chest, white pleated skirts, and white sneakers with yellow socks. The girl on the left is holding a silver scooter with black grips and an orange handle."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000273493.jpg",
+        "annotation": {
+            "bbox": [
+                294.0,
+                108.89,
+                131.0,
+                125.21
+            ],
+            "segmentation": [
+                [
+                    294.0,
+                    108.89,
+                    425.0,
+                    108.89,
+                    425.0,
+                    234.1,
+                    294.0,
+                    234.1
+                ]
+            ]
+        },
+        "caption": "A tennis net with a white tape running along the top edge, spanning horizontally across the image. The net is supported by a white post on the left side and another white post on the right side. The netting is made of black mesh material."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000360960.jpg",
+        "annotation": {
+            "bbox": [
+                223.22,
+                473.6,
+                89.46,
+                74.24
+            ],
+            "segmentation": [
+                [
+                    223.22,
+                    473.6,
+                    312.68,
+                    473.6,
+                    312.68,
+                    547.84,
+                    223.22,
+                    547.84
+                ]
+            ]
+        },
+        "caption": "Black trousers with a straight-leg cut, featuring a smooth texture and a visible hem at the bottom."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000452122.jpg",
+        "annotation": {
+            "bbox": [
+                416.0,
+                182.76,
+                133.12,
+                73.44
+            ],
+            "segmentation": [
+                [
+                    416.0,
+                    182.76,
+                    549.12,
+                    182.76,
+                    549.12,
+                    256.2,
+                    416.0,
+                    256.2
+                ]
+            ]
+        },
+        "caption": "A commercial jet with a white fuselage featuring the word \"ANA\" in blue letters, a dark blue and white logo to the right of the text, and a partially visible landing gear with a single wheel."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000134722.jpg",
+        "annotation": {
+            "bbox": [
+                204.8,
+                216.48,
+                89.6,
+                67.68
+            ],
+            "segmentation": [
+                [
+                    204.8,
+                    216.48,
+                    294.4,
+                    216.48,
+                    294.4,
+                    284.16,
+                    204.8,
+                    284.16
+                ]
+            ]
+        },
+        "caption": "A curved, dark-tinted windshield with a visible wiper on the lower right side, reflecting a hint of the surrounding environment."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000039484.jpg",
+        "annotation": {
+            "bbox": [
+                540.16,
+                339.55,
+                72.96,
+                52.44
+            ],
+            "segmentation": [
+                [
+                    540.16,
+                    339.55,
+                    613.12,
+                    339.55,
+                    613.12,
+                    391.99,
+                    540.16,
+                    391.99
+                ]
+            ]
+        },
+        "caption": "A rectangular table with a white tablecloth, surrounded by multiple chairs. The tablecloth has a subtle pattern and is draped over the table, with the edges hanging down the sides. The chairs are arranged around the table, with some facing the table and others turned slightly."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000159311.jpg",
+        "annotation": {
+            "bbox": [
+                103.0,
+                284.05,
+                75.0,
+                42.96
+            ],
+            "segmentation": [
+                [
+                    103.0,
+                    284.05,
+                    178.0,
+                    284.05,
+                    178.0,
+                    327.01,
+                    103.0,
+                    327.01
+                ]
+            ]
+        },
+        "caption": "A dense cluster of green grass blades with varying lengths, some standing upright while others are bent or leaning, interspersed with small patches of bare soil."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000326174.jpg",
+        "annotation": {
+            "bbox": [
+                284.16,
+                220.32,
+                69.12,
+                189.12
+            ],
+            "segmentation": [
+                [
+                    284.16,
+                    220.32,
+                    353.28,
+                    220.32,
+                    353.28,
+                    409.44,
+                    284.16,
+                    409.44
+                ]
+            ]
+        },
+        "caption": "A person with long blonde hair tied in a ponytail, wearing a bright yellow jacket with a black design on the back, black pants, and brown shoes, is holding a blue surfboard."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000562207.jpg",
+        "annotation": {
+            "bbox": [
+                98.56,
+                166.6,
+                93.44,
+                243.1
+            ],
+            "segmentation": [
+                [
+                    98.56,
+                    166.6,
+                    192.0,
+                    166.6,
+                    192.0,
+                    409.7,
+                    98.56,
+                    409.7
+                ]
+            ]
+        },
+        "caption": "A smiling man with short hair, wearing dark gray shorts with white stripes on the sides, and a black wristwatch on his left wrist."
+    },
+    {
+        "image_path": "evaluation/Ferret-Bench/annotations/coco/val2017000000332318.jpg",
+        "annotation": {
+            "bbox": [
+                279.04,
+                368.94,
+                11.52,
+                12.87
+            ],
+            "segmentation": [
+                [
+                    279.04,
+                    368.94,
+                    290.56,
+                    368.94,
+                    290.56,
+                    381.81,
+                    279.04,
+                    381.81
+                ]
+            ]
+        },
+        "caption": "A brown cow with a white pattern on its forehead and snout, white lower legs, and a visible udder."
+    }
+]

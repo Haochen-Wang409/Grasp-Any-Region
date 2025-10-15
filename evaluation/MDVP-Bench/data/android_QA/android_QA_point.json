@@ -1,0 +1,396 @@
+[
+    {
+        "image_name": "single_1770.png",
+        "question": "What is the purpose of <Mark 1>?",
+        "question_id": 1,
+        "dataset_name": "android_QA_point",
+        "gt_answers": "The purpose of <Mark 1> is to allow users to enter or edit a website's URL and then navigate to that page by initiating its loading process within the web browser.",
+        "points": [
+            [
+                669,
+                86
+            ]
+        ]
+    },
+    {
+        "image_name": "install_16096015345286153508_2.png",
+        "question": "What does <Mark 3> represent and where would you typically find this information?",
+        "question_id": 2,
+        "dataset_name": "android_QA_point",
+        "gt_answers": "<Mark 3> represents the name of the mobile payment app as displayed in an app store or similar platform. This information is typically found below the app's logo on the app's store page or within the search results in the marketplace.",
+        "points": [
+            [
+                177,
+                98
+            ],
+            [
+                78,
+                220
+            ],
+            [
+                207,
+                189
+            ],
+            [
+                609,
+                227
+            ],
+            [
+                207,
+                227
+            ],
+            [
+                268,
+                227
+            ],
+            [
+                603,
+                319
+            ],
+            [
+                131,
+                326
+            ],
+            [
+                367,
+                326
+            ],
+            [
+                124,
+                356
+            ]
+        ]
+    },
+    {
+        "image_name": "general_5621311415953838849_1.png",
+        "question": "What information does the text in <Mark 1> convey about the user's temporal context?",
+        "question_id": 3,
+        "dataset_name": "android_QA_point",
+        "gt_answers": "<Mark 1> provides the day of the week and date, indicating it is Monday, October 10th.",
+        "points": [
+            [
+                278,
+                170
+            ],
+            [
+                529,
+                162
+            ],
+            [
+                566,
+                1168
+            ],
+            [
+                86,
+                1309
+            ]
+        ]
+    },
+    {
+        "image_name": "single_104.png",
+        "question": "How are <Mark 3> and <Mark 4> related to each other in context?",
+        "question_id": 4,
+        "dataset_name": "android_QA_point",
+        "gt_answers": "The phrases in <Mark 3> 'Save Money.' and <Mark 4> 'Live Better' likely form a complete slogan, suggesting that by saving money with the retailer, consumers can live better.",
+        "points": [
+            [
+                93,
+                88
+            ],
+            [
+                159,
+                169
+            ],
+            [
+                292,
+                176
+            ],
+            [
+                418,
+                169
+            ],
+            [
+                152,
+                199
+            ],
+            [
+                130,
+                273
+            ],
+            [
+                48,
+                288
+            ],
+            [
+                41,
+                303
+            ],
+            [
+                159,
+                303
+            ],
+            [
+                159,
+                391
+            ]
+        ]
+    },
+    {
+        "image_name": "install_7655036073434526507_5.png",
+        "question": "What is the primary use of the feature described in <Mark 1>?",
+        "question_id": 5,
+        "dataset_name": "android_QA_point",
+        "gt_answers": "The primary use of the feature in <Mark 1> is for searching content such as apps and games within the device or on an online platform by entering text into the search bar.",
+        "points": [
+            [
+                298,
+                91
+            ],
+            [
+                161,
+                182
+            ],
+            [
+                169,
+                273
+            ],
+            [
+                207,
+                364
+            ],
+            [
+                191,
+                455
+            ]
+        ]
+    },
+    {
+        "image_name": "single_2850.png",
+        "question": "What function might <Mark 3> perform when clicked on?",
+        "question_id": 6,
+        "dataset_name": "android_QA_point",
+        "gt_answers": "When clicked on, <Mark 3> might redirect the user to the account details page or a login page for accessing an account or profile.",
+        "points": [
+            [
+                15,
+                33
+            ],
+            [
+                251,
+                33
+            ],
+            [
+                219,
+                69
+            ],
+            [
+                251,
+                69
+            ],
+            [
+                179,
+                69
+            ],
+            [
+                242,
+                105
+            ],
+            [
+                24,
+                105
+            ],
+            [
+                216,
+                350
+            ],
+            [
+                18,
+                516
+            ],
+            [
+                251,
+                516
+            ]
+        ]
+    },
+    {
+        "image_name": "web_shopping_58854.png",
+        "question": "What interaction can be expected when activating the element in <Mark 4>?",
+        "question_id": 7,
+        "dataset_name": "android_QA_point",
+        "gt_answers": "When the 'Sign in' button in <Mark 4> is activated, it will prompt the user to enter their login credentials to access their Amazon account.",
+        "points": [
+            [
+                216,
+                64
+            ],
+            [
+                91,
+                69
+            ],
+            [
+                145,
+                91
+            ],
+            [
+                345,
+                150
+            ],
+            [
+                123,
+                139
+            ],
+            [
+                102,
+                215
+            ],
+            [
+                145,
+                290
+            ],
+            [
+                123,
+                361
+            ],
+            [
+                236,
+                437
+            ],
+            [
+                388,
+                437
+            ]
+        ]
+    },
+    {
+        "image_name": "single_391.png",
+        "question": "What is the function of the element in <Mark 3>?",
+        "question_id": 8,
+        "dataset_name": "android_QA_point",
+        "gt_answers": "The element in <Mark 3> is likely a button that can be used to cancel the search query in the search bar.",
+        "points": [
+            [
+                230,
+                91
+            ],
+            [
+                124,
+                197
+            ],
+            [
+                655,
+                197
+            ],
+            [
+                131,
+                303
+            ],
+            [
+                108,
+                341
+            ],
+            [
+                108,
+                410
+            ],
+            [
+                93,
+                493
+            ],
+            [
+                184,
+                493
+            ],
+            [
+                253,
+                493
+            ],
+            [
+                161,
+                577
+            ]
+        ]
+    },
+    {
+        "image_name": "web_shopping_272285.png",
+        "question": "What action will most likely be taken when interacting with <Mark 2>?",
+        "question_id": 9,
+        "dataset_name": "android_QA_point",
+        "gt_answers": "When interacting with <Mark 2>, users can enter a search term to find products or services offered by Walmart on their website.",
+        "points": [
+            [
+                226,
+                88
+            ],
+            [
+                145,
+                191
+            ],
+            [
+                662,
+                199
+            ],
+            [
+                137,
+                303
+            ],
+            [
+                159,
+                369
+            ],
+            [
+                71,
+                451
+            ],
+            [
+                71,
+                510
+            ],
+            [
+                130,
+                510
+            ],
+            [
+                278,
+                510
+            ],
+            [
+                329,
+                510
+            ]
+        ]
+    },
+    {
+        "image_name": "google_apps_3619507004205175709_3.png",
+        "question": "What is the function of the icon in <Mark 4>?",
+        "question_id": 10,
+        "dataset_name": "android_QA_point",
+        "gt_answers": "The icon in <Mark 4> is a forward arrow that most likely functions as a button to move to the next step or page in the app.",
+        "points": [
+            [
+                201,
+                269
+            ],
+            [
+                205,
+                456
+            ],
+            [
+                202,
+                497
+            ],
+            [
+                377,
+                650
+            ],
+            [
+                322,
+                705
+            ],
+            [
+                84,
+                705
+            ]
+        ]
+    }
+]

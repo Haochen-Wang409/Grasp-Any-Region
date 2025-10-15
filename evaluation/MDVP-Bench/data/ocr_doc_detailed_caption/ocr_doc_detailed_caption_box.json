@@ -1,0 +1,428 @@
+[
+    {
+        "image_name": "22d3844dcf29a07bd10f557a33684e331846f81b938ca0f742afab09c542133f.png",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 1,
+        "dataset_name": "ocr_doc_detailed_caption_box",
+        "gt_answers": "<Region 1>: This region of the image displays a portion of a scientific or academic paper, specifically focusing on points that seem to outlay contents or headings within the document. The page appears to discuss topics in physics, with references to quark and meson masses, as well as lattice data. The content suggests that the document may be exploring the relationship between subatomic particles and their masses, experimental data, and theoretical models (likely within the field of particle physics or quantum chromodynamics). Each item listed is followed by ellipsis and a numerical value, denoting sections or page numbers where these topics are expanded upon within the document.\n<Region 2>: This region is at the bottom of the document, typically referred to as the page-footer. In academic or scientific papers, this section could include information such as the page number, publication date, author's name, or part of the document classification system. However, the specifics of what this footer contains are not visible, as the black rectangle with a white numeric identifier covers it entirely.",
+        "bbox": [
+            [
+                237,
+                123,
+                638,
+                402
+            ],
+            [
+                533,
+                965,
+                16,
+                14
+            ]
+        ]
+    },
+    {
+        "image_name": "3b5a913400aa0be183eed5cdd06246f1f1c27dfc145a62a4296fe3ef38fc44f8.png",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 2,
+        "dataset_name": "ocr_doc_detailed_caption_box",
+        "gt_answers": "<Region 1>: The content is a caption designated for a table, which generally serves to describe the table's subject matter. The caption reads, \"TABLE 1: The geometries and adsorption energies for the structures of thioglycolic acid on Au(111) at 0.25ML.\" It provides a clear indication that Table 1 will present quantitative data regarding the geometry and energy characteristics of thioglycolic acid adsorbed on a gold (Au) substrate at a specific coverage level.\n<Region 2>: This is a table containing organized data. It lists various configurations of thioglycolic acid adsorbed on an Au(111) surface, along with numerical values for initial and optimized parameters such as adsorption distance (ds\u2013Au), polar angle (\u03b8), and adsorption energy (E_ads). The data is structured in columns with headings for different parameters and rows corresponding to different adsorption sites and tilt directions. The table is used to convey detailed quantitative information in a comparative format, facilitating the analysis of changes in geometry and energy after optimization.\n<Region 3>: Here appears to be an excerpt of text, possibly from a research article or report, focusing on detailed scientific analysis. The text discusses the shortest Au-S bond length and mentions 'initial and optimized site,' likely referring to the states before and after some experimental or computational procedure. The content seems to pertain to the interpretation of the data presented in the table above it, providing context and insights into the structural data of the adsorption process.\n<Region 4>: This section of text also seems to be a detailed analytical discussion, possibly a continuation of the content from the previous text excerpt. It specifically highlights the adsorption energy for the most stable structure of a molecule on the Au(111) surface and the preferred adsorption site. It suggests a close relationship with both the data in the table above and the scientific interpretation or conclusion drawn from that data.\n<Region 5>: The content in this region appears to be a page-footer, usually found at the bottom of journal pages or official documents. It may contain information such as the page number, document section, publication date, or authors' names. Such footers are used for navigation and citation purposes.",
+        "bbox": [
+            [
+                120,
+                106,
+                780,
+                126
+            ],
+            [
+                302,
+                249,
+                414,
+                395
+            ],
+            [
+                120,
+                689,
+                780,
+                96
+            ],
+            [
+                120,
+                797,
+                781,
+                150
+            ],
+            [
+                496,
+                978,
+                9,
+                15
+            ]
+        ]
+    },
+    {
+        "image_name": "0501_0146_0010.jpg",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 3,
+        "dataset_name": "ocr_doc_detailed_caption_box",
+        "gt_answers": "<Region 1>: The image is a collection of three scatter plots, each corresponding to a distinct type of prediction performance evaluated by F1 score. The x-axis represents the frequency (presumably of occurrence in the training set), while the y-axis represents the F1 score, which is a measure of test accuracy. The plots are labeled (a) Atom prediction performance, (b) Bond prediction performance, and (c) Charge prediction performance. Each plot features a variety of points labeled with chemical symbols or bond types, indicating that the data relates to chemical structures.\n<Region 2>: This is a caption for the series of scatter plots shown in <Region 1>. It provides an interpretation of the data, stating that there is a clear correlation between the performance of neural networks on different prediction types and the frequency of the specific type in the training dataset. It is noted that classification networks perform significantly better than segmentation networks.\n<Region 3>: This is a subsection title within the document that reads \"Performance of segmentation network.\" It indicates that the following text will discuss the results and analysis related to the evaluation of the segmentation network's performance.\n<Region 4>: This is a paragraph that explains how the performance of the segmentation network is measured by the F1 score for pixel predictions for different atom, bond, and charge types. The text discusses how performance correlates with the frequency of these types in the training data and references a correlation visible in Figure 4, assuming that Figure 4 corresponds to the scatter plots in <Region 1>.\n<Region 5>: This is another subsection title within the document that reads \"Performance of classification networks.\" It signals that the subsequent paragraph will describe the performance evaluation for classification networks.\n<Region 6>: This paragraph details the performance of classification networks, mentioning that the F1 score is used for evaluation. It highlights a correlation between F1 score and the frequency of different atom, bond, and charge types in the training set. Although the segmentation is not perfect, the classification networks can maintain accuracy. Results are summarized in Figure 4, which likely refers to the scatter plots in <Region 1>.\n<Region 7>: This is a subsection title denoted \"Overall graph accuracy,\" which suggests that the following section of the document will focus on the combined accuracy measurements of the previously discussed networks.\n<Region 8>: In this paragraph, the text outlines how combining the performance of different parts can produce an overall accuracy for graph predictions. It implies that integration of segmentation and classification network results, as indicated by an algorithm, can construct the resulting graph, referencing images in three different blocks.\n<Region 9>: This is the page number of the document, specifically '11,' marking its location within the document's sequence of pages.",
+        "bbox": [
+            [
+                212.0,
+                158.0,
+                787.0,
+                581.0
+            ],
+            [
+                212.0,
+                741.0,
+                803.0,
+                97.0
+            ],
+            [
+                212.0,
+                871.0,
+                440.0,
+                32.0
+            ],
+            [
+                214.0,
+                917.0,
+                802.0,
+                115.0
+            ],
+            [
+                212.0,
+                1054.0,
+                450.0,
+                29.0
+            ],
+            [
+                207.0,
+                1088.0,
+                813.0,
+                215.0
+            ],
+            [
+                210.0,
+                1312.0,
+                296.0,
+                33.0
+            ],
+            [
+                212.0,
+                1356.0,
+                801.0,
+                89.0
+            ],
+            [
+                595.0,
+                1480.0,
+                35.0,
+                28.0
+            ]
+        ]
+    },
+    {
+        "image_name": "2802b6a4f8f0c20b8ba717634b852ef20bc4d76831853ff5279febe7cc8b98a1.png",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 4,
+        "dataset_name": "ocr_doc_detailed_caption_box",
+        "gt_answers": "<Region 1>: This region appears to be a paragraph of text discussing the outcome of a washing process on reducing sugar content. It notes that this process resulted in a higher content of reducing sugar which is thought to overshadow the glycemic index (GI) lowering effect of the polyphenols and may increase the GI of the sugar.\n<Region 2>: This region of text outlines a graphical demonstration of the 'GI sweet spot' related to the sugars shown in a referenced table. It explains that a certain minimum amount of sucrose (22mg CE/100mg) needs to be retained during sugar processing to maintain a low GI, and that if additional polyphenols are present but the reducing sugars are too high, then the low GI effect is negated.\n<Region 3>: This region includes a section header titled \"Table 3 - Example sugars,\" which implies that the region is categorizing and summarizing data related to various sugars, likely in a tabular format.\n<Region 4>: The text in this region describes the effects of increasing the reducing sugar content of sugar and its impact on the GI, moisture content, and the behavior of glucose and fructose when polyphenol content is increased. It concludes that optimizing moisture and reducing sugar content is insufficient to lower the GI in the presence of higher polyphenol levels.\n<Region 5>: This region is a section header for the text that follows, indicating that the content will deal with \"Example b - Washing or massecuite to desired polyphenol content.\" This text likely explains an example or case study related to the process of washing sugar massecuite to achieve a certain level of polyphenol content.\n<Region 6>: This region contains text describing an experimental process where two different sugar mill samples were tested for polyphenol content after undergoing washing to a certain depth of color. It discusses how the polyphenol content was measured against desired levels and mentions results found in a specific table.",
+        "bbox": [
+            [
+                122,
+                90,
+                796,
+                37
+            ],
+            [
+                122,
+                147,
+                802,
+                138
+            ],
+            [
+                122,
+                525,
+                796,
+                239
+            ],
+            [
+                123,
+                784,
+                653,
+                13
+            ],
+            [
+                122,
+                817,
+                800,
+                113
+            ],
+            [
+                122,
+                305,
+                251,
+                13
+            ]
+        ]
+    },
+    {
+        "image_name": "0501_0148_0008.jpg",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 5,
+        "dataset_name": "ocr_doc_detailed_caption_box",
+        "gt_answers": "<Region 1>: This is a figure. It includes several images arranged in a grid layout depicting various stages of a document life cycle or processing steps. Each image shows a different state of documents, possibly related to digitalization or text recognition processes. These images likely serve as a visual representation of the document's evolution through a particular workflow, such as scanning or Optical Character Recognition (OCR).\n<Region 2>: This is a caption associated with a figure. It reads \"Figure 5: The OCR process.\" This caption identifies and describes the figure that it is associated with. The figure it refers to likely illustrates the stages or aspects of the OCR process, which could involve converting scanned images of text into machine-encoded text.\n<Region 3>: This is a figure. It shows a piece of text with visual markings comparing two sections labeled \"Available OCR\" and \"Improved OCR.\" The annotations indicate corrections or enhancements made in the 'Improved OCR' section compared to the 'Available OCR' section. This figure serves to demonstrate the efficacy of certain OCR technologies or methodologies by providing a before-and-after comparison.\n<Region 4>: This is a caption associated with a figure. It reads \"Figure 6: Excerpt from the Hong Kong report with different versions of OCR output. The Internet Archive image containing this excerpt can be accessed here:\" followed by a URL. This caption provides context for the associated figure, indicating that it is an excerpt from a specific report and acknowledges the source of the image. It helps readers understand the purpose of the figure and where they can find additional information.\n<Region 5>: This is part of a footer. It contains the name of a journal, \"Journal of Data Mining and Digital Humanities,\" along with the ISSN number, which is a unique identifier used for serial publications. This area of the document provides information about the publication in which the article or research paper may be found.\n<Region 6>: This is also part of a footer. It includes a URL, \"http://jdmdh.episciences.org\", which likely directs readers to the website of the journal or publication mentioned in <Region 5>. This URL provides a way for readers to access more information or related content online.\n<Region 7>: This is a page number. It is located in the footer area of the document and provides the numerical identifier \"9\" for the current page. This helps readers navigate the document and facilitates referencing specific sections.",
+        "bbox": [
+            [
+                250.0,
+                168.0,
+                696.0,
+                652.0
+            ],
+            [
+                468.0,
+                831.0,
+                254.0,
+                32.0
+            ],
+            [
+                247.0,
+                957.0,
+                697.0,
+                439.0
+            ],
+            [
+                134.0,
+                1404.0,
+                924.0,
+                90.0
+            ],
+            [
+                139.0,
+                1573.0,
+                309.0,
+                43.0
+            ],
+            [
+                845.0,
+                1575.0,
+                208.0,
+                28.0
+            ],
+            [
+                581.0,
+                1566.0,
+                28.0,
+                28.0
+            ]
+        ]
+    },
+    {
+        "image_name": "6b5108198110934af9975bbb77b66ac0e9d095ec2031082b58970252031cc686.png",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 6,
+        "dataset_name": "ocr_doc_detailed_caption_box",
+        "gt_answers": "<Region 1>: This region is identified as the page-header of the document. It contains the title of the document, which reads \"2012 Annual Report 2013.\"\n<Region 2>: This portion is a section-header labeled \"Non-Executive Directors' Remuneration.\" It indicates that the following section will discuss the payment and remuneration details for non-executive directors of the company.\n<Region 3>: This area is another section-header specifying \"Components of Non-Executive Director remuneration.\" This header suggests a breakdown of the various elements that constitute the remuneration for non-executive directors.\n<Region 4>: Found at the bottom of the page, this region is the page-footer. It's a small section that is typically used for providing footnotes, disclaimers, or publication information for the document.\n<Region 5>: This is a table detailing a \"Share purchase plan.\" It contains columns for the name of the individual, the amount of shares acquired, and the share price range at acquisition dates, alongside with the total sum. It lists information about shares acquired by specific individuals at specified price ranges during a specific time frame.\n<Region 6>: This is a block of text providing detailed information on \"Current Board fees\" and \"Post-employment benefits.\" It specifies the annual fees for different board roles and outlines the post-retirement benefits provided to non-executive directors with terms of board service.\n<Region 7>: This region contains text related to the \"Deferred share purchase plan.\" It describes the nature of the share purchase plan, specifying the conditions under which shares were purchased, the performance criteria associated with the plan, and details regarding the share price and acquisition dates.",
+        "bbox": [
+            [
+                778,
+                43,
+                148,
+                11
+            ],
+            [
+                98,
+                137,
+                404,
+                20
+            ],
+            [
+                98,
+                167,
+                469,
+                16
+            ],
+            [
+                881,
+                973,
+                44,
+                11
+            ],
+            [
+                95,
+                315,
+                829,
+                612
+            ],
+            [
+                98,
+                231,
+                827,
+                76
+            ],
+            [
+                98,
+                193,
+                808,
+                28
+            ]
+        ]
+    },
+    {
+        "image_name": "c17e4a6722b8cd30e591150720d363de3b00a3b5510eeafc2e5d83a3c1e9c08b.png",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 7,
+        "dataset_name": "ocr_doc_detailed_caption_box",
+        "gt_answers": "<Region 1>: This region is categorized as text. It discusses the mathematical concept of homotopy groups designated \u03c0_n(M), focusing on their ability to classify different dimensional hypersurfaces within a manifold M. The text further explains that the triviality of these homotopy groups is linked to the connectivity of the space they represent, with specific mentions of the concepts of domain walls in cosmology and topological defects arising from symmetry breaking during phase transitions in the universe.\n<Region 2>: This region of text delves into the implications of symmetry breaking in theoretical physics. It connects the process of symmetry breaking to the generation of monopole-like defects, and it references the Standard Model's group construction that includes a U(1) factor. The text implies that this formation of defects played a pivotal role in historical scientific developments.\n<Region 3>: The text in this section links the theoretical concepts mentioned earlier to a practical application: the motivation for introducing a phase of inflation in cosmological models. It characterizes the topological conditions for the formation of defects and points out that certain solutions for these conditions can exist even in the absence of topologically stable defects. References are made to specific types of defects and academic citations are included to support these statements.\n<Region 4>: The content in this region pertains to the study of cosmic defects and their stability. It addresses scenarios in which initially unstable defects might become stable through various mechanisms, such as the effects of plasma. These considerations are relevant to the inflationary model in cosmology, particularly the constraints from the formation of cosmic strings.\n<Region 5>: This region is categorized as a formula and presents a mathematical equation related to the text's discussion about topological defects and homotopy groups. The equation seems to represent a relationship that is essential to the argument or analysis presented in the categorical text regions it is associated with.\n<Region 6>: The last region is identified as a page-footer. It likely contains publication and/or authorship information, a page number, or possibly an indication of the section of the document where the content can be found. Since it is a page-footer, its purpose is primarily to aid in the organization and navigation of the document.",
+        "bbox": [
+            [
+                120,
+                94,
+                780,
+                340
+            ],
+            [
+                120,
+                481,
+                780,
+                97
+            ],
+            [
+                120,
+                590,
+                781,
+                150
+            ],
+            [
+                120,
+                752,
+                780,
+                96
+            ],
+            [
+                468,
+                446,
+                433,
+                26
+            ],
+            [
+                491,
+                978,
+                19,
+                15
+            ]
+        ]
+    },
+    {
+        "image_name": "0301_0188_0040.jpg",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 8,
+        "dataset_name": "ocr_doc_detailed_caption_box",
+        "gt_answers": "<Region 1>: The image appears to be a stylized illustration of a side profile of a person's head and upper torso. The person's face is depicted with a serene or peaceful expression, eyes closed and a faint smile, implying a sense of calm or contemplation. Behind the figure, there are abstract shapes resembling clouds or wind patterns that swirl around the head, which could suggest thoughts, memories, or a state of mental flow. The illustration uses a muted color palette, predominantly warm shades of beige, pink, and gray, with a touch of red in the figure's attire, which has a dotted pattern. This artwork likely serves to evoke a mood or theme related to the content of the document in which it's included, possibly regarding mental health, mindfulness, psychology, or the creative process.\n<Region 2>: This is a footer section of an image or document. It contains a citation that reads \"\u00a9 2021 Scientific American,\" indicating that the image or the content of the document is copyrighted by Scientific American. This informs the viewer about the source of the content and copyright year, serving both as an attribution and a legal notice to respect the intellectual property rights associated with the material.",
+        "bbox": [
+            [
+                0.0,
+                0.0,
+                1170.0,
+                1548.0
+            ],
+            [
+                477.0,
+                1510.0,
+                216.0,
+                21.0
+            ]
+        ]
+    },
+    {
+        "image_name": "8785a083270bd6931b7096508bdb57d938bca3a9787c50b82c188f7744a5b5f7.png",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 9,
+        "dataset_name": "ocr_doc_detailed_caption_box",
+        "gt_answers": "<Region 1>: This section is labeled as \"Chapter 2: Motivation.\" It functions as a heading signifying the start of a new chapter or section within the document, providing readers with an indication of the chapter's theme, which in this case is to establish the rationale or impetus behind the subject matter discussed in the chapter.\n<Region 2>: This region, also labeled as \"Chapter 2: Motivation,\" serves a similar purpose to <Region 1>, functioning as part of the chapter heading that presents the focus of the chapter, potentially implying that the author will delve into the reasons or driving forces guiding the study or research presented.\n<Region 3>: This region contains a paragraph of text that discusses specific concepts related to a theoretical framework, possibly in the field of theoretical physics or string theory. It mentions a scenario where excitations in a certain 'near horizon throat region' appear redshifted to an observer at infinity. The text discusses the energy associated with these excitations and touches on limits pertaining to string theory, suggesting that in a particular limit, the full Type IIB string theory must be considered. The paragraph concludes with an implication that supergravity must be considered in the context of near-horizon geometry within the scope of string theory.\n<Region 4>: In this text paragraph, the document appears to be discussing two theoretical pictures related to the same low-energy limit within theoretical physics or string theory. It mentions the field theory picture with supergravity and an \\( N = 4 \\text{SU}(N) \\) SYM on the D branes, as well as the geometry picture with supergravity in flat space and Type IIB string theory. It suggests that the document is comparing and contrasting these two theoretical perspectives and proposing that they are both decoupled theories with identical asymptotic conditions.\n<Region 5>: This text section seems to conclude the discussion by mentioning that the analytical tools for two differing theoretical scenarios are completely incompatible. It references the Born-Infeld action and suggests that a mathematical comparison between different models yields coincident D-branes for an \\( \\text{SU}(N) \\) two-form field strength, relating to a broader discussion on theoretical physics and string theory.\n<Region 6>: This region exhibits a mathematical formula that is relevant to the discussion within the document. The formula appears to link certain theoretical physics concepts, connecting string coupling constants \\( g_s \\) with D-brane charges and configurations. The formula is most likely important in the context of supporting the document's claims about supergravity or string theory.",
+        "bbox": [
+            [
+                824,
+                124,
+                19,
+                13
+            ],
+            [
+                180,
+                124,
+                193,
+                13
+            ],
+            [
+                180,
+                177,
+                663,
+                230
+            ],
+            [
+                180,
+                424,
+                663,
+                292
+            ],
+            [
+                180,
+                734,
+                663,
+                75
+            ],
+            [
+                294,
+                849,
+                549,
+                19
+            ]
+        ]
+    },
+    {
+        "image_name": "1d4428fcd749139270136afe55a72185c44b5ff783c1161767efacc2f08a43c3.png",
+        "question": "Please provide a detailed description of each marked region in the image.",
+        "question_id": 10,
+        "dataset_name": "ocr_doc_detailed_caption_box",
+        "gt_answers": "<Region 1>: The paragraph in <Region 1> discusses the conventional assumption that an insider's private information is static, citing specific examples from the literature. It elaborates by stating that in certain works, insiders are assumed to know the final value of an asset both before and after the default of the company issuing the asset. The text suggests that the presence of insiders does not always lead to market arbitrage and may contribute positively to the market by leading to higher information efficiency in price processes.\n<Region 2>: The text in <Region 2> challenges the assumption of an insider's perfect foresight as unrealistic, reasoning that the fundamental value of a firm is tied to dynamically changing elements like cash flows and sales, among other factors. The paragraph presents the idea that the fundamental value is stochastic, implying that it is subject to random fluctuations, and that the insider has the advantage of perceiving these fluctuations more clearly than other market participants.\n<Region 3>: In <Region 3>, the document introduces the paper's goal, which is to relax the assumption of static information and examine the equilibrium in trading and price processes and market efficiency when insiders have dynamic private information. The paragraph sets the context for a more detailed exploration of how markets operate under these conditions.\n<Region 4>: <Region 4> contains text which explains that the model considered in this paper is a broader version of the earlier static models. The paper's intention is to cover dynamic information scenarios and improve on previous models that covered a narrower range of trading strategies and pricing rules.\n<Region 5>: The paragraph in <Region 5> discusses the findings of the paper, which include the identification of a Markovian equilibrium that is inconspicuous, allows insiders to trade without being detected, and is solely dependent on the total order process. It underscores the unique nature of this equilibrium and how it enhances the market efficiency in certain conditions.\n<Region 6>: The text in <Region 6> suggests empirical outcomes where revealing information might be beneficial. Specifically, it contrasts different market equilibrium scenarios and suggests that in non-Markovian price processes, it\u2019s often better for insiders to disclose their private information.",
+        "bbox": [
+            [
+                120,
+                144,
+                783,
+                155
+            ],
+            [
+                120,
+                314,
+                783,
+                127
+            ],
+            [
+                120,
+                456,
+                783,
+                70
+            ],
+            [
+                148,
+                541,
+                755,
+                14
+            ],
+            [
+                120,
+                570,
+                783,
+                354
+            ],
+            [
+                507,
+                960,
+                9,
+                14
+            ]
+        ]
+    }
+]

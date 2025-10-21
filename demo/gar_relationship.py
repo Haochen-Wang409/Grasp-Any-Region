@@ -26,7 +26,7 @@ def parse_args():
     parser.add_argument(
         "--model_name_or_path",
         help="HF model name or path",
-        default="Haochen-Wang409/GAR-8B",
+        default="HaochenWang/GAR-8B",
     )
     parser.add_argument(
         "--image_path",

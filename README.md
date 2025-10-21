@@ -17,7 +17,7 @@ Zhuochen Wang,
 [Xiangtai Li](https://lxtgh.github.io/), and
 [Zhaoxiang Zhang](https://scholar.google.com/citations?user=qxWfV6cAAAAJ).
 
-[[Paper](https://arxiv.org/abs/TBD)] | [[HuggingFace Model](https://huggingface.co/Haochen-Wang409/GAR-8B)] | [[Datasets](https://huggingface.co/datasets/HaochenWang/Grasp-Any-Region-Dataset)] | [[Citation](#citation)]
+[[Paper](https://arxiv.org/abs/TBD)] | [[HuggingFace Model](https://huggingface.co/HaochenWang/GAR-8B)] | [[Datasets](https://huggingface.co/datasets/HaochenWang/Grasp-Any-Region-Dataset)] | [[Citation](#citation)]
 
 **TL; DR**: Our Grasp Any Region (GAR) supports both (1) describing a *single* region of an image or a video in the form of points/boxes/scribbles/masks in detail and (2) understanding *multiple* regions such as modeling interactions and performing complex reasoning. We also release a new benchmark, GARBench, to evaluate models on advanced region-level understanding tasks.
 

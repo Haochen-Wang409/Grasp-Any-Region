@@ -9,7 +9,7 @@ First, perform inference, e.g., using GAR-8B.
 ```bash
 torchrun --nproc-per-node=1 --master-port=9811 \
     evaluation/GAR-Bench/inference.py \
-    --model_name_or_path Haochen-Wang409/GAR-8B \
+    --model_name_or_path HaochenWang/GAR-8B \
     --anno_file evaluation/GAR-Bench/annotations/GAR-Bench-Caption-Simple.json \
     --mode simple \
     --cache_name ${CACHE_NAME} \
@@ -49,7 +49,7 @@ First, perform inference, e.g., using GAR-8B.
 ```bash
 torchrun --nproc-per-node=1 --master-port=9811 \
     evaluation/GAR-Bench/inference.py \
-    --model_name_or_path Haochen-Wang409/GAR-8B \
+    --model_name_or_path HaochenWang/GAR-8B \
     --anno_file evaluation/GAR-Bench/annotations/GAR-Bench-Caption-Detailed.json \
     --mode detailed \
     --cache_name ${CACHE_NAME} \
@@ -89,7 +89,7 @@ Perform inference, e.g., using GAR-8B.
 ```bash
 torchrun --nproc-per-node=1 --master-port=9811 \
     evaluation/GAR-Bench/inference.py \
-    --model_name_or_path Haochen-Wang409/GAR-8B \
+    --model_name_or_path HaochenWang/GAR-8B \
     --anno_file evaluation/GAR-Bench/annotations/GAR-Bench-VQA.json \
     --mode vqa \
     --cache_name ${CACHE_NAME} \
@@ -147,7 +147,7 @@ Next, perform inference to obtain detailed descriptions, e.g., using GAR-8B.
 ```bash
 torchrun --nproc-per-node=1 --master-port=8841 \
     evaluation/DLC-Bench/inference.py \
-    --model_name_or_path Haochen-Wang409/GAR-8B \
+    --model_name_or_path HaochenWang/GAR-8B \
     --cache_name ${CACHE_NAME} \
     --data_type bf16 \
     --seed 42
@@ -209,7 +209,7 @@ First, perform inference to obtain detailed descriptions, e.g., using GAR-8B.
 ```bash
 torchrun --nproc-per-node=1 --master-port=8841 \
     evaluation/Ferret-Bench/inference.py \
-    --model_name_or_path Haochen-Wang409/GAR-8B \
+    --model_name_or_path HaochenWang/GAR-8B \
     --cache_name ${CACHE_NAME} \
     --data_type bf16 \
     --seed 42
@@ -255,7 +255,7 @@ First, perform inference to obtain detailed descriptions, e.g., using GAR-8B.
 ```bash
 torchrun --nproc-per-node=1 --master-port=8841 \
     evaluation/MDVP-Bench/inference.py \
-    --model_name_or_path Haochen-Wang409/GAR-8B \
+    --model_name_or_path HaochenWang/GAR-8B \
     --cache_name ${CACHE_NAME} \
     --data_type bf16 \
     --seed 42

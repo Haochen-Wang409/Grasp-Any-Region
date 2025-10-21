@@ -62,7 +62,7 @@ sam_model = SamModel.from_pretrained("facebook/sam-vit-huge").to(device)
 sam_processor = SamProcessor.from_pretrained("facebook/sam-vit-huge")
 
 # Initialize the captioning model and processor
-model_path = "ByteDance/GAR-1B"
+model_path = "Haochen-Wang409/GAR-1B"
 model = AutoModel.from_pretrained(
     model_path,
     trust_remote_code=True,

@@ -135,7 +135,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--model_name_or_path",
         help="HF model name or path",
-        default="ByteDance/GAR-8B",
+        default="Haochen-Wang409/GAR-8B",
     )
     parser.add_argument(
         "--image_path", type=str, required=True, help="Path to the image file"

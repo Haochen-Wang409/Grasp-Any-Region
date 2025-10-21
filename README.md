@@ -57,7 +57,7 @@ pip3 install flash-attn==2.7.4.post1 --no-build-isolation -v
 
 ## Gradio Demo
 
-Please refer to [`demo/gradio.README.md`](demo/gradio.README.md) for serving an online captioning demo using gradio.
+Please refer to [`demo/gradio/README.md`](demo/gradio/README.md) for serving an online captioning demo using gradio.
 
 ## Examples
 

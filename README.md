@@ -1,4 +1,4 @@
-# Grasp Any Region: Prompting MLLM to Understand the Dense World
+# Grasp Any Region: Towards Precise, Contextual Pixel Understanding for Multimodal LLMs
 
 by
 [Haochen Wang](https://haochen-wang409.github.io), 

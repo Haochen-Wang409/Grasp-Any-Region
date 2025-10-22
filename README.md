@@ -17,7 +17,7 @@ Zhuochen Wang,
 [Xiangtai Li](https://lxtgh.github.io/), and
 [Zhaoxiang Zhang](https://scholar.google.com/citations?user=qxWfV6cAAAAJ).
 
-[[Paper](https://arxiv.org/abs/TBD)] | [[HuggingFace](https://huggingface.co/collections/HaochenWang/grasp-any-region-68f7433671030d6ea682f692)] |  [[Citation](#citation)]
+[[Paper](https://arxiv.org/abs/2510.18876)] | [[HuggingFace](https://huggingface.co/collections/HaochenWang/grasp-any-region-68f7433671030d6ea682f692)] |  [[Citation](#citation)]
 
 **TL; DR**: Our Grasp Any Region (GAR) supports both (1) describing a *single* region of an image or a video in the form of points/boxes/scribbles/masks in detail and (2) understanding *multiple* regions such as modeling interactions and performing complex reasoning. We also release a new benchmark, GARBench, to evaluate models on advanced region-level understanding tasks.
 
@@ -181,7 +181,7 @@ If you use our work or our implementation in this repo, or find them helpful, pl
 @article{wang2025grasp,
   title={Grasp Any Region: Prompting MLLM to Understand the Dense World}, 
   author={Haochen Wang and Yuhao Wang and Tao Zhang and Yikang Zhou and Yanwei Li and Jiacong Wang and Ye Tian and Jiahao Meng and Zilong Huang and Guangcan Mai and Anran Wang and Yunhai Tong and Zhuochen Wang and Xiangtai Li and Zhaoxiang Zhang},
-  journal={arXiv preprint arXiv:xxx},
+  journal={arXiv preprint arXiv:2510.18876},
   year={2025}
 }
 ```

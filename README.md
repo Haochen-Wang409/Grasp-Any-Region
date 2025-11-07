@@ -179,7 +179,7 @@ If you use our work or our implementation in this repo, or find them helpful, pl
 
 ```
 @article{wang2025grasp,
-  title={Grasp Any Region: Prompting MLLM to Understand the Dense World}, 
+  title={Grasp Any Region: Towards Precise, Contextual Pixel Understanding for Multimodal LLMs}, 
   author={Haochen Wang and Yuhao Wang and Tao Zhang and Yikang Zhou and Yanwei Li and Jiacong Wang and Ye Tian and Jiahao Meng and Zilong Huang and Guangcan Mai and Anran Wang and Yunhai Tong and Zhuochen Wang and Xiangtai Li and Zhaoxiang Zhang},
   journal={arXiv preprint arXiv:2510.18876},
   year={2025}

@@ -21,6 +21,8 @@ Zhuochen Wang,
 
 **TL; DR**: Our Grasp Any Region (GAR) supports both (1) describing a *single* region of an image or a video in the form of points/boxes/scribbles/masks in detail and (2) understanding *multiple* regions such as modeling interactions and performing complex reasoning. We also release a new benchmark, GARBench, to evaluate models on advanced region-level understanding tasks.
 
+🔥🔥🔥 GAR has been accepted by **ICLR 2026**!
+
 ![](./assets/teaser.png)
 
 > **Abstract.** While Multimodal Large Language Models (MLLMs) excel at holistic understanding, they struggle
